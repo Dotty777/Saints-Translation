@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 10,
-  "pending_book_revisions": 60,
-  "next_book": "1 Kings",
+  "completed_book_records": 11,
+  "pending_book_revisions": 59,
+  "next_book": "2 Kings",
   "full_bible_complete": false,
   "books": [
     {
@@ -98,8 +98,11 @@
       "order": 11,
       "book": "1 Kings",
       "staging_path": "/bible/judgement/1-kings/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "1-kings/",
+      "chapters": 22,
+      "verse_units": 822,
+      "wording_changes": 285
     },
     {
       "order": 12,
@@ -523,9 +526,10 @@
       "Judges",
       "Ruth",
       "1 Samuel",
-      "2 Samuel"
+      "2 Samuel",
+      "1 Kings"
     ],
-    "pending_books": 10,
-    "next_book": "1 Kings"
+    "pending_books": 9,
+    "next_book": "2 Kings"
   }
 }
