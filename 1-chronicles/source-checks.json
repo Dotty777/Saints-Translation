@@ -1,0 +1,271 @@
+{
+  "book": "1 Chronicles",
+  "date": "2026-10-14",
+  "edition": "Rahlfs–Hanhart 2006; German Bible Society online running text",
+  "authorization": "User authorized provisional continuation with Rahlfs–Hanhart; Göttingen not obtained.",
+  "scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+  "historical_records": "Existing index and reference records were consulted as historical reference, not proof of fresh complete Greek verification.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.1",
+      "focus": "1:5, 10, 17, 24, 29, 32",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Use begot and bore in the reviewed genealogical clauses, following accepted Genesis. Clarify that Abraham’s concubine is Keturah. Preserve all names, the extra Elishah, giant hunter, repeated chiefs, and source numbering gaps.",
+      "pending": "Independent review of the firstborn construction in 1:29 and all genealogical names and relationships; no silent harmonization."
+    },
+    {
+      "chapter": 2,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.2",
+      "focus": "2:7, 9, 16, 18–21, 24",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Replace the individually reviewed begat/bare forms with begot/bore; retain repeated genealogy formulas. Preserve obstructer/devoted thing, the separate Ram and Aram, singular sister, and Caleb begot Gazouba, a wife, without harmonizing the difficult source construction.",
+      "pending": "Independent Greek and genealogical review of 2:7, 16, 18 and 24, including the unusual wife and ancestry constructions."
+    },
+    {
+      "chapter": 3,
+      "english_review": "Every existing reading unit individually read; successful wording retained.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.3",
+      "focus": "3:17, 19, 21–24",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retain the complete chapter: Jechonia-asir, Salathiel’s sons, repeated his son, all names and the stated six in 3:22 remain as inherited from the selected source.",
+      "pending": "Independent review of genealogical relationships, combined names and enumerations, especially 3:17–22."
+    },
+    {
+      "chapter": 4,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.4",
+      "focus": "4:8–10, 18, 21–23, 32",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Use begot/bore as in accepted Genesis. Preserve the direct divine pronouns and conditional movement in Igabes’s prayer while clarifying its sentence. Keep as gabes, ephrath abak, abedirin athoukiin, names, and the stated five cities.",
+      "pending": "Independent review of the wordplay and untranslated forms in 4:9, 21–22, the knowledge/humbling clause in 4:10, and enumerations."
+    },
+    {
+      "chapter": 5,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.5",
+      "focus": "5:1–2, 18, 21, 27–30",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize individually reviewed begat forms to begot. Add the article in shields and the sword, preserving plural shields and singular sword. Retain the blessing language, five thousand camels, singular Gaddite, and the source chapter boundary through 5:41.",
+      "pending": "Independent review of the pronoun agency and firstborn rights in 5:1, military terminology and figures, and the Assyrian names."
+    },
+    {
+      "chapter": 6,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/bibel/LXX/1CH.6",
+      "focus": "6:4, 13, 16–18, 34",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retain the chapter’s successful English, repeated ancestral formulas, Sani, instruments and psalm singer, and all town/land lists. English-language publisher retrieval failed; the selected Greek passages were consulted through the publisher’s German-language page.",
+      "pending": "Independent review of temple ministry terms, repeated land formula, genealogical names, enumerations and the inherited west-of-Jordan wording at 6:63."
+    },
+    {
+      "chapter": 7,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.7",
+      "focus": "7:3, 14–16, 23–25, 40",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Use bore/begot in the individually reviewed birth clauses. Preserve five in 7:3, the unusual wife relationship in 7:15, the male building subject and sons in 7:24, and the repeated their number in 7:40.",
+      "pending": "Independent review of genealogical relationships, the Baraga wordplay and the building/descendant clauses in 7:23–25."
+    },
+    {
+      "chapter": 8,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/bibel/LXX/1CH.8",
+      "focus": "8:7–9, 30, 38",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Use begot consistently with accepted Genesis. Retain Iglaam, the wife constructions, her firstborn in 8:30, the repeated rulers and brethren, and six sons with the existing list. Selected Greek checked through the German-language publisher page after English-page retrieval failed.",
+      "pending": "Independent review of Iglaam and the pronoun relationships in 8:7–9, 30, and the count in 8:38."
+    },
+    {
+      "chapter": 9,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.9",
+      "focus": "9:1, 20, 22, 26–28, 44",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Clarify the enrollment sentence at 9:1; replace resteth with rests and reviewed begat forms with begot. Preserve given ones, these were with him in 9:20, repeated gates and counts, future shall in the duties, the pan offering and the six-son enumeration.",
+      "pending": "Independent review of enrollment/courts in 9:1, 22, agency in 9:20, ministry terminology and the count in 9:44."
+    },
+    {
+      "chapter": 10,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.10",
+      "focus": "10:3, 13–14",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address in Saul’s request. Preserve repeated foreigners, bows and pains, singular body, and the explicit Samuel the prophet answered him clause.",
+      "pending": "Independent review of the bows/pains construction in 10:3 and the source-specific account of Samuel in 10:13."
+    },
+    {
+      "chapter": 11,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.11",
+      "focus": "11:9, 11, 19, 22, 24",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address, including God speaking to David. Remove unnecessary inversion in 11:19 and 24. Preserve wounded, all numbers, ariels, the water/blood/life imagery, rankings and genealogical names.",
+      "pending": "Independent review of wounded, the divine aversion idiom in 11:19, ariels and beyond Kabasael in 11:22, and rankings among the three and thirty."
+    },
+    {
+      "chapter": 12,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.12",
+      "focus": "12:1–2, 9, 18–19, 33, 39",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Clarify kept away from and the implied hands in right/left bow use. Modernize ordinary pronouns and my enemies. Preserve lion faces, the spirit-clothing image without deciding the spirit’s identity by capitalization, repeated peace, truth of hand, and peaceful soul/one soul.",
+      "pending": "Independent review of the mixed weapon phrase in 12:2, constrained/separated circumstances in 12:1, truth of hand and the spirit in 12:18–19, and the small/great commanders in 12:15."
+    },
+    {
+      "chapter": 13,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.13",
+      "focus": "13:2–3, 6, 9–11",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Use said to and seems in ordinary speech. Preserve transfer, the source-specific City of David, singular calf, and the repeated cut/cutting naming connection.",
+      "pending": "Independent review of the source-specific journey/place description in 13:6 and the cutting idiom in 13:11."
+    },
+    {
+      "chapter": 14,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.14",
+      "focus": "14:10–11, 14–15",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Keep wilt Thou in David’s direct question to God, while God’s reply uses your. Modernize mine enemies, hearest and other ordinary forms. Preserve the cutting/water image and pear trees.",
+      "pending": "Independent review of inquiry through God, cutting/water terminology and the pear-tree instructions."
+    },
+    {
+      "chapter": 15,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/bibel/LXX/1CH.15",
+      "focus": "15:13, 15, 20–22, 27–28",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address and retain judgment, carrying poles, Alaimoth, Amasenith, sopher and repeated fine-linen robe. The German-language publisher page supplied the selected Greek passages after the English page failed.",
+      "pending": "Independent review of the carrying-pole construction, musical terms and repeated clothing description."
+    },
+    {
+      "chapter": 16,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.16",
+      "focus": "16:3, 10, 15, 18–19, 23/25 boundary, 30, 32, 34–35",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Clarify distribution punctuation, modernize ordinary finite verbs and reorder I will give you. Preserve Thy in the direct prayer, the 16:24 gap, singular tree, boasting and for it is good. At 16:18 the first you is singular and your inheritance is plural in Greek; the distinction is recorded here rather than introducing ye.",
+      "pending": "Independent review of the baker’s loaf/cake, covenant participle, singular/plural address, tree-of-field construction and praise formulas."
+    },
+    {
+      "chapter": 17,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.17",
+      "focus": "17:8, 11, 16–19, 23–25",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address in the divine promise, while the entire prayer retains Thou/Thee/Thy. Use didst speak/look/exalt/give for less familiar direct-address past forms, reorder 17:19 naturally, and use has for the third-person servant. Keep loved me for ever, human vision, house, throne and opened ear images.",
+      "pending": "Independent review of human vision and loved me for ever, the promise’s agency/tense, and the retained contextual rendering found courage in 17:25."
+    },
+    {
+      "chapter": 18,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.18",
+      "focus": "18:4, 8, 17",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retain the complete chapter’s successful English, figures, disabled chariots, choice cities, repeated kept saving, and foremost successors. No harmonization with Samuel or other witnesses.",
+      "pending": "Independent review of the military figures, Metabechas/choice cities and foremost successors in 18:17."
+    },
+    {
+      "chapter": 19,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.19",
+      "focus": "19:4, 6, 12, 18",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address and prevails. Preserve the cloak fold, David’s people being put to shame, all troop figures, repeated Syrian, and deliverance/save linkage.",
+      "pending": "Independent review of cloak terminology, the subject in 19:6 and troop/vehicle terminology and figures."
+    },
+    {
+      "chapter": 20,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.20",
+      "focus": "20:2–3, 6, 8",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retain the complete chapter’s successful English and source-specific Molchol, sawed them apart, six-and-six/twenty-four digits, and four giants; do not soften the violence or harmonize the names/counts.",
+      "pending": "Independent review of Molchol’s identity, the violent verb and tools in 20:3, and the giant figures and enumeration."
+    },
+    {
+      "chapter": 21,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.21",
+      "focus": "21:1, 8, 13, 17, 20, 24–25, 30",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retain direct divine Thee/Thy in David’s prayers and modernize ordinary address. Use No and what is yours in David’s purchase reply. Preserve devil, repeated doing evil, sheep/hand images, methachabin, the silver/gold distinction and hastened away.",
+      "pending": "Independent review of devil/adversary, inspection terminology, methachabin, the payment/site construction and hastened away in 21:30."
+    },
+    {
+      "chapter": 22,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.22",
+      "focus": "22:9, 13–14, 18",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address and take care. Retain is born, repeated rest, according to my poverty, all large quantities, and into hands without adding an unexpressed possessor.",
+      "pending": "Independent review of is born, poverty/quantity expressions, construction terms, and the unexpressed possessor at 22:18."
+    },
+    {
+      "chapter": 23,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.23",
+      "focus": "23:7, 13, 17, 24, 27, 32",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize has and clarify the word order of David’s last words recording the count. Keep Parosom, plural sons with the single Raabia, the differing age thresholds, invocation language and future shall keep.",
+      "pending": "Independent review of Parosom, consecration/invocation language, the age thresholds and their relationship to the service list."
+    },
+    {
+      "chapter": 24,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.24",
+      "focus": "24:4–6, 11, 26–28, 31",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retain the complete chapter’s orderly service list, repeated according to, sixteen/eight division, one-at-a-time allotment, Jesus, araab and all genealogical names.",
+      "pending": "Independent review of rulers of the holy things/Lord, the genealogical clauses in 24:26–28 and araab in 24:31."
+    },
+    {
+      "chapter": 25,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.25",
+      "focus": "25:1–3, 5–9",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Clarify the syntax of 25:7 while preserving the 288 total and the distributive each with understanding. Retain inspired words, prophet, kinyrai/nablai, the raised horn, the unusual first/second lot sequence, and all repeated twelve-member formulas.",
+      "pending": "Independent review of inspired speech/music terminology, the horn expression and the lot sequence in 25:9."
+    },
+    {
+      "chapter": 26,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.26",
+      "focus": "26:6, 10–11, 14–18, 24",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retain the complete chapter, including Rosai, guarding the leadership, the clause spanning 26:10–11, esephin, repeated guard duties and all gate allocations. Keep the inherited descendant formulations without changing genealogical scope.",
+      "pending": "Independent review of Rosai and the firstborn/leadership clauses, esephin and gate arrangements, and the genealogical relationships in 26:24–28."
+    },
+    {
+      "chapter": 27,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.27",
+      "focus": "27:1, 5, 7, 23–24, 34",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retain the complete chapter’s recurring monthly formulas, all names and figures, priest/ruler wording and the difficult final counselor sequence. The publisher text for this chapter was successfully retrieved for the present focused check; the older retrieval failure remains historical.",
+      "pending": "Independent review of priest/ruler apposition in 27:5 and the counselor sequence in 27:34, plus the complete administrative lists."
+    },
+    {
+      "chapter": 28,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.28",
+      "focus": "28:9, 11–12, 17, 19–20",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address and finite verbs. Restore And now in 28:9 to reflect kai nyn, use found by you, and clarify Do not fear or be dismayed. Preserve zakcho, kephphoure, spirit without interpretive capitalization, the hand/pattern language and court singular.",
+      "pending": "Independent review of zakcho, kephphoure, propitiation terminology and the spirit/pattern relationship."
+    },
+    {
+      "chapter": 29,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1CH.29",
+      "focus": "29:10–12, 14–15, 17, 19, 21, 23",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retain Thou/Thee/Thy/Thine throughout the closing prayer, while ordinary third-person/narrative forms are modernized. Reorder it is in Thy hand for clarity. Preserve shadow/no endurance, repeated eagerness and sacrifices, figures and Solomon’s throne of David. Glory in 29:11 represents kauchema, whereas glory in 29:12 represents doxa; the lexical distinction is recorded for review.",
+      "pending": "Independent review of kauchema/doxa, the no endurance expression, soom/Parian marble, precious material terminology and the closing historical records."
+    }
+  ]
+}
