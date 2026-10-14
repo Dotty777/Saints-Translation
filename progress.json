@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 5,
-  "pending_book_revisions": 65,
-  "next_book": "Joshua",
+  "completed_book_records": 6,
+  "pending_book_revisions": 64,
+  "next_book": "Judges",
   "full_bible_complete": false,
   "books": [
     {
@@ -48,8 +48,11 @@
       "order": 6,
       "book": "Joshua",
       "staging_path": "/bible/judgement/joshua/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "joshua/",
+      "chapters": 24,
+      "verse_units": 659,
+      "wording_changes": 161
     },
     {
       "order": 7,
@@ -499,5 +502,14 @@
       "status": "pending Bespoke revision",
       "records": null
     }
-  ]
+  ],
+  "current_division": "Judgement",
+  "division_progress": {
+    "division": "Judgement",
+    "completed_books": [
+      "Joshua"
+    ],
+    "pending_books": 14,
+    "next_book": "Judges"
+  }
 }

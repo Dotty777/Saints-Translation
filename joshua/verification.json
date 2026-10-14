@@ -1,0 +1,546 @@
+{
+  "editorial_review": {
+    "date": "2026-10-14",
+    "status": "All 659 existing English verse units individually read and editorially reviewed; approved as a provisional staging revision.",
+    "chapters": 24,
+    "changed_verse_units": 161,
+    "source_scope": "Rahlfs–Hanhart 2006 is the user-authorized provisional base. The listed running-text passages were inspected selectively; this is not a complete Greek or apparatus collation. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "cdd5fb891ed824134b94ea44621394f2acc26a6766ba74c5bf4edd88269504bd"
+  },
+  "preflight": [
+    {
+      "chapter": 1,
+      "verse_units": 18,
+      "changed": 15,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 2,
+      "verse_units": 24,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 3,
+      "verse_units": 17,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 4,
+      "verse_units": 24,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 5,
+      "verse_units": 15,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 6,
+      "verse_units": 26,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 7,
+      "verse_units": 26,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 8,
+      "verse_units": 27,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 9,
+      "verse_units": 33,
+      "changed": 10,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 10,
+      "verse_units": 41,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 11,
+      "verse_units": 23,
+      "changed": 2,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 12,
+      "verse_units": 24,
+      "changed": 1,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 13,
+      "verse_units": 32,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 14,
+      "verse_units": 15,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 15,
+      "verse_units": 64,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 16,
+      "verse_units": 10,
+      "changed": 0,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 17,
+      "verse_units": 18,
+      "changed": 10,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 18,
+      "verse_units": 28,
+      "changed": 2,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 19,
+      "verse_units": 53,
+      "changed": 0,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 20,
+      "verse_units": 6,
+      "changed": 2,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 21,
+      "verse_units": 49,
+      "changed": 1,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 22,
+      "verse_units": 34,
+      "changed": 15,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 23,
+      "verse_units": 16,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 24,
+      "verse_units": 36,
+      "changed": 14,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 2221,
+      "chapter": 1,
+      "modified": "2026-10-14T14:13:42",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "6e96cf2c7824fbab507570b162b3eb57cbcc5425932c6965e3c62457b6aaa5ee"
+    },
+    {
+      "id": 2212,
+      "chapter": 2,
+      "modified": "2026-10-14T14:14:25",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "416d56d7977561cda9ec8643cd14f459d1a96dc56143b1229385bdf3d29848c0"
+    },
+    {
+      "id": 2215,
+      "chapter": 3,
+      "modified": "2026-10-14T14:14:37",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "ef267adda0cfb8a3956dd4ed31787cf68c9b4cc1739fcc850b4a2e083b22ac75"
+    },
+    {
+      "id": 2218,
+      "chapter": 4,
+      "modified": "2026-10-14T14:14:49",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "73abfa377b082d5359674693cd1f02081beb7ee2a93b91ddb9eef4228a56d4f4"
+    },
+    {
+      "id": 2227,
+      "chapter": 5,
+      "modified": "2026-10-14T14:15:01",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "986d79ff9afd4095a9b38458dfaa4ae825adb68b899fc15d4fd34065b1e5e393"
+    },
+    {
+      "id": 2224,
+      "chapter": 6,
+      "modified": "2026-10-14T14:15:15",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "1bdc039dcd490d9b5d26c4f42094609779b63d050e89b9cbf826391b57afb090"
+    },
+    {
+      "id": 2233,
+      "chapter": 7,
+      "modified": "2026-10-14T14:15:27",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "61ddac42ccd841ab201f970058f4af88ee79e49db35a0f07fecf69c1d45dfd39"
+    },
+    {
+      "id": 2230,
+      "chapter": 8,
+      "modified": "2026-10-14T14:16:20",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "4b449f8249ffe89743b5e5edad94f211883fe04e787209fd0591a7920f85e1c1"
+    },
+    {
+      "id": 2237,
+      "chapter": 9,
+      "modified": "2026-10-14T14:16:31",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "47e8bd804328a89677b6be11b8709ad8ed0b97f8d4e27e7d3bf8b3de71ae4503"
+    },
+    {
+      "id": 2246,
+      "chapter": 10,
+      "modified": "2026-10-14T14:16:42",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "3c4e61320f36c454f86b57524705482f34370df4cac20e2cd8b24fe692383289"
+    },
+    {
+      "id": 2242,
+      "chapter": 11,
+      "modified": "2026-10-14T14:16:54",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "e9f0343be292b64ea45b56dd7e56e81ec30b5ebc6524ac159ffa5f5277e476e5"
+    },
+    {
+      "id": 2254,
+      "chapter": 12,
+      "modified": "2026-10-14T14:17:06",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "4b14b09a486b25a0a3674304988ad7823f38383bdb15018de48d016414f9fec1"
+    },
+    {
+      "id": 2264,
+      "chapter": 13,
+      "modified": "2026-10-14T14:17:19",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "d5efa52ed9a2387f9278efdc08cc5c687e0fb1b4c5ce742642cbe78c6fa2a444"
+    },
+    {
+      "id": 2259,
+      "chapter": 14,
+      "modified": "2026-10-14T14:17:31",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "d83d497c766de70c871d46b8f6edad6bfc74c308dde119dec6d8d829e5ec8005"
+    },
+    {
+      "id": 2276,
+      "chapter": 15,
+      "modified": "2026-10-14T14:17:43",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "e44dd94ff0ab95f4e38c464c2c72b62686b7178e0275629545558b852791daf9"
+    },
+    {
+      "id": 2269,
+      "chapter": 16,
+      "modified": "2026-10-14T14:17:57",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "7d75af14a7ffc95a92cc6aa7b18b7dec2e1c1c21d1bff7b36a97f9d70517857b"
+    },
+    {
+      "id": 2279,
+      "chapter": 17,
+      "modified": "2026-10-14T14:18:10",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "ca83514576b7e2435109f05d7a08bb00f81f7bdce387e69aadd359eb9729d487"
+    },
+    {
+      "id": 2284,
+      "chapter": 18,
+      "modified": "2026-10-14T14:18:21",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "821f59bffa5b0fba46c0864922ac306c66dbbd8cb65ced92886cf162cf61cb97"
+    },
+    {
+      "id": 2289,
+      "chapter": 19,
+      "modified": "2026-10-14T14:18:33",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "d9bacbbd883c606b1b41c6a4de1f373232979059ec6afed475184aa9690f3e08"
+    },
+    {
+      "id": 2302,
+      "chapter": 20,
+      "modified": "2026-10-14T14:18:46",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "6c5b536128567392bcd59990b4d01c410bb8b377bbcfba1d5362c5b21aa6a61d"
+    },
+    {
+      "id": 2297,
+      "chapter": 21,
+      "modified": "2026-10-14T14:18:59",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "e75aac01332cc049f6adf72718b83df7035c3f6fb811dd78d2b974fa4c428723"
+    },
+    {
+      "id": 2305,
+      "chapter": 22,
+      "modified": "2026-10-14T14:19:13",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "72612382c25a3ba832b6e64084529a7a706976d289a8ffda894b8a95171791f1"
+    },
+    {
+      "id": 2308,
+      "chapter": 23,
+      "modified": "2026-10-14T14:19:26",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "6640a0c0505a7bb72c59f413932596ce99239b155dcb8bab9aa1ae27a4345085"
+    },
+    {
+      "id": 2311,
+      "chapter": 24,
+      "modified": "2026-10-14T14:19:40",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "b818d0f1350375c19fe0942ce2634e91bab5fc75e1d042b76c09c90d18396fce"
+    },
+    {
+      "id": 2211,
+      "chapter": 0,
+      "modified": "2026-10-14T14:19:52",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "sha256": "20cc5139f596f78bd699c21dae9978801d8cb4ca79f5f5e05669a37ca3e3da57"
+    }
+  ],
+  "browser_samples": {
+    "date": "2026-10-14",
+    "samples": [
+      {
+        "chapter": 1,
+        "checked": "Revised verse wording, readable layout, chapter selector, working highlighted terms, study workspace and cross-reference link."
+      },
+      {
+        "chapter": 7,
+        "checked": "Thou/Thee/Thy in prayer at 7:7–9; you/your in God's reply at 7:10."
+      },
+      {
+        "chapter": 9,
+        "checked": "33 rendered verse units; Mount Ebal additions 9:2a–2f retained."
+      },
+      {
+        "chapter": 14,
+        "checked": "His mind at 14:7, dagger and original note retained; clicking the dagger brings the note into view."
+      },
+      {
+        "chapter": 24,
+        "checked": "36 rendered verse units; no duplicated out at 24:5–6; cities plural them at 24:13; ending 24:33b retained; Next chapter links to Judges 1."
+      },
+      {
+        "chapter": 0,
+        "checked": "Bespoke name, 24-chapter/659-unit/161-change status, source limitations, and all 24 distinct chapter destinations present."
+      }
+    ],
+    "proof_images": [
+      "joshua-staging-proof.png",
+      "joshua-index-proof.png"
+    ],
+    "scope": "Representative browser checks; all 25 saved pages separately passed exact-content readback."
+  },
+  "comparison_checks": [
+    {
+      "id": 3832,
+      "modified": "2026-09-29T05:26:23",
+      "content_hash": "5676783a208ccf2aeb5a79d70b30fe5ed2f211d2",
+      "blocks": 38,
+      "content_unchanged": true,
+      "modified_unchanged": true
+    },
+    {
+      "id": 3833,
+      "modified": "2026-09-25T08:28:31",
+      "content_hash": "ae15790791fbc8fa3dc4ededdc06c10007b1f55d",
+      "blocks": 11,
+      "content_unchanged": true,
+      "modified_unchanged": true
+    },
+    {
+      "id": 18878,
+      "modified": "2026-09-24T16:08:59",
+      "content_hash": "be7da361c71a79a1c5ac9da7f1798c226ae02a53",
+      "blocks": 1,
+      "content_unchanged": true,
+      "modified_unchanged": true
+    },
+    {
+      "id": 23738,
+      "modified": "2026-10-07T15:09:38",
+      "content_hash": "4ecd24ef1e3c9c30fc5f62051238013d790f6ad7",
+      "blocks": 11,
+      "content_unchanged": true,
+      "modified_unchanged": true
+    },
+    {
+      "id": 20686,
+      "modified": "2026-10-09T15:29:30",
+      "content_hash": "d82f8300bc869abc6a137bc3d44c1f21d418e88e",
+      "blocks": 25,
+      "content_unchanged": true,
+      "modified_unchanged": true
+    },
+    {
+      "id": 20687,
+      "modified": "2026-10-09T15:29:28",
+      "content_hash": "5243751dfeffde0a6d171b4a6646df898b1e3f40",
+      "blocks": 25,
+      "content_unchanged": true,
+      "modified_unchanged": true
+    }
+  ],
+  "combined_reader": {
+    "all_659_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_note_links_resolve": true
+  },
+  "backup_scope": "Full original content for all 25 edited pages, four reference pages and the Judgement index. KJV and Vulgate comparison full retrieval failed; only pre/post content hashes and metadata were captured for those two unchanged pages."
+}
