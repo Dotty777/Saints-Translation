@@ -1,0 +1,157 @@
+{
+  "book": "Judges",
+  "date": "2026-10-14",
+  "edition": "Rahlfs–Hanhart 2006, existing selected A-form; German Bible Society online running text",
+  "authorization": "User authorized provisional continuation with Rahlfs–Hanhart; Göttingen not obtained.",
+  "scope": "The existing selected A form of Rahlfs–Hanhart 2006 remains the user-authorized provisional base. The listed running-text passages were inspected selectively; this is not a complete Greek, A/B witness or apparatus collation. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+  "historical_records": "Existing comparison and study records and 18 dagger notes were consulted as reference, not proof of fresh complete Greek verification.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "url": "https://www.die-bibel.de/en/bible/LXX/JDG.1",
+      "inspected": "12, 14–15, 18–20, 22–23, 27, 35–36",
+      "decision": "Ordinary address uses you/your; Caleb’s promise is reordered for speech. Preserve redemption of water, Rechab, the negative conquest statement and its city list, Judah at Bethel, and distinctive names and geography.",
+      "pending": "Greek syntax and lexical review of 1:15, 19, 27, 35–36; no replacement with familiar chariot or spring readings."
+    },
+    {
+      "chapter": 2,
+      "url": "https://www.die-bibel.de/en/bible/LXX/JDG.2",
+      "inspected": "1–2, 15, 17, 23",
+      "decision": "Keep the repeated Lord, Lord and scatter My covenant wording. Replace inverted negatives; make the referent of did not do so explicit as the fathers’ conduct. Preserve the prostitution imagery and recurrent covenant language.",
+      "pending": "Independent review of scatter at 2:1 and the relation of clauses at 2:15–17."
+    },
+    {
+      "chapter": 3,
+      "url": "https://www.die-bibel.de/en/bible/LXX/JDG.3",
+      "inspected": "9, 11, 15, 17, 19–20, 24, 31",
+      "decision": "Retain fifty years, Ehud’s skill with both hands, handsome Eglon, Eglon as the subject at 3:19, and the unresolved calves phrase. Smooth went in to him and preserve the emphatic all alone.",
+      "pending": "Antecedents in 3:9; Eglon’s description and action; the lexical problem at 3:31, with its existing dagger note."
+    },
+    {
+      "chapter": 4,
+      "url": "https://www.die-bibel.de/en/bible/LXX/JDG.4",
+      "inspected": "6–9, 11, 21–22",
+      "decision": "Modernize ordinary address and messenger language; retain the messenger clause in 4:8, the neighbours of the Kenite, jaw, and convulsing between her knees. Adjust quotation punctuation across 4:6–7 without moving verse text.",
+      "pending": "Syntax of 4:8, 11; the commander’s advantage in 4:9; source distinctions in Jael’s account."
+    },
+    {
+      "chapter": 5,
+      "url": "https://www.die-bibel.de/en/bible/LXX/JDG.5",
+      "inspected": "1–31 (running-text inspection of the song; not an apparatus collation)",
+      "decision": "Retain Thou and Thine in direct address to God, the repeated awake and torrent, the third-person Deborah arose, and all six existing dagger notes. Modernize ordinary address without resolving opaque Phrazōn, barley bread, the sceptre, mosphathaim, Kadēmim, Amadarōth, the right-hand clause, or friends and spoil.",
+      "pending": "Specialist poetic, lexical and A/B review of the whole song, particularly 5:7–8, 14–16, 21–22, 26, 30; the referents in 5:14 remain open."
+    },
+    {
+      "chapter": 6,
+      "url": "https://www.die-bibel.de/en/bible/LXX/JDG.6",
+      "inspected": "13–18, 23, 25–27, 31, 36–37, 39",
+      "decision": "Retain ordinary address to the messenger without deciding his identity; prayer to God retains Thou/Thy. Keep the thousand, fattened seven-year bull, Mount Maoz, thirteen servants, clothed imagery, and disputed pronouns in 6:31. Restore future will cut down at 6:26; smooth testing language in Gideon’s prayer.",
+      "pending": "Messenger identity, 6:15 thousand, 6:26 battle array, 6:31 disputed antecedents and 6:32 naming."
+    },
+    {
+      "chapter": 7,
+      "url": "https://www.die-bibel.de/en/bible/LXX/JDG.7",
+      "inspected": "2, 4–7, 11",
+      "decision": "Smooth the repeated test instructions without removing their repetition. Save you all in 7:7 marks the Greek plural; your hand addresses Gideon singly. Keep the section of the fifty in 7:11 and the inherited camp geography.",
+      "pending": "Lexical/syntactic review of 7:11, 19 and 22; full collation of camp details."
+    },
+    {
+      "chapter": 8,
+      "url": "https://www.die-bibel.de/en/bible/LXX/JDG.8",
+      "inspected": "7, 16, 18, 22, 26",
+      "decision": "Modernize address while retaining both barkonnim and barakēnim, the repeated likeness clauses, sons in the request and son in the response, and shekels, sirōnes and enphōth. All three dagger notes remain.",
+      "pending": "Lexical review of 8:7, 16, 26; syntax and pronouns of 8:18."
+    },
+    {
+      "chapter": 9,
+      "url": "https://www.die-bibel.de/en/bible/LXX/JDG.9",
+      "inspected": "4, 9, 13, 20, 28, 31, 33, 36",
+      "decision": "Preserve empty and startled, the vine’s gladness from God, both if not clauses, gifts to Abimelech, and the hand and mountain-shadow images. Smooth ordinary dialogue and keep the tree fable’s repeated questions.",
+      "pending": "Lexical/syntactic review of 9:4, 13, 28 and 31; no substitution from Hebrew or a familiar English witness."
+    },
+    {
+      "chapter": 10,
+      "url": "https://www.die-bibel.de/en/bible/LXX/JDG.10",
+      "inspected": "10, 15–16",
+      "decision": "Retain direct prayer to God with Thee; use whatever in the prayer. Keep the inherited thirty-two counts and both difficult clauses of the divine response at 10:16, with its dagger note.",
+      "pending": "Independent review of 10:16 and the inherited figures and chronology in 10:4, 8."
+    },
+    {
+      "chapter": 11,
+      "url": "https://www.die-bibel.de/en/bible/LXX/JDG.11",
+      "inspected": "12–13, 23–24, 26–27, 29–31, 35–36, 39–40",
+      "decision": "Ordinary address to Jephthah and his daughter uses you/your; the vow to God keeps Thou. Preserve whoever, and I will offer, whole burnt offering, the foot and thorn images, virginity, fulfillment and lament. No interpretation of the daughter’s fate is inserted.",
+      "pending": "Independent historical, lexical and interpretive review of the territorial argument and vow; 11:13 plural them and 11:26 third-person they retained."
+    },
+    {
+      "chapter": 12,
+      "url": "https://www.die-bibel.de/en/bible/LXX/JDG.12",
+      "inspected": "1–3, 6",
+      "decision": "Modernize dialogue and negative order, retaining life in my hand. Preserve Password, the plural exchange at the crossing, forty-two thousand, and inherited names.",
+      "pending": "Greek lexical review of Password and its relation to pronunciation in 12:6; names and genealogy."
+    },
+    {
+      "chapter": 13,
+      "url": "https://www.die-bibel.de/en/bible/LXX/JDG.13",
+      "inspected": "5–8, 12–18, 22",
+      "decision": "Keep Thou/Thee in Manoah’s prayer; use ordinary address to the messenger without deciding his identity. Smooth the rule/deeds question and invitation, preserve iron, Nazirite and sikera, and use plural loaves in 13:16.",
+      "pending": "Messenger identity and the rule/deeds question; Nazirite vocabulary and wonderful."
+    },
+    {
+      "chapter": 14,
+      "url": "https://www.die-bibel.de/en/bible/LXX/JDG.14",
+      "inspected": "4, 6, 8–9, 15–16, 18",
+      "decision": "Replace rent/rendeth with tore/tears apart and ordinary dialogue forms; preserve have hated/have not loved as completed action with present force. Keep ambiguous lowercase he at 14:4, honey in the mouth, the fourth day, and tamed my heifer.",
+      "pending": "Referent of he at 14:4, physical wording at 14:9, chronology and the riddle’s wordplay."
+    },
+    {
+      "chapter": 15,
+      "url": "https://www.die-bibel.de/en/bible/LXX/JDG.15",
+      "inspected": "2–3, 7, 11–12, 14, 18–19",
+      "decision": "Smooth dialogue while preserving us in Samson’s reply, the explicit injunction not to kill him, the smell-of-fire image, and Thy in prayer. Flax fibre explains tow without erasing the material image. Retain wound of the jawbone and its existing note.",
+      "pending": "15:3 changes from singular listener to plural you; 15:12 clause relations; physical/geographical interpretation of 15:19."
+    },
+    {
+      "chapter": 16,
+      "url": "https://www.die-bibel.de/en/bible/LXX/JDG.16",
+      "inspected": "5–6, 9, 13–14, 16–19, 28",
+      "decision": "Use where strength lies and explicit people lying in ambush. Preserve sinew-strings, seven new cords, peg/pegs, all night, satraps/satrapies, and one vengeance for two eyes. Retain the repeated foreigners are upon you.",
+      "pending": "Textile terms and peg relationships; tense in 16:17 and the barber’s action; prayer in 16:28."
+    },
+    {
+      "chapter": 17,
+      "url": "https://www.die-bibel.de/en/bible/LXX/JDG.17",
+      "inspected": "2–3, 5, 9–10, 12–13",
+      "decision": "Smooth the question of origin and the priest’s provisions. Keep the repeated return wording and plural/singular shifts at 17:3, filled the hand at 17:5 and 12, and completed has done good at 17:13. Adjuration at 17:2 concerns a solemn appeal under oath.",
+      "pending": "Lexical review of adjuration, separately, filled the hand and for the year; idol vocabulary and pronoun shifts."
+    },
+    {
+      "chapter": 18,
+      "url": "https://www.die-bibel.de/en/bible/LXX/JDG.18",
+      "inspected": "7–9, 18, 23–25, 30",
+      "decision": "Smooth questions and requests, preserving repeated arise and no dealings with Syria, unable to speak a word, and Moses in the genealogy. The threat’s add your life remains provisional. At 18:25 fall upon you is plural, extending to Micah’s company, while the following your life is singular.",
+      "pending": "18:7, 25 syntax and the threat’s interpretation; genealogy and A/B witness review."
+    },
+    {
+      "chapter": 19,
+      "url": "https://www.die-bibel.de/bibel/LXX/JDG.19",
+      "inspected": "2–3, 8, 11, 17–18, 20, 22–25, 28–29",
+      "decision": "Clarify that the servant and animals accompany the husband, and smooth temporal and ordinary speech. Preserve angry, reconcile, his own house, the assault and rape, the explicit death statement, and twelve portions. In 19:22 know him is a sexual demand in context; the image is retained.",
+      "pending": "Independent lexical and interpretive review of 19:8, 22–25 and the dismemberment wording; preserve the difference between the narrator’s account and the husband’s account in chapter 20."
+    },
+    {
+      "chapter": 20,
+      "url": "https://www.die-bibel.de/bibel/LXX/JDG.20",
+      "inspected": "15–16, 23, 26, 28, 35, 43–46, 48",
+      "decision": "Keep both-handed slingers, the differing totals, whole burnt offerings of deliverance, gleaned, and the repeated battle account. Smooth Phinehas’s question and the city/livestock sequence without harmonizing counts. At 20:28 Go up addresses a group, while your hand is singular.",
+      "pending": "20:26 offering syntax, 20:43 rest image, 20:44/46 with all these, casualty totals and chronology."
+    },
+    {
+      "chapter": 21,
+      "url": "https://www.die-bibel.de/en/bible/LXX/JDG.21",
+      "inspected": "3–4, 6, 14–15, 19, 22, 25",
+      "decision": "Preserve visited, comforted, offerings of deliverance, both Lebanon/Lebona, the seizure of wives, and the affirmative offence clause. Smooth only the negative order in 21:22; retain its shifts among you and they and both existing dagger notes.",
+      "pending": "Independent review of 21:3 visitation, 21:4 offerings, 21:6/15 comforted, 21:19 geography, and 21:22 pronouns/argument."
+    }
+  ]
+}
