@@ -11,7 +11,8 @@ Book-by-book Bespoke Saints English editorial editions, change records and revie
 - [Judges — 21 chapters](judges/README.md): provisional editorial revision; 618 verse units, 213 wording changes. Staging verified on 14 October 2026.
 - [Ruth — 4 chapters](ruth/README.md): provisional editorial revision; 85 verses, 78 wording changes. Staging verified on 14 October 2026.
 - [1 Samuel — 31 chapters](1-samuel/README.md): provisional editorial revision; 773 verse units, 367 wording changes. Staging verified on 14 October 2026.
-- The Law division is complete at the English editorial/staging stage. Joshua, Judges, Ruth and 1 Samuel are complete in the Judgement Division; 2 Samuel is next, with 11 books in this division and 61 books overall still pending the Bespoke pass.
+- [2 Samuel — 24 chapters](2-samuel/README.md): provisional editorial revision; 696 verse units, 276 wording changes. Staging verified on 14 October 2026.
+- The Law division is complete at the English editorial/staging stage. Joshua, Judges, Ruth, 1 Samuel and 2 Samuel are complete in the Judgement Division; 1 Kings is next, with 10 books in this division and 60 books overall still pending the Bespoke pass.
 
 [progress.json](progress.json) lists the site's selected seventy-book working edition in its actual reading order: 43 Old Testament and 27 New Testament books. The current user instruction is to extend the Genesis–Exodus manner through every remaining book and keep updates in the current chat. The full Bible revision is not yet complete.
 

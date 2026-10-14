@@ -1,0 +1,226 @@
+{
+  "book": "2 Samuel",
+  "date": "2026-10-14",
+  "edition": "Rahlfs–Hanhart 2006; German Bible Society online running text",
+  "authorization": "User authorized provisional continuation with Rahlfs–Hanhart; Göttingen not obtained.",
+  "scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+  "historical_records": "Existing index and reference records were consulted as historical reference, not proof of fresh complete Greek verification.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "focus": "1–27",
+      "decision": "Preserve the messenger’s account as reported speech, terrible darkness, Judah’s people, memorial command, repeated not separated, firstfruits and martial images. Do not insert the Bow title absent in the Greek. At 1:18 use gave orders to teach for natural English. Jonathan receives ordinary you/your, and beautiful and the comparison with women’s love remain.",
+      "pending": "Lament’s compressed field and memorial clauses; source variants and the reported killing.",
+      "running_text_read": "entire chapter",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.1",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 2,
+      "focus": "1–32",
+      "decision": "Preserve the continuation across 2:2–3, burial of Saul and Jonathan, Thasiri, spring, play, Portion of the Plotters, full armour and added warning. Retain the counterfactual from early morning and counted casualties; do not add a missing adjective or harmonize durations.",
+      "pending": "2:22 question, 2:27 counterfactual and 2:29 unnamed stretch; chronology and casualty reckoning.",
+      "running_text_read": "entire chapter",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.2",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 3,
+      "focus": "7–8, 21, 33–35, 39",
+      "decision": "Retain Daluia, Ornia, Phengith, Sabatia, Mephibosheth son of Saul, Ial, Thailam, Selles and Barakim. Preserve Abner’s I will make a covenant, Nabal’s name in the lament, the unexpanded he did not bring near, and kinsman/appointed by a king. Ordinary address and finite verbs are modernized.",
+      "pending": "Names, 3:33–34 lament syntax and 3:39 royal description; curse vocabulary.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.3",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 4,
+      "focus": "4, 6",
+      "decision": "Keep the two people named Mephibosheth distinct by their stated parentage. Retain the female doorkeeper cleaning wheat, sleep, the killing and the head’s burial. Do not harmonize the royal name with another witness.",
+      "pending": "Names and referents; doorkeeper account and its relation to other witnesses.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.4",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 5,
+      "focus": "8, 12, 16a, 19, 24",
+      "decision": "Retain the dagger, Lord’s house, the full additional 5:16a name list, Valley of the Titans, Upper Breaches and the grove of weeping. David’s direct question retains Wilt Thou; God’s reply addresses David as you. No geographical or textual repair is made.",
+      "pending": "5:8 attack wording, 5:16a list, 5:24 grove sound and ambiguous his people in 5:12.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.5",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 6,
+      "focus": "1, 6, 13–14, 22",
+      "decision": "Preserve seventy thousand, Uzzah’s brothers, Nodab, bull calf and repeated hold it fast. Keep seven dancing companies, tuned instruments, distinctive robe, food descriptions and Michal’s blessing. Retain the difficult final clause of 6:22.",
+      "pending": "Instrument identifications, Uzzah syntax, dancing companies and 6:22’s relation of honour and worthlessness.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.6",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 7,
+      "focus": "5, 11, 16, 18–19, 23, 25–27, 29",
+      "decision": "God addresses David as you/your in the promise; David’s prayer in 7:18–29 retains Thou/Thee/Thy. The nested divine quotation at 7:27 says I will build you a house. Third-person servant has is modernized. Retain 7:11 you will build Him a house alongside 7:27 I will build you a house; keep seed, law of the human being, manifestation and dwellings.",
+      "pending": "Promise-house wording, 7:19 law expression, 7:23 syntax/referents and the shortened 7:25–26 sequence.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.7",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 8,
+      "focus": "2, 4, 7–8, 18",
+      "decision": "Retain two lengths put to death and two kept alive, one thousand chariots/seven thousand horsemen, disabled chariots and the future historical notices about Shishak and Solomon. Keep Masbak, Ieddouran, Gaimale and the counsellor/Cherethite fragment.",
+      "pending": "Quantities, names, added historical notices and 8:18’s incomplete coordination.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.8",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 9,
+      "focus": "3, 9–11",
+      "decision": "Preserve God’s mercy, the dead-dog image, repeated bread and table language, fifteen sons/twenty servants and explicit David’s table. Ordinary royal address uses you/your while courtly servant language remains.",
+      "pending": "Kinship/land terms and distinctions between courtly and legal servant language.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.9",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 10,
+      "focus": "4, 6, 11–12, 16",
+      "decision": "Keep shaved beards, hips, David’s people put to shame, River Chalamak, Ailam and the military totals. Preserve you all at 10:11 beside singular you to Abishai; let us show strength gives natural expression to the collective exhortation.",
+      "pending": "10:6 subject, recruitment names, 10:16 geography and troop numbers.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.10",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 11,
+      "focus": "7, 11, 22, 25",
+      "decision": "Retain Eliab, repeated welfare including welfare of the war, Uriah’s protest, Thamasi and the expanded 11:22 speech. Preserve the explicit taking, intoxication, death and narrative verdict. Modernize the consuming sword image without changing it.",
+      "pending": "Purification sequence, welfare idiom, names and repeated speech; narrative agency.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.11",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 12,
+      "focus": "6, 9–10, 14, 21, 25, 30–31",
+      "decision": "Retain sevenfold repayment, I am the One repetition, bosom, before this sun, provoking the Lord’s enemies, sackcloth/vigil, Idedi and Melchol. Smooth past-tense accusations without weakening them. Keep saw, iron implements and brickworks without choosing a new interpretation of the violence.",
+      "pending": "12:14 provocation, Idedi/Melchol, crown weight and 12:31 treatment of captives.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.12",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 13,
+      "focus": "6, 18, 20–21, 39",
+      "decision": "Preserve repeated love/hatred, Tamar’s refusal and the explicit violation, the wrist-length sleeves, widow language and David’s refusal to grieve Amnon’s spirit. Keep the added feast/watchman details, Machad and the king’s spirit ceasing pursuit.",
+      "pending": "Garment term, widow description, David’s inaction and 13:39 spirit syntax.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.13",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 14,
+      "focus": "10–11, 14, 17, 27, 32",
+      "decision": "Retain the woman’s remaining ember, the unresolved him at 14:10, positive blood-avenger infinitive at 14:11 and both positive divine actions at 14:14. Do not insert Hebrew negatives. Preserve word as offering, two hundred shekels, the Rehoboam/Abijah notice and I have not seen the king’s face.",
+      "pending": "14:10–17 pronouns/infinitive/divine-action syntax; hair weight and added genealogy.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.14",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 15,
+      "focus": "7, 18, 20, 24, 34",
+      "decision": "Preserve forty years, Gelmonite/Gola, repeated six-hundred lists, Chetti/Cherethites, repeated yesterday/today, Baithar, ark’s beauty, Roos and Hushai’s expanded instructions. David’s short prayer at 15:31 already has no second-person pronoun. The quoted divine speech at 15:26 uses you.",
+      "pending": "Chronology, repeated procession lists, 15:20 syntax and 15:34 expanded deception speech.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.15",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 16,
+      "focus": "1, 11, 20",
+      "decision": "Retain the food quantities without supplying cakes or units, belly, humiliation, repeated cursing and the counsel’s standing. All of you at 16:20 makes the plural command visible despite the named addressee Ahithophel. Preserve the narrated acts and distinguish accusations from narrator statements.",
+      "pending": "Food/container terms, curse attribution and the plural council command.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.16",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 17,
+      "focus": "3, 6, 8, 12, 19, 25, 28–29",
+      "decision": "Keep bride returning, fierce sow, bitter souls, dew, ropes and the unnamed swallowing subject. Naturalize the no-survivor clause at 17:12 while retaining its agent and scope. Preserve cooled grain, Jethro the Israelite, Ouesbi, ten beds/cauldrons, double-pile rugs and cheese from cattle.",
+      "pending": "17:8 lodging, 17:16 subject, grain preparation, dairy terms and list quantities.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.17",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 18,
+      "focus": "12–13, 18, 28",
+      "decision": "Preserve the command spanning 18:12–13, heart of Absalom/heart of the oak, Cushi and Kechar. Retain both opaque taking clauses in 18:18 and hated their hand at 18:28, with their historical notes; do not substitute familiar readings. Keep no son alongside the earlier family account.",
+      "pending": "18:18 pillar/taking clauses, 18:28 hated their hand and quoted command punctuation.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.18",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 19,
+      "focus": "1, 18–19, 23, 44",
+      "decision": "Preserve the chapter boundary placing David’s lament at 19:1 and every repeated my son. Ordinary address uses yours/you. Retain Jordan preparation, ferry and rousing, I do not know whether I reign, grooming details, firstborn and ten shares. Modernize Barzillai’s dialogue without removing images or repetitions.",
+      "pending": "Jordan crossing syntax, 19:23 uncertainty, ferry and firstborn/share expressions.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.19",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 20,
+      "focus": "none; publisher retrieval failed in English and German",
+      "decision": "English editorial review and selected historical note consultation only. No fresh Greek check is claimed for this chapter. Keep lawless son, shadow over eyes, Charri, Abel/Dan’s extended saying, peaceable stronghold and the woman as singular agent. Far be it from me repeats the aversion formula naturally; preserve drown.",
+      "pending": "Fresh publisher-text consultation; 20:18–19 difficult saying, singular agent and aversion formula.",
+      "running_text_read": "none in this revision",
+      "url": "https://www.die-bibel.de/bibel/LXX/2SA.20",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 21,
+      "focus": "6, 8, 11, 16, 19–20, 22",
+      "decision": "Retain chosen ones, Gibeon of Saul, Michal’s five sons, Dan son of Ioa, the sun exposure and burial details. Keep Jesbi’s club, Elhanan killing Goliath, Madon, twenty-four digits and the final house phrase. Do not harmonize names or agents.",
+      "pending": "Exposure/atonement terms, Michal, giant episode placement, Goliath and final house syntax.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.21",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 22,
+      "focus": "2–3, 9, 24–27, 30, 32–33, 35–36, 41, 49–51",
+      "decision": "Preserve every existing poetry line break and all images, including crushings/birth pangs, lightly armed runner, Creator, shaken-free way, broken bronze bow and Thy heeding. Direct divine address retains Thou/Thee/Thy; third-person verbs use modern forms. Restore the Greek futures at 22:26–27 with Thou wilt show Thyself. Keep other meaningful tense shifts. End 22:50 with a period before the inherited third-person sentence at 22:51.",
+      "pending": "Song’s future/past shifts, 22:26–27 voice, 22:30 equipment, 22:33 way, 22:35 bow and 22:36 heeding; comparison with Psalm tradition.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.22",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 23,
+      "focus": "1, 3–5, 7–9, 17, 20–21, 24, 36",
+      "decision": "Retain Faithful is David, Guard, parable command and plural you all in its following question. Preserve the compressed light/grass and lawless-sprouting clauses, iron/spear fragment, source-specific warriors’ names and list groupings, sons of Ariel and gangway timber. The direct appeal Lord at 23:17 remains.",
+      "pending": "23:3–7 poetic syntax, warriors’ list segmentation and names, his paternal uncle and numerical relationships.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.23",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 24,
+      "focus": "10, 13–15, 17, 22, 25",
+      "decision": "Retain the Lord’s incitement, names and journey duration, totals, three years of famine, David’s choice of death, harvest/mealtime, shepherd and sheep, Orna, wheels, fifty shekels and Solomon’s later altar enlargement. Restore Thy in David’s prayers at 24:10 and 17; God’s address to the angel uses your. Leave ambiguous his eyes lowercase at 24:22.",
+      "pending": "Incitement, death/plague choice, meal timing, 24:22 referent and source-specific altar notice.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2SA.24",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    }
+  ]
+}
