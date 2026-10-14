@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 8,
-  "pending_book_revisions": 62,
-  "next_book": "1 Samuel",
+  "completed_book_records": 9,
+  "pending_book_revisions": 61,
+  "next_book": "2 Samuel",
   "full_bible_complete": false,
   "books": [
     {
@@ -78,8 +78,11 @@
       "order": 9,
       "book": "1 Samuel",
       "staging_path": "/bible/judgement/1-samuel/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "1-samuel/",
+      "chapters": 31,
+      "verse_units": 773,
+      "wording_changes": 367
     },
     {
       "order": 10,
@@ -515,9 +518,10 @@
     "completed_books": [
       "Joshua",
       "Judges",
-      "Ruth"
+      "Ruth",
+      "1 Samuel"
     ],
-    "pending_books": 12,
-    "next_book": "1 Samuel"
+    "pending_books": 11,
+    "next_book": "2 Samuel"
   }
 }

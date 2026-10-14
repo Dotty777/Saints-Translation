@@ -1,0 +1,289 @@
+{
+  "book": "1 Samuel",
+  "date": "2026-10-14",
+  "edition": "Rahlfs–Hanhart 2006; German Bible Society online running text",
+  "authorization": "User authorized provisional continuation with Rahlfs–Hanhart; Göttingen not obtained.",
+  "scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+  "historical_records": "Existing index and reference records were consulted as historical reference, not proof of fresh complete Greek verification.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "focus": "1–28",
+      "decision": "Preserve the distinctive names, repeated affliction, one portion, Eli’s servant as speaker, Adonai/Lord/Eloai Sabaoth, the no-wine/no-iron vow, three-year calf and loan language. Ordinary dialogue uses you/your; Hannah’s prayer at 1:11 retains Thou/Thy/Thee. Smooth Elkanah’s questions and Eli’s blessing without changing the heart image or request.",
+      "pending": "Names, quantities, transliterations and vow variants; independent full Greek and apparatus review.",
+      "running_text_read": "entire chapter",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.1",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 2,
+      "focus": "1–36",
+      "decision": "Preserve the song’s lineation, established heart/horn, hungry leaving the land, divine undertakings, plural our kings and expanded wisdom passage. Thy/Thee remain in 2:1–2. Retain ephoud bar, loan, faithful house/priest and silver obol; modernize ordinary address and third-person verbs.",
+      "pending": "Song syntax and images; ephoud bar and sacrificial terminology; full apparatus.",
+      "running_text_read": "entire chapter",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.2",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 3,
+      "focus": "3, 9–10, 13–14",
+      "decision": "Keep the lamp being put in order, repeated calling, reviling God and expiated wrongdoing. In 3:9 distinguish Eli addressing Samuel (you) from the nested prayer (Thy servant hears). The same prayer wording appears at 3:10.",
+      "pending": "Lamp idiom, reviling and expiation; narrative additions.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.3",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 4,
+      "focus": "7, 15, 18, 20",
+      "decision": "Retain the foreigners’ appeal to the Lord, Eli’s age ninety and twenty years of judging, crushed back and Woe-barchaboth. Name the man and Eli in 4:18 to clarify the pronoun sequence; split 4:20 into spoken English sentences.",
+      "pending": "Names and death narrative; unusual numbers and source differences.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.4",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 5,
+      "focus": "4, 6, 9–10",
+      "decision": "Retain soles of hands, amapheth, ships, seats, buttocks and Ashkelon. Modernize dialogue without substituting familiar readings.",
+      "pending": "Dagon description, amapheth, disease vocabulary and geographical variants.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.5",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 6,
+      "focus": "3, 8, 11–12, 19",
+      "decision": "Preserve propitiation for the personal beneficiaries, bersechthan/ergab, labouring cows, Hosea, Jeconiah and the separate seventy and fifty thousand. Keep all repeated ark language and source-specific details.",
+      "pending": "Cultic vocabulary, opaque terms, cow description and numerical variants.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.6",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 7,
+      "focus": "none; publisher retrieval failed",
+      "decision": "English editorial review only in this chapter. Retain the inherited Greek-based readings including looking after the Lord, groves, Ashkelon to Azob and the old city. No fresh Greek verification is claimed for chapter 7.",
+      "pending": "Fresh publisher-text consultation, geographical readings and full Greek review.",
+      "running_text_read": "none in this revision",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.7",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 8,
+      "focus": "3, 16",
+      "decision": "Retain after completion at 8:3 and good cattle herds at 8:16. Preserve the repeated claims of the king and meaningful plural address while modernizing grammar.",
+      "pending": "After completion, royal levy details and cattle terminology.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.8",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 9,
+      "focus": "8, 20, 24, 27",
+      "decision": "Retain you give the quarter-shekel, Bama, beautiful things, seventy guests and gnaw it. Keep emphatic But you stand here at 9:27.",
+      "pending": "Money terminology, meal description, names and unusual lexical readings.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/bibel/LXX/1SA.9",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 10,
+      "focus": "2, 5, 19",
+      "decision": "Preserve the tombs, leaping men, lavish expenditure, Nasib, nabla/kinyra and you both. In 10:19 the quoted request to appoint a king uses ordinary you, reflecting the request made to Samuel in chapter 8.",
+      "pending": "Prophetic idioms, instrument names and the quotation’s addressee.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.10",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 11,
+      "focus": "3, 5, 8, 15",
+      "decision": "Retain plural you all in 11:3, after morning, Abiezek, six hundred thousand/seventy thousand and Samuel’s anointing and sacrifice. Do not harmonize figures.",
+      "pending": "Time expression, muster location and numbers, anointing sequence.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.11",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 12,
+      "focus": "2–3, 14, 25",
+      "decision": "Preserve will sit down, appeasing payment and sandal, the unfinished conditional at 12:14 and will be added at 12:25. Restore Thee in the direct prayer quoted in 12:10.",
+      "pending": "Payment/sandal vocabulary, conditional syntax and final threat.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.12",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 13,
+      "focus": "6, 11, 13, 20–21",
+      "decision": "Keep the absence of 13:1, Nasib, thirty thousand chariots, could not advance, testimony of the days and tool prices per tooth. Reorder the list of tools at the forge without losing any item.",
+      "pending": "13:6 compressed infinitive, days expression, tool names/prices and textual gaps.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.13",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 14,
+      "focus": "14, 24, 29, 40–41, 45",
+      "decision": "Preserve messab, the unusual weapon/stone description, servitude, clear signs/holiness and the people’s prayer for Jonathan. Direct prayer uses Wilt Thou and hast Thou. At 14:41 render the embedded saying indirectly as if Thou sayest it is in Thy people Israel; this is an English quotation decision, not a claim about ancient punctuation.",
+      "pending": "14:14 measure/image, 14:40 servitude and 14:41 syntax and lot terminology; quotation interpretation.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.14",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 15,
+      "focus": "3–4, 11, 17, 20, 29",
+      "decision": "Keep Jerim, four hundred thousand/thirty thousand, consoled at 15:11 distinct from regretted at 15:35, hand monument, people’s voice and Israel divided in two. Preserve the violence and ban without embellishment. Modernize ordinary dialogue and shared auxiliaries.",
+      "pending": "Divine consolation/regret, hand monument, 15:20 and divided kingdom wording.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.15",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 16,
+      "focus": "11–12, 14, 20",
+      "decision": "Use Are these all the boys? at 16:11 for natural English; retain all participants and the youngest. Preserve good before the Lord, choking spirit, gomor and kinyra.",
+      "pending": "Spirit terminology, quantities and names; the question at 16:11.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.16",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 17,
+      "focus": "4, 43, 47, 49",
+      "decision": "Retain the shorter Greek chapter with its numbering gaps, four cubits and a span, bronze/iron, the worse-than-a-dog response and stone passing the helmet. You all at 17:47 marks the plural audience, distinct from singular address to Goliath.",
+      "pending": "Short/long narrative witnesses, stature, armour and stone description.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.17",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 18,
+      "focus": "21, 27–28",
+      "decision": "Keep the shorter chapter, source-specific gaps, the foreigners’ hand against Saul, one hundred foreskins and all Israel loving David. Ordinary commands and court dialogue use you/your.",
+      "pending": "Short/long witness differences, subjects and numbers.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.18",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 19,
+      "focus": "4, 9, 13",
+      "decision": "Preserve sleeping Saul, funerary images and goat’s liver, naked prophesying and the king/your servant honorific shift in 19:4. Modernize ordinary dialogue without removing the source’s ambiguity.",
+      "pending": "Image and liver vocabulary, spirit wording and honorific syntax.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.19",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 20,
+      "focus": "3, 9, 13, 19–20, 30, 41",
+      "decision": "Retain the filled space between life and death, and if not ellipsis, cities, bringing evils, ergab/amattari, son of deserting girls and completion. Preserve covenant repetition and explicit speakers.",
+      "pending": "20:3 idiom, 20:9 broken conditional, opaque terms, insult and completion.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.20",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 21,
+      "focus": "1, 5–6, 14",
+      "decision": "Keep 21:1 at the source’s chapter boundary, Nomba/Abimelech, Phellani Allemoni, singular he may eat, neessaran, Syrian Doeg, mules and the feigned physical behaviour. Modernize dialogue only where warranted.",
+      "pending": "Holy bread and equipment syntax, names, neessaran and feigned behaviour.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.21",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 22,
+      "focus": "18, 23",
+      "decision": "Retain three hundred and five priests, Syrian Doeg, Abimelech and protection for the soul. Preserve uncover my ear as a repeated image; use natural imperative order.",
+      "pending": "Priestly tally, names, disclosure idiom and protection wording.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.22",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 23,
+      "focus": "10–11, 13, 22",
+      "decision": "Restore Thy servant in David’s direct prayer. Retain the missing 23:12, four hundred men and difficult Will it be shut up? without choosing a new object. Ordinary speech remains you/your.",
+      "pending": "Shut-up question, missing verse, numbers and 23:22 syntax.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.23",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 24,
+      "focus": "7, 15",
+      "decision": "Keep the source’s chapter boundary, heart striking, cloak flap, dead dog and single flea. May the Lord forbid that I should gives natural English for the oath at 24:7; Whom are you pursuing? smooths the question.",
+      "pending": "Oath idiom and source numbering; no harmonization with common chapter divisions.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.24",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 25,
+      "focus": "3, 6, 26, 29, 34",
+      "decision": "Retain doglike Nabal, To the seasons!, oiphi/gomor, urinating against a wall and hand/soul/sling images. Reorder 25:29 for clarity while retaining person, pursuit, bond of life and enemies’ soul.",
+      "pending": "Greeting, quantities, violent oath and soul/sling grammar.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.25",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 26,
+      "focus": "7, 11, 19–20",
+      "decision": "Use lying asleep at 26:7 for the Greek sleep expression without adding soundly. Keep covered carriage, night-raven and stupor. Match 24:7’s oath formula at 26:11; retain the magnified soul and future rescue.",
+      "pending": "Carriage, sleep expression, night-raven and divine stupor.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.26",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 27,
+      "focus": "2, 7, 12",
+      "decision": "Retain four hundred men, four months and the narrated killing. At 27:12 use David was greatly trusted by Achish, who said to clarify the English passive and the speaker already implied by the quotation.",
+      "pending": "Chronological/numerical differences and the subject of saying at 27:12.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.27",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 28,
+      "focus": "14, 17, 19",
+      "decision": "Keep the narrator’s Samuel, plural gods, physical standing upright, future transfer of the kingdom and sons will fall rather than importing with me. Modernize ordinary conversation; retain all attributed reception separately.",
+      "pending": "Apparition language and interpretive history, future tenses and death prediction.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.28",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 29,
+      "focus": "3, 11",
+      "decision": "Preserve second year despite the different duration in chapter 27, and guarding the foreigners’ land. Modernize the dismissal and testimony without harmonization.",
+      "pending": "Duration discrepancy, satraps’ speech and final action.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.29",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 30,
+      "focus": "17, 28, 28a",
+      "decision": "Retain six hundred where given, four hundred camel riders, geddour and the full added 30:28a list in place. Keep shared spoil, recipients and place names.",
+      "pending": "Names, geddour, numbers and the additional place list.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.30",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 31,
+      "focus": "3, 9, 12–13",
+      "decision": "Preserve missile throwers/archers, wounded ribs, turned him over, Jonathan’s body, burning and cultivated ground burial. Do not import beheading or sons’ bodies from another witness.",
+      "pending": "Military/wound vocabulary, body treatment, burial and witness differences.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1SA.31",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    }
+  ]
+}

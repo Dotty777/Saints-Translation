@@ -1,0 +1,886 @@
+1 SAMUEL — BESPOKE SAINTS ENGLISH TRANSLATION
+14 October 2026
+Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.
+Plain text Scripture only. Separated editorial notes and unresolved readings are in editorial-notes.json, source-checks.json and the HTML reader.
+
+
+1 SAMUEL 1
+
+1:1 There was a man from Armathaim Sipha in the hill country of Ephraim. His name was Elkanah, son of Jerahmeel, son of Elihu, son of Thoke, in Nasib Ephraim.
+1:2 He had two wives. One was named Hannah, and the second was named Peninnah. Peninnah had children, but Hannah had no child.
+1:3 The man went up year by year from his city, from Armathaim, to bow down and sacrifice to the Lord God Sabaoth at Shiloh. Eli and his two sons, Hophni and Phinehas, were there as priests of the Lord.
+1:4 When the day came and Elkanah sacrificed, he gave portions to Peninnah his wife and to her sons and daughters.
+1:5 To Hannah he gave one portion, because she had no child. Yet Elkanah loved Hannah more than this other woman, and the Lord had closed her womb.
+1:6 For the Lord had not given her a child, in her affliction and in the despondency of her affliction. She was despondent because of this: the Lord had shut her womb so as not to give her a child.
+1:7 He would do this year after year when she went up to the Lord’s house, and she would be despondent and weep and not eat.
+1:8 Elkanah her husband said to her, “Hannah.” She said to him, “Here I am, my lord.” He said to her, “What is the matter, that you are weeping? Why do you not eat? Why does your heart strike you? Am I not better to you than ten children?”
+1:9 Hannah arose after they had eaten at Shiloh and stood before the Lord. Eli the priest was sitting on the seat by the doorposts of the Lord’s sanctuary.
+1:10 She was in anguish of soul and prayed to the Lord, weeping abundantly.
+1:11 She vowed a vow to the Lord, saying, “Adonai, Lord, Eloai Sabaoth, if Thou wilt indeed look upon Thy handmaid’s humiliation and remember me, and give Thy handmaid male offspring, then I will give him before Thee as a gift until the day of his death. He shall drink neither wine nor intoxicating drink, and no iron shall come upon his head.”
+1:12 As she continued praying before the Lord, Eli the priest watched her mouth.
+1:13 She was speaking in her heart, and her lips moved, but her voice was not heard. Eli considered her drunk.
+1:14 Eli’s servant said to her, “How long will you be drunk? Put away your wine and leave the Lord’s presence.”
+1:15 Hannah answered and said, “No, my lord. I am a woman whose day is hard. I have drunk neither wine nor intoxicating drink, and I am pouring out my soul before the Lord.
+1:16 Do not regard your handmaid as a pestilent daughter, for I have continued until now out of the abundance of my murmuring.”
+1:17 Eli answered her, “Go in peace. May the God of Israel grant the whole request you have made of Him.”
+1:18 She said, “Your handmaid has found favour in your eyes.” The woman went her way, entered her lodging, ate with her husband, and drank. Her face no longer fell.
+1:19 They rose early in the morning, bowed down to the Lord, and went on their way. Elkanah entered his house at Armathaim and knew Hannah his wife, and the Lord remembered her,
+1:20 and she conceived. When the time had come, she bore a son. She called his name Samuel and said, “For I asked him of the Lord God Sabaoth.”
+1:21 The man Elkanah went up with all his household to sacrifice at Shiloh the yearly sacrifice, his vow offerings, and all the tithes of his land.
+1:22 Hannah did not go up with him, for she said to her husband, “Not until the child goes up, when I have weaned him. He will appear before the Lord and remain there for ever.”
+1:23 Elkanah her husband said to her, “Do what is good in your eyes. Stay until you have weaned him. But may the Lord establish what has come from your mouth.” The woman stayed and nursed her son until she weaned him.
+1:24 She went up with him to Shiloh, with a three-year-old calf, loaves, an oiphi of fine flour, and a nebel of wine. She entered the Lord’s house at Shiloh, and the child was with them.
+1:25 They brought him before the Lord, and his father slaughtered the sacrifice that he made year by year to the Lord. He brought the child forward and slaughtered the calf. Hannah, the child’s mother, brought him to Eli
+1:26 and said, “Please, my lord! As your soul lives, I am the woman who stood before you when praying to the Lord.
+1:27 For this child I prayed, and the Lord gave me my request that I asked of Him.
+1:28 I too lend him to the Lord for all the days that he lives, as a loan to the Lord.”
+
+1 SAMUEL 2
+
+2:1 She said, “My heart is established in the Lord;
+my horn is exalted in my God.
+My mouth is opened wide against enemies;
+I rejoice in Thy salvation.
+2:2 For there is none holy like the Lord, and there is none righteous like our God;
+there is none holy besides Thee.
+2:3 Do not boast, and do not speak loftily;
+let no grandiose speech come from your mouth.
+For the Lord is a God of knowledge, and a God who prepares His undertakings.
+2:4 The bow of the mighty has grown weak, but those who were weak have girded themselves with strength.
+2:5 Those who were full of bread have been diminished, but the hungry have left the land.
+For the barren woman has borne seven, while she who had many children has grown weak.
+2:6 The Lord puts to death and gives life;
+He brings down to Hades and brings up.
+2:7 The Lord makes poor and makes rich;
+He humbles and raises high.
+2:8 He raises the needy from the earth and lifts the poor from the dung heap, to seat them with rulers of peoples and grant them a throne of glory as their inheritance,
+2:9 granting a prayer to the one who prays, and He has blessed the years of the righteous one;
+for a man is not mighty by strength.
+2:10 The Lord will weaken His opponent;
+the Lord is holy.
+Let the wise person not boast in his wisdom, nor the mighty person in his might, nor the rich person in his riches.
+Rather, let the one who boasts boast in this: understanding and knowing the Lord, and doing judgment and righteousness in the midst of the earth.
+The Lord ascended into the heavens and thundered.
+He will judge the earth’s extremities, and He gives strength to our kings and will raise high the horn of His anointed.”
+2:11 They left him there before the Lord and departed to Armathaim, while the child ministered in the Lord’s presence before Eli the priest.
+2:12 The sons of Eli the priest were pestilent sons who did not know the Lord.
+2:13 This was the priest’s claimed right from the people, from anyone sacrificing: the priest’s servant would come when the meat was boiling, with a three-pronged meat hook in his hand,
+2:14 and thrust it into the large cauldron, bronze kettle, or pot. Whatever came up on the meat hook, the priest took for himself. This is what they did to all Israel who came to sacrifice to the Lord at Shiloh.
+2:15 Before the fat was burned, the priest’s servant would come and say to the man sacrificing, “Give meat to roast for the priest. I will certainly not take from you meat boiled in the cauldron.”
+2:16 The man sacrificing would say, “Let the fat first be burned, as is proper, and take for yourself from whatever your soul desires.” But he said, “No! You must give it now; otherwise I will take it by force.”
+2:17 The servants’ sin was very great before the Lord, for they rejected the Lord’s sacrifice.
+2:18 Samuel ministered before the Lord, a child girded with an ephoud bar.
+2:19 His mother made him a little double cloak and would bring it up to him year by year, when she went up with her husband to sacrifice the yearly sacrifice.
+2:20 Eli blessed Elkanah and his wife, saying, “May the Lord repay you with offspring from this woman in return for the loan you made to the Lord.” The man departed to his place,
+2:21 and the Lord visited Hannah, and she bore three more sons and two daughters. The child Samuel grew up before the Lord.
+2:22 Eli was very old, and he heard what his sons were doing to the sons of Israel.
+2:23 He said to them, “Why do you act according to this report that I hear from the mouth of all the Lord’s people?
+2:24 No, children! The report I hear is not good. Do not act this way, for the reports I hear are not good, so that the people do not serve God.
+2:25 If a man indeed sins against a man, people will pray for him to the Lord; but if he sins against the Lord, who will pray for him?” They would not listen to their father’s voice, for the Lord was firmly resolved to destroy them.
+2:26 The child Samuel continued to grow and was in favour both with the Lord and with people.
+2:27 A man of God came to Eli and said, “Thus says the Lord: ‘I clearly revealed Myself to your father’s house when they were in the land of Egypt as slaves to Pharaoh’s house,
+2:28 and I chose your father’s house from all Israel’s tribes to serve Me as priests, ascend My altar, burn incense, and bear an ephoud. I gave your father’s house all the Israelites’ fire offerings for food.
+2:29 Why did you look upon My incense and My sacrifice with a shameless eye, and honour your sons more than Me, so that they bless themselves with the firstfruits of every sacrifice of Israel before Me?
+2:30 Therefore thus said the Lord, the God of Israel: I said that your house and your father’s house would pass before Me for ever. But now the Lord says: By no means! I will honour only those who honour Me, and the one who despises Me will be dishonoured.
+2:31 Behold, days are coming when I will destroy your offspring and the offspring of your father’s house,
+2:32 and no old man of yours will be in My house all the days.
+2:33 Yet I will not destroy every man of yours from My altar, so that his eyes fail and his soul ebbs away. Everyone remaining in your house will fall by the sword of men.
+2:34 This will be the sign for you that will come upon these two sons of yours, Hophni and Phinehas: both will die in one day.
+2:35 I will raise up for Myself a faithful priest who will do everything in My heart and in My soul. I will build him a faithful house, and he will pass before My anointed all the days.
+2:36 The one remaining in your house will come to bow down to him for a silver obol, saying, “Place me in one of your priestly offices, so I may eat bread.”’”
+
+1 SAMUEL 3
+
+3:1 The child Samuel ministered to the Lord before Eli the priest. The Lord’s word was precious in those days; there was no distinct vision.
+3:2 At that time Eli was sleeping in his place. His eyes had begun to grow heavy, and he could not see,
+3:3 and it was before God’s lamp was put in order. Samuel was sleeping in the sanctuary where God’s ark was,
+3:4 and the Lord called, “Samuel, Samuel!” He said, “Here I am.”
+3:5 He ran to Eli and said, “Here I am, for you have called me.” He said, “I have not called you. Return and sleep.” He went back and slept.
+3:6 The Lord called again, “Samuel, Samuel!” He went to Eli a second time and said, “Here I am, for you have called me.” He said, “I have not called you. Return and sleep.”
+3:7 This was before Samuel knew God and before the Lord’s word had been revealed to him.
+3:8 The Lord called Samuel a third time. He arose, went to Eli, and said, “Here I am, for you have called me.” Eli realized that the Lord had called the child.
+3:9 He said, “Return and sleep, child. If He calls you, say, ‘Speak, Lord, for Thy servant hears.’” Samuel went and lay down in his place.
+3:10 The Lord came and stood there. He called him as before, and Samuel said, “Speak, for Thy servant hears.”
+3:11 The Lord said to Samuel, “Behold, I am carrying out My words in Israel, so that both ears of everyone who hears them will resound.
+3:12 On that day I will raise against Eli everything I have spoken concerning his house. I will begin and bring it to completion.
+3:13 I have told him that I am taking vengeance on his house for ever for his sons’ wrongdoings, because his sons were reviling God, and even so he did not admonish them.
+3:14 I swore concerning Eli’s house: the wrongdoing of Eli’s house shall never be expiated by incense or sacrifices.”
+3:15 Samuel lay until morning, rose early in the morning, and opened the doors of the Lord’s house. Samuel was afraid to report the vision to Eli.
+3:16 Eli said to Samuel, “Samuel, child.” He said, “Here I am.”
+3:17 He said, “What was the word spoken to you? Do not hide it from me. May God do these things to you, and add these things, if you hide from me a word of all the words spoken to you in your ears.”
+3:18 Samuel reported all the words and hid nothing from him. Eli said, “He is the Lord. He will do what is good before Him.”
+3:19 Samuel grew, and the Lord was with him, and none of his words fell to the ground.
+3:20 All Israel, from Dan to Beersheba, knew that Samuel was faithful as a prophet to the Lord.
+3:21 The Lord continued to make Himself known at Shiloh, for the Lord revealed Himself to Samuel. Samuel was recognized as a prophet of the Lord for all Israel, from the ends of the land to the ends. Eli was very old, and his sons continued on their way, and their way was evil before the Lord.
+
+1 SAMUEL 4
+
+4:1 In those days the foreigners gathered for war against Israel. Israel went out to meet them in battle and camped beside Ebenezer, and the foreigners camped at Aphek.
+4:2 The foreigners drew up for war against Israel. The battle turned, and the men of Israel stumbled before the foreigners. Four thousand men were struck down in the battle line in the field.
+4:3 The people came into the camp, and Israel’s elders said, “Why has the Lord made us stumble today before the foreigners? Let us take our God’s ark from Shiloh. Let it go out among us, and it will save us from our enemies’ hand.”
+4:4 The people sent to Shiloh and carried from there the ark of the Lord, who is seated upon the cherubim. Both Eli’s sons, Hophni and Phinehas, were with the ark.
+4:5 When the Lord’s ark came into the camp, all Israel cried out with a loud voice, and the earth resounded.
+4:6 The foreigners heard the cry, and the foreigners said, “What is this great cry in the Hebrews’ camp?” They learned that the Lord’s ark had come into the camp.
+4:7 The foreigners were afraid and said, “These gods have come to them in the camp. Woe to us! Rescue us today, Lord, for nothing like this has happened before.
+4:8 Woe to us! Who will rescue us from the hand of these powerful gods? These are the gods who struck Egypt with every plague and in the wilderness.
+4:9 Be strong and be men, foreigners, so that you do not serve the Hebrews as they served us. Be men and fight them!”
+4:10 They fought them, and the men of Israel stumbled. Each fled to his dwelling. The slaughter was very great, and thirty thousand troops of Israel fell.
+4:11 God’s ark was captured, and both Eli’s sons, Hophni and Phinehas, died.
+4:12 A Benjaminite man ran from the battle line and came to Shiloh that day, with his garments torn and earth on his head.
+4:13 He came, and behold, Eli was sitting on the seat by the gate, watching the road, for his heart was distraught over God’s ark. The man entered the city to report, and the city cried out.
+4:14 Eli heard the sound of the cry and said, “What is this crying sound?” The man hurried in and reported to Eli.
+4:15 Eli was ninety years old. His eyes were fixed, and he could not see. Eli said to the men standing around him, “What is the sound of this uproar?”
+4:16 The man hurried up to Eli and said to him, “I am the one who has come from the camp. I fled from the battle line today.” He said, “What happened, child?”
+4:17 The young man answered and said, “The men of Israel have fled before the foreigners. There has been a great slaughter among the people. Both your sons are dead, and God’s ark has been captured.”
+4:18 When the man mentioned God’s ark, Eli fell backward from the seat beside the gate. His back was crushed, and he died, for the man was old and heavy. He had judged Israel twenty years.
+4:19 His daughter-in-law, Phinehas’s wife, was pregnant and about to give birth. When she heard the report that God’s ark had been captured and that her father-in-law and her husband were dead, she crouched and gave birth, for her labor pains turned upon her.
+4:20 At that time she was dying. The women standing beside her said, “Do not fear, for you have borne a son.” She did not answer, and her heart did not understand.
+4:21 She called the child Woe-barchaboth, because of God’s ark, her father-in-law, and her husband.
+4:22 They said, “Israel’s glory has been carried away with the capture of the Lord’s ark.”
+
+1 SAMUEL 5
+
+5:1 The foreigners took the ark of God and brought it from Ebenezer to Ashdod.
+5:2 The foreigners took the ark of the Lord, brought it into Dagon’s house, and placed it beside Dagon.
+5:3 The Ashdodites rose early, entered Dagon’s house, and looked: there was Dagon, fallen on his face before the ark of God. They raised Dagon and restored him to his place. The Lord’s hand became heavy upon the Ashdodites. He tormented them and struck them on their buttocks—Ashdod and its territory.
+5:4 When they rose early in the morning, there was Dagon, fallen on his face before the ark of the Lord’s covenant. Dagon’s head and both soles of his hands were severed, each upon the front parts of amapheth; both wrists of his hands had fallen at the doorway. Only Dagon’s back remained.
+5:5 That is why Dagon’s priests and everyone entering Dagon’s house do not step on the step of Dagon’s house in Ashdod to this day: they always step over it.
+5:6 The Lord’s hand became heavy upon Ashdod. He brought affliction upon them, and it broke out upon them into the ships. Mice sprang up in the middle of its territory, and there was great deadly turmoil in the city.
+5:7 When Ashdod’s men saw that it was so, they said, “The ark of Israel’s God must not stay with us, for His hand is harsh upon us and upon Dagon our god.”
+5:8 They sent and gathered the foreigners’ satraps to them. They said, “What shall we do with the ark of Israel’s God?” The Gathites said, “Let the ark of God come over to us.” So the ark of God came over to Gath.
+5:9 After it came over, the Lord’s hand was in the city, with exceedingly great turmoil. He struck the city’s men, small and great, and struck them on their buttocks. The Gathites made seats for themselves.
+5:10 They sent the ark of God away to Ashkelon. When the ark of God entered Ashkelon, the Ashkelonites cried out, “Why have you sent the ark of Israel’s God around to us to kill us and our people?”
+5:11 They sent and gathered the foreigners’ satraps. They said, “Send away the ark of Israel’s God. Let it settle in its place, and it will certainly not kill us and our people!” For exceedingly heavy deadly turmoil was throughout the city when the ark of Israel’s God entered there.
+5:12 Those who were alive and had not died were struck on their buttocks, and the city’s cry went up to heaven.
+
+1 SAMUEL 6
+
+6:1 The ark was in the foreigners’ country for seven months, and their land teemed with mice.
+6:2 The foreigners called for the priests, diviners, and their enchanters, saying, “What shall we do with the ark of the Lord? Tell us in what we should send it to its place.”
+6:3 They said, “If you send away the ark of the covenant of the Lord, Israel’s God, do not send it empty. You must return to it something for the torment. Then you will be healed, and propitiation will be made for you, lest His hand fail to withdraw from you.”
+6:4 They said, “What shall we return to it for the torment?” They said, “Five gold seats, matching the number of the foreigners’ satraps, for one affliction is upon you, your rulers, and the people;
+6:5 and gold mice, in the likeness of your mice that are destroying the land. Give glory to the Lord, so that He may lighten His hand upon you, upon your gods, and upon your land.
+6:6 Why make your hearts heavy, as Egypt and Pharaoh made their heart heavy? After He mocked them, did they not send them away, and they departed?
+6:7 Now take and prepare a new cart and two cows that have calved for the first time, without their calves. Yoke the cows to the cart, and take their calves home away from them.
+6:8 Take the ark and set it on the cart. Return the gold objects to it for the torment, and put them in a deposit, bersechthan, at its side. Send it away and drive it off, and it will go.
+6:9 Watch: if it goes by the road to its own territory toward Beth-shemesh, He has done this great harm to us. If not, we will know that His hand has not touched us; this happened to us by chance.”
+6:10 The foreigners did so. They took two cows that had calved for the first time, yoked them to the cart, and kept their calves in the house.
+6:11 They set the ark on the cart, together with the deposit, ergab, and the gold mice.
+6:12 The cows went straight along the road toward Beth-shemesh. They followed one path, laboring as they went, and did not turn right or left. The foreigners’ satraps followed it as far as the territory of Beth-shemesh.
+6:13 Those in Beth-shemesh were reaping the wheat harvest in the valley. They lifted their eyes, saw the ark of the Lord, and rejoiced to meet it.
+6:14 The cart came into Hosea’s field in Beth-shemesh. They set up a large stone there beside it, split the cart’s wood, and offered the cows as a whole burnt offering to the Lord.
+6:15 The Levites brought up the ark of the Lord and the deposit, ergab, with it, and the gold objects upon it, and set them on the large stone. The men of Beth-shemesh offered whole burnt offerings and sacrifices to the Lord that day.
+6:16 The foreigners’ five satraps watched and returned to Ashkelon that day.
+6:17 These are the gold seats that the foreigners returned to the Lord for the torment: one for Ashdod, one for Gaza, one for Ashkelon, one for Gath, and one for Ekron.
+6:18 The gold mice matched the number of all the foreigners’ cities belonging to the five satraps, from fortified city to the Perizzite’s village and as far as the large stone on which they set the ark of the Lord’s covenant, in the field of Hosea the Beth-shemite.
+6:19 The sons of Jeconiah were not pleased among the men of Beth-shemesh because they saw the ark of the Lord. He struck among them seventy men and fifty thousand men. The people mourned because the Lord had struck the people with an exceedingly great blow.
+6:20 The men from Beth-shemesh said, “Who can pass before this holy Lord? To whom shall the ark of the Lord go up away from us?”
+6:21 They sent messengers to the inhabitants of Kiriath-jearim, saying, “The foreigners have returned the ark of the Lord. Come down and bring it up to yourselves.”
+
+1 SAMUEL 7
+
+7:1 The men of Kiriath-jearim came and brought up the ark of the Lord’s covenant. They brought it into Aminadab’s house on the hill and consecrated his son Eleazar to guard the ark of the Lord’s covenant.
+7:2 From the day the ark was in Kiriath-jearim, the days multiplied until twenty years had passed. All Israel’s house looked after the Lord.
+7:3 Samuel said to all Israel’s house, “If you are returning to the Lord with all your heart, remove the foreign gods and the groves from among you. Prepare your hearts toward the Lord and serve Him alone, and He will rescue you from the foreigners’ hand.”
+7:4 The sons of Israel removed the Baalim and the groves of Astaroth and served the Lord alone.
+7:5 Samuel said, “Gather all Israel at Mizpah, and I will pray to the Lord for you.”
+7:6 They gathered at Mizpah, drew water, and poured it onto the ground before the Lord. They fasted that day and said, “We have sinned before the Lord.” Samuel judged the sons of Israel at Mizpah.
+7:7 The foreigners heard that all the sons of Israel had gathered at Mizpah, and the foreigners’ satraps went up against Israel. When the sons of Israel heard, they were afraid of the foreigners.
+7:8 The sons of Israel said to Samuel, “Do not be silent on our behalf: keep crying to the Lord your God, and He will save us from the foreigners’ hand.”
+7:9 Samuel took one nursing lamb and, with all the people, offered it as a whole burnt offering to the Lord. Samuel cried to the Lord for Israel, and the Lord heard him.
+7:10 While Samuel was offering the whole burnt offering, the foreigners drew near for battle against Israel. The Lord thundered with a great voice against the foreigners that day. They were thrown into confusion and fell before Israel.
+7:11 Israel’s men went out from Mizpah, pursued the foreigners, and struck them as far as below Beth-chor.
+7:12 Samuel took one stone and set it between Mizpah and the old city. He named it Ebenezer, Stone of the Helper, and said, “Thus far the Lord has helped us.”
+7:13 The Lord humbled the foreigners, and they did not enter Israel’s territory again. The Lord’s hand was against the foreigners throughout Samuel’s days.
+7:14 The cities that the foreigners had taken from the sons of Israel were restored; they returned them to Israel, from Ashkelon to Azob. They recovered Israel’s territory from the foreigners’ hand. There was peace between Israel and the Amorites.
+7:15 Samuel judged Israel throughout his life.
+7:16 Year after year he traveled a circuit through Bethel, Gilgal, and Mizpah, judging Israel in all these consecrated places.
+7:17 He would return to Armathaim, for his house was there. There he judged Israel, and there he built an altar to the Lord.
+
+1 SAMUEL 8
+
+8:1 When Samuel grew old, he appointed his sons as judges for Israel.
+8:2 These were his sons’ names: the firstborn was Joel, and the second son’s name was Abijah. They were judges in Beersheba.
+8:3 His sons did not walk in his way. They turned aside after completion, took bribes, and perverted ordinances.
+8:4 Israel’s men gathered and came to Samuel at Armathaim.
+8:5 They said to him, “Behold, you have grown old, and your sons do not walk in your way. Now appoint a king over us to judge us like the other nations.”
+8:6 The word was evil in Samuel’s eyes when they said, “Give us a king to judge us.” Samuel prayed to the Lord.
+8:7 The Lord said to Samuel, “Listen to the people’s voice in whatever they say to you. They have treated Me as nothing so that I should not reign over them; it is not you they have treated as nothing.
+8:8 As in all the deeds they have done to Me from the day I brought them up from Egypt until this day, forsaking Me and serving other gods, so they are doing to you as well.
+8:9 Now listen to their voice. But solemnly testify to them and report to them the claim of the king who will reign over them.”
+8:10 Samuel told the whole word of the Lord to the people who were asking him for a king.
+8:11 He said, “This will be the claim of the king who reigns over you: he will take your sons and appoint them to his chariots, his horsemen, and as runners before his chariots.
+8:12 He will appoint them for himself as commanders of thousands and commanders of hundreds, and set them to reap his harvest, gather his vintage, and make his weapons of war and his chariot equipment.
+8:13 He will take your daughters as perfumers, cooks, and bakers.
+8:14 He will take your fields, your vineyards, and your good olive groves and give them to his servants.
+8:15 He will take a tenth of your seed and your vineyards and give it to his eunuchs and his servants.
+8:16 He will take your male slaves, your female slaves, your good cattle herds, and your donkeys, and take a tenth for his work.
+8:17 He will take a tenth of your flocks, and you yourselves will become his slaves.
+8:18 On that day you will cry out because of the king you chose for yourselves, but the Lord will not hear you in those days, because you chose a king for yourselves.”
+8:19 The people would not listen to Samuel. They said to him, “No! There must be a king over us,
+8:20 so that we too may be like all the nations. Our king will judge us, go out before us, and fight our war.”
+8:21 Samuel heard all the people’s words and spoke them in the Lord’s ears.
+8:22 The Lord said to Samuel, “Listen to their voice and make a king reign for them.” Samuel said to Israel’s men, “Let each go off to his city.”
+
+1 SAMUEL 9
+
+9:1 There was a man from Benjamin’s sons named Kish son of Abiel, son of Sared, son of Bachir, son of Aphek, son of a Benjaminite man—a mighty man.
+9:2 He had a son named Saul, a tall, good man. No one among the sons of Israel was better than he; from his shoulders upward he was taller than all the land.
+9:3 The donkeys belonging to Kish, Saul’s father, were lost. Kish said to his son Saul, “Take one of the young servants with you. Arise, both of you, go, and look for the donkeys.”
+9:4 They passed through Ephraim’s hill country and through the land of Selcha, but did not find them. They passed through the land of Easakem, but there was nothing. They passed through the land of Jakim, but did not find them.
+9:5 When they came to Siph, Saul said to his young servant who was with him, “Come, let us return, lest my father leave the donkeys aside and worry about us.”
+9:6 The young servant said to him, “Behold, there is a man of God in this city, and the man is renowned. Everything he says will certainly come to pass. Let us go now so that he may tell us about the way we have traveled.”
+9:7 Saul said to his young servant who was with him, “If we go, what shall we bring the man of God? The loaves are gone from our containers, and we have nothing more of our possessions to bring the man of God.”
+9:8 The young servant answered Saul again: “Behold, I have a quarter-shekel of silver in my hand. You will give it to the man of God, and he will tell us our way.”
+9:9 Formerly in Israel, each person going to inquire of God would say, “Come, let us go to the seer,” for the people formerly called the prophet “the seer.”
+9:10 Saul said to his young servant, “The word is good. Come, let us go.” They went to the city where the man of God was.
+9:11 As they climbed the ascent to the city, they met girls who had come out to draw water. They said to them, “Is the seer here?”
+9:12 The girls answered them, “He is. Behold, he is ahead of you. He has come to the city now for the day, because the people have a sacrifice today at Bama.
+9:13 As soon as you enter the city, you will find him in the city before he goes up to Bama to eat. The people will certainly not eat until he enters, because he blesses the sacrifice; afterward the guests eat. Go up now, for you will find him during the day.”
+9:14 They went up to the city. As they entered the city’s interior, there was Samuel coming out to meet them on his way up to Bama.
+9:15 The Lord had uncovered Samuel’s ear one day before Saul came to him, saying,
+9:16 “About this time tomorrow I will send you a man from Benjamin’s land. Anoint him as ruler over My people Israel. He will save My people from the foreigners’ hand, for I have looked upon My people’s humiliation, because their cry has reached Me.”
+9:17 Samuel saw Saul, and the Lord answered him, “Here is the man of whom I spoke to you. This one will rule among My people.”
+9:18 Saul approached Samuel in the city’s interior and said, “Please tell me which is the seer’s house.”
+9:19 Samuel answered Saul, “I am he. Go up before me to Bama and eat with me today. I will send you away in the morning and tell you everything in your heart.
+9:20 As for your donkeys lost three days ago, do not set your heart on them: they have been found. To whom belong Israel’s beautiful things? Is it not to you and to your father’s house?”
+9:21 Saul answered, “Am I not the son of a Benjaminite man, from Israel’s small tribal division and from the smallest clan of Benjamin’s whole tribe? Why have you spoken such a word to me?”
+9:22 Samuel took Saul and his young servant, brought them into the lodging room, and gave them a place among the first of the invited guests, about seventy men.
+9:23 Samuel said to the cook, “Give me the portion I gave you, which I told you to set aside with you.”
+9:24 The cook lifted the haunch and set it before Saul. Samuel said to Saul, “Here is what remains. Set it before you and eat, for it has been set aside for you as a testimony apart from the others. Gnaw it.” Saul ate with Samuel that day.
+9:25 He came down from Bama into the city, and they spread bedding for Saul on the roof.
+9:26 And he slept. As dawn came up, Samuel called to Saul on the roof, “Arise, and I will send you away.” Saul got up, and he and Samuel went outside.
+9:27 As they went down toward the side of the city, Samuel said to Saul, “Tell the young man to go ahead of us. But you stand here a while and hear God’s word.”
+
+1 SAMUEL 10
+
+10:1 Samuel took the flask of oil, poured it on his head, kissed him, and said to him, “Has not the Lord anointed you as ruler over His people, over Israel? You will rule among the Lord’s people and save them from their enemies’ hand all around. This will be the sign to you that the Lord has anointed you as ruler over His inheritance:
+10:2 When you leave me today, you will find two men near Rachel’s tombs in Benjamin’s territory, leaping greatly. They will say to you, ‘The donkeys you both went to seek have been found. Your father has cast aside the matter of the donkeys and has spent lavishly on your account, saying, “What shall I do for my son?”’
+10:3 Go on farther from there until you reach Tabor’s oak. You will find three men there going up to God at Bethel: one carrying three young goats, one carrying three containers of loaves, and one carrying a skin of wine.
+10:4 They will ask about your welfare and give you two first portions of loaves, and you shall accept them from their hand.
+10:5 Afterward you will enter God’s hill, where the foreigners’ station is—there is Nasib the foreigner. When you both enter the city there, you will meet a chorus of prophets coming down from Bama, with a nabla, tambourine, pipe, and kinyra before them, and they will be prophesying.
+10:6 The Lord’s Spirit will leap upon you. You will prophesy with them and be changed into another man.
+10:7 When these signs come upon you, do everything your hand finds, for God is with you.
+10:8 Go down before Gilgal. I will come down to you to offer a whole burnt offering and peace sacrifices. Wait seven days until I come to you; then I will make known to you what you must do.”
+10:9 As he turned his shoulder to leave Samuel, God changed his heart to another heart, and all the signs came that day.
+10:10 He came from there to the hill, and a chorus of prophets was facing him. God’s Spirit leaped upon him, and he prophesied among them.
+10:11 All who had known him before saw him among the prophets. The people said to one another, “What has happened to Kish’s son? Is Saul also among the prophets?”
+10:12 One of them answered, “And who is his father?” That is why it became a proverb: “Is Saul also among the prophets?”
+10:13 He finished prophesying and came to the hill.
+10:14 His relative said to him and his young servant, “Where did you go?” They said, “To look for the donkeys. When we saw they were not there, we came to Samuel.”
+10:15 The relative said to Saul, “Please tell me what Samuel said to you.”
+10:16 Saul said to his relative, “He plainly told me that the donkeys had been found.” But he did not tell him the word about the kingship.
+10:17 Samuel summoned all the people to the Lord at Mizpah.
+10:18 He said to the sons of Israel, “Thus says the Lord, Israel’s God: ‘I brought the sons of Israel up from Egypt and rescued you from the hand of Pharaoh king of Egypt and from all the kingdoms oppressing you.’
+10:19 Yet today you have treated God as nothing, the One who is your Saviour from all your evils and distresses. You have said, ‘No! You must establish a king over us.’ Now stand before the Lord by your tribes and your clans.”
+10:20 Samuel brought all Israel’s tribes near, and Benjamin’s tribe was selected by lot.
+10:21 He brought Benjamin’s tribe near by clans. Mattari’s clan was selected by lot. They brought Mattari’s clan near man by man, and Saul son of Kish was selected by lot. He looked for him, but he could not be found.
+10:22 Samuel inquired of the Lord again, “Is the man coming here?” The Lord said, “Behold, he has hidden among the baggage.”
+10:23 He ran and brought him from there and stationed him among the people. He rose above all the people from his shoulders upward.
+10:24 Samuel said to all the people, “Have you seen the one the Lord has chosen for Himself? There is no one like him among all of you.” All the people acknowledged it and said, “May the king live!”
+10:25 Samuel spoke to the people about the king’s claim, wrote it in a scroll, and placed it before the Lord. Samuel sent all the people away, and each went to his place.
+10:26 Saul went to his house in Gibeah. Sons of might whose hearts the Lord had touched went with Saul.
+10:27 But pestilent men said, “How can this one save us?” They dishonoured him and brought him no gifts.
+
+1 SAMUEL 11
+
+11:1 About a month later, Nahash the Ammonite went up and camped against Jabesh-gilead. All Jabesh’s men said to Nahash the Ammonite, “Make a covenant with us, and we will serve you.”
+11:2 Nahash the Ammonite said to them, “On this condition I will make a covenant with you: I will gouge out every right eye among you and place a disgrace upon Israel.”
+11:3 Jabesh’s men said to him, “Give us seven days’ respite so that we may send messengers throughout Israel’s territory. If there is no one to save us, we will come out to you all.”
+11:4 The messengers came to Gibeah, to Saul, and spoke the words in the people’s ears. All the people raised their voices and wept.
+11:5 Saul was coming from the field after the morning. Saul said, “Why are the people weeping?” They recounted to him the words of Jabesh’s sons.
+11:6 The Lord’s Spirit leaped upon Saul when he heard these words, and his anger burned fiercely against them.
+11:7 He took two oxen, cut them in pieces, and sent them by messengers’ hand throughout Israel’s territory, saying, “Whoever does not come out after Saul and Samuel—they will do this to his oxen!” Terror from the Lord came upon Israel’s people, and they cried out as one man.
+11:8 Abiezek mustered them in Bama: all Israel’s men numbered six hundred thousand, and Judah’s men seventy thousand.
+11:9 He said to the messengers who had come, “Say this to Jabesh’s men: ‘Tomorrow, when the sun grows hot, you will have deliverance.’” The messengers came into the city and told Jabesh’s men, and they rejoiced.
+11:10 Jabesh’s men said to Nahash the Ammonite, “Tomorrow we will come out to you, and you may do to us what is good before you.”
+11:11 After the next day, Saul divided the people into three companies. They entered the middle of the camp during the morning watch and struck Ammon’s sons until the day grew hot. The survivors scattered, and no two of them were left together.
+11:12 The people said to Samuel, “Who said, ‘Saul will not reign over us’? Hand over the men so that we may put them to death.”
+11:13 Saul said, “No one shall die this day, for today the Lord has worked deliverance in Israel.”
+11:14 Samuel said to the people, “Let us go to Gilgal and renew the kingship there.”
+11:15 All the people went to Gilgal. There Samuel anointed Saul as king before the Lord at Gilgal and sacrificed sacrifices and peace offerings before the Lord. Samuel and all Israel rejoiced exceedingly.
+
+1 SAMUEL 12
+
+12:1 Samuel said to every man of Israel, “Behold, I have listened to your voice in everything you said to me, and I have made a king reign over you.
+12:2 Now the king walks before you. I have grown old and will sit down, and my sons are here among you. I have walked before you from my youth to this day.
+12:3 Here I am. Answer against me before the Lord and before His anointed: Whose calf have I taken? Whose donkey have I taken? Which of you have I tyrannized? Whom have I squeezed? From whose hand have I taken an appeasing payment and a sandal? Answer against me, and I will repay you.”
+12:4 They said to Samuel, “You have not wronged us or tyrannized us or crushed us, and you have taken nothing from anyone’s hand.”
+12:5 Samuel said to the people, “The Lord is witness among you, and His anointed is witness today, on this day, that you have found nothing in my hand.” They said, “Witness.”
+12:6 Samuel said to the people, “The Lord is witness, He who made Moses and Aaron what they were and brought our fathers up from Egypt.
+12:7 Now take your stand, and I will judge you before the Lord and report to you all the Lord’s righteousness that He worked among you and your fathers.
+12:8 When Jacob and his sons entered Egypt, Egypt humbled them. Our fathers cried to the Lord, and the Lord sent Moses and Aaron. He brought our fathers out of Egypt and settled them in this place.
+12:9 They forgot the Lord their God, and He sold them into the hands of Sisera, commander-in-chief of Jabin king of Hazor, into the foreigners’ hands, and into the hands of Moab’s king, who fought against them.
+12:10 They cried to the Lord and said, ‘We have sinned, for we have forsaken the Lord and served the Baalim and the groves. Now rescue us from our enemies’ hand, and we will serve Thee.’
+12:11 The Lord sent Jerubbaal, Barak, Jephthah, and Samuel. He rescued you from your enemies’ hand all around, and you lived confidently.
+12:12 When you saw Nahash, king of Ammon’s sons, coming against you, you said, ‘No! A king must reign over us,’ although the Lord our God was our king.
+12:13 Now here is the king you chose. Behold, the Lord has placed a king over you.
+12:14 If you fear the Lord, serve Him, listen to His voice, and do not contend against the Lord’s mouth, and if both you and the king who reigns over you go after the Lord—
+12:15 But if you do not listen to the Lord’s voice and contend against the Lord’s mouth, the Lord’s hand will be against you and your king.
+12:16 Now stand and see this great thing that the Lord will do before your eyes.
+12:17 Is it not wheat harvest today? I will call upon the Lord, and He will send thunder and rain. Know and see that the evil you have done before the Lord by asking a king for yourselves is great.”
+12:18 Samuel called upon the Lord, and the Lord sent thunder and rain that day. All the people greatly feared the Lord and Samuel.
+12:19 All the people said to Samuel, “Pray to the Lord your God for your servants, and we will certainly not die. We have added to all our sins the evil of asking a king for ourselves.”
+12:20 Samuel said to the people, “Do not fear. You have done all this evil, but do not turn aside from following the Lord. Serve the Lord with all your heart.
+12:21 Do not turn aside after things that are nothing, which accomplish nothing and cannot rescue, for they are nothing.
+12:22 The Lord will not reject His people for His great name’s sake, because the Lord graciously took you to Himself as a people.
+12:23 As for me, may I never sin against the Lord by ceasing to pray for you. I will serve the Lord and show you the good and straight way.
+12:24 Only fear the Lord and serve Him in truth and with all your heart, for you have seen how greatly He has acted for you.
+12:25 But if you wickedly do evil, both you and your king will be added.”
+
+1 SAMUEL 13
+
+13:2 Saul chose three thousand men from Israel’s men for himself. Two thousand were with Saul at Michmash and on Bethel’s hill, and one thousand were with Jonathan in Benjamin’s Geba. He sent the rest of the people away, each to his tent.
+13:3 Jonathan struck Nasib the foreigner on the hill, and the foreigners heard. Saul sounded a trumpet throughout the land, saying, “The slaves have rebelled!”
+13:4 All Israel heard people saying, “Saul has struck Nasib the foreigner, and Israel has been put to shame among the foreigners.” The people cried out after Saul at Gilgal.
+13:5 The foreigners gathered for war against Israel. They went up against Israel with thirty thousand chariots, six thousand horsemen, and people as numerous as the sand by the sea. They went up and camped at Michmash, opposite Baithon toward the south.
+13:6 The men of Israel saw that they were in straits and could not advance. The people hid in caves, enclosures, rocks, trenches, and pits.
+13:7 Those crossing crossed the Jordan into Gad’s land and Gilead. Saul was still at Gilgal, and all the people were terrified behind him.
+13:8 He waited seven days for the testimony, as Samuel had said, but Samuel did not arrive at Gilgal, and his people scattered away from him.
+13:9 Saul said, “Bring them forward so that I may make a whole burnt offering and peace offerings.” He offered the whole burnt offering.
+13:10 Just as he finished offering the whole burnt offering, Samuel arrived. Saul went out to meet him and bless him.
+13:11 Samuel said, “What have you done?” Saul said, “I saw the people scattering away from me, you had not come as you had ordered at the testimony of the days, and the foreigners had gathered at Michmash.
+13:12 I said, ‘Now the foreigners will come down against me at Gilgal, and I have not entreated the Lord’s face.’ So I mastered myself and offered the whole burnt offering.”
+13:13 Samuel said to Saul, “It has come to nothing for you, because you have not kept my commandment that the Lord commanded you. For now the Lord had prepared your kingdom over Israel for ever.
+13:14 But now your kingdom will not stand. The Lord will seek for Himself a man according to His heart, and the Lord will appoint him as ruler over His people, because you have not kept everything the Lord commanded you.”
+13:15 Samuel rose and went away from Gilgal on his way. The rest of the people went up after Saul to meet, following the fighting people. When they came from Gilgal to Benjamin’s Gibeah, Saul mustered the people who were with him, about six hundred men.
+13:16 Saul, his son Jonathan, and the people who were with them stayed in Benjamin’s Geba and wept, while the foreigners had camped at Michmash.
+13:17 A destroying force went out from the foreigners’ country in three companies. One company faced the road to Gophera, toward the land of Sogal;
+13:18 one company faced the road to Beth-horon; and one company faced the road to Geba overlooking Gai, the Sabin.
+13:19 No ironworker could be found throughout Israel’s land, for the foreigners had said, “The Hebrews must not make sword and spear.”
+13:20 All Israel went down into the foreigners’ land, each man to have his reaping tool, his implement, his axe, and his sickle worked at the forge.
+13:21 The vintage was ready for reaping. The implements were three shekels per tooth, and for the axe and the sickle the rate was the same.
+13:22 In the days of the war at Michmash, neither sword nor spear was found in the hand of any of the people with Saul and Jonathan; they were found with Saul and his son Jonathan.
+13:23 He went out from the foreigners’ station, the one beyond Michmash.
+
+1 SAMUEL 14
+
+14:1 One day Jonathan son of Saul said to the young servant carrying his equipment, “Come, let us cross to the foreigners’ messab over on that side.” He did not tell his father.
+14:2 Saul was sitting at the hill’s summit beneath the pomegranate tree in Magdon. About six hundred men were with him.
+14:3 Ahijah son of Ahitub, Jochabed’s brother, son of Phinehas, son of Eli, was God’s priest in Shiloh, bearing an ephoud. The people did not know Jonathan had gone.
+14:4 Within the crossing where Jonathan sought to cross to the foreigners’ station was a rocky promontory on one side and a rocky promontory on the other. One was named Bazes and the other Senna.
+14:5 One road approached Michmash from the north, and the other road approached Geba from the south.
+14:6 Jonathan said to the young servant carrying his equipment, “Come, let us cross to these uncircumcised men’s messab. Perhaps the Lord will do something for us, for the Lord is not constrained from saving by many or by few.”
+14:7 The one carrying his equipment said to him, “Do everything to which your heart inclines. Here I am with you: my heart is as your heart.”
+14:8 Jonathan said, “We will cross to the men and roll down toward them.
+14:9 If they say to us, ‘Stay back there until we tell you,’ we will stand on our own and certainly not go up against them.
+14:10 But if they say to us, ‘Come up to us,’ we will go up, for the Lord has handed them into our hands. This will be our sign.”
+14:11 The two of them entered the foreigners’ messab. The foreigners said, “Behold, the Hebrews are coming out of their holes where they were hiding.”
+14:12 The men of the messab called to Jonathan and the one carrying his equipment, “Come up to us, and we will let you know a word.” Jonathan said to the one carrying his equipment, “Come up after me, for the Lord has handed them into Israel’s hands.”
+14:13 Jonathan climbed up on his hands and feet, with the one carrying his equipment beside him. They looked Jonathan in the face, and he struck them; the one carrying his equipment kept following behind him.
+14:14 The first blow Jonathan and the one carrying his equipment struck was about twenty men, with darts, stone-throwers, and pebbles of the plain.
+14:15 There was terror in the camp and in the field. All the people in the messab and the destroyers were terrified, and they were unwilling to act. The earth was astonished, and there was terror from the Lord.
+14:16 Saul’s lookouts in Benjamin’s Geba saw the camp in turmoil this way and that.
+14:17 Saul said to the people with him, “Please muster and see who has gone from you.” They mustered, and Jonathan and the one carrying his equipment could not be found.
+14:18 Saul said to Ahijah, “Bring the ephoud near.” For he was bearing the ephoud before Israel that day.
+14:19 While Saul spoke to the priest, the sound in the foreigners’ camp kept growing louder. Saul said to the priest, “Withdraw your hands.”
+14:20 Saul and all the people with him cried out and came to the battle. Each man’s sword was against his neighbour, with exceedingly great confusion.
+14:21 The slaves who had previously been with the foreigners and had gone up into the camp also turned to join Israel with Saul and Jonathan.
+14:22 All Israel hiding on Ephraim’s hill heard that the foreigners had fled. They too joined in behind them for battle.
+14:23 The Lord saved Israel that day. The battle passed beyond Baithon, and all the people with Saul numbered about ten thousand men. The battle spread through the whole city in Ephraim’s hill country.
+14:24 Saul acted with great ignorance that day and laid a curse upon the people: “Cursed is the man who eats bread before evening, until I take vengeance on my enemy.” None of the people tasted bread.
+14:25 All the land was eating a meal. There was an iaar, a wooded bee-place, facing the field.
+14:26 The people entered the bee-place. There he was, going along and speaking; no one was bringing his hand back to his mouth, for the people feared the Lord’s oath.
+14:27 Jonathan had not heard when his father put the people under oath. He stretched out the tip of the staff in his hand, dipped it into the honeycomb, and brought his hand back to his mouth. His eyes looked up.
+14:28 One of the people said, “Your father solemnly put the people under oath, saying, ‘Cursed is the man who eats bread today.’” The people were exhausted.
+14:29 Jonathan understood and said, “My father has dismissed the land. See how my eyes have seen because I tasted a little of this honey.
+14:30 If the people had eaten freely today from their enemies’ spoils that they found, the blow against the foreigners would now have been greater.”
+14:31 He struck some of the foreigners at Michmash that day, and the people were exceedingly weary.
+14:32 The people turned to the spoils. They took flocks, cattle herds, and calves, slaughtered them on the ground, and ate with the blood.
+14:33 Saul was told, “The people have sinned against the Lord by eating with the blood.” Saul said at Geththem, “Roll a large stone here to me.”
+14:34 Saul said, “Scatter among the people and tell them to bring here each man his calf and each man his sheep. Let him slaughter it upon this, and you will certainly not sin against the Lord by eating with the blood.” All the people brought what was in their hands and slaughtered there.
+14:35 Saul built an altar there to the Lord. This was the altar Saul began to build to the Lord.
+14:36 Saul said, “Let us go down after the foreigners by night and plunder them until daybreak. Let us leave none of their men.” They said, “Do whatever is good before you.” The priest said, “Let us draw near here to God.”
+14:37 Saul inquired of God, “Shall I go down after the foreigners? Wilt Thou hand them into Israel’s hands?” But He did not answer him that day.
+14:38 Saul said, “Bring here all Israel’s chiefs. Find out and see in whom this sin has occurred today.
+14:39 As the Lord lives, who saved Israel, if an answer is given against my son Jonathan, he must certainly die.” But none of all the people answered.
+14:40 He said to all Israel, “You will be in servitude, and my son Jonathan and I will be in servitude.” The people said to Saul, “Do what is good before you.”
+14:41 Saul said, “Lord, Israel’s God, why hast Thou not answered Thy servant today? If the wrongdoing is in me or my son Jonathan, Lord, Israel’s God, give clear signs. But if Thou sayest it is in Thy people Israel, give holiness.” Jonathan and Saul were selected by lot, and the people went free.
+14:42 Saul said, “Cast between me and my son Jonathan. Let the one whom the Lord selects by lot die.” The people said to Saul, “This must not be!” Saul prevailed over the people. They cast between him and his son Jonathan, and Jonathan was selected by lot.
+14:43 Saul said to Jonathan, “Tell me what you have done.” Jonathan told him, “I did taste a little honey with the tip of the staff in my hand. Here I am; I am dying.”
+14:44 Saul said to him, “May God do so to me and add still more, for you must certainly die today.”
+14:45 The people said to Saul, “Must the one who worked this great deliverance in Israel be put to death today? As the Lord lives, not one hair of his head shall fall to the ground, for God’s people have worked this day.” The people prayed for Jonathan that day, and he did not die.
+14:46 Saul went up from pursuing the foreigners, and the foreigners went to their own place.
+14:47 Saul was allotted a task over Israel and fought all his enemies around him: Moab, Ammon’s sons, Edom’s sons, Baitheor, Zobah’s king, and the foreigners. Wherever he turned, he was delivered.
+14:48 He acted mightily, struck Amalek, and rescued Israel from the hand of those trampling it.
+14:49 Saul’s sons were Jonathan, Jessiu, and Melchisa. His two daughters’ names were Merab, the firstborn, and Michal, the second.
+14:50 His wife’s name was Ahinoam daughter of Ahimaaz. His commander-in-chief’s name was Abner son of Ner, son of Saul’s relative.
+14:51 Kish was Saul’s father, and Ner, Abner’s father, was Jamin’s son, Abiel’s grandson.
+14:52 War against the foreigners was fierce throughout Saul’s days. Whenever Saul saw a mighty man or a son of might, he gathered them to himself.
+
+1 SAMUEL 15
+
+15:1 Samuel said to Saul, “The Lord sent me to anoint you king over Israel. Now listen to the Lord’s voice.
+15:2 Thus says the Lord Sabaoth: ‘Now I will avenge what Amalek did to Israel, how he met him on the way when he came up from Egypt.
+15:3 Now go and strike Amalek and Jerim and everything he has. Preserve nothing of his. Destroy him and place him and everything he has under the ban. Do not spare him. Kill man and woman, child and nursing infant, calf and sheep, camel and donkey.’”
+15:4 Saul summoned the people and mustered them at Gilgal: four hundred thousand troops and thirty thousand troops of Judah.
+15:5 Saul came to Amalek’s cities and lay in ambush in the wadi.
+15:6 Saul said to the Kenite, “Go away and turn aside from among the Amalekite, lest I add you with him. You showed mercy to Israel’s sons when they came up from Egypt.” The Kenite withdrew from among Amalek.
+15:7 Saul struck Amalek from Havilah to Shur, facing Egypt.
+15:8 He captured Agag, Amalek’s king, alive and killed all the people of Jerim by the sword’s edge.
+15:9 Saul and all the people preserved Agag alive, the good things of the flocks, cattle herds, foods, vineyards, and everything good. He was unwilling to destroy them. But every despised and disregarded thing they destroyed.
+15:10 The Lord’s word came to Samuel, saying,
+15:11 “I have been consoled that I made Saul king, for he has turned back from following Me and has not kept My words.” Samuel lost heart and cried to the Lord all night.
+15:12 Samuel rose early and went to meet Israel in the morning. Samuel was told, “Saul has come to Carmel, erected a hand for himself, and turned the chariot around.” He went down to Saul at Gilgal, where he was offering the first of the spoils brought from Amalek as a whole burnt offering to the Lord.
+15:13 Samuel arrived at Saul, and Saul said to him, “Blessed are you by the Lord! I have established everything the Lord spoke.”
+15:14 Samuel said, “What is this sound of the flock in my ears, and the sound of oxen that I hear?”
+15:15 Saul said, “I brought them from Amalek—the best of the flock and the oxen that the people preserved—to be sacrificed to the Lord your God. I destroyed the rest.”
+15:16 Samuel said to Saul, “Stop, and I will tell you what the Lord spoke to me in the night.” He said to him, “Speak.”
+15:17 Samuel said to Saul, “Are you not small before Him, a leader of a tribal division of Israel? The Lord anointed you king over Israel.
+15:18 The Lord sent you on a mission and said to you, ‘Go and destroy those sinning against Me, Amalek. Fight them until you finish them.’
+15:19 Why did you not listen to the Lord’s voice, but rush to lay hold of the spoils and do evil before the Lord?”
+15:20 Saul said to Samuel, “Because I listened to the people’s voice. I went on the mission the Lord sent me on, brought Agag, Amalek’s king, and destroyed Amalek.
+15:21 The people took flocks and cattle herds from the spoils, the first of what was marked for destruction, to sacrifice before the Lord our God at Gilgal.”
+15:22 Samuel said, “Are whole burnt offerings and sacrifices as desirable to the Lord as listening to the Lord’s voice? Behold, obedience is better than sacrifice, and attentiveness than the fat of rams.
+15:23 Divination is sin; teraphim bring sorrow and troubles. Because you treated the Lord’s word as nothing, the Lord will treat you as nothing, so that you will not be king over Israel.”
+15:24 Saul said to Samuel, “I have sinned. I transgressed the Lord’s word and your word, for I feared the people and listened to their voice.
+15:25 Now please take away my sin and return with me so that I may bow down to the Lord your God.”
+15:26 Samuel said to Saul, “I will not return with you, for you treated the Lord’s word as nothing, and the Lord will treat you as nothing, so that you will not be king over Israel.”
+15:27 Samuel turned his face to leave. Saul seized the edge of his double cloak and tore it.
+15:28 Samuel said to him, “The Lord has torn Israel’s kingdom from your hand today and will give it to your neighbour, who is better than you.
+15:29 Israel will be divided in two. He will not turn back or change His mind, for He is not like a human being who changes his mind.”
+15:30 Saul said, “I have sinned. But please honour me before Israel’s elders and before my people. Return with me so that I may bow down to the Lord your God.”
+15:31 Samuel returned after Saul, and he bowed down to the Lord.
+15:32 Samuel said, “Bring Agag, Amalek’s king, to me.” Agag approached him trembling. Agag said, “Is death so bitter?”
+15:33 Samuel said to Agag, “As your sword has made women childless, so your mother shall be made childless among women.” Samuel slaughtered Agag before the Lord at Gilgal.
+15:34 Samuel went to Armathaim, and Saul went up to his house in Gibeah.
+15:35 Samuel did not see Saul again until the day of his death, for Samuel mourned over Saul. The Lord regretted that He had made Saul king over Israel.
+
+1 SAMUEL 16
+
+16:1 The Lord said to Samuel, “How long will you mourn over Saul, when I have treated him as nothing so that he should not reign over Israel? Fill your horn with oil and come. I will send you to Jesse, to Bethlehem, for I have seen one among his sons to reign for Me.”
+16:2 Samuel said, “How can I go? Saul will hear and kill me.” The Lord said, “Take a heifer in your hand and say, ‘I have come to sacrifice to the Lord.’
+16:3 Invite Jesse to the sacrifice. I will make known to you what you must do, and you shall anoint the one I name to you.”
+16:4 Samuel did everything the Lord had spoken to him and came to Bethlehem. The city’s elders were terrified at meeting him and said, “Do you enter in peace, seer?”
+16:5 He said, “In peace. I have come to sacrifice to the Lord. Consecrate yourselves and rejoice with me today.” He consecrated Jesse and his sons and invited them to the sacrifice.
+16:6 When they came in, he saw Eliab and said, “Surely His anointed is before the Lord.”
+16:7 The Lord said to Samuel, “Do not look at his appearance or the bearing of his height, for I have treated him as nothing. God does not see as a human looks: a human looks at the face, but God looks at the heart.”
+16:8 Jesse called Aminadab, and he passed before Samuel. He said, “The Lord has not chosen this one either.”
+16:9 Jesse made Shammah pass by. He said, “The Lord has not chosen this one either.”
+16:10 Jesse made his seven sons pass before Samuel. Samuel said, “The Lord has not chosen among these.”
+16:11 Samuel said to Jesse, “Are these all the boys?” He said, “There is still the youngest; he is tending the flock.” Samuel said to Jesse, “Send and fetch him, for we will certainly not recline until he comes.”
+16:12 He sent and brought him. He was ruddy, with beautiful eyes, and good to look upon before the Lord. The Lord said to Samuel, “Rise and anoint David, for this one is good.”
+16:13 Samuel took the horn of oil and anointed him among his brothers. The Lord’s Spirit leaped upon David from that day onward. Samuel rose and went to Armathaim.
+16:14 The Lord’s Spirit departed from Saul, and an evil spirit from the Lord choked him.
+16:15 Saul’s servants said to him, “An evil spirit of the Lord is choking you.
+16:16 Let your servants speak before you and seek for our lord a man skilled in playing a kinyra. When an evil spirit is upon you, he will play his kinyra, and it will be well with you; he will give you rest.”
+16:17 Saul said to his servants, “Please find me a man who plays properly and bring him to me.”
+16:18 One of his young servants answered, “I have seen a son of Jesse, a Beth-lehemite, skilled in playing. The man is discerning, a warrior, wise in speech, and good in appearance; the Lord is with him.”
+16:19 Saul sent messengers to Jesse, saying, “Send me your son David, who is with your flock.”
+16:20 Jesse took a gomor of loaves, a skin of wine, and one young goat, and sent them by the hand of his son David to Saul.
+16:21 David came to Saul and stood before him. He loved him greatly, and he became the one carrying his equipment.
+16:22 Saul sent to Jesse, saying, “Please let David stand before me, for he has found favour in my eyes.”
+16:23 Whenever an evil spirit came upon Saul, David took the kinyra and played with his hand. Saul was refreshed, and it was well with him, and the evil spirit departed from him.
+
+1 SAMUEL 17
+
+17:1 The foreigners gathered their camps for war and assembled at Soccoth in Judea. They camped between Soccoth and Azekah at Epher-mem.
+17:2 Saul and Israel’s men gathered and camped in the valley. They drew up for war opposite the foreigners.
+17:3 The foreigners stood on the mountain on one side, and Israel stood on the mountain on the other, with the ravine between them.
+17:4 A mighty man came out from the foreigners’ battle line, named Goliath, from Gath. His height was four cubits and a span.
+17:5 A helmet was on his head, and he wore a coat of chain armour. His armour’s weight was five thousand shekels of bronze and iron.
+17:6 Bronze greaves were on his legs, and a bronze shield was between his shoulders.
+17:7 His spear’s shaft was like a weavers’ beam, and its iron head weighed six hundred shekels. The one carrying his weapons walked before him.
+17:8 He stood and shouted to Israel’s battle line, “Why have you come out to draw up for war opposite us? Am I not a foreigner, and are you not Saul’s Hebrews? Choose a man for yourselves and let him come down to me.
+17:9 If he can fight me and strike me down, we will become your slaves. But if I prevail and strike him down, you will become our slaves and serve us.”
+17:10 The foreigner said, “Behold, I have defied Israel’s battle line today, on this day. Give me a man, and let the two of us fight in single combat.”
+17:11 Saul and all Israel heard these words of the foreigner and were terrified and exceedingly afraid.
+17:32 David said to Saul, “Let my lord’s heart not collapse because of him. Your servant will go and fight this foreigner.”
+17:33 Saul said to David, “You certainly cannot go against the foreigner to fight him. You are a boy, and he has been a warrior from his youth.”
+17:34 David said to Saul, “Your servant tended his father’s flock. Whenever a lion or a bear came and took a sheep from the herd,
+17:35 I went after it, struck it, and pulled the sheep from its mouth. If it rose against me, I seized its throat, struck it, and killed it.
+17:36 Your servant struck both bear and lion. The uncircumcised foreigner will be like one of them. Shall I not go and strike him and remove disgrace from Israel today? For who is this uncircumcised man who has defied the battle line of the living God?
+17:37 The Lord, who rescued me from the lion’s paw and the bear’s paw, will rescue me from this uncircumcised foreigner’s hand.” Saul said to David, “Go, and the Lord will be with you.”
+17:38 Saul clothed David in a cloak and set a bronze helmet around his head.
+17:39 He strapped his sword on David over his cloak. David became weary after walking once or twice. David said to Saul, “I certainly cannot walk in these, for I am not practiced.” They took them off him.
+17:40 He took his staff in his hand, chose five smooth stones from the wadi, and put them in the shepherd’s little vessel he had for collecting. His sling was in his hand, and he approached the foreign man.
+17:42 Goliath saw David and dishonoured him, for he was a boy, ruddy, with beautiful eyes.
+17:43 The foreigner said to David, “Am I like a dog, that you come against me with a staff and stones?” David said, “No, you are worse than a dog.” The foreigner cursed David by his gods.
+17:44 The foreigner said to David, “Come to me, and I will give your flesh to the birds of heaven and the animals of the land.”
+17:45 David said to the foreigner, “You come to me with sword, spear, and shield. I come to you in the name of the Lord Sabaoth, God of Israel’s battle line, which you have defied today.
+17:46 This day the Lord will shut you into my hand. I will kill you and remove your head from you. This day I will give your limbs and the limbs of the foreigners’ camp to the birds of heaven and the beasts of the earth, and all the earth will know that there is a God in Israel.
+17:47 All this assembly will know that the Lord does not save by sword and spear. The battle belongs to the Lord, and the Lord will hand you all into our hands.”
+17:48 The foreigner rose and went to meet David.
+17:49 David reached his hand into the little vessel, took one stone from it, slung it, and struck the foreigner on his forehead. The stone passed through the helmet into his forehead, and he fell face down to the ground.
+17:51 David ran and stood over him, took his sword, killed him, and removed his head. When the foreigners saw that their mighty man was dead, they fled.
+17:52 Israel’s and Judah’s men rose with a shout and pursued them as far as Gath’s entrance and Ashkelon’s gate. Wounded foreigners fell along the road of the gates, as far as Gath and Ekron.
+17:53 Israel’s men turned back from following the foreigners and trampled their camps.
+17:54 David took the foreigner’s head and brought it to Jerusalem. He placed his equipment in his tent.
+
+1 SAMUEL 18
+
+18:6 The dancing women came out from all Israel’s cities to meet David, with tambourines, joy, and cymbals.
+18:7 The women led the song and said, “Saul has struck his thousands, and David his tens of thousands.”
+18:8 The saying appeared evil in Saul’s eyes concerning this matter, and he said, “They have given David the tens of thousands, but to me they have given the thousands.”
+18:9 Saul kept looking askance at David from that day onward.
+18:12 Saul was afraid of David.
+18:13 He removed him from his presence and appointed him a commander of a thousand for himself. He went out and came in before the people.
+18:14 David showed understanding in all his ways, and the Lord was with him.
+18:15 Saul saw that he showed great understanding, and he was wary of him.
+18:16 All Israel and Judah loved David, because he went out and came in before the people.
+18:20 Saul’s daughter Michal loved David. It was reported to Saul, and it was right in his eyes.
+18:21 Saul said, “I will give her to him, and she will be a snare to him.” The foreigners’ hand was against Saul.
+18:22 Saul commanded his servants, saying, “Speak secretly to David, saying, ‘Behold, the king delights in you, and all his servants love you. Become the king’s son-in-law.’”
+18:23 Saul’s servants spoke these words in David’s ears. David said, “Is it a light thing in your eyes to become a king’s son-in-law? I am a lowly man, without renown.”
+18:24 Saul’s servants reported to him according to these words that David had spoken.
+18:25 Saul said, “This is what you shall say to David: ‘The king desires no gift, only a hundred foreigners’ foreskins, to take vengeance on the king’s enemies.’” Saul planned to throw him into the foreigners’ hands.
+18:26 Saul’s servants reported these words to David, and the matter of becoming the king’s son-in-law was right in David’s eyes.
+18:27 David rose and went, he and his men, and struck a hundred men among the foreigners. He brought their foreskins to the king and became the king’s son-in-law. He gave him Michal, his daughter, as a wife.
+18:28 Saul saw that the Lord was with David, and all Israel loved him.
+18:29 He grew still more wary of David.
+
+1 SAMUEL 19
+
+19:1 Saul spoke to his son Jonathan and to all his servants about putting David to death. But Saul’s son Jonathan greatly favoured David.
+19:2 Jonathan told David, saying, “Saul seeks to put you to death. So be on your guard tomorrow morning, hide, and remain concealed.
+19:3 I will go out and stand beside my father in the field where you may be. I will speak about you to my father, see what happens, and report to you.”
+19:4 Jonathan spoke good things about David to his father Saul and said to him, “Let the king not sin against your servant David, for he has not sinned against you, and his deeds are very good.
+19:5 He placed his soul in his hand and struck the foreigner, and the Lord brought about a great deliverance. All Israel saw and rejoiced. Why do you sin against innocent blood by putting David to death without cause?”
+19:6 Saul listened to Jonathan’s voice, and Saul swore, saying, “As the Lord lives, he shall not die.”
+19:7 Jonathan called David and told him all these words. Jonathan brought David to Saul, and he was before him as in former days.
+19:8 War broke out again against Saul. David grew strong, fought the foreigners, and struck them with a very great blow, and they fled before him.
+19:9 An evil spirit of God came upon Saul while he was sleeping in the house with a spear in his hand. David was playing with his hands.
+19:10 Saul sought to drive the spear into David, but David moved away from Saul, and Saul drove the spear into the wall. David withdrew and escaped.
+19:11 That night Saul sent messengers to David’s house to watch him so as to put him to death in the morning. His wife Michal told David, saying, “If you do not save your own soul this night, tomorrow you will be put to death.”
+19:12 Michal lowered David through the window. He went away, fled, and was saved.
+19:13 Michal took the funerary images and placed them on the bed. She put the goats’ liver at its head and covered them with a garment.
+19:14 Saul sent messengers to take David, and they said that he was ill.
+19:15 He sent for David, saying, “Bring him to me on the bed, so that I may put him to death.”
+19:16 The messengers came, and there were the funerary images on the bed, with the goats’ liver at its head.
+19:17 Saul said to Michal, “Why have you deceived me this way and sent my enemy away, so that he escaped?” Michal said to Saul, “He said, ‘Send me away; otherwise I will kill you.’”
+19:18 David fled and escaped. He came to Samuel at Armathaim and told him all that Saul had done to him. David and Samuel went and stayed at Nauath in Ramah.
+19:19 It was reported to Saul, saying, “Behold, David is at Nauath in Ramah.”
+19:20 Saul sent messengers to take David. They saw the assembly of prophets, with Samuel standing, appointed over them. The Spirit of God came upon Saul’s messengers, and they prophesied.
+19:21 It was reported to Saul, and he sent other messengers; they too prophesied. Saul sent messengers a third time, and they too prophesied.
+19:22 Saul burned with anger and went himself to Armathaim. He came as far as the well of the threshing floor at Sephi and asked, “Where are Samuel and David?” They said, “Behold, at Nauath in Ramah.”
+19:23 He went from there to Nauath in Ramah. The Spirit of God came upon him too, and he went on prophesying until he came to Nauath in Ramah.
+19:24 He stripped off his garments and prophesied before them. He fell naked all that day and all the night. Therefore they said, “Is Saul also among the prophets?”
+
+1 SAMUEL 20
+
+20:1 David escaped from Nauath in Ramah. He came before Jonathan and said, “What have I done? What is my wrong, and how have I sinned before your father, that he seeks my soul?”
+20:2 Jonathan said to him, “By no means shall that happen to you! You certainly shall not die. Behold, my father will certainly do nothing great or small without uncovering my ear. Why would my father hide this matter? It is not so.”
+20:3 David answered Jonathan and said, “Your father knows well that I have found favour in your eyes. He says, ‘Let Jonathan not know this, lest he refuse.’ But as the Lord lives and as your soul lives, as I said, the space between me and death has been filled.”
+20:4 Jonathan said to David, “What does your soul desire, and what shall I do for you?”
+20:5 David said to Jonathan, “Behold, tomorrow is the new moon, and I will certainly not sit with the king to eat. Let me go, so that I may hide in the plain until evening.
+20:6 If your father inquires after me, say, ‘David earnestly asked my leave to run to Bethlehem, his city, because the yearly sacrifice for the whole tribe is there.’
+20:7 If he says, ‘Good,’ there is peace for your servant. But if he answers you harshly, know that evil has been determined by him.
+20:8 Show mercy to your servant, for you have brought your servant into a covenant of the Lord with yourself. If there is wrong in your servant, put me to death yourself. Why do you bring me to your father in this way?”
+20:9 Jonathan said, “By no means shall that happen to you! If I know that evil has been determined by my father to come upon you—and if not—I will report it to you in your cities.”
+20:10 David said to Jonathan, “Who will tell me if your father answers harshly?”
+20:11 Jonathan said to David, “Go and remain in the field.” Both of them went out to the field.
+20:12 Jonathan said to David, “The Lord, the God of Israel, knows that I will question my father when the time comes a third time. If there is good concerning David, shall I not send to you in the field?
+20:13 May God do so to Jonathan, and more besides, for I will bring the evils upon you, uncover your ear, and send you away, and you shall go in peace. The Lord will be with you as He was with my father.
+20:14 While I am still alive, you shall show mercy to me; and if I indeed die,
+20:15 you shall never remove your mercy from my house. And may it not be, when the Lord removes David’s enemies, every one, from the face of the earth,
+20:16 that Jonathan’s name be removed from David’s house. May the Lord seek out David’s enemies.”
+20:17 Jonathan swore again to David, because he loved the soul of the one who loved him.
+20:18 Jonathan said, “Tomorrow is the new moon. You will be sought, because your seat will be inspected.
+20:19 You shall do so a third time and look about, and come to your place where you hid on the working day. Stay beside that ergab.
+20:20 I will do so three times with the shafts, hurling them toward the amattari.
+20:21 Then I will send the little boy, saying, ‘Come, find the shaft for me.’ If I say to the little boy, ‘Here, the shaft is on this side of you; take it,’ come, for there is peace for you and no danger, as the Lord lives.
+20:22 If I say to the young man, ‘Here, the shaft is beyond you,’ go, for the Lord has sent you away.
+20:23 As for the word we have spoken, you and I, behold, the Lord is a witness between me and you for ever.”
+20:24 David hid in the field. The month arrived, and the king came to the table to eat.
+20:25 The king sat on his seat as usual, on the seat by the wall, and preceded Jonathan. Abner sat beside Saul, and David’s place was inspected.
+20:26 Saul said nothing that day, for he said, “It is an occurrence; he appears not to be clean, for he has not been purified.”
+20:27 The next day of the month, the second day, David’s place was inspected. Saul said to his son Jonathan, “Why has Jesse’s son not come to the table, either yesterday or today?”
+20:28 Jonathan answered Saul and said to him, “David asked my leave to go to Bethlehem, his city.
+20:29 He said, ‘Please send me away, for we have a sacrifice of the tribe in the city, and my brothers have commanded me. Now, if I have found favour in your eyes, let me get away and see my brothers.’ That is why he has not come to the king’s table.”
+20:30 Saul burned with great anger against Jonathan and said to him, “Son of deserting girls! Do I not know that you are a companion of Jesse’s son, to your shame and the shame of your mother’s exposure?
+20:31 As long as Jesse’s son lives on the earth, your kingship will not be established. Now send and fetch the young man, for this one is a son of death.”
+20:32 Jonathan answered Saul, “Why should he die? What has he done?”
+20:33 Saul raised the spear against Jonathan to put him to death. Jonathan knew that this evil had been determined by his father: to put David to death.
+20:34 Jonathan sprang up from the table in furious anger and ate no bread on the second day of the month, for he was crushed over David, because his father had determined against him.
+20:35 In the morning Jonathan went out to the field, as he had arranged, for the testimony of David, and a little boy was with him.
+20:36 He said to the little boy, “Run, find for me the shafts I am hurling.” The little boy ran, and he hurled the shaft and sent it past.
+20:37 The little boy came to the place of the shaft Jonathan had hurled. Jonathan shouted after the young man and said, “There, the shaft is beyond you.”
+20:38 Jonathan shouted after his little boy, saying, “Quickly! Hurry! Do not stand still!” Jonathan’s little boy gathered the shafts for his master.
+20:39 The little boy knew nothing; only Jonathan and David knew the matter.
+20:40 Jonathan gave his equipment to his little boy and said to his little boy, “Go, enter the city.”
+20:41 When the little boy had entered, David rose from the ergab, fell on his face, and bowed to him three times. Each kissed the other and wept with the other, until a great completion.
+20:42 Jonathan said, “Go in peace, since the two of us have sworn in the Lord’s name, saying, ‘The Lord shall be a witness between me and you, and between my seed and your seed, for ever.’”
+
+1 SAMUEL 21
+
+21:1 David rose and went away, and Jonathan entered the city.
+21:2 David came to Nomba, to Abimelech the priest. Abimelech was astonished at meeting him and said to him, “Why are you alone, with no one with you?”
+21:3 David said to the priest, “The king commanded me a matter today and said to me, ‘Let no one know the matter on which I am sending you and concerning which I commanded you.’ I have solemnly instructed the young men at the place called God’s Faithfulness, Phellani Allemoni.
+21:4 Now, if five loaves are at hand, give me whatever is available.”
+21:5 The priest answered David and said, “There are no common loaves at hand, only holy loaves. If the young men have kept themselves from a woman, then he may eat.”
+21:6 David answered the priest and said to him, “But we have abstained from a woman yesterday and the third day. When I went out on the road, all the young men had been purified. The road itself is common, for it will be sanctified today through my equipment.”
+21:7 Abimelech the priest gave him the loaves of presentation, for there was no bread there except the loaves of the Presence, removed from before the Lord so that hot bread could be set out on the day he took them.
+21:8 One of Saul’s young servants was there that day, detained, neessaran, before the Lord. His name was Doeg the Syrian, tending Saul’s mules.
+21:9 David said to Abimelech, “See whether a spear or sword is here at hand. I have not brought my sword or the equipment, because the king’s matter was urgent.”
+21:10 The priest said, “Behold, the sword of Goliath the foreigner, whom you struck in the Valley of Elah: it is wrapped in a garment. If you desire to take it, take it, for there is no other here.” David said, “Behold, there is none like it. Give it to me.”
+21:11 He gave it to him. David rose and fled that day from Saul, and David came to Achish, king of Gath.
+21:12 Achish’s servants said to him, “Is this not David, the king of the land? Is this not the one for whom the dancing women led the song, saying, ‘Saul has struck his thousands, and David his tens of thousands’?”
+21:13 David placed the words in his heart and became very afraid of Achish, king of Gath.
+21:14 He altered his face before him and pretended that day. He drummed on the city’s doors, was carried about in his hands, and fell against the gate’s doors. His saliva ran down onto his beard.
+21:15 Achish said to his servants, “Behold, you see a man subject to fits. Why have you brought him to me?”
+21:16 “Do I lack people subject to fits, that you have brought him to have fits before me? This one shall not enter a house.”
+
+1 SAMUEL 22
+
+22:1 David went from there and escaped, and he came to the cave of Adullam. His brothers and his father’s house heard, and they went down to him there.
+22:2 Everyone in need, everyone in debt, and everyone pained in soul gathered to him. He became their leader, and about four hundred men were with him.
+22:3 David went from there to Mizpeh of Moab and said to Moab’s king, “Please let my father and mother stay with you, until I know what God will do for me.”
+22:4 He entreated Moab’s king, and they stayed with him all the days David was in the stronghold.
+22:5 The prophet Gad said to David, “Do not remain in the stronghold. Go, and you will come to the land of Judah.” David went, came, and stayed in the city of Sarich.
+22:6 Saul heard that David and the men with him had been discovered. Saul was sitting on the hill below the cultivated ground in Ramah, the spear in his hand, and all his servants stood beside him.
+22:7 Saul said to his servants standing beside him, saying to them, “Listen, please, sons of Benjamin! Will Jesse’s son really give all of you fields and vineyards and appoint all of you commanders of hundreds and commanders of thousands?
+22:8 For all of you have conspired against me. No one uncovers my ear when my son makes a covenant with Jesse’s son. None of you suffers for me or uncovers my ear that my son has raised my servant against me as an enemy, as on this day.”
+22:9 Doeg the Syrian, who was appointed over Saul’s mules, answered and said, “I saw Jesse’s son arriving at Nomba, to Abimelech son of Ahitub the priest.
+22:10 He inquired for him through God, gave him provisions, and gave him the sword of Goliath the foreigner.”
+22:11 The king sent to summon Abimelech son of Ahitub and all the sons of his father, the priests at Nomba. All of them came to the king.
+22:12 Saul said, “Listen, please, son of Ahitub.” He said, “Here I am. Speak, lord.”
+22:13 Saul said to him, “Why have you conspired against me, you and Jesse’s son, by giving him bread and a sword and inquiring for him through God, to set him against me as an enemy, as on this day?”
+22:14 He answered the king and said, “Who among all your servants is as faithful as David, the king’s son-in-law, commander of all your orders and renowned in your house?
+22:15 Did I begin inquiring for him through God today? By no means! Let the king lay no charge against his servant or against all my father’s house, for your servant knew nothing of all these things, small or great.”
+22:16 King Saul said, “You shall surely die, Abimelech, you and all your father’s house.”
+22:17 The king said to the runners stationed around him, “Bring them forward and put the Lord’s priests to death, for their hand is with David. They knew that he was fleeing and did not uncover my ear.” But the king’s servants were unwilling to bring their hands against the Lord’s priests.
+22:18 The king said to Doeg, “You turn and strike the priests.” Doeg the Syrian turned and put the Lord’s priests to death that day: three hundred and five men, all wearing an ephoud.
+22:19 He struck Nomba, the priests’ city, with the sword’s edge: men and women, infants and nursing children, calves, donkeys, and sheep.
+22:20 One son of Abimelech son of Ahitub was saved; his name was Abiathar. He fled after David.
+22:21 Abiathar told David that Saul had put all the Lord’s priests to death.
+22:22 David said to Abiathar, “I knew that day that Doeg the Syrian would surely tell Saul. I am responsible for the souls of your father’s house.
+22:23 Stay with me; do not fear. Wherever I seek a place for my soul, I will seek one for your soul too, for you are protected with me.”
+
+1 SAMUEL 23
+
+23:1 It was reported to David, saying, “Behold, the foreigners are fighting at Keilah. They are plundering and trampling the threshing floors.”
+23:2 David inquired through the Lord, saying, “Shall I go and strike these foreigners?” The Lord said, “Go, and you will strike these foreigners and save Keilah.”
+23:3 David’s men said to him, “Behold, we are afraid here in Judea. How will it be if we go to Keilah? We will go into the foreigners’ spoils.”
+23:4 David inquired again through the Lord. The Lord answered him and said to him, “Rise and go down to Keilah, for I am handing the foreigners into your hands.”
+23:5 David and the men with him went to Keilah. He fought the foreigners, and they fled before him. He drove away their livestock and struck them with a great blow. David saved Keilah’s inhabitants.
+23:6 When Abiathar son of Abimelech fled to David, he went down with David to Keilah, having an ephoud in his hand.
+23:7 It was reported to Saul that David had come to Keilah. Saul said, “God has sold him into my hands, for he has been shut in by entering a city with doors and bars.”
+23:8 Saul commanded all the people to go down to Keilah for war, to hem in David and his men.
+23:9 David knew that Saul was not keeping silent about the evil concerning him. David said to Abiathar the priest, “Bring the Lord’s ephoud.”
+23:10 David said, “Lord, God of Israel, Thy servant has heard that Saul seeks to come against Keilah and destroy the city because of me.
+23:11 Will it be shut up? And now, will Saul come down, as Thy servant has heard? Lord, God of Israel, tell Thy servant.” The Lord said, “It will be shut up.”
+23:13 David and the men with him, about four hundred, rose and went out from Keilah. They went wherever they went. It was reported to Saul that David had escaped from Keilah, and he gave up going out.
+23:14 David stayed in the wilderness at Maserem, in the narrow places. He stayed in the wilderness on Mount Ziph, in the parched land. Saul sought him all the days, but the Lord did not hand him into his hands.
+23:15 David saw that Saul was coming out to seek David. David was on the parched mountain at Kaine of Ziph.
+23:16 Saul’s son Jonathan rose and went to David at Kaine and strengthened his hands in the Lord.
+23:17 He said to him, “Do not fear. My father Saul’s hand certainly will not find you. You will reign over Israel, and I will be second to you. My father Saul knows this.”
+23:18 The two of them made a covenant before the Lord. David stayed at Kaine, and Jonathan went to his house.
+23:19 The Ziphites went up from the parched land to Saul on the hill, saying, “Behold, is David not hidden among us at Messara, in the narrow places at Kaine, on the hill of Echela, to the right of Jessaimoun?
+23:20 Now let the king come down to us according to all his soul’s desire to descend. They have shut him into the king’s hands.”
+23:21 Saul said to them, “Blessed are you by the Lord, for you have taken trouble for me.
+23:22 Please go, prepare further, and find out his place where his foot will be, quickly, there where you said, lest he act cunningly.
+23:23 See and find out, and we will go with you. If he is in the land, I will search him out among all Judah’s thousands.”
+23:24 The Ziphites rose and went ahead of Saul. David and his men were in the wilderness of Maan, toward the west, to the right of Jessaimoun.
+23:25 Saul and his men went to seek him. They reported to David, and he went down to the rock in the wilderness of Maan. Saul heard and pursued David into the wilderness of Maan.
+23:26 Saul and his men went along a side of this mountain, and David and his men were along a side of this mountain. David was keeping under cover to get away from Saul, while Saul and his men camped against David and his men to seize them.
+23:27 A messenger came to Saul, saying, “Hurry and come, for the foreigners have attacked the land.”
+23:28 Saul turned back from pursuing David and went to meet the foreigners. Therefore that place was called the Divided Rock.
+
+1 SAMUEL 24
+
+24:1 David went up from there and stayed in the narrow places of En-gedi.
+24:2 When Saul returned from following the foreigners, it was reported to him that David was in the wilderness of En-gedi.
+24:3 He took with him three thousand chosen men from all Israel and went to seek David and his men in front of Sadaiem.
+24:4 He came to the flocks’ herds beside the road, and there was a cave there. Saul entered to attend to himself. David and his men were sitting farther inside the cave.
+24:5 David’s men said to him, “Behold, this is the day of which the Lord spoke to you, to hand your enemy into your hands, and you shall do to him as is good in your eyes.” David rose and secretly removed the flap of Saul’s double cloak.
+24:6 After these things David’s heart struck him because he had removed the flap of his double cloak.
+24:7 David said to his men, “May the Lord forbid that I should do this to my lord, the Lord’s anointed, by bringing my hand against him, for this one is the Lord’s anointed.”
+24:8 David persuaded his men with words and did not let them rise and put Saul to death. Saul rose and went down to the road.
+24:9 David rose behind him from the cave, and David called after Saul, saying, “Lord king!” Saul looked behind him, and David bent with his face to the ground and bowed to him.
+24:10 David said to Saul, “Why do you listen to the people’s words, saying, ‘Behold, David seeks your soul’?
+24:11 Behold, on this day your eyes have seen how the Lord handed you into my hand today in the cave. I was unwilling to kill you and spared you. I said, ‘I will not bring my hand against my lord, for this one is the Lord’s anointed.’
+24:12 Behold, the flap of your double cloak is in my hand! I removed the flap and did not kill you. Know and see today that there is no evil in my hand, nor impiety or rejection. I have not sinned against you, yet you bind my soul to take it.
+24:13 May the Lord judge between me and you, and may the Lord avenge me on you, but my hand shall not be against you.
+24:14 As the ancient proverb says, ‘From the lawless comes wrongdoing,’ but my hand shall not be against you.
+24:15 Now, after whom are you coming out, O king of Israel? Whom are you pursuing? After a dead dog and after a single flea!
+24:16 May the Lord be judge and arbiter between me and you. May the Lord see, judge my case, and give judgment for me from your hand.”
+24:17 When David finished speaking these words to Saul, Saul said, “Is this your voice, child David?” Saul raised his voice and wept.
+24:18 Saul said to David, “You are more righteous than I, for you have repaid me with good things, but I have repaid you with evil things.
+24:19 Today you have reported to me the good things you did to me, how the Lord shut me into your hands today and you did not kill me.
+24:20 If someone finds his enemy in distress and sends him away on a good road, the Lord will repay him with good things, as you have done today.
+24:21 Now behold, I know that you shall surely reign, and Israel’s kingdom shall be established in your hands.
+24:22 Now swear to me by the Lord that you will not destroy my seed after me or make my name disappear from my father’s house.”
+24:23 David swore to Saul. Saul went to his place, and David and his men went up to narrow Messara.
+
+1 SAMUEL 25
+
+25:1 Samuel died. All Israel gathered, mourned him, and buried him at his house in Armathaim. David rose and went down to the wilderness of Maan.
+25:2 A man lived in Maan, with his flocks at Carmel. The man was very great: he had three thousand sheep and a thousand goats. He was shearing his flock at Carmel.
+25:3 The man’s name was Nabal, and his wife’s name was Abigail. His wife had good understanding and was very beautiful in appearance, but the man was harsh and evil in his practices. The man was doglike.
+25:4 David heard in the wilderness that Nabal the Carmelite was shearing his flock.
+25:5 David sent ten young men and said to the young men, “Go up to Carmel, go to Nabal, and ask about his welfare in my name.
+25:6 Say this: ‘To the seasons! May it be well with you, and may your house and all that is yours be well.
+25:7 Now behold, I have heard that they are shearing for you. Your shepherds were with us in the wilderness; we did not hinder them or impose any order on them all the days they were at Carmel.
+25:8 Ask your young men, and they will tell you. Let the young men find favour in your eyes, for we have come on a good day. Please give whatever your hand finds to your son David.’”
+25:9 The young men came and spoke these words to Nabal, according to all these sayings, in David’s name. Then he sprang up,
+25:10 and Nabal answered David’s servants and said, “Who is David, and who is Jesse’s son? Today many slaves withdraw, each from his master.
+25:11 Shall I take my loaves, my wine, and my slaughtered offerings—the sheep I slaughtered for my shearers—and give them to men whose origin I do not know?”
+25:12 David’s young men turned onto their way, returned, came, and reported to David according to these words.
+25:13 David said to his men, “Each of you strap on his sword.” About four hundred men went up after David, while the two hundred stayed with the equipment.
+25:14 One of the young men reported to Abigail, Nabal’s wife, saying, “Behold, David sent messengers from the wilderness to bless our master, and he turned away from them.
+25:15 The men were very good to us. They did not hinder us or impose orders on us all the days we were with them. While we were in the field,
+25:16 they were like a wall around us by night and by day, all the days we were with them tending the flock.
+25:17 Now know and see what you will do, for evil has been determined against our master and his house. He is a pestilent son, and one cannot speak to him.”
+25:18 Abigail hurried and took two hundred loaves, two vessels of wine, five prepared sheep, five oiphi of barley meal, one gomor of raisins, and two hundred fig cakes. She placed them on the donkeys.
+25:19 She said to her young men, “Go on before me. Behold, I am coming after you.” She did not tell her husband.
+25:20 As she rode on the donkey and came down under cover of the mountain, there were David and his men coming down to meet her. She met them.
+25:21 David said, “Perhaps it was for an unjust man that I guarded all his possessions in the wilderness. We imposed no order to take anything of all he had, yet he has repaid me evil for good.
+25:22 May God do so to David, and more besides, if I leave by morning anyone of all Nabal has who urinates against a wall.”
+25:23 Abigail saw David, hurried, and jumped down from the donkey. She fell before David on her face and bowed to him on the ground,
+25:24 at his feet, and said, “On me, my lord, be the wrong. Please let your handmaid speak in your ears, and hear your handmaid’s word.
+25:25 Please let my lord not set his heart on this pestilent man, for as his name is, so is he: Nabal is his name, and folly is with him. But I, your handmaid, did not see your young men whom you sent.
+25:26 Now, lord, as the Lord lives and as your soul lives, the Lord has restrained you from coming into innocent blood and from saving your hand for yourself. Now may your enemies and those seeking evil for my lord become like Nabal.
+25:27 Now take this blessing, which your handmaid has brought to my lord, and give it to the young men who stand beside my lord.
+25:28 Please take away your handmaid’s lawless deed. The Lord will surely make my lord a faithful house, for my lord fights the Lord’s war, and evil shall never be found in you.
+25:29 A person will rise to pursue you and seek your soul, but my lord’s soul shall be bound in the bond of life beside the Lord God. You shall sling the soul of your enemies in the midst of the sling.
+25:30 When the Lord does for my lord all the good things He has spoken concerning you, and the Lord appoints you leader over Israel,
+25:31 this shall not be an abomination or a stumbling block for my lord: pouring out innocent blood without cause and saving my lord’s hand for himself. The Lord will do good to my lord, and you shall remember your handmaid to do good to her.”
+25:32 David said to Abigail, “Blessed be the Lord, the God of Israel, who sent you today, on this day, to meet me.
+25:33 Blessed be your manner, and blessed are you, who kept me today, on this day, from coming into bloodguilt and from saving my hand for myself.
+25:34 But as the Lord the God of Israel lives, who restrained me today from harming you, if you had not hurried and come to meet me—then I said: ‘No one belonging to Nabal who urinates against a wall shall remain by morning light.’”
+25:35 David took from her hand all that she had brought him and said to her, “Go up in peace to your house. See, I have listened to your voice and favoured your face.”
+25:36 Abigail came to Nabal, and there he was holding a drinking feast in his house like a king’s drinking feast. Nabal’s heart was merry within him, and he was very drunk. She told him nothing, small or great, until morning light.
+25:37 In the morning, when Nabal had sobered from the wine, his wife told him these things. His heart died within him, and he became like stone.
+25:38 About ten days later the Lord struck Nabal, and he died.
+25:39 David heard and said, “Blessed be the Lord, who has judged the case of my reproach from Nabal’s hand and preserved His servant from the hand of evil things. The Lord has returned Nabal’s evil on his own head.” David sent and spoke concerning Abigail, to take her as his wife.
+25:40 David’s servants came to Abigail at Carmel and spoke to her, saying, “David has sent us to you to take you as his wife.”
+25:41 She rose, bowed to the ground on her face, and said, “Here is your handmaid, a maid to wash the feet of your servants.”
+25:42 Abigail rose and mounted the donkey, and five girls followed her. She went after David’s servants and became his wife.
+25:43 David took Ahinoam from Jezreel, and both were his wives.
+25:44 Saul gave his daughter Michal, David’s wife, to Palti son of Laish, who was from Romma.
+
+1 SAMUEL 26
+
+26:1 The Ziphites came from the parched land to Saul on the hill, saying, “Behold, David is sheltering among us on the hill of Echela, opposite Jessaimoun.”
+26:2 Saul rose and went down to the wilderness of Ziph, with three thousand chosen men from Israel, to seek David in the wilderness of Ziph.
+26:3 Saul camped on the hill of Echela, opposite Jessaimoun, beside the road. David stayed in the wilderness. David saw that Saul had come after him into the wilderness.
+26:4 David sent spies and knew that Saul had come prepared from Keilah.
+26:5 David rose secretly and entered the place where Saul slept, with Abner son of Ner, his chief commander, there. Saul slept in a covered carriage, and the people camped around him.
+26:6 David answered and said to Ahimelech the Hittite and Abishai son of Zeruiah, Joab’s brother, “Who will enter with me to Saul in the camp?” Abishai said, “I will enter with you.”
+26:7 David and Abishai entered among the people by night. There was Saul, lying asleep in the covered carriage, the spear fixed in the ground at his head. Abner and his people slept around him.
+26:8 Abishai said to David, “The Lord has shut your enemy into your hands today. Now I will strike him with the spear to the ground once; I will not strike him a second time.”
+26:9 David said to Abishai, “Do not humble him. Who will bring his hand against the Lord’s anointed and be acquitted?”
+26:10 David said, “As the Lord lives, surely the Lord will strike him, or his day will come and he will die, or he will go down into war and be added.
+26:11 May the Lord forbid that I should bring my hand against the Lord’s anointed. Now please take the spear from beside his head and the water flask, and let us go by ourselves.”
+26:12 David took the spear and water flask from beside his head, and they went away by themselves. No one saw, no one knew, and no one awoke; all were sleeping, because a stupor from the Lord had fallen upon them.
+26:13 David crossed to the other side and stood far away on the mountain’s summit, with a long way between them.
+26:14 David called the people and spoke to Abner, saying, “Will you not answer, Abner?” Abner answered, “Who are you, calling me?”
+26:15 David said to Abner, “Are you not a man? Who is like you in Israel? Why do you not guard your lord the king? One of the people entered to destroy the king, your lord.
+26:16 This thing you have done is not good. As the Lord lives, you are sons of execution, you who guard the king, your lord, the Lord’s anointed. Now look: the king’s spear and the water flask—where are the things that were at his head?”
+26:17 Saul recognized David’s voice and said, “Is this your voice, child David?” David said, “Your servant, lord king.”
+26:18 He said, “Why does my lord pursue his servant in this way? How have I sinned, and what wrong has been found in me?
+26:19 Now please let my lord the king hear his servant’s word. If God is stirring you up against me, may He smell your sacrifice. But if human beings have done so, cursed are they before the Lord, for they have expelled me today from being established in the Lord’s inheritance, saying, ‘Go, serve other gods.’
+26:20 Now let my blood not fall to the ground opposite the Lord’s presence. Israel’s king has come out to seek my soul, as the night-raven pursues in the mountains.”
+26:21 Saul said, “I have sinned. Return, child David, for I will not harm you, because my soul was honoured in your eyes today. I have acted vainly and been very ignorant.”
+26:22 David answered, “Here is the king’s spear. Let one of the young men come across and take it.
+26:23 The Lord will repay each his righteous deeds and faithfulness, for the Lord handed you into my hands today, but I was unwilling to bring my hand against the Lord’s anointed.
+26:24 Behold, as your soul was magnified in my eyes today, on this day, so may my soul be magnified before the Lord. May He shelter me, and He will rescue me from every affliction.”
+26:25 Saul said to David, “Blessed are you, child. You shall surely accomplish, and you shall surely be able.” David went on his way, and Saul returned to his place.
+
+1 SAMUEL 27
+
+27:1 David said in his heart, “Now I shall be added one day into Saul’s hands. There is no good for me unless I escape to the foreigners’ land and Saul gives up seeking me throughout Israel’s territory. I shall escape from his hand.”
+27:2 David and the four hundred men with him rose and went to Achish son of Ammach, king of Gath.
+27:3 David stayed with Achish at Gath, he and his men, each with his household; David with both his wives, Ahinoam the Jezreelite and Abigail, the wife of Nabal the Carmelite.
+27:4 It was reported to Saul that David had fled to Gath, and he no longer sought him.
+27:5 David said to Achish, “If your servant has found favour in your eyes, please let them give me a place in one of the country towns, and I will stay there. Why should your servant stay with you in a royal city?”
+27:6 He gave him Ziklag that day. Therefore Ziklag has belonged to the king of Judea to this day.
+27:7 The number of days David stayed in the foreigners’ country was four months.
+27:8 David and his men went up and attacked all the Gesiri and the Amalekite. Behold, the land—from Gelampsour as far as the land of Egypt—was inhabited with suitable fortified settlements.
+27:9 He struck the land and left neither man nor woman alive. He took flocks, herds, donkeys, camels, and clothing, and they returned and came to Achish.
+27:10 Achish said to David, “Whom have you attacked today?” David said to Achish, “The south of Judea, the south of Jesmega, and the south of Kenezi.”
+27:11 He left neither man nor woman alive to bring to Gath, saying, “Let them not report to Gath against us, saying, ‘This is what David does.’” This was his established practice all the days David stayed in the foreigners’ country.
+27:12 David was greatly trusted by Achish, who said, “He has made himself utterly shamed among his people Israel, and he will be my slave for ever.”
+
+1 SAMUEL 28
+
+28:1 In those days the foreigners gathered in their camps to go out and fight with Israel. Achish said to David, “Know for certain that you will go out with me to war, you and your men.”
+28:2 David said to Achish, “So now you will know what your servant will do.” Achish said to David, “So I will make you chief bodyguard all the days.”
+28:3 Samuel had died, and all Israel had mourned him and buried him at Armathaim, in his city. Saul had removed the mediums and the knowers from the land.
+28:4 The foreigners gathered, came, and camped at Soman. Saul gathered every man of Israel, and they camped at Gilboa.
+28:5 Saul saw the foreigners’ camp and was afraid, and his heart was greatly astounded.
+28:6 Saul inquired through the Lord, but the Lord did not answer him by dreams, by clear signs, or by prophets.
+28:7 Saul said to his servants, “Find me a woman who is a medium, so that I may go to her and inquire through her.” His servants said to him, “There is a woman who is a medium at Endor.”
+28:8 Saul concealed himself, put on other garments, and went, with two men beside him. They came to the woman by night. He said to her, “Please divine for me through the medium and bring up for me the one I name to you.”
+28:9 The woman said to him, “Behold, you know what Saul has done, how he destroyed the mediums and the knowers from the land. Why are you laying a snare for my soul, to put it to death?”
+28:10 Saul swore to her, saying, “As the Lord lives, no wrong shall come upon you in this matter.”
+28:11 The woman said, “Whom shall I bring up for you?” He said, “Bring up Samuel for me.”
+28:12 The woman saw Samuel and cried out with a loud voice. The woman said to Saul, “Why have you deceived me? You are Saul!”
+28:13 The king said to her, “Do not fear. Tell me whom you have seen.” She said to him, “I have seen gods coming up from the earth.”
+28:14 He said to her, “What did you perceive?” She said to him, “A man standing upright is coming up from the earth, wrapped in a double cloak.” Saul knew that this was Samuel, and he bent with his face to the ground and bowed to him.
+28:15 Samuel said, “Why have you troubled me, that I should come up?” Saul said, “I am greatly afflicted. The foreigners are fighting against me, and God has departed from me and no longer listens to me, either through the prophets or by dreams. Now I have called you to make known to me what I should do.”
+28:16 Samuel said, “Why do you inquire of me, when the Lord has departed from you and has come to be with your neighbour?
+28:17 The Lord has done to you as He spoke by my hand. The Lord will tear your kingdom from your hand and give it to your neighbour David.
+28:18 Because you did not listen to the Lord’s voice and did not carry out His furious anger against Amalek, the Lord has done this thing to you this day.
+28:19 The Lord will hand Israel with you into the foreigners’ hands. Tomorrow you and your sons with you will fall. The Lord will give Israel’s camp into the foreigners’ hands.”
+28:20 Saul hurried and fell from his standing position to the ground. He was greatly afraid because of Samuel’s words. No strength remained in him, for he had eaten no bread all the day and all that night.
+28:21 The woman came in to Saul and saw that he had hurried greatly. She said to him, “Behold, your handmaid listened to your voice. I put my soul in my hand and listened to the words you spoke to me.
+28:22 Now please listen to your handmaid’s voice. I will set a morsel of bread before you. Eat, and you will have strength, for you will go on your way.”
+28:23 He was unwilling to eat. His servants and the woman urged him, and he listened to their voice. He rose from the ground and sat on the seat.
+28:24 The woman had a grazing heifer in the house. She hurried and slaughtered it, took flour, kneaded it, and baked unleavened cakes.
+28:25 She brought the food before Saul and his servants, and they ate. They rose and went away that night.
+
+1 SAMUEL 29
+
+29:1 The foreigners gathered all their camps at Aphek, and Israel camped at Aendor in Jezreel.
+29:2 The foreigners’ satraps were passing by in hundreds and thousands, and David and his men were passing by at the rear with Achish.
+29:3 The foreigners’ satraps said, “Who are these men passing through?” Achish said to the foreigners’ generals, “Is this not David, the servant of Saul king of Israel? He has been with us for days, this being the second year, and I have found nothing against him from the day he came over to me until this day.”
+29:4 The foreigners’ generals were distressed with him and said to him, “Send the man back to his place, where you stationed him. He must not come with us into the war or become a plotter against the camp. With what could this man be reconciled to his master? Would it not be with the heads of those men?
+29:5 Is this not David, for whom they led the song in the dances, saying: ‘Saul has struck down his thousands, and David his tens of thousands’?”
+29:6 Achish called David and said to him, “As the Lord lives, you are upright and good in my eyes, as are your going out and coming in with me in the camp. I have found no evil against you from the day you came to me until today. But in the satraps’ eyes you are not good.
+29:7 Now return and go in peace, and you shall certainly do no evil in the eyes of the foreigners’ satraps.”
+29:8 David said to Achish, “What have I done to you? What have you found in your servant, from the day I was before you until this day, that I should certainly not come to fight the enemies of my lord the king?”
+29:9 Achish answered David, “I know that you are good in my eyes, but the foreigners’ satraps say, ‘He will not come with us into war.’
+29:10 Now rise early in the morning, you and your master’s servants who came with you. Go to the place where I stationed you. Put no pestilent thought in your heart, for you are good before me. Rise early for the journey; let there be light for you, and go.”
+29:11 David rose early, he and his men, to leave and guard the land of the foreigners. The foreigners went up to wage war against Israel.
+
+1 SAMUEL 30
+
+30:1 When David and his men entered Ziklag on the third day, Amalek had attacked the south and Ziklag, struck Ziklag, and burned it with fire.
+30:2 The women and everything in it, from small to great—they killed neither man nor woman, but took them captive and went on their way.
+30:3 David and his men came to the city, and there it was, burned with fire. Their wives, sons and daughters had been taken captive.
+30:4 David and his men raised their voices and wept until they no longer had strength to weep.
+30:5 Both David’s wives had been taken captive: Ahinoam the Jezreelite and Abigail, the wife of Nabal the Carmelite.
+30:6 David was greatly afflicted, for the people spoke of stoning him. The soul of all the people was in anguish, each over his sons and daughters. But David was strengthened in the Lord his God.
+30:7 David said to Abiathar the priest, son of Ahimelech, “Bring the ephoud.”
+30:8 David inquired through the Lord, “Shall I pursue this geddour? Will I overtake them?” He said to him, “Pursue, for you will certainly overtake and certainly rescue.”
+30:9 David went, he and the six hundred men with him. They came to the Bosor torrent, and those remaining stood still.
+30:10 He pursued with four hundred men. Two hundred men stayed behind, who sat beyond the Bosor torrent.
+30:11 They found an Egyptian man in a field, took him, and brought him to David in a field. They gave him bread, and he ate; they gave him water to drink.
+30:12 They gave him a piece of fruit cake, and he ate. His spirit settled within him, for he had eaten no bread and drunk no water for three days and three nights.
+30:13 David said to him, “To whom do you belong, and where are you from?” The Egyptian youth said, “I am a slave of an Amalekite man. My master left me because I fell ill; today is the third day.
+30:14 We attacked the south of Cholthi, the regions of Judea, and the south of Cheloub. We burned Ziklag with fire.”
+30:15 David said to him, “Will you take me down to this geddour?” He said, “Please swear to me by God that you will neither put me to death nor hand me over into my master’s hands, and I will take you down to this geddour.”
+30:16 He took him down there, and there they were, scattered over the whole land, eating, drinking and celebrating with all the great spoils they had taken from the land of the foreigners and the land of Judah.
+30:17 David came upon them and struck them from daybreak until evening, and on the following day. No man among them was saved except four hundred youths who had mounted camels and fled.
+30:18 David recovered everything the Amalekites had taken, and he rescued both his wives.
+30:19 Nothing belonging to them was missing, from small to great, from the spoils to sons and daughters and everything they had taken from them. David brought it all back.
+30:20 David took all the flocks and herds and led them ahead of the spoils. Concerning those spoils it was said, “These are David’s spoils.”
+30:21 David came to the two hundred men who had grown too weak to follow David and whom he had seated at the Bosor torrent. They came out to meet David and the people with him. David approached the people, and they asked him about his welfare.
+30:22 Every pestilent and evil man among the warriors who had gone with David answered. They said, “Because they did not pursue with us, we will give them none of the spoils we rescued. Let each take only his wife and children and return.”
+30:23 David said, “You must not do this, after the Lord has given to us and guarded us. The Lord delivered into our hands the geddour that came against us.
+30:24 Who would listen to these words of yours? For they are no less than you. As is the share of the one who goes down into war, so shall be the share of the one who stays with the equipment. They shall share equally.”
+30:25 From that day onward, it became a command and a rule for Israel, until today.
+30:26 David came to Ziklag and sent some of the spoils to the elders of Judah and to his neighbors, saying, “Behold, from the spoils of the Lord’s enemies.”
+30:27 He sent it to those in Beth-zur, Ramah of the south and Jeththor;
+30:28 to those in Aroer, to the Ammadi, and to those in Saphi and Esthie;
+30:28a to those in Gath, Kinan, Saphek and Thimath;
+30:29 to those in Carmel, the cities of the Ierameli, and the cities of the Kenezi;
+30:30 to those in Ierimouth, Beer-sheba and Noo;
+30:31 to those in Hebron, and to all the places through which David and his men had passed.
+
+1 SAMUEL 31
+
+31:1 The foreigners were fighting against Israel. The men of Israel fled before the foreigners and fell wounded on Mount Gelboue.
+31:2 The foreigners closed in on Saul and his sons. The foreigners struck down Jonathan, Aminadab and Melchisa, Saul’s sons.
+31:3 The war grew heavy against Saul. The missile-throwers, men who were archers, found him, and he was wounded beneath the ribs.
+31:4 Saul said to his armour-bearer, “Draw your sword and pierce me with it, lest these uncircumcised men come, pierce me, and mock me.” His armour-bearer was unwilling, for he was greatly afraid. Saul took the sword and fell on it.
+31:5 His armour-bearer saw that Saul was dead. He too fell on his sword and died with him.
+31:6 Saul died, and his three sons and his armour-bearer, together on that day.
+31:7 The men of Israel beyond the valley and beyond the Jordan saw that the men of Israel had fled and that Saul and his sons had died. They abandoned their cities and fled. The foreigners came and lived in them.
+31:8 On the following day, the foreigners came to strip the dead. They found Saul and his three sons fallen on the mountains of Gelboue.
+31:9 They turned him over and stripped off his equipment. They sent it throughout the surrounding land of the foreigners, announcing the news to their idols and their people.
+31:10 They dedicated his equipment in the temple of Astarte and fastened his body to the wall of Beth-shan.
+31:11 The inhabitants of Jabesh in Gilead heard what the foreigners had done to Saul.
+31:12 All the mighty men rose and traveled the whole night. They took Saul’s body and the body of Jonathan his son from the wall of Beth-shan, brought them to Jabesh, and burned them there.
+31:13 They took their bones and buried them beneath the cultivated ground at Jabesh. They fasted seven days.
