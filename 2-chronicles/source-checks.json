@@ -1,0 +1,334 @@
+{
+  "book": "2 Chronicles",
+  "date": "2026-10-14",
+  "edition": "Rahlfs–Hanhart 2006; German Bible Society online running text",
+  "authorization": "User authorized provisional continuation with Rahlfs–Hanhart; Göttingen not obtained.",
+  "scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending. Fresh selected-verse checks succeeded in 35 of 36 chapters; chapter 5 could not be retrieved in this pass and received English-only editing. Fresh access to chapters 32 and 36 succeeded despite the historical retrieval limitations.",
+  "historical_records": "Existing index and reference records were consulted as historical reference, not proof of fresh complete Greek verification.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.1",
+      "focus": "1:6, 8–12, 16–17",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained direct prayer Thou/Thy/Thine in 8–10; modernized narrative and ordinary address. Retained Thy name in 9, thousandfold offering, bama, trade wording and chapter boundary.",
+      "pending": "Trade syntax and implied monetary units in 16–17; name/promise distinction in 9; full collation."
+    },
+    {
+      "chapter": 2,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.2",
+      "focus": "2:5, 7, 10, 12–13",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Natural ordinary address and verbs; retained heaven of heaven, your servants with my servants, and engraving/design repetitions.",
+      "pending": "Chiram my father identity/title in 12; timber terminology and servants/slaves distinction; full collation."
+    },
+    {
+      "chapter": 3,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/bibel/LXX/2CH.3",
+      "focus": "3:1, 3–4, 8–9, 16–17 (English endpoint failed; German publisher page retrieved)",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Clarified implied measurements in 3 and nail-weight syntax in 9 without changing figures or repetition. Retained ailam, 120 cubits, cherubim/six hundred talents, serseroth/dabir and pillar names.",
+      "pending": "Architectural terms, first measurement, height and gold/nail weights; full collation."
+    },
+    {
+      "chapter": 4,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.4",
+      "focus": "4:3–5, 12–14, 16–18, 22",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained English wording after individual review; preserved casting difficulty, all measurements and transliterated technical terms.",
+      "pending": "Casting syntax across 3–4, golath/chothareth/mechonoth, golden bells, foot pieces/lifting tools, Sokchoth wording and final door phrase; full collation."
+    },
+    {
+      "chapter": 5,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.5",
+      "focus": "5:5–6, 10, 13 targeted, but publisher retrieval failed in English and German.",
+      "running_text_read": "Not retrieved in this pass; no fresh Greek-verification claim.",
+      "decision": "Only English unto/endureth modernization in 13; retained difficult collective and covenant wording and musical terms.",
+      "pending": "Fresh running-text check, covenant syntax, those who feared/assembled ones, it is good and full collation."
+    },
+    {
+      "chapter": 6,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.6",
+      "focus": "6:2, 15–16, 18, 22, 26, 28, 31, 36, 41",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Restored divine direct address throughout the prayer; modernized surrounding and quoted ordinary address. Clarified finite English syntax and preserved source future in Thou wilt humble (26), heaven of heaven (18), Thy ways (31), Thy sons (41).",
+      "pending": "Oath-curse, propitious terminology, petition sequence and source tense nuance; full collation."
+    },
+    {
+      "chapter": 7,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.7",
+      "focus": "7:3, 6–7, 13–14, 17, 19–20",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized third-person endures, God-to-human address and My possessives. Retained it is good, ashamed, singular tree, manaa, and you/them shift.",
+      "pending": "Shame/humbling distinction; singular address in 17 versus plural in 19–20; manaa and full collation."
+    },
+    {
+      "chapter": 8,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.8",
+      "focus": "8:7–10, 13, 18",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained all individually reviewed reading units, including the parenthesis, repeated desire language, month wording and 450 talents.",
+      "pending": "Tribute/forced-work terminology, month observance and maritime syntax; full collation."
+    },
+    {
+      "chapter": 9,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.9",
+      "focus": "9:6–7, 12, 15, 17, 21, 25, 29",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Natural ordinary address, yours and repeated happy are; retained six-hundred repetition, ivory/tusks, ship/ships distinction, mares, Joel and gifts wording.",
+      "pending": "Gold denomination, subject/number in maritime wording, source names and full collation."
+    },
+    {
+      "chapter": 10,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.10",
+      "focus": "10:10, 15–16, 18",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address while retaining emphatic you in 10, little finger/loins/scorpions images and the unusual quotation across 15–16.",
+      "pending": "Reversal and quotation syntax spanning 15–16, tribute terminology and full collation."
+    },
+    {
+      "chapter": 11,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.11",
+      "focus": "11:1, 15–16, 18–21, 23",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary speech and bore/begot genealogy forms; retained expelled worshippers, Mollath/Abaia wording, he grew greater and cities supplied.",
+      "pending": "Genealogy/wife syntax in 18, subject of 23, idols/vain things and full collation."
+    },
+    {
+      "chapter": 12,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.12",
+      "focus": "12:6–8, 10–12, 16",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Natural ordinary address and large gold/bronze shield order. Retained shame, drip image, Sousakim as appointing subject, guards/runners and repeated burial.",
+      "pending": "Give over in a little while, kingdom singular, destruction phrase and military procession syntax; full collation."
+    },
+    {
+      "chapter": 13,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.13",
+      "focus": "13:3, 7, 9, 12, 17, 21, 23",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Smoothed repeated battle syntax, ordinary address and begot. Retained covenant of salt, fill hands, future fight, wounded and all force counts.",
+      "pending": "Filling hands idiom, wounded count and tense of warning; full collation."
+    },
+    {
+      "chapter": 14,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/bibel/LXX/2CH.14",
+      "focus": "14:4–6, 10, 12, 14 (English endpoint failed; German publisher page retrieved)",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained Asa prayer Thou/Thy/Thee. Modernized narrative said to; preserved fragment across 4–5, He sought us, thousand thousands, no preservation and Amazonians.",
+      "pending": "Fragmentary fortification wording, preservation idiom and Amazonians reading; full collation."
+    },
+    {
+      "chapter": 15,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.15",
+      "focus": "15:1, 3–4, 6, 8, 12, 16, 18",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Natural ordinary address, found by and do not let; retained shifting tenses, Adad/Oded distinction, Astarte, David holy things and singular covenant subject.",
+      "pending": "Tense sequence, singular covenant wording and different prophet names; full collation."
+    },
+    {
+      "chapter": 16,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.16",
+      "focus": "16:1, 7–9, 12–14",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address and trustedst. Retained source chronology (38th/39th years), Syria saved, confidence/cavalry and funeral procession.",
+      "pending": "Chronology against parallel accounts, confidence/cavalry construction and medical narrative; full collation."
+    },
+    {
+      "chapter": 17,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.17",
+      "focus": "17:3–4, 7, 11–12",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Smoothed continued to grow greater, preserving the height image. Retained father’s commandments, leaders/sons list, gifts/offerings and flock count.",
+      "pending": "Ancestral referent, administrative list and rising-to-height image; full collation."
+    },
+    {
+      "chapter": 18,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.18",
+      "focus": "18:3, 12, 20–21, 23–24, 29, 33",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Natural ordinary speech, please, yours and enter. Preserved lowercase lying spirit, source my clothing, accurate aim, lung/breastplate and chamber from chamber.",
+      "pending": "Spirit referents/capitalization and image vocabulary require specialist review; full collation."
+    },
+    {
+      "chapter": 19,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.19",
+      "focus": "19:2, 6–7, 10–11",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address and clarified negative/inverted clauses in 10, preserving the blood-and-blood and judgment list.",
+      "pending": "Judicial terminology, matters of judgment with you and future/purpose syntax; full collation."
+    },
+    {
+      "chapter": 20,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.20",
+      "focus": "20:1–2, 6–7, 10, 12, 14, 20–22, 36–37",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Protected all divine prayer address 6–12; clarified past permission in 10, natural English in 12, ordinary speech and befriended. Retained Minaeans, Syria, passive trusted, singular prophet, holy things, Ammon-as-fighters and ship narrative.",
+      "pending": "Prayer judge among them, praise pronoun, name chain, trust/passive distinction and ship syntax; full collation."
+    },
+    {
+      "chapter": 21,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.21",
+      "focus": "21:2, 9, 15, 17, 19",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address and narrative has. Retained repeated Azarias, cavalry/chariots, daughters, belly imagery and two days.",
+      "pending": "Time-of-days expression and illness wording, duplicate names and battle referents; full collation."
+    },
+    {
+      "chapter": 22,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.22",
+      "focus": "22:1–2, 5, 7, 9, 11",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained all individually reviewed wording, including Alimazonians, age twenty, archers, treatment in Samaria and repeated hiding.",
+      "pending": "Fragment the Lord’s anointed—Ahab’s house in 7, genealogy/chronology and medical wording; full collation."
+    },
+    {
+      "chapter": 23,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.23",
+      "focus": "23:1, 6, 8, 11, 13–14, 19–20",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary speech while preserving repeated Levites, Sabbath phrasing, testimonies, repeated attacking, movement directions and future exclusion.",
+      "pending": "Into a house in 1, entrance instructions and procession route; full collation."
+    },
+    {
+      "chapter": 24,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.24",
+      "focus": "24:3, 5, 13, 19–20, 22, 25–27",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary speech and begot. Preserved hurry to speak, work-image, repeated did not listen, Azarias name, singular son and final five.",
+      "pending": "Speaker/kinship referents, blood singular/plural semantics, final conspirator sequence and source-name variants; full collation."
+    },
+    {
+      "chapter": 25,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.25",
+      "focus": "25:4, 8, 14, 16, 18–19, 24",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address and suppose; retained achouch, future/past animals sequence, heavy heart, singular/plural prophet shift and sons of the mixed company.",
+      "pending": "Achouch plant identification, mixed-company sons, divine subject and verse 19 speech framing; full collation."
+    },
+    {
+      "chapter": 26,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/bibel/LXX/2CH.26",
+      "focus": "26:5, 7–8, 15, 21–22 (English endpoint failed; German publisher page retrieved)",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized priestly ordinary speech; retained Minaeans, machine designer/construction language, apphousoth and Jessias.",
+      "pending": "Technical machinery terms, skin-disease terminology, apphousoth and source name; full collation."
+    },
+    {
+      "chapter": 27,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.27",
+      "focus": "27:4–7, 9; publisher sequence has no verse 8",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained all individually reviewed reading units and the source gap at 8, yearly repetition, tribute quantities and prepared ways image.",
+      "pending": "Missing verse/numbering and historical chronology; full collation."
+    },
+    {
+      "chapter": 28,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.28",
+      "focus": "28:3–4, 8, 10, 15, 22–23, 27",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary speech. Retained 300,000, rooftop incense, bear witness wording, provisions/anointing, source deity speech and burial distinction.",
+      "pending": "Captivity collective idiom, witness statement, deity-speech referents and source count; full collation."
+    },
+    {
+      "chapter": 29,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.29",
+      "focus": "29:8–9, 17, 21, 24, 31, 35–36",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary speech. Preserved repeated purification/sacrifice language, own-eyes image, dates, going onto altar and filled hands.",
+      "pending": "Propitiation and salvation-offering terms, disappearance/hissing and final preparation wording; full collation."
+    },
+    {
+      "chapter": 30,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/bibel/LXX/2CH.30",
+      "focus": "30:5, 8–9, 18–19, 22, 24, 27 (English endpoint failed; German publisher page retrieved)",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address and return to; retained third-person prayer, heart image, holy things and source pronoun shifts.",
+      "pending": "Purity exception, every heart idiom, priests holy things and return/compassion syntax; full collation."
+    },
+    {
+      "chapter": 31,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.31",
+      "focus": "31:4, 6, 13–16, 18–19",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized has; retained repeated heaps, tithes of goats, all names, ages, daily-account and enrollment structure.",
+      "pending": "Distribution syntax across 14–19, ages and subject boundaries; full collation."
+    },
+    {
+      "chapter": 32,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.32",
+      "focus": "32:1, 4–5, 8, 14, 21, 25–26, 30–31 (fresh publisher access succeeded)",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary/narrative verbs; retained arms plural, river through city, elliptical challenge, body image, heart height and southwest.",
+      "pending": "Threat syntax, urban/water terminology, recompense and humility clause; full collation. Earlier source-unavailability notes are historical, not the current access result."
+    },
+    {
+      "chapter": 33,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.33",
+      "focus": "33:6–8, 11, 14, 18–19, 23",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized narrative speech verbs; preserved divination terms, carved/cast object distinction, foot image, fetters, geographical syntax and prayer record across 18–19.",
+      "pending": "Divination vocabulary, wall route, broken record citation and son/subject wording; full collation."
+    },
+    {
+      "chapter": 34,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.34",
+      "focus": "34:11–13, 17, 22, 25–27, 33",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary and divine-to-human speech, preserving repeated humbled; clarified oversight syntax and repaired singular every Levite agreement across 12–13. Retained four-foot stones, melted silver, Huldah herself keeping robes, Masana and final singular he.",
+      "pending": "Construction measurements, oversight syntax, robe-keeper gender/identity, oracle syntax and final subject; full collation."
+    },
+    {
+      "chapter": 35,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.35",
+      "focus": "35:3, 12–13, 15, 19a–d, 20–22, 25–26",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary/narrative speech; retained every added 19a–d reading unit, tharaphin/karasim, till-morning/running phrases, male and female rulers, hope and Assyrian target.",
+      "pending": "Additional Greek passage and terms, source tense/sequence, Neco oracle and lament actors; full collation."
+    },
+    {
+      "chapter": 36,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2CH.36",
+      "focus": "36:2a–c, 4a, 5b–d, 8–10, 17, 20–21, 23 (fresh publisher access succeeded)",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized says/has in Cyrus proclamation. Retained all lettered additions, Jehoiakim blood attribution, refusal to destroy, Ganoza, age eighteen, father’s brother, Zedekiah, Medes and Sabbath repetition.",
+      "pending": "Additional passages and chronology, 17 subject/number and sanctuary pronoun, source names and full collation. Earlier source-unavailability notes are historical, not the current access result."
+    }
+  ]
+}
