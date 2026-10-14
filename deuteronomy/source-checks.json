@@ -1,0 +1,52 @@
+{
+  "book": "Deuteronomy",
+  "checked_date": "2026-10-14",
+  "declared_base": "Rahlfs–Hanhart Septuaginta, second revised edition (2006), provisional continuation authorized by the user",
+  "scope": "All 959 inherited English units read for editorial review. Selected main-text inspections only; no new full-book Greek collation or independent specialist review.",
+  "checks": [
+    {
+      "url": "https://www.die-bibel.de/en/bible/LXX/DEU.5",
+      "scope": "Selected 5:6–21, particularly 5:17–18; chapter retrieved",
+      "result": "Commands address human recipients. The source commandment order, with adultery before murder, remains."
+    },
+    {
+      "url": "https://www.die-bibel.de/en/bible/LXX/DEU.6",
+      "scope": "Selected 6:4–9, 6:13 and 6:25; chapter retrieved",
+      "result": "The preface, heart and soul, immovable sign and mercy wording remain. The English forms of address follow the Bespoke convention."
+    },
+    {
+      "url": "https://www.die-bibel.de/en/bible/LXX/DEU.9",
+      "scope": "Selected 9:23 and 9:26–29; main-text window 9:10–29 retrieved",
+      "result": "The two negatives in 9:23 are explicit in revised English. The direct prayer, including King of the gods and repeated strength language, remains."
+    },
+    {
+      "url": "https://www.die-bibel.de/en/bible/LXX/DEU.26",
+      "scope": "Selected 26:5 and 26:10–15; chapter retrieved",
+      "result": "The shifts between prayer and surrounding instructions were inspected. Direct divine address is retained, alongside ordinary you/your in the instructions. The second tithe remains."
+    },
+    {
+      "url": "https://www.die-bibel.de/en/bible/LXX/DEU.32",
+      "scope": "Selected 32:2–9, 32:18, 32:24, 32:29, 32:39 and 32:43; chapter main-text windows retrieved",
+      "result": "Inherited angels of God, difficult bodily imagery and expanded ending remain. Repeated See is retained. No apparatus choice or full syntactic verification is claimed."
+    },
+    {
+      "url": "https://www.die-bibel.de/en/bible/LXX/DEU.33",
+      "scope": "Selected 33:3, 33:7–11 and 33:17; main-text window 33:1–23 retrieved",
+      "result": "Shifts of addressee and the human quotation in 33:9 were inspected. Divine-address capitals remain editorial. Manifestations, wrath and the one-horned animal remain provisional."
+    },
+    {
+      "url": "https://www.die-bibel.de/en/bible/LXX/DEU.34",
+      "scope": "34:1–12 retrieved; selected inspection of 34:4–9",
+      "result": "Plural burial agents, Gai, cheeks and spirit of understanding remain. The difficult lexical choices still require specialist review."
+    }
+  ],
+  "outstanding": [
+    "Full independent Greek lexical and syntactic review",
+    "Göttingen text and critical apparatus collation",
+    "Human read-aloud review",
+    "Inherited animal, bird, legal, ritual, bodily and geographical terminology",
+    "Difficult syntax and readings, including 7:16/21, 15:18, 29:18, 32:5/24/36 and 33:3/8–10/17",
+    "Independent verification of earlier reception and comparison claims"
+  ],
+  "provenance": "Earlier notes remain historical records. Their full-source or reception-review claims are not renewed by this pass."
+}

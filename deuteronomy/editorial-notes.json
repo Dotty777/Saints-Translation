@@ -1,0 +1,159 @@
+{
+  "book": "Deuteronomy",
+  "edition": "2026-10-14-bespoke-provisional",
+  "direct_divine_address_references": [
+    "3:24",
+    "9:26",
+    "9:27",
+    "9:28",
+    "9:29",
+    "21:8",
+    "26:10",
+    "26:13",
+    "26:14",
+    "26:15",
+    "33:3",
+    "33:7",
+    "33:9",
+    "33:10"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "note": "The recollection, named places and judicial commands retain their order. Ordinary address uses you/your; earlier notes preserve observations about singular and plural Greek forms."
+    },
+    {
+      "chapter": 2,
+      "note": "Names, territories, measures and the inherited Seir readings remain. The commands concerning neighbouring peoples and the reported violence have not been harmonized or softened."
+    },
+    {
+      "chapter": 3,
+      "note": "Moses’ prayer in 3:24 retains Thou/Thy/Thine. God’s reply and commands to human recipients use you/your. The geographical names, iron bed and stated dimensions remain."
+    },
+    {
+      "chapter": 4,
+      "note": "The images of fire, the iron furnace, voice and likeness remain. Negatives and the question in 4:34 have clearer English. Earlier notes retain the source’s changes between singular and plural address."
+    },
+    {
+      "chapter": 5,
+      "note": "The inherited commandment order is retained: adultery precedes murder in 5:17–18. Commands address people and use you/your; the quoted divine speaker is not the addressee. The source’s repeated covenant language remains."
+    },
+    {
+      "chapter": 6,
+      "note": "The preface within 6:4, heart and soul in 6:6, immovable sign in 6:8 and mercy in 6:25 remain. Ordinary address uses you/your. Selected main-text inspection does not replace full independent review."
+    },
+    {
+      "chapter": 7,
+      "note": "The named nations, commands, covenant and repeated warnings remain. The inherited spoil and wounded wording in 7:16 and 7:21 remains provisional. English changes do not make a new textual choice."
+    },
+    {
+      "chapter": 8,
+      "note": "The wilderness, hunger, manna, garments, feet and land images remain. The bread-and-word sentence and negatives have clearer English order. “Mine copper” retains mine as a verb."
+    },
+    {
+      "chapter": 9,
+      "note": "Moses’ prayer in 9:26–29 retains Thou/Thy/Thine/Thyself, including the inherited King of the gods address. Repeated strength and arm language remains. The two negatives in 9:23 are explicit."
+    },
+    {
+      "chapter": 10,
+      "note": "The itinerary, Aaron’s death, levitical service and seventy souls remain. The inherited shift from plural Levites to singular his inheritance has not been silently levelled. Commands use you/your."
+    },
+    {
+      "chapter": 11,
+      "note": "The long opening recollection and its supplied English connection remain. The enlarged-heart image in 11:16 is retained, with its earlier explanation available. Conditional negatives have clearer English."
+    },
+    {
+      "chapter": 12,
+      "note": "The chosen place, offerings, blood and provision for the Levite remain. Ordinary address and negative clauses are revised; the distinctions among sacrifice, ordinary slaughter and eating remain."
+    },
+    {
+      "chapter": 13,
+      "note": "All 19 source-numbered units remain, including the opening prohibition on adding or taking away. Conditional verbs use ordinary present-tense English. The agents and reported penalties remain explicit."
+    },
+    {
+      "chapter": 14,
+      "note": "Animal and bird names, purification wording and the lamb in its mother’s milk remain as inherited provisional renderings. The tithes and provisions for the sojourner, orphan and widow remain."
+    },
+    {
+      "chapter": 15,
+      "note": "Release, lending, service, gifts and firstborn provisions retain their distinctions. Attributive your and possessive yours are distinguished. The inherited yearly-wage wording in 15:18 remains provisional."
+    },
+    {
+      "chapter": 16,
+      "note": "The festival order, boiling and roasting in 16:7, permitted needs in 16:8 and repeated feast names remain. Sentence order is clearer; the inherited phrases about just judgment remain."
+    },
+    {
+      "chapter": 17,
+      "note": "Witnesses, judicial decisions, the ruler and the written second law remain. Conditional grammar is modernized without compressing repeated legal distinctions or royal restrictions."
+    },
+    {
+      "chapter": 18,
+      "note": "Priestly portions, prohibited practices and the promised prophet retain their distinct terms. The inherited manifestations-related terminology elsewhere is not imported here. Negative syntax in 18:22 is clearer."
+    },
+    {
+      "chapter": 19,
+      "note": "The distinction between unintentional killing and murder, refuge cities, witnesses and proportional penalties remains. Conditional verbs and the purpose of preventing innocent bloodshed have clearer grammar."
+    },
+    {
+      "chapter": 20,
+      "note": "The account’s exemptions, offer of peace, siege and tree question remain. The reported violence is not euphemized. English changes do not settle the inherited dependent-household interpretation."
+    },
+    {
+      "chapter": 21,
+      "note": "The prayer in 21:8 retains Thy/Thou. The heifer procedure, captive woman, inheritance, rebellious son and hanging provisions remain in their existing order, with their stated agents and penalties."
+    },
+    {
+      "chapter": 22,
+      "note": "Lost property, roof parapet, mixtures, marriage and sexual-violence provisions retain their distinctions. Conditional verbs and negatives are clearer; no modern legal interpretation is substituted for the text."
+    },
+    {
+      "chapter": 23,
+      "note": "All 26 source-numbered units remain, including the opening father’s-wife prohibition and the grain/vineyard order. Assembly, camp, escaped-slave, interest and vow provisions retain their inherited wording."
+    },
+    {
+      "chapter": 24,
+      "note": "The divorce sequence, pledges, wages, individual liability and gleaning provisions remain. Conditional verbs use ordinary present-tense English. Mercy in 24:13 remains as inherited."
+    },
+    {
+      "chapter": 25,
+      "note": "The limit on stripes, unmuzzled ox, levirate provisions, measures and Amalek command remain. Conditional grammar and negatives are revised; quantities, bodily language and penalties are preserved."
+    },
+    {
+      "chapter": 26,
+      "note": "The confession shifts from speaking about God to addressing Him. Within 26:10 and 26:13, human instructions use you/your while the prayer retains Thou/Thy. The second tithe and inherited Syria wording remain."
+    },
+    {
+      "chapter": 27,
+      "note": "The stones, Ebal/Gerizim assignments and every repeated response remain. The additional wife’s-sister clause in 27:23 is retained. Ordinary address and the negative in 27:26 follow the Bespoke convention."
+    },
+    {
+      "chapter": 28,
+      "note": "All 69 units remain, including the covenant heading at 28:69. The blessing and curse wishes retain their grammatical force; famine, siege and bodily images are not softened. Until-clauses have clearer grammar."
+    },
+    {
+      "chapter": 29,
+      "note": "All 28 source-numbered units remain. The inherited sinner/guiltless interpretation in 29:18 remains a priority for independent syntax review. The visible/hidden distinction and covenant wording remain."
+    },
+    {
+      "chapter": 30,
+      "note": "The inherited healing of sins, cleansing of the heart and word in mouth, heart and hands remain. The life-and-death appeal retains its repetitions; conditional grammar is clearer."
+    },
+    {
+      "chapter": 31,
+      "note": "Joshua’s commission, the seven-year reading, the song as witness and the law beside the ark remain. Imperatives have natural English word order; the inherited identification of the speaker in 31:23 remains."
+    },
+    {
+      "chapter": 32,
+      "note": "The Song of Moses retains its imagery, angels of God in 32:8, the expanded 32:43, and repeated “See, see” in 32:39. Difficult wording, including 32:5, 32:24 and 32:36, remains provisional for independent review."
+    },
+    {
+      "chapter": 33,
+      "note": "The blessing retains its changes of addressee. Divine address remains in 33:3, 33:7 and 33:9–10; the human-directed quotation in 33:9 uses you. Inherited manifestations, wrath, animal and tribal images remain provisional."
+    },
+    {
+      "chapter": 34,
+      "note": "The inherited plural “they buried him”, Gai, cheeks and spirit of understanding remain after selected main-text inspection. Moses’ death and Joshua’s succession keep their distinct agents and wording."
+    }
+  ],
+  "scope": "English editorial review; selected main-text checks. Full independent Greek, apparatus, reception and human read-aloud reviews remain pending."
+}

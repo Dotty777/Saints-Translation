@@ -1,0 +1,685 @@
+{
+  "verse_units": 959,
+  "changed_units": 725,
+  "retained_units": 234,
+  "study_rows": 1538,
+  "changed_study_phrases": 209,
+  "study_records_changed": 34,
+  "all_study_phrases_match_revised_text": true,
+  "study_nonword_fields_preserved": true,
+  "old_note_links_preserved": 123,
+  "original_br_count": 0,
+  "chapters": [
+    {
+      "chapter": 1,
+      "page_id": 1043,
+      "verse_count": 46,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "af7ec0f8b72ef3d664cc6cc4aecf624064023ff464f2c5b728e2b47f83272857",
+      "after_sha256": "242101147eb17ff0725f164408fc31ce832a11955e4211fed377818ae8a20013"
+    },
+    {
+      "chapter": 2,
+      "page_id": 1402,
+      "verse_count": 37,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "5020182425cbce38a5b11447b01d3cc179a721f149c8ebca1948a81c2f19215e",
+      "after_sha256": "8e5da299976da7879ff80f9d37af099486959670b756bdd156fbd5bdf3993a96"
+    },
+    {
+      "chapter": 3,
+      "page_id": 1404,
+      "verse_count": 29,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "3d53faf4dc7862f368352d1ee83ebe9b3c4e01b6486639afdad7519a07ad1b45",
+      "after_sha256": "11a881e2f7cf521cf4f763bdbe882d690796ff7e31b53ceb3b58e0c798d5fcd1"
+    },
+    {
+      "chapter": 4,
+      "page_id": 1406,
+      "verse_count": 49,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "4b89840e2edba604ea40e5cd5c8b8faef76d51b7542a9179083a28d51aae5294",
+      "after_sha256": "efd3a3a35f7ab57e4d6eb7a189ba8c547f98f4dc3d55a305f2edd3514ca4249c"
+    },
+    {
+      "chapter": 5,
+      "page_id": 1408,
+      "verse_count": 33,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "0b63cd51ce4e89e551d9c1fc2cd7413c2e6a0c3b658f1c0de4f5f8193884f915",
+      "after_sha256": "0d7a0a97eae875fad418e7fc0c1a6f83102501956c49f1bb33b22cfbdc1660ef"
+    },
+    {
+      "chapter": 6,
+      "page_id": 1410,
+      "verse_count": 25,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "820388218bd8f21135bcfdc7ed15bc181b103d02527bceeb1c8f97e39f2cb7b2",
+      "after_sha256": "7b31e94d799edbe165fec11925a9fdeecaab287e65ae8d2740821be723d2a695"
+    },
+    {
+      "chapter": 7,
+      "page_id": 1412,
+      "verse_count": 26,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "a1f3ee6d47913c7800176faafbab4c3e6ff7e14fb1e18c7a141b40433b4bf125",
+      "after_sha256": "6484c9f6567a4aebfe305073808eec9943ddaf3e84f56314605f550ab9e76d55"
+    },
+    {
+      "chapter": 8,
+      "page_id": 1414,
+      "verse_count": 20,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "cf5b2e35d5db0902d4ad3cbf4328d3fbdcad2626e1a22a2f933f6a141a17bf86",
+      "after_sha256": "3dddf0f4bea54541e3c326cdc9b10ae05fc53a707ce4bdbb0228cfd07a7814e9"
+    },
+    {
+      "chapter": 9,
+      "page_id": 1416,
+      "verse_count": 29,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "5c2ff6ad5ae16ebc03287c029464bcaba4465ca6615ec337297fb0d2b0803b60",
+      "after_sha256": "b52d844b2196950531b41ccd0623fce77939681e2e0c83ee94108454db0740b7"
+    },
+    {
+      "chapter": 10,
+      "page_id": 1418,
+      "verse_count": 22,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "89a1baa155f70eebe9c7ab0774e8df556b93ebb9ce2dac79e19330c8dd3d2c5d",
+      "after_sha256": "da2173dfa8b5b2dce1bd3681aeabf8fe2e29dbce5a421ff0237ad7abfa97028f"
+    },
+    {
+      "chapter": 11,
+      "page_id": 1420,
+      "verse_count": 32,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "a63eb9923c5383c103a17d3df5778a404a89f0da408ba183cb017a490f079da1",
+      "after_sha256": "60c7d5ff5dad46ce778353eee6b58b9efbac643ea7503e685d014cd49cf66186"
+    },
+    {
+      "chapter": 12,
+      "page_id": 1422,
+      "verse_count": 31,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "1549bd02632c997d7b6c5d8ecaf59fe2e67d0b277cb49f80e5ef69ea9327936f",
+      "after_sha256": "a5898174f78340b0ee24585dad5bd7991b1cdd6106bec735507db793101669eb"
+    },
+    {
+      "chapter": 13,
+      "page_id": 1424,
+      "verse_count": 19,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "3d305e7657a07fced3440d08bf8c53a794056effddcf7f9ff2e3efa800666fb5",
+      "after_sha256": "3e33ba92e3400b7d72fc0606af91bbb0098dd2f5f261397e8f1e3543f9994215"
+    },
+    {
+      "chapter": 14,
+      "page_id": 1426,
+      "verse_count": 29,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "f7575f2b694759d8ce1bd1bf98d9e80b994808e6f1f609d63514e7e880b99e01",
+      "after_sha256": "81dc79b80ae37db209a8dd8ca2c97641e902a25df8853e51b398a75b8d8af35c"
+    },
+    {
+      "chapter": 15,
+      "page_id": 1428,
+      "verse_count": 23,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "146c0b45c3cbe22e89efc70535212abce470f697475b578948fe661c620eef8f",
+      "after_sha256": "679b51385616f40af464a801b81e906a8fa887de6c1692d37e27af4b2e6ee912"
+    },
+    {
+      "chapter": 16,
+      "page_id": 1430,
+      "verse_count": 22,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "c6caee200e7c80ebefed808e7fc59a28bff5fa1c533ad5dcb55ac1aa00f00eb0",
+      "after_sha256": "f4e8dc587da8ad22723932b5709b3bafe7e4c9c3b1966175b1bc406a8c6b13ed"
+    },
+    {
+      "chapter": 17,
+      "page_id": 1432,
+      "verse_count": 20,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "1ae180345d5d7f95614c7fb85121a4c3f5cca1fbd0e7c9d0b3f8287d7bf37b7a",
+      "after_sha256": "c08ba42c57a6ba06e3a984bc445fb12834531ee97bdbff3427420918b00ca815"
+    },
+    {
+      "chapter": 18,
+      "page_id": 1434,
+      "verse_count": 22,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "584c284e908d1edb899c0ef68fa25f9db48e877b1ca8cf960b99d19e429a8f5c",
+      "after_sha256": "368e957bf5abbd72c9472c29697e8cbe545cd98faf4d5b582b3d07e392411e4d"
+    },
+    {
+      "chapter": 19,
+      "page_id": 1436,
+      "verse_count": 21,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "d5802d5006664963a6f6c85d2aa1e186622c30a2c083039fd3883f7ba791e029",
+      "after_sha256": "41170db1bdce6f481f7b0c61ca327ae799029a83a2d058f84f8abde0f63817f8"
+    },
+    {
+      "chapter": 20,
+      "page_id": 1438,
+      "verse_count": 20,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "ea185d8d455f002c67823aad872a0eb6b5e7b93abdcdf7566e25b1318b887ed0",
+      "after_sha256": "55be184a3bf3e29436248374b2b217bd642f53e82004c643facdc9c3735b09c5"
+    },
+    {
+      "chapter": 21,
+      "page_id": 1440,
+      "verse_count": 23,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "5096cc87ef3ad4b5e776a9abdf4e7ffca0e11a8a573457c82dce7327f85297bf",
+      "after_sha256": "928c98f364856a611ca83fe37edad78ce8fb033e36adf3a7e062a045d41f1916"
+    },
+    {
+      "chapter": 22,
+      "page_id": 1442,
+      "verse_count": 29,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "5e1d2de4ce13553e1631b2273d83dd34c9f3b45412d38af112036bf5694ddfab",
+      "after_sha256": "4044c9bafc533879476443e6cfc494f8a8cea66f5855e2503796fe9cedb96fdc"
+    },
+    {
+      "chapter": 23,
+      "page_id": 1444,
+      "verse_count": 26,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "e8fb7646a98e3a9cc7e1ffe1ac8ab9611b203f3a7b305cee8131084379c26250",
+      "after_sha256": "a5f15a887c73b66e1d60b06247cab13019540428a9334b979c20cea456c6a932"
+    },
+    {
+      "chapter": 24,
+      "page_id": 1446,
+      "verse_count": 22,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "b071649c1a59738689efdd8ff8291ab564a899500e50a0a82e96c00776e4e018",
+      "after_sha256": "a09fc2bfedb53486d607121dfce9e89d8359612b75f511217b9c5e0b39680cfa"
+    },
+    {
+      "chapter": 25,
+      "page_id": 1448,
+      "verse_count": 19,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "c56cf7e79672b8ce2c33dcbcfb5eb9ea84e83c41400fdcfb2a00075725a40142",
+      "after_sha256": "a7495e76aa07c2c48f1885020220dd23a4b872091924244ce9f425197920745e"
+    },
+    {
+      "chapter": 26,
+      "page_id": 1450,
+      "verse_count": 19,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "9b6f72dfc867c934a24141129b2f69434ef0ad3739dcd51c6d4e3669059e55e8",
+      "after_sha256": "8b1a21cce21018955778e5a5ba6caeb1f2210c0f7abce64634a4a33fe30a727c"
+    },
+    {
+      "chapter": 27,
+      "page_id": 1452,
+      "verse_count": 26,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "8d2fa9cb37340d51dff0964a606ad5d90fc48f647bc1b217013a2e2833e707ff",
+      "after_sha256": "da0a9cb8ce1e063510078e5fed1740cdb5a9d93a1a638280bafac99ff88debea"
+    },
+    {
+      "chapter": 28,
+      "page_id": 1454,
+      "verse_count": 69,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "0b2b1245550d4fb76f344f4f3e37a49c407dacce6e484576ffa3b7ae6eb4a5db",
+      "after_sha256": "40972b3ca60cd36a57900a2ba2156ead738f04a73ca3723296e6cc72cafc3a90"
+    },
+    {
+      "chapter": 29,
+      "page_id": 1456,
+      "verse_count": 28,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "572794e7e600d03bb7d4c934f3a354d7d71e4cdcad58189b29e86172fafe19a5",
+      "after_sha256": "e0d747220f812fe8a89c8c630d8f8e6f5f4bcd6146f1a97d18a969097ef7c3e2"
+    },
+    {
+      "chapter": 30,
+      "page_id": 1458,
+      "verse_count": 20,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "efcd19ed87fbfd098045f6602f342b079912ee1052aae0138d6ee1e25ff54f18",
+      "after_sha256": "082d6c5b36446dbd444fdc85dcc1406102e7aa72dbfb9713c80f562e8b19fbb9"
+    },
+    {
+      "chapter": 31,
+      "page_id": 1460,
+      "verse_count": 30,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "d919f6eb5a8a5bb6e2c14a4feac3d6ef4ca23ab6a5ad7e5fd9300e222317cf2e",
+      "after_sha256": "95c2cf1194c557578a5a13b83eaf603fffc0b1aa26ed25bd27cdee198940237f"
+    },
+    {
+      "chapter": 32,
+      "page_id": 1462,
+      "verse_count": 52,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "fdca0b12fe8fb113c7ed4d465e1be2f607b4c0261c07ca7138e4c9505694be28",
+      "after_sha256": "693dec7c3988d4fa5350be596fdba249100e04bb56d77323901a68ca528632a1"
+    },
+    {
+      "chapter": 33,
+      "page_id": 1464,
+      "verse_count": 29,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "52dd4edc4b4e51d2f1fa093c20ac152a1c1b47e1c2c70d473613e7abbe5eb18f",
+      "after_sha256": "cfd964228fd173166d7e325d9731dffbaa6e7ef85e2a3cefe484377fff077405"
+    },
+    {
+      "chapter": 34,
+      "page_id": 1466,
+      "verse_count": 12,
+      "links_media_blocks_scripts_styles_existing_notes_and_note_markers_preserved": true,
+      "before_sha256": "0a8dce7da84c004bea6fa81ab5aa23c8d19fc38f31a8a3ef7aa9fcc9b99c5002",
+      "after_sha256": "c0ceb1eb374ae1427c06632463b86019a3339865f6c5afeabe3724c1597e5a05"
+    }
+  ],
+  "status": "staging saved and read back",
+  "site_id": 248834710,
+  "environment": "staging",
+  "date": "2026-10-14",
+  "chapter_readbacks": [
+    {
+      "chapter": 1,
+      "page_id": 1043,
+      "study_id": 24909,
+      "page_modified_as_reported_by_site": "2026-10-14T09:26:55",
+      "study_modified_as_reported_by_site": "2026-10-14T09:26:59",
+      "page_sha256_after_outer_whitespace_trim": "242101147eb17ff0725f164408fc31ce832a11955e4211fed377818ae8a20013",
+      "study_csv_sha256": "52ab87949c2b2857bdabdadaa2acf7b62abbc360b912b2761c8295c97a33971f",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 2,
+      "page_id": 1402,
+      "study_id": 24919,
+      "page_modified_as_reported_by_site": "2026-10-14T09:27:18",
+      "study_modified_as_reported_by_site": "2026-10-14T09:27:23",
+      "page_sha256_after_outer_whitespace_trim": "8e5da299976da7879ff80f9d37af099486959670b756bdd156fbd5bdf3993a96",
+      "study_csv_sha256": "a6236102e5b2bc19dcc574af80c4d9d5cdb7bd70138db686c30923fc7aa72a9d",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 3,
+      "page_id": 1404,
+      "study_id": 24933,
+      "page_modified_as_reported_by_site": "2026-10-14T09:27:41",
+      "study_modified_as_reported_by_site": "2026-10-14T09:27:45",
+      "page_sha256_after_outer_whitespace_trim": "11a881e2f7cf521cf4f763bdbe882d690796ff7e31b53ceb3b58e0c798d5fcd1",
+      "study_csv_sha256": "0dccad17489f70f52889308fe1b1a0f6e48991ddb3ba39668b43ce5ec118135c",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 4,
+      "page_id": 1406,
+      "study_id": 24955,
+      "page_modified_as_reported_by_site": "2026-10-14T09:28:06",
+      "study_modified_as_reported_by_site": "2026-10-14T09:28:10",
+      "page_sha256_after_outer_whitespace_trim": "efd3a3a35f7ab57e4d6eb7a189ba8c547f98f4dc3d55a305f2edd3514ca4249c",
+      "study_csv_sha256": "62c5461ba4fc67a2070e86306cb35209752c8828610a82f1f0e65ae7f6231e2d",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 5,
+      "page_id": 1408,
+      "study_id": 24966,
+      "page_modified_as_reported_by_site": "2026-10-14T09:28:29",
+      "study_modified_as_reported_by_site": "2026-10-14T09:28:34",
+      "page_sha256_after_outer_whitespace_trim": "0d7a0a97eae875fad418e7fc0c1a6f83102501956c49f1bb33b22cfbdc1660ef",
+      "study_csv_sha256": "033e644e53656fe5cd5bceafd6d13d198fe8927ad25019d13190097569f88b05",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 6,
+      "page_id": 1410,
+      "study_id": 24900,
+      "page_modified_as_reported_by_site": "2026-10-14T09:28:53",
+      "study_modified_as_reported_by_site": "2026-10-14T09:28:58",
+      "page_sha256_after_outer_whitespace_trim": "7b31e94d799edbe165fec11925a9fdeecaab287e65ae8d2740821be723d2a695",
+      "study_csv_sha256": "ecda7dc67bf92ff55a02b3bfd0fad65438aa199d1afb26d174b790ab12b78abe",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 7,
+      "page_id": 1412,
+      "study_id": 24906,
+      "page_modified_as_reported_by_site": "2026-10-14T09:29:26",
+      "study_modified_as_reported_by_site": "2026-10-14T09:29:31",
+      "page_sha256_after_outer_whitespace_trim": "6484c9f6567a4aebfe305073808eec9943ddaf3e84f56314605f550ab9e76d55",
+      "study_csv_sha256": "61e60965851a3dbf045ba3b6dfb3ec1fe81275ae7e32ebb85fd66cf558847240",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 8,
+      "page_id": 1414,
+      "study_id": 24917,
+      "page_modified_as_reported_by_site": "2026-10-14T09:29:50",
+      "study_modified_as_reported_by_site": "2026-10-14T09:29:55",
+      "page_sha256_after_outer_whitespace_trim": "3dddf0f4bea54541e3c326cdc9b10ae05fc53a707ce4bdbb0228cfd07a7814e9",
+      "study_csv_sha256": "9cb4fd44f4de58b73a27260b0f813799c6a7f683064fba3a44af39ecfa277952",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 9,
+      "page_id": 1416,
+      "study_id": 24938,
+      "page_modified_as_reported_by_site": "2026-10-14T09:30:15",
+      "study_modified_as_reported_by_site": "2026-10-14T09:30:20",
+      "page_sha256_after_outer_whitespace_trim": "b52d844b2196950531b41ccd0623fce77939681e2e0c83ee94108454db0740b7",
+      "study_csv_sha256": "c93add27b476f3f48f4ed7ef73b7db677afd6872bf8b7dd9f0297b84876d85fc",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 10,
+      "page_id": 1418,
+      "study_id": 24951,
+      "page_modified_as_reported_by_site": "2026-10-14T09:30:39",
+      "study_modified_as_reported_by_site": "2026-10-14T09:30:44",
+      "page_sha256_after_outer_whitespace_trim": "da2173dfa8b5b2dce1bd3681aeabf8fe2e29dbce5a421ff0237ad7abfa97028f",
+      "study_csv_sha256": "3d7e829b26d0ceed4b4c842cace48eed9320aa4e28339393ed431f756d9dbfd2",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 11,
+      "page_id": 1420,
+      "study_id": 24962,
+      "page_modified_as_reported_by_site": "2026-10-14T09:31:04",
+      "study_modified_as_reported_by_site": "2026-10-14T09:31:09",
+      "page_sha256_after_outer_whitespace_trim": "60c7d5ff5dad46ce778353eee6b58b9efbac643ea7503e685d014cd49cf66186",
+      "study_csv_sha256": "c5a1b54e1282cee279a6d971ed2d05222b34e11cac9b2ccadb6a4b184cf4eeb5",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 12,
+      "page_id": 1422,
+      "study_id": 24903,
+      "page_modified_as_reported_by_site": "2026-10-14T09:31:29",
+      "study_modified_as_reported_by_site": "2026-10-14T09:31:33",
+      "page_sha256_after_outer_whitespace_trim": "a5898174f78340b0ee24585dad5bd7991b1cdd6106bec735507db793101669eb",
+      "study_csv_sha256": "19c8b5dc3cac928edbe88716ad1dbc945a876bf1dde73db568fc32511ec276e4",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 13,
+      "page_id": 1424,
+      "study_id": 24913,
+      "page_modified_as_reported_by_site": "2026-10-14T09:32:28",
+      "study_modified_as_reported_by_site": "2026-10-14T09:32:33",
+      "page_sha256_after_outer_whitespace_trim": "3e33ba92e3400b7d72fc0606af91bbb0098dd2f5f261397e8f1e3543f9994215",
+      "study_csv_sha256": "eb7bb1c1915e8e57a740babb9e1432dd8f8d99bba1642d8fc043388cdf419d6f",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 14,
+      "page_id": 1426,
+      "study_id": 24925,
+      "page_modified_as_reported_by_site": "2026-10-14T09:32:51",
+      "study_modified_as_reported_by_site": "2026-10-14T09:32:55",
+      "page_sha256_after_outer_whitespace_trim": "81dc79b80ae37db209a8dd8ca2c97641e902a25df8853e51b398a75b8d8af35c",
+      "study_csv_sha256": "9689c341248057206807aa3829b05fb6bc220204cad3ae7986f8a4097523d651",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 15,
+      "page_id": 1428,
+      "study_id": 24941,
+      "page_modified_as_reported_by_site": "2026-10-14T09:33:16",
+      "study_modified_as_reported_by_site": "2026-10-14T09:33:21",
+      "page_sha256_after_outer_whitespace_trim": "679b51385616f40af464a801b81e906a8fa887de6c1692d37e27af4b2e6ee912",
+      "study_csv_sha256": "73d9e574bdd2945cae97b7617b13f4d36c9d07026943556d304c5ccab3964a2a",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 16,
+      "page_id": 1430,
+      "study_id": 24952,
+      "page_modified_as_reported_by_site": "2026-10-14T09:33:40",
+      "study_modified_as_reported_by_site": "2026-10-14T09:33:45",
+      "page_sha256_after_outer_whitespace_trim": "f4e8dc587da8ad22723932b5709b3bafe7e4c9c3b1966175b1bc406a8c6b13ed",
+      "study_csv_sha256": "23061457d091140cd891b97b127cd9d0ab8d0e353124df6491cda9bc258e071a",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 17,
+      "page_id": 1432,
+      "study_id": 24959,
+      "page_modified_as_reported_by_site": "2026-10-14T09:34:03",
+      "study_modified_as_reported_by_site": "2026-10-14T09:34:08",
+      "page_sha256_after_outer_whitespace_trim": "c08ba42c57a6ba06e3a984bc445fb12834531ee97bdbff3427420918b00ca815",
+      "study_csv_sha256": "09755bfcdab7a854bf90ea435277a5f365f0aff15d69c8d68ea93f69ff11ff9f",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 18,
+      "page_id": 1434,
+      "study_id": 24904,
+      "page_modified_as_reported_by_site": "2026-10-14T09:34:29",
+      "study_modified_as_reported_by_site": "2026-10-14T09:34:34",
+      "page_sha256_after_outer_whitespace_trim": "368e957bf5abbd72c9472c29697e8cbe545cd98faf4d5b582b3d07e392411e4d",
+      "study_csv_sha256": "607933305901b722ba76e7b4e0045609d7fb63526a01f77349289ef9ac0ce0c6",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 19,
+      "page_id": 1436,
+      "study_id": 24908,
+      "page_modified_as_reported_by_site": "2026-10-14T09:34:57",
+      "study_modified_as_reported_by_site": "2026-10-14T09:35:01",
+      "page_sha256_after_outer_whitespace_trim": "41170db1bdce6f481f7b0c61ca327ae799029a83a2d058f84f8abde0f63817f8",
+      "study_csv_sha256": "90acd8cd125a72edf01f99888b22ab61632db6363c769c22147516eaf92e8f30",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 20,
+      "page_id": 1438,
+      "study_id": 24921,
+      "page_modified_as_reported_by_site": "2026-10-14T09:35:32",
+      "study_modified_as_reported_by_site": "2026-10-14T09:35:44",
+      "page_sha256_after_outer_whitespace_trim": "55be184a3bf3e29436248374b2b217bd642f53e82004c643facdc9c3735b09c5",
+      "study_csv_sha256": "602e54b622e0455eda2c57a344e0ffd04a8fc3a063f22098a0a11b5a8336f503",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 21,
+      "page_id": 1440,
+      "study_id": 24939,
+      "page_modified_as_reported_by_site": "2026-10-14T09:36:19",
+      "study_modified_as_reported_by_site": "2026-10-14T09:36:23",
+      "page_sha256_after_outer_whitespace_trim": "928c98f364856a611ca83fe37edad78ce8fb033e36adf3a7e062a045d41f1916",
+      "study_csv_sha256": "a8cef1632832d40907d620f1edef5243474dcdf2294bbea43f9a76add311f70a",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 22,
+      "page_id": 1442,
+      "study_id": 24957,
+      "page_modified_as_reported_by_site": "2026-10-14T09:36:43",
+      "study_modified_as_reported_by_site": "2026-10-14T09:36:47",
+      "page_sha256_after_outer_whitespace_trim": "4044c9bafc533879476443e6cfc494f8a8cea66f5855e2503796fe9cedb96fdc",
+      "study_csv_sha256": "e838f471cb0b8c65ad35c359cc34a88152235f95a5f5759b469da16cdfd94ddc",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 23,
+      "page_id": 1444,
+      "study_id": 24967,
+      "page_modified_as_reported_by_site": "2026-10-14T09:37:16",
+      "study_modified_as_reported_by_site": "2026-10-14T09:37:21",
+      "page_sha256_after_outer_whitespace_trim": "a5f15a887c73b66e1d60b06247cab13019540428a9334b979c20cea456c6a932",
+      "study_csv_sha256": "fc7300cd7f3e47f4e2ced0eca02e2415e01228b13d63b4ff34a09730157d4835",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 24,
+      "page_id": 1446,
+      "study_id": 24971,
+      "page_modified_as_reported_by_site": "2026-10-14T09:37:48",
+      "study_modified_as_reported_by_site": "2026-10-14T09:37:52",
+      "page_sha256_after_outer_whitespace_trim": "a09fc2bfedb53486d607121dfce9e89d8359612b75f511217b9c5e0b39680cfa",
+      "study_csv_sha256": "f70ffcaab90bc834c928a5991d522eb402ab8fdd4c932042ccb6c61995f516b3",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 25,
+      "page_id": 1448,
+      "study_id": 24936,
+      "page_modified_as_reported_by_site": "2026-10-14T09:38:17",
+      "study_modified_as_reported_by_site": "2026-10-14T09:38:28",
+      "page_sha256_after_outer_whitespace_trim": "a7495e76aa07c2c48f1885020220dd23a4b872091924244ce9f425197920745e",
+      "study_csv_sha256": "c7da0fea06f9ddaaa5eae14f1302995090258559034fc04d4bd84d533df38c4a",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 26,
+      "page_id": 1450,
+      "study_id": 24950,
+      "page_modified_as_reported_by_site": "2026-10-14T09:38:49",
+      "study_modified_as_reported_by_site": "2026-10-14T09:38:57",
+      "page_sha256_after_outer_whitespace_trim": "8b1a21cce21018955778e5a5ba6caeb1f2210c0f7abce64634a4a33fe30a727c",
+      "study_csv_sha256": "8333175e692a9dae9565b2819a1cdd701cd644d11d26edbf83bf2688c6afdf67",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 27,
+      "page_id": 1452,
+      "study_id": 24954,
+      "page_modified_as_reported_by_site": "2026-10-14T09:39:16",
+      "study_modified_as_reported_by_site": "2026-10-14T09:39:21",
+      "page_sha256_after_outer_whitespace_trim": "da0a9cb8ce1e063510078e5fed1740cdb5a9d93a1a638280bafac99ff88debea",
+      "study_csv_sha256": "c5ddeb514c5caa46939454168f0595342eb9c9f183dd89ad29e0de5cdcf773fc",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 28,
+      "page_id": 1454,
+      "study_id": 24958,
+      "page_modified_as_reported_by_site": "2026-10-14T09:39:41",
+      "study_modified_as_reported_by_site": "2026-10-14T09:39:46",
+      "page_sha256_after_outer_whitespace_trim": "40972b3ca60cd36a57900a2ba2156ead738f04a73ca3723296e6cc72cafc3a90",
+      "study_csv_sha256": "72be161bba699d2e11d22dff9cb868fd3c3e3c6deb12b22340d4d9c299cbcbe2",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 29,
+      "page_id": 1456,
+      "study_id": 24969,
+      "page_modified_as_reported_by_site": "2026-10-14T09:40:06",
+      "study_modified_as_reported_by_site": "2026-10-14T09:40:11",
+      "page_sha256_after_outer_whitespace_trim": "e0d747220f812fe8a89c8c630d8f8e6f5f4bcd6146f1a97d18a969097ef7c3e2",
+      "study_csv_sha256": "d2ac95c4fdc263828850663403b7c9a890b0066d2d229b65bf6a6f7fb1942aeb",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 30,
+      "page_id": 1458,
+      "study_id": 24901,
+      "page_modified_as_reported_by_site": "2026-10-14T09:40:36",
+      "study_modified_as_reported_by_site": "2026-10-14T09:40:40",
+      "page_sha256_after_outer_whitespace_trim": "082d6c5b36446dbd444fdc85dcc1406102e7aa72dbfb9713c80f562e8b19fbb9",
+      "study_csv_sha256": "2e04b6bf0cc7af22fc8992e6cfc89e72cbc52783e99f26df05ccdf13ed32f6d9",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 31,
+      "page_id": 1460,
+      "study_id": 24915,
+      "page_modified_as_reported_by_site": "2026-10-14T09:41:05",
+      "study_modified_as_reported_by_site": "2026-10-14T09:41:10",
+      "page_sha256_after_outer_whitespace_trim": "95c2cf1194c557578a5a13b83eaf603fffc0b1aa26ed25bd27cdee198940237f",
+      "study_csv_sha256": "2e739aed00818cecc4ca923501cf9cc454a2878971b73e049c8c618c637f90dc",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 32,
+      "page_id": 1462,
+      "study_id": 24947,
+      "page_modified_as_reported_by_site": "2026-10-14T09:41:35",
+      "study_modified_as_reported_by_site": "2026-10-14T09:41:40",
+      "page_sha256_after_outer_whitespace_trim": "693dec7c3988d4fa5350be596fdba249100e04bb56d77323901a68ca528632a1",
+      "study_csv_sha256": "74f070f985b408c3e2a0c7d8c3bcd9ce673613131f6abd5cf7a7e7ddef06f626",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 33,
+      "page_id": 1464,
+      "study_id": 24965,
+      "page_modified_as_reported_by_site": "2026-10-14T09:42:00",
+      "study_modified_as_reported_by_site": "2026-10-14T09:42:04",
+      "page_sha256_after_outer_whitespace_trim": "cfd964228fd173166d7e325d9731dffbaa6e7ef85e2a3cefe484377fff077405",
+      "study_csv_sha256": "74a9ef5ecd8fed547e7d9972a00d775e19790a14e7e58abdd1e4be84fbbb3f05",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    },
+    {
+      "chapter": 34,
+      "page_id": 1466,
+      "study_id": 24970,
+      "page_modified_as_reported_by_site": "2026-10-14T09:42:23",
+      "study_modified_as_reported_by_site": "2026-10-14T09:42:29",
+      "page_sha256_after_outer_whitespace_trim": "c0ceb1eb374ae1427c06632463b86019a3339865f6c5afeabe3724c1597e5a05",
+      "study_csv_sha256": "9ed60c1924d869ae34f5a4b5634e959d1d8c573c77d46dbed24e3980f9f87439",
+      "saved_page_matches_plan": true,
+      "saved_study_matches_plan": true
+    }
+  ],
+  "index_readback": {
+    "id": 1039,
+    "modified_as_reported_by_site": "2026-10-14T09:42:59",
+    "saved_content_matches_plan": true,
+    "sha256_after_outer_whitespace_trim": "febde7a4708a7f2391061fb5107aa4d14469388ea34423ce58f14fd6a0a7b9fb"
+  },
+  "browser_sample": {
+    "chapter": 12,
+    "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/law/deuteronomy/chapter-12/",
+    "revised_12_19_highlight_opened_correct_study": true,
+    "current_note_visible_in_translation_notes_workspace": true,
+    "reading_layout_inspected": true,
+    "screenshot": "staging-review.jpg",
+    "limits": "One desktop browser sample; no claim of comprehensive mobile or accessibility testing."
+  },
+  "both_existing_chapter_serialization_formats_preserved": true,
+  "combined_export_ids_unique": true,
+  "combined_export_internal_links_resolve": true,
+  "production_changed": false
+}
