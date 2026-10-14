@@ -1,0 +1,115 @@
+{
+  "book": "Leviticus",
+  "edition": "2026-10-14-bespoke-provisional",
+  "chapters": [
+    {
+      "chapter": 1,
+      "note": "The changes of ritual agent are retained, including the plural priests in 1:9 and the singular priest in 1:13. The change from “you” to “he” in 1:14 is also retained. “Acceptable” and the repeated “sweet savour” remain."
+    },
+    {
+      "chapter": 2,
+      "note": "The grain-offering instructions retain their repeated references to oil, frankincense, salt and the memorial portion. The prohibition in 2:11 has clearer English word order; its scope is retained."
+    },
+    {
+      "chapter": 3,
+      "note": "The repeated descriptions of fat and the perpetual prohibition on eating fat and blood remain. Conditional clauses now use ordinary present-tense English."
+    },
+    {
+      "chapter": 4,
+      "note": "The distinct offerings for the anointed priest, congregation, ruler and individual are retained. Reordered clauses make the agent of pouring the blood clearer without changing the sequence of actions."
+    },
+    {
+      "chapter": 5,
+      "note": "The source numbering continues through 5:26. Clauses about knowledge, guilt, restitution and the added fifth are retained; modern verb forms clarify their English connections."
+    },
+    {
+      "chapter": 6,
+      "note": "Source numbering begins this chapter with the altar instructions. Reordering clarifies who eats the remainder and where blood is washed; the ritual objects and repeated commands remain."
+    },
+    {
+      "chapter": 7,
+      "note": "The distinctions among offerings, participants and permitted days of eating remain. “Morrow” is retained where it is clear; present-tense verb endings follow the current Bespoke convention."
+    },
+    {
+      "chapter": 8,
+      "note": "The repeated instructions for consecration, vestments and offerings remain. In 8:35, “so that you do not die” clarifies the negative purpose clause."
+    },
+    {
+      "chapter": 9,
+      "note": "The sequence of offerings, blessing, appearance of glory and fire remains. The shift between Moses, Aaron, the priests and the people is preserved."
+    },
+    {
+      "chapter": 10,
+      "note": "The narrative and restrictions following the deaths of Nadab and Abihu retain their separate speakers. Address to Aaron and his household uses “you” and “your”."
+    },
+    {
+      "chapter": 11,
+      "note": "The received animal names and classification language remain provisional. “Hands”, “cud” and the distinctions among touching, carrying and eating are retained; these names have not received a new specialist zoological review."
+    },
+    {
+      "chapter": 12,
+      "note": "The periods of uncleanness and purification, their distinct durations and the alternative offering remain. The opening conditional and the instruction about sixty-six days have clearer English grammar."
+    },
+    {
+      "chapter": 13,
+      "note": "The sequences of inspection, waiting and re-examination remain. The received descriptions of lesions, hair, colour and garments are retained without claiming a modern medical diagnosis."
+    },
+    {
+      "chapter": 14,
+      "note": "The inherited negative in 14:39, “not spread”, is retained after a selected check of the Rahlfs–Hanhart main text. The ritual sequences and alternative offerings remain; no critical-apparatus decision is claimed."
+    },
+    {
+      "chapter": 15,
+      "note": "The distinctions among bodily conditions, contact, washing and waiting remain. In 15:31, the negative purpose clause now reads “so that they do not die”."
+    },
+    {
+      "chapter": 16,
+      "note": "The distinct instructions for the two goats, the sanctuary, altar and people remain. The inherited “sent away” wording is retained; this edition does not resolve the wider interpretive question through an added gloss."
+    },
+    {
+      "chapter": 17,
+      "note": "The repeated language of blood, life and atonement remains. Modern verb forms do not change the stated subjects or the distinction between slaughtering and hunting."
+    },
+    {
+      "chapter": 18,
+      "note": "Ordinary address uses “you” and “your”. The opening contrast with the practices of Egypt and Canaan has clearer English word order; the repeated prohibitions and the image of the land’s response remain."
+    },
+    {
+      "chapter": 19,
+      "note": "The repeated divine self-identification remains. Commands concerning neighbour, resident stranger, justice and measures retain their distinct objects. The inherited “upon the mountains” in 19:26 is retained after a selected main-text check."
+    },
+    {
+      "chapter": 20,
+      "note": "The prohibitions, stated consequences and recurring language of sanctification remain. Modern verb endings clarify the English while preserving the inherited distinctions."
+    },
+    {
+      "chapter": 21,
+      "note": "The distinctions among priests, the high priest and the listed bodily conditions remain. Received physical descriptions are retained without a new specialist identification claim."
+    },
+    {
+      "chapter": 22,
+      "note": "Reordering in 22:23–24 and 22:28 clarifies the relation between the animal and the instruction. The distinction between offerings and the prohibition concerning mother and young remains."
+    },
+    {
+      "chapter": 23,
+      "note": "The sequence of observances and repeated prohibitions on work remain. “Morrow” and “first day” in 23:11 are retained; the sentence now places the priest before the action."
+    },
+    {
+      "chapter": 24,
+      "note": "The instructions about lamps and bread, the intervening narrative and the legal declarations remain. The different objects of striking in the closing laws are preserved."
+    },
+    {
+      "chapter": 25,
+      "note": "Release, redemption, land and labour remain distinct. The inherited “sixth year of release” in 25:28 is retained after a selected Rahlfs–Hanhart main-text check. It is not silently replaced by a more familiar reading."
+    },
+    {
+      "chapter": 26,
+      "note": "The repeated conditional structure, consequences and covenant language remain. “You” and “your” serve ordinary address; divine first-person capitals are retained as an editorial convention."
+    },
+    {
+      "chapter": 27,
+      "note": "The distinct rules for valuations, redemption, devoted things and tithes remain. The added fifth and the stated exceptions are retained; 27:8 has clearer subject–verb order."
+    }
+  ],
+  "scope": "English editorial review; selected main-text checks; all earlier notes retained as history. No new full independent source, apparatus, reception or human read-aloud review."
+}

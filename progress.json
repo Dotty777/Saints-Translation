@@ -1,0 +1,503 @@
+{
+  "updated": "2026-10-14",
+  "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
+  "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
+  "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
+  "completed_book_records": 3,
+  "pending_book_revisions": 67,
+  "next_book": "Numbers",
+  "full_bible_complete": false,
+  "books": [
+    {
+      "order": 1,
+      "book": "Genesis",
+      "staging_path": "/bible/law/genesis/",
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "genesis/",
+      "note": "Genesis 1–11 accepted benchmark; 12–50 provisional continuation."
+    },
+    {
+      "order": 2,
+      "book": "Exodus",
+      "staging_path": "/bible/law/exodus/",
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "exodus/"
+    },
+    {
+      "order": 3,
+      "book": "Leviticus",
+      "staging_path": "/bible/law/leviticus/",
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "leviticus/"
+    },
+    {
+      "order": 4,
+      "book": "Numbers",
+      "staging_path": "/bible/law/numbers/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 5,
+      "book": "Deuteronomy",
+      "staging_path": "/bible/law/deuteronomy/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 6,
+      "book": "Joshua",
+      "staging_path": "/bible/judgement/joshua/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 7,
+      "book": "Judges",
+      "staging_path": "/bible/judgement/judges/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 8,
+      "book": "Ruth",
+      "staging_path": "/bible/judgement/ruth/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 9,
+      "book": "1 Samuel",
+      "staging_path": "/bible/judgement/1-samuel/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 10,
+      "book": "2 Samuel",
+      "staging_path": "/bible/judgement/2-samuel/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 11,
+      "book": "1 Kings",
+      "staging_path": "/bible/judgement/1-kings/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 12,
+      "book": "2 Kings",
+      "staging_path": "/bible/judgement/2-kings/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 13,
+      "book": "1 Chronicles",
+      "staging_path": "/bible/judgement/1-chronicles/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 14,
+      "book": "2 Chronicles",
+      "staging_path": "/bible/judgement/2-chronicles/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 15,
+      "book": "1 Maccabees",
+      "staging_path": "/bible/judgement/1-maccabees/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 16,
+      "book": "2 Maccabees",
+      "staging_path": "/bible/judgement/2-maccabees/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 17,
+      "book": "Ezra",
+      "staging_path": "/bible/judgement/ezra/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 18,
+      "book": "Nehemiah",
+      "staging_path": "/bible/judgement/nehemiah/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 19,
+      "book": "Esther",
+      "staging_path": "/bible/judgement/esther/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 20,
+      "book": "Job",
+      "staging_path": "/bible/judgement/job/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 21,
+      "book": "Psalms",
+      "staging_path": "/bible/wisdom/psalms/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 22,
+      "book": "Proverbs",
+      "staging_path": "/bible/wisdom/proverbs/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 23,
+      "book": "Ecclesiastes",
+      "staging_path": "/bible/wisdom/ecclesiastes/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 24,
+      "book": "Song of Songs",
+      "staging_path": "/bible/wisdom/song-of-songs/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 25,
+      "book": "Lamentations",
+      "staging_path": "/bible/wisdom/lamentations/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 26,
+      "book": "Wisdom of Solomon",
+      "staging_path": "/bible/wisdom/wisdom-of-solomon/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 27,
+      "book": "Sirach",
+      "staging_path": "/bible/wisdom/sirach/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 28,
+      "book": "Isaiah",
+      "staging_path": "/bible/providence/isaiah/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 29,
+      "book": "Jeremiah",
+      "staging_path": "/bible/providence/jeremiah/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 30,
+      "book": "Ezekiel",
+      "staging_path": "/bible/providence/ezekiel/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 31,
+      "book": "Daniel",
+      "staging_path": "/bible/providence/daniel/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 32,
+      "book": "Hosea",
+      "staging_path": "/bible/providence/hosea/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 33,
+      "book": "Joel",
+      "staging_path": "/bible/providence/joel/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 34,
+      "book": "Amos",
+      "staging_path": "/bible/providence/amos/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 35,
+      "book": "Obadiah",
+      "staging_path": "/bible/providence/obadiah/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 36,
+      "book": "Jonah",
+      "staging_path": "/bible/providence/jonah/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 37,
+      "book": "Micah",
+      "staging_path": "/bible/providence/micah/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 38,
+      "book": "Nahum",
+      "staging_path": "/bible/providence/nahum/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 39,
+      "book": "Habakkuk",
+      "staging_path": "/bible/providence/habakkuk/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 40,
+      "book": "Zephaniah",
+      "staging_path": "/bible/providence/zephaniah/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 41,
+      "book": "Haggai",
+      "staging_path": "/bible/providence/haggai/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 42,
+      "book": "Zechariah",
+      "staging_path": "/bible/providence/zechariah/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 43,
+      "book": "Malachi",
+      "staging_path": "/bible/providence/malachi/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 44,
+      "book": "Matthew",
+      "staging_path": "/bible/salvation/matthew/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 45,
+      "book": "Mark",
+      "staging_path": "/bible/salvation/mark/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 46,
+      "book": "Luke",
+      "staging_path": "/bible/salvation/luke/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 47,
+      "book": "John",
+      "staging_path": "/bible/salvation/john/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 48,
+      "book": "Acts",
+      "staging_path": "/bible/discipleship/acts/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 49,
+      "book": "Romans",
+      "staging_path": "/bible/discipleship/romans/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 50,
+      "book": "1 Corinthians",
+      "staging_path": "/bible/discipleship/1-corinthians/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 51,
+      "book": "2 Corinthians",
+      "staging_path": "/bible/discipleship/2-corinthians/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 52,
+      "book": "Galatians",
+      "staging_path": "/bible/discipleship/galatians/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 53,
+      "book": "Ephesians",
+      "staging_path": "/bible/discipleship/ephesians/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 54,
+      "book": "Philippians",
+      "staging_path": "/bible/discipleship/philippians/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 55,
+      "book": "Colossians",
+      "staging_path": "/bible/discipleship/colossians/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 56,
+      "book": "1 Thessalonians",
+      "staging_path": "/bible/discipleship/1-thessalonians/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 57,
+      "book": "2 Thessalonians",
+      "staging_path": "/bible/discipleship/2-thessalonians/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 58,
+      "book": "1 Timothy",
+      "staging_path": "/bible/discipleship/1-timothy/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 59,
+      "book": "2 Timothy",
+      "staging_path": "/bible/discipleship/2-timothy/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 60,
+      "book": "Titus",
+      "staging_path": "/bible/discipleship/titus/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 61,
+      "book": "Philemon",
+      "staging_path": "/bible/discipleship/philemon/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 62,
+      "book": "Hebrews",
+      "staging_path": "/bible/discipleship/hebrews/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 63,
+      "book": "James",
+      "staging_path": "/bible/discipleship/james/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 64,
+      "book": "1 Peter",
+      "staging_path": "/bible/discipleship/1-peter/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 65,
+      "book": "2 Peter",
+      "staging_path": "/bible/discipleship/2-peter/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 66,
+      "book": "1 John",
+      "staging_path": "/bible/discipleship/1-john/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 67,
+      "book": "2 John",
+      "staging_path": "/bible/discipleship/2-john/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 68,
+      "book": "3 John",
+      "staging_path": "/bible/discipleship/3-john/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 69,
+      "book": "Jude",
+      "staging_path": "/bible/discipleship/jude/",
+      "status": "pending Bespoke revision",
+      "records": null
+    },
+    {
+      "order": 70,
+      "book": "Revelation",
+      "staging_path": "/bible/glory/revelation/",
+      "status": "pending Bespoke revision",
+      "records": null
+    }
+  ]
+}

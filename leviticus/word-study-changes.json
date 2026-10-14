@@ -1,0 +1,653 @@
+[
+  {
+    "study_id": 24866,
+    "row": 20,
+    "reference": "Leviticus 1:9",
+    "before": "wash with water",
+    "after": "wash the entrails and the feet with water"
+  },
+  {
+    "study_id": 24891,
+    "row": 3,
+    "reference": "Leviticus 11:2",
+    "before": "ye may eat",
+    "after": "you may eat"
+  },
+  {
+    "study_id": 24891,
+    "row": 4,
+    "reference": "Leviticus 11:3",
+    "before": "divideth the hoof",
+    "after": "divides the hoof"
+  },
+  {
+    "study_id": 24891,
+    "row": 5,
+    "reference": "Leviticus 11:3",
+    "before": "bringeth up the cud",
+    "after": "brings up the cud"
+  },
+  {
+    "study_id": 24891,
+    "row": 28,
+    "reference": "Leviticus 11:26",
+    "before": "toucheth",
+    "after": "touches"
+  },
+  {
+    "study_id": 24891,
+    "row": 29,
+    "reference": "Leviticus 11:27",
+    "before": "walketh on its hands",
+    "after": "walks on its hands"
+  },
+  {
+    "study_id": 24891,
+    "row": 44,
+    "reference": "Leviticus 11:39",
+    "before": "dieth",
+    "after": "dies"
+  },
+  {
+    "study_id": 24891,
+    "row": 45,
+    "reference": "Leviticus 11:40",
+    "before": "eateth from these carcasses",
+    "after": "eats from these carcasses"
+  },
+  {
+    "study_id": 24891,
+    "row": 46,
+    "reference": "Leviticus 11:41",
+    "before": "creeping thing that creepeth",
+    "after": "creeping thing that creeps"
+  },
+  {
+    "study_id": 24891,
+    "row": 47,
+    "reference": "Leviticus 11:42",
+    "before": "moveth on its belly",
+    "after": "moves on its belly"
+  },
+  {
+    "study_id": 24891,
+    "row": 50,
+    "reference": "Leviticus 11:44",
+    "before": "ye shall be holy, for I am holy",
+    "after": "you shall be holy, for I am holy"
+  },
+  {
+    "study_id": 24887,
+    "row": 2,
+    "reference": "Leviticus 6:1",
+    "before": "spake",
+    "after": "spoke"
+  },
+  {
+    "study_id": 24887,
+    "row": 19,
+    "reference": "Leviticus 6:12",
+    "before": "the Lord spake",
+    "after": "the Lord spoke"
+  },
+  {
+    "study_id": 24887,
+    "row": 20,
+    "reference": "Leviticus 6:13",
+    "before": "anointest",
+    "after": "anoint"
+  },
+  {
+    "study_id": 24886,
+    "row": 8,
+    "reference": "Leviticus 15:5",
+    "before": "toucheth",
+    "after": "touches"
+  },
+  {
+    "study_id": 24886,
+    "row": 11,
+    "reference": "Leviticus 15:8",
+    "before": "spitteth",
+    "after": "spits"
+  },
+  {
+    "study_id": 24886,
+    "row": 13,
+    "reference": "Leviticus 15:10",
+    "before": "carrieth",
+    "after": "carries"
+  },
+  {
+    "study_id": 24886,
+    "row": 21,
+    "reference": "Leviticus 15:18",
+    "before": "lieth with a woman",
+    "after": "lies with a woman"
+  },
+  {
+    "study_id": 24886,
+    "row": 23,
+    "reference": "Leviticus 15:20",
+    "before": "sitteth",
+    "after": "sits"
+  },
+  {
+    "study_id": 24886,
+    "row": 26,
+    "reference": "Leviticus 15:23",
+    "before": "he toucheth her",
+    "after": "he touches her"
+  },
+  {
+    "study_id": 24886,
+    "row": 27,
+    "reference": "Leviticus 15:24",
+    "before": "lieth with her",
+    "after": "lies with her"
+  },
+  {
+    "study_id": 24886,
+    "row": 30,
+    "reference": "Leviticus 15:27",
+    "before": "Whosoever toucheth her",
+    "after": "Whosoever touches her"
+  },
+  {
+    "study_id": 24886,
+    "row": 34,
+    "reference": "Leviticus 15:31",
+    "before": "die not",
+    "after": "do not die"
+  },
+  {
+    "study_id": 24883,
+    "row": 2,
+    "reference": "Leviticus 14:1",
+    "before": "spake unto Moses",
+    "after": "spoke unto Moses"
+  },
+  {
+    "study_id": 24883,
+    "row": 52,
+    "reference": "Leviticus 14:36",
+    "before": "becometh unclean",
+    "after": "becomes unclean"
+  },
+  {
+    "study_id": 24883,
+    "row": 59,
+    "reference": "Leviticus 14:43",
+    "before": "springeth up",
+    "after": "springs up"
+  },
+  {
+    "study_id": 24883,
+    "row": 63,
+    "reference": "Leviticus 14:47",
+    "before": "sleepeth",
+    "after": "sleeps"
+  },
+  {
+    "study_id": 24882,
+    "row": 10,
+    "reference": "Leviticus 20:5",
+    "before": "prostituteth himself",
+    "after": "prostitutes himself"
+  },
+  {
+    "study_id": 24882,
+    "row": 13,
+    "reference": "Leviticus 20:8",
+    "before": "sanctifieth",
+    "after": "sanctifies"
+  },
+  {
+    "study_id": 24882,
+    "row": 14,
+    "reference": "Leviticus 20:9",
+    "before": "speaketh evil",
+    "after": "speaks evil"
+  },
+  {
+    "study_id": 24882,
+    "row": 15,
+    "reference": "Leviticus 20:10",
+    "before": "committeth adultery",
+    "after": "commits adultery"
+  },
+  {
+    "study_id": 24882,
+    "row": 32,
+    "reference": "Leviticus 20:21",
+    "before": "taketh",
+    "after": "takes"
+  },
+  {
+    "study_id": 24881,
+    "row": 4,
+    "reference": "Leviticus 5:2",
+    "before": "touch any unclean thing",
+    "after": "touches any unclean thing"
+  },
+  {
+    "study_id": 24881,
+    "row": 20,
+    "reference": "Leviticus 5:14",
+    "before": "the Lord spake",
+    "after": "the Lord spoke"
+  },
+  {
+    "study_id": 24881,
+    "row": 25,
+    "reference": "Leviticus 5:17",
+    "before": "though he knew it not",
+    "after": "though he did not know it"
+  },
+  {
+    "study_id": 24881,
+    "row": 28,
+    "reference": "Leviticus 5:20",
+    "before": "spake",
+    "after": "spoke"
+  },
+  {
+    "study_id": 24881,
+    "row": 30,
+    "reference": "Leviticus 5:21",
+    "before": "deal falsely",
+    "after": "deals falsely"
+  },
+  {
+    "study_id": 24881,
+    "row": 34,
+    "reference": "Leviticus 5:22",
+    "before": "swear unjustly",
+    "after": "swears unjustly"
+  },
+  {
+    "study_id": 24877,
+    "row": 29,
+    "reference": "Leviticus 25:17",
+    "before": "fear the Lord thy God",
+    "after": "fear the Lord your God"
+  },
+  {
+    "study_id": 24877,
+    "row": 41,
+    "reference": "Leviticus 25:25",
+    "before": "becometh poor",
+    "after": "becomes poor"
+  },
+  {
+    "study_id": 24877,
+    "row": 43,
+    "reference": "Leviticus 25:26",
+    "before": "prospereth by his hand",
+    "after": "prospers by his hand"
+  },
+  {
+    "study_id": 24877,
+    "row": 49,
+    "reference": "Leviticus 25:30",
+    "before": "hath a wall",
+    "after": "has a wall"
+  },
+  {
+    "study_id": 24877,
+    "row": 57,
+    "reference": "Leviticus 25:35",
+    "before": "groweth weak in his hands",
+    "after": "grows weak in his hands"
+  },
+  {
+    "study_id": 24877,
+    "row": 60,
+    "reference": "Leviticus 25:36",
+    "before": "thy brother shall live with thee",
+    "after": "your brother shall live with you"
+  },
+  {
+    "study_id": 24877,
+    "row": 61,
+    "reference": "Leviticus 25:37",
+    "before": "thy silver at interest",
+    "after": "your silver at interest"
+  },
+  {
+    "study_id": 24877,
+    "row": 66,
+    "reference": "Leviticus 25:39",
+    "before": "sold to thee",
+    "after": "sold to you"
+  },
+  {
+    "study_id": 24877,
+    "row": 81,
+    "reference": "Leviticus 25:49",
+    "before": "redeemeth himself",
+    "after": "redeems himself"
+  },
+  {
+    "study_id": 24877,
+    "row": 85,
+    "reference": "Leviticus 25:53",
+    "before": "before thee",
+    "after": "before you"
+  },
+  {
+    "study_id": 24876,
+    "row": 2,
+    "reference": "Leviticus 4:1",
+    "before": "spake",
+    "after": "spoke"
+  },
+  {
+    "study_id": 24876,
+    "row": 23,
+    "reference": "Leviticus 4:13",
+    "before": "escape the eyes",
+    "after": "escapes the eyes"
+  },
+  {
+    "study_id": 24876,
+    "row": 24,
+    "reference": "Leviticus 4:14",
+    "before": "become known",
+    "after": "becomes known"
+  },
+  {
+    "study_id": 24876,
+    "row": 33,
+    "reference": "Leviticus 4:22",
+    "before": "commit an offence",
+    "after": "commits an offence"
+  },
+  {
+    "study_id": 24872,
+    "row": 2,
+    "reference": "Leviticus 24:1",
+    "before": "spake",
+    "after": "spoke"
+  },
+  {
+    "study_id": 24872,
+    "row": 19,
+    "reference": "Leviticus 24:13",
+    "before": "spake",
+    "after": "spoke"
+  },
+  {
+    "study_id": 24872,
+    "row": 31,
+    "reference": "Leviticus 24:21",
+    "before": "striketh",
+    "after": "strikes"
+  },
+  {
+    "study_id": 24871,
+    "row": 6,
+    "reference": "Leviticus 3:3",
+    "before": "fat which covereth",
+    "after": "fat which covers"
+  },
+  {
+    "study_id": 24870,
+    "row": 13,
+    "reference": "Leviticus 13:7",
+    "before": "changeth and shifteth",
+    "after": "changes and shifts"
+  },
+  {
+    "study_id": 24870,
+    "row": 21,
+    "reference": "Leviticus 13:12",
+    "before": "breaketh out abundantly",
+    "after": "breaks out abundantly"
+  },
+  {
+    "study_id": 24870,
+    "row": 33,
+    "reference": "Leviticus 13:22",
+    "before": "spreadeth",
+    "after": "spreads"
+  },
+  {
+    "study_id": 24870,
+    "row": 34,
+    "reference": "Leviticus 13:23",
+    "before": "stayeth in its place",
+    "after": "stays in its place"
+  },
+  {
+    "study_id": 24870,
+    "row": 45,
+    "reference": "Leviticus 13:31",
+    "before": "examineth",
+    "after": "examines"
+  },
+  {
+    "study_id": 24870,
+    "row": 46,
+    "reference": "Leviticus 13:32",
+    "before": "hath not spread",
+    "after": "has not spread"
+  },
+  {
+    "study_id": 24870,
+    "row": 49,
+    "reference": "Leviticus 13:35",
+    "before": "after he hath been cleansed",
+    "after": "after he has been cleansed"
+  },
+  {
+    "study_id": 24868,
+    "row": 14,
+    "reference": "Leviticus 23:9",
+    "before": "spake",
+    "after": "spoke"
+  },
+  {
+    "study_id": 24868,
+    "row": 40,
+    "reference": "Leviticus 23:26",
+    "before": "spake",
+    "after": "spoke"
+  },
+  {
+    "study_id": 24867,
+    "row": 16,
+    "reference": "Leviticus 10:8",
+    "before": "spake unto Aaron",
+    "after": "spoke unto Aaron"
+  },
+  {
+    "study_id": 24867,
+    "row": 25,
+    "reference": "Leviticus 10:14",
+    "before": "thy house",
+    "after": "your house"
+  },
+  {
+    "study_id": 24864,
+    "row": 14,
+    "reference": "Leviticus 19:9",
+    "before": "what falleth",
+    "after": "what falls"
+  },
+  {
+    "study_id": 24864,
+    "row": 31,
+    "reference": "Leviticus 19:17",
+    "before": "hate thy brother",
+    "after": "hate your brother"
+  },
+  {
+    "study_id": 24864,
+    "row": 32,
+    "reference": "Leviticus 19:17",
+    "before": "in thy mind",
+    "after": "in your mind"
+  },
+  {
+    "study_id": 24864,
+    "row": 36,
+    "reference": "Leviticus 19:18",
+    "before": "love thy neighbour as thyself",
+    "after": "love your neighbour as yourself"
+  },
+  {
+    "study_id": 24864,
+    "row": 65,
+    "reference": "Leviticus 19:33",
+    "before": "cometh to you",
+    "after": "comes to you"
+  },
+  {
+    "study_id": 24864,
+    "row": 67,
+    "reference": "Leviticus 19:34",
+    "before": "love him as thyself",
+    "after": "love him as yourself"
+  },
+  {
+    "study_id": 24862,
+    "row": 32,
+    "reference": "Leviticus 26:17",
+    "before": "flee when no one pursueth",
+    "after": "flee when no one pursues"
+  },
+  {
+    "study_id": 24861,
+    "row": 2,
+    "reference": "Leviticus 12:1",
+    "before": "spake",
+    "after": "spoke"
+  },
+  {
+    "study_id": 24861,
+    "row": 3,
+    "reference": "Leviticus 12:2",
+    "before": "receive seed",
+    "after": "receives seed"
+  },
+  {
+    "study_id": 24860,
+    "row": 43,
+    "reference": "Leviticus 22:28",
+    "before": "her and her young",
+    "after": "a cow or a sheep together with her young"
+  },
+  {
+    "study_id": 24857,
+    "row": 15,
+    "reference": "Leviticus 21:8",
+    "before": "sanctifieth",
+    "after": "sanctifies"
+  },
+  {
+    "study_id": 24857,
+    "row": 29,
+    "reference": "Leviticus 21:16",
+    "before": "spake",
+    "after": "spoke"
+  },
+  {
+    "study_id": 24854,
+    "row": 2,
+    "reference": "Leviticus 27:1",
+    "before": "spake unto Moses",
+    "after": "spoke unto Moses"
+  },
+  {
+    "study_id": 24854,
+    "row": 3,
+    "reference": "Leviticus 27:2",
+    "before": "voweth a vow",
+    "after": "vows a vow"
+  },
+  {
+    "study_id": 24854,
+    "row": 19,
+    "reference": "Leviticus 27:14",
+    "before": "consecrateth",
+    "after": "consecrates"
+  },
+  {
+    "study_id": 24854,
+    "row": 21,
+    "reference": "Leviticus 27:15",
+    "before": "redeemeth his house",
+    "after": "redeems his house"
+  },
+  {
+    "study_id": 24854,
+    "row": 26,
+    "reference": "Leviticus 27:19",
+    "before": "redeemeth it",
+    "after": "redeems it"
+  },
+  {
+    "study_id": 24854,
+    "row": 38,
+    "reference": "Leviticus 27:28",
+    "before": "dedicateth",
+    "after": "dedicates"
+  },
+  {
+    "study_id": 24854,
+    "row": 43,
+    "reference": "Leviticus 27:31",
+    "before": "redeemeth his tithe",
+    "after": "redeems his tithe"
+  },
+  {
+    "study_id": 24847,
+    "row": 16,
+    "reference": "Leviticus 18:10",
+    "before": "thy nakedness",
+    "after": "your nakedness"
+  },
+  {
+    "study_id": 24846,
+    "row": 41,
+    "reference": "Leviticus 8:32",
+    "before": "remaineth",
+    "after": "remains"
+  },
+  {
+    "study_id": 24839,
+    "row": 6,
+    "reference": "Leviticus 17:3",
+    "before": "slaughtereth",
+    "after": "slaughters"
+  },
+  {
+    "study_id": 24839,
+    "row": 26,
+    "reference": "Leviticus 17:13",
+    "before": "hunteth",
+    "after": "hunts"
+  },
+  {
+    "study_id": 24834,
+    "row": 13,
+    "reference": "Leviticus 7:7",
+    "before": "maketh atonement",
+    "after": "makes atonement"
+  },
+  {
+    "study_id": 24834,
+    "row": 42,
+    "reference": "Leviticus 7:28",
+    "before": "the Lord spake",
+    "after": "the Lord spoke"
+  },
+  {
+    "study_id": 24831,
+    "row": 55,
+    "reference": "Leviticus 16:28",
+    "before": "burneth",
+    "after": "burns"
+  }
+]
