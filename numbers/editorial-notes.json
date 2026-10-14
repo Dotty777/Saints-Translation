@@ -1,0 +1,165 @@
+{
+  "book": "Numbers",
+  "edition": "2026-10-14-bespoke-provisional",
+  "direct_divine_address_references": [
+    "10:34",
+    "11:11",
+    "11:12",
+    "11:15",
+    "11:21",
+    "12:13",
+    "14:13",
+    "14:14",
+    "14:15",
+    "14:17",
+    "14:19",
+    "21:2"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "note": "The census order, names and quantities remain. “Head by head” and the distinction between the army and the Levites are retained. Ordinary address now uses you/your."
+    },
+    {
+      "chapter": 2,
+      "note": "The camp order, directions, named leaders and totals remain. The inherited southwest and seaward language has not been replaced with a different geographical system."
+    },
+    {
+      "chapter": 3,
+      "note": "The Levite divisions and firstborn redemption remain. Numerical discrepancies, including 3:34 and the total in 3:39, have not been silently harmonized. Specialist review of these figures remains pending."
+    },
+    {
+      "chapter": 4,
+      "note": "The age limits, objects, coverings, ritual agents and totals remain. The negative purpose clause in 4:15 and the prohibition in 4:18 have clearer English grammar."
+    },
+    {
+      "chapter": 5,
+      "note": "The distinctions among uncleanness, restitution, accusation and testing remain. Conditional clauses use ordinary present-tense English. The bodily language is retained without substituting a modern medical interpretation."
+    },
+    {
+      "chapter": 6,
+      "note": "The inherited consecration terminology and the parenthesis following 6:23 remain. In 6:24–26 the blessing addresses its human recipients, so “you” replaces “thee”; the Lord is spoken of in the third person."
+    },
+    {
+      "chapter": 7,
+      "note": "All twelve repeated offerings, their quantities and their order remain. List punctuation now connects the successive verse units; repetition has not been compressed."
+    },
+    {
+      "chapter": 8,
+      "note": "The distinct actions of Moses, Aaron, the Levites and the people remain. The inherited wording of 8:19 and 8:26 is retained for specialist review; ordinary address uses you/your."
+    },
+    {
+      "chapter": 9,
+      "note": "The appointed Passover times, exception and repeated movements of the cloud remain. Conditional clauses and the sentence about one law for native and sojourner have clearer English grammar."
+    },
+    {
+      "chapter": 10,
+      "note": "The trumpet signals and camp sequence remain. Direct address to God in 10:34 retains Thine/Thee. The existing source order of 10:34–36 is unchanged."
+    },
+    {
+      "chapter": 11,
+      "note": "Moses’ direct address to God retains Thou/Thee/Thy and the corresponding verb forms. Within 11:12, God’s quoted command to Moses uses “your”. The images of carrying the people, manna, wind and quail remain."
+    },
+    {
+      "chapter": 12,
+      "note": "Punctuation in 12:4 now correctly places Moses, Miriam and Aaron among the recipients before the command begins, following a selected main-text check. The stray comma in 12:10 is removed. The prayer in 12:13 retains Thee."
+    },
+    {
+      "chapter": 13,
+      "note": "The names, route, fruit, report and opposing responses remain. The questions about the land in 13:18–20 have clearer English syntax; inherited source-specific names are not harmonized."
+    },
+    {
+      "chapter": 14,
+      "note": "The doubled “exceedingly” in 14:7 remains. Moses’ direct address to God retains Thou/Thy; ordinary address uses you/your. The children, Caleb, forty years and repeated warnings retain their distinct places in the account."
+    },
+    {
+      "chapter": 15,
+      "note": "The offerings, measures, shared law and distinction between unintentional and presumptuous acts remain. The English conditional in 15:14 is clarified within the inherited interpretation; its Greek clause relationship remains a priority for independent syntactic review."
+    },
+    {
+      "chapter": 16,
+      "note": "The separate speakers, challenges, offerings and judgments remain. Conditional verbs in 16:29–30 use ordinary present-tense English. The inherited wording of 16:14 and 16:22 remains provisional."
+    },
+    {
+      "chapter": 17,
+      "note": "All 28 source-numbered units remain in their existing order, including the fire pans, outbreak and staffs. The contrast between the dead and living and the repeated report that the outbreak subsided remain."
+    },
+    {
+      "chapter": 18,
+      "note": "The distinctions among priestly and Levite duties, portions, redemption and tithes remain. Attributive “thine” becomes “your”; possessive “thine” becomes “yours”. The covenant of salt remains."
+    },
+    {
+      "chapter": 19,
+      "note": "The ritual agents, ashes, living water, contact rules and third/seventh-day sequence remain. The inherited statement in 19:19 is retained without silently reconciling it with another reading."
+    },
+    {
+      "chapter": 20,
+      "note": "The instructions, the two strikes, the responses and Aaron’s death remain. Ordinary speech between Israel and Edom uses you/your; source-specific wording such as Aaron’s being “released” remains."
+    },
+    {
+      "chapter": 21,
+      "note": "The direct vow to God in 21:2 retains Thou. The mixed complaint against God and Moses in 21:5 retains the draft’s ordinary-address treatment; its singular addressee remains a question for review. The bronze-serpent instructions, songs and place names remain."
+    },
+    {
+      "chapter": 22,
+      "note": "Ordinary address, including speech to the donkey and the angel, uses you/your. The account’s changes between past narration and historical present are retained. “Means of divination” remains provisional."
+    },
+    {
+      "chapter": 23,
+      "note": "The repeated altars, sacrifices and blessings remain. The inherited oracle wording, including “one-horned beast”, is retained; specialist identification and syntax review remain pending."
+    },
+    {
+      "chapter": 24,
+      "note": "The inherited Gog, man/star language, Beor and Og readings remain after selected main-text inspection. The difficult opening of 24:17 is retained provisionally; the negative clause has clearer English word order. No new manuscript choice is claimed."
+    },
+    {
+      "chapter": 25,
+      "note": "The agents, reported actions, names, plague total and covenant language remain. Difficult inherited wording in 25:4, 25:6 and 25:8 is retained for specialist review."
+    },
+    {
+      "chapter": 26,
+      "note": "The source order of the tribes, every name and every stated quantity remain. Numerical or genealogical difficulties, including 26:59, have not been silently repaired."
+    },
+    {
+      "chapter": 27,
+      "note": "The inheritance sequence and appointment of Joshua remain. Conditional verbs use ordinary present-tense English; the negative in 27:14 has clearer word order. “Judgment of the manifestations” remains provisional."
+    },
+    {
+      "chapter": 28,
+      "note": "The daily, Sabbath, new-moon and festival offerings retain their order and quantities. Sentence order and punctuation clarify the instructions without reducing repeated sacrificial language."
+    },
+    {
+      "chapter": 29,
+      "note": "All eight days, changing cattle totals, repeated offerings and stated additions remain. Ordinary address uses you/your; the recurring formulas are not compressed."
+    },
+    {
+      "chapter": 30,
+      "note": "All 17 source-numbered units remain. Conditional clauses now use ordinary present-tense English; the distinctions among vows, restrictions, silence, refusal and annulment remain."
+    },
+    {
+      "chapter": 31,
+      "note": "The reported violence, captives, purification instructions, quantities, division of spoils and memorial offering remain without euphemistic substitution. “Does not pass through fire” clarifies the English negative."
+    },
+    {
+      "chapter": 32,
+      "note": "Punctuation in 32:2 now places Moses, Eleazar and the rulers among the recipients before the list of towns begins, following a selected main-text check. The conditions for crossing and receiving the allotment have clearer English grammar."
+    },
+    {
+      "chapter": 33,
+      "note": "All stations, repeated departures and encampments, dates and names remain. The additional itinerary statement in 33:36 and the inherited commands in 33:52–56 are retained."
+    },
+    {
+      "chapter": 34,
+      "note": "The inherited boundaries, directions and names remain. The repeated “mountain, the mountain” in 34:7–8 is retained as a source question, rather than replaced by an assumed modern identification."
+    },
+    {
+      "chapter": 35,
+      "note": "The distinctions among unintentional killing, murder, refuge, witnesses and ransom remain. Conditional verbs now use ordinary present-tense English. The inherited distances and high-priest provisions remain."
+    },
+    {
+      "chapter": 36,
+      "note": "The inheritance question, restriction and daughters’ response remain. “Release” is retained; the opening conditional in 36:4 now uses “comes”."
+    }
+  ],
+  "scope": "English editorial review; selected main-text checks. Full independent Greek, apparatus, reception and human read-aloud reviews remain pending."
+}

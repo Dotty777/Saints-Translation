@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 3,
-  "pending_book_revisions": 67,
-  "next_book": "Numbers",
+  "completed_book_records": 4,
+  "pending_book_revisions": 66,
+  "next_book": "Deuteronomy",
   "full_bible_complete": false,
   "books": [
     {
@@ -34,8 +34,8 @@
       "order": 4,
       "book": "Numbers",
       "staging_path": "/bible/law/numbers/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "numbers/"
     },
     {
       "order": 5,

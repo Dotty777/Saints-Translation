@@ -5,7 +5,8 @@ Book-by-book Bespoke Saints English editorial editions, change records and revie
 - [Genesis — 50 chapters](genesis/README.md): accepted benchmark for 1–11; provisional editorial revision for 12–50. Staging verified on 14 October 2026.
 - [Exodus — 40 chapters](exodus/README.md): provisional editorial revision; 1,165 verse units, 531 wording changes. Staging verified on 14 October 2026.
 - [Leviticus — 27 chapters](leviticus/README.md): provisional editorial revision; 859 verse units, 537 wording changes; 93 word-study phrases aligned. Staging verified on 14 October 2026.
-- Numbers is next. The remaining sixty-seven books are pending this Bespoke revision pass.
+- [Numbers — 36 chapters](numbers/README.md): provisional editorial revision; 1,287 verse units, 505 wording changes; 89 word-study phrases aligned. Staging verified on 14 October 2026.
+- Deuteronomy is next. The remaining sixty-six books are pending this Bespoke revision pass.
 
 [progress.json](progress.json) lists the site's selected seventy-book working edition in its actual reading order: 43 Old Testament and 27 New Testament books. The current user instruction is to extend the Genesis–Exodus manner through every remaining book and keep updates in the current chat. The full Bible revision is not yet complete.
 

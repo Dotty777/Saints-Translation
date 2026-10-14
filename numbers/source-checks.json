@@ -1,0 +1,58 @@
+{
+  "book": "Numbers",
+  "checked_date": "2026-10-14",
+  "declared_base": "Rahlfs–Hanhart Septuaginta, second revised edition (2006), provisional continuation authorized by the user",
+  "scope": "All 1,287 inherited English units read for editorial review. Selected main-text inspections only; no new full-book Greek collation or independent specialist review.",
+  "checks": [
+    {
+      "url": "https://www.die-bibel.de/en/bible/LXX/NUM.6",
+      "scope": "Selected 6:23–26 main text; chapter retrieved",
+      "result": "The parenthetical naming clause and threefold blessing were inspected. The blessing addresses human recipients; the English now uses you."
+    },
+    {
+      "url": "https://www.die-bibel.de/en/bible/LXX/NUM.11",
+      "scope": "Selected 11:7, 11:11–23 and 11:25; chapter retrieved",
+      "result": "Direct address to God retained. The embedded command in 11:12 addresses a human and uses your. Crystal and the inherited negative in 11:25 remain."
+    },
+    {
+      "url": "https://www.die-bibel.de/en/bible/LXX/NUM.12",
+      "scope": "Selected 12:4, 12:6–8, 12:10 and 12:13; chapter retrieved",
+      "result": "Punctuation now distinguishes the three recipients from the command at 12:4. Direct address to God remains in 12:13."
+    },
+    {
+      "url": "https://www.die-bibel.de/en/bible/LXX/NUM.14",
+      "scope": "Selected 14:7, 14:13–19 and 14:23; chapter retrieved",
+      "result": "Repeated exceedingly, the prayer and inherited children reading retained. No harmonization with another textual tradition."
+    },
+    {
+      "url": "https://www.die-bibel.de/en/bible/LXX/NUM.15",
+      "scope": "Selected 15:14–16 and 15:22–24; main-text window within 15:6–38 retrieved",
+      "result": "The inherited conditional interpretation at 15:14 received English grammatical revision. The exact Greek clause relationship remains a priority for independent syntactic review; this check does not settle it."
+    },
+    {
+      "url": "https://www.die-bibel.de/en/bible/LXX/NUM.21",
+      "scope": "Selected 21:2, 21:5 and 21:7–9; main-text window 21:1–23 retrieved",
+      "result": "Vow addressed to God retained. The mixed complaint against God and Moses at 21:5 remains flagged for addressee review. Serpent wording in 21:8 retained."
+    },
+    {
+      "url": "https://www.die-bibel.de/en/bible/LXX/NUM.24",
+      "scope": "Selected 24:5–9 and 24:17–24; chapter retrieved",
+      "result": "Gog, the star and man imagery, Beor and Og retained. The difficult opening of 24:17 remains provisional."
+    },
+    {
+      "url": "https://www.die-bibel.de/en/bible/LXX/NUM.32",
+      "scope": "Selected 32:2 and 32:20–22; main-text window 32:1–22 retrieved",
+      "result": "Punctuation distinguishes recipients from speech in 32:2. The conditions in 32:20–22 remain."
+    }
+  ],
+  "outstanding": [
+    "Full independent Greek lexical and syntactic review",
+    "Göttingen text and critical apparatus collation",
+    "Human read-aloud review",
+    "Numbers 15:14 clause relationship and 21:5 singular addressee",
+    "Numbers 24:17 difficult wording and 34:7–8 geographical identifications",
+    "Inherited census totals, genealogical and numerical discrepancies, names, ritual and legal terminology",
+    "Independent verification of earlier reception and comparison claims"
+  ],
+  "provenance": "Earlier notes remain historical records. Their full-source or reception-review claims are not renewed by this pass."
+}
