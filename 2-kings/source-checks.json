@@ -1,0 +1,235 @@
+{
+  "book": "2 Kings",
+  "date": "2026-10-14",
+  "edition": "Rahlfs–Hanhart 2006; German Bible Society online running text",
+  "authorization": "User authorized provisional continuation with Rahlfs–Hanhart; Göttingen not obtained.",
+  "scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+  "historical_records": "Existing index and reference records were consulted as historical reference, not proof of fresh complete Greek verification.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "focus": "1:2, 18a–18b",
+      "decision": "Modernized ordinary address and requests; retained Baal Fly, repeated warnings, historical present reigns in 1:18a, brothers in 1:18b and all lettered additions.",
+      "pending": "Independent review of Baal Fly, the historical present and source-specific accession notice.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.1",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 2,
+      "focus": "2:1–2, 12, 14, 16, 23",
+      "decision": "Modernized requests, ordinary address and verbs; rendered the repeated life oath as 'as you live'. Retained as into heaven, singular horseman, Appho, the first unsuccessful water strike, spirit wording, small children and forty-two.",
+      "pending": "Independent review of Appho, tumult/as into heaven, the spirit expression and source variants.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.2",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 3,
+      "focus": "3:4, 17, 27",
+      "decision": "Modernized ordinary speech; retained noqed, at the rising, possessions, source figures, the past 'had reigned' and 'great regret' without harmonizing the account.",
+      "pending": "Specialist review of noqed and the provisioning phrase, possessions, the son's reign tense and great regret.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.3",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 4,
+      "focus": "4:7, 16–17, 25, 35, 39",
+      "decision": "Modernized ordinary requests, verbs and address; rendered the life oath as 'as you live' and 'cook a cooked dish' as 'prepare a cooked dish'. Retained interest, the living-season expression, the woman's continued speech at 4:25, seven bendings and arioth.",
+      "pending": "Independent review of interest, season alive, 4:25's speaker boundary, the resuscitation actions and plant terminology.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.4",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 5,
+      "focus": "5:4, 13, 18–19, 24",
+      "decision": "Retained feminine reporting subject, the great-word statement, red earth, repeated Remman references, debratha and dark place; modernized requests and ordinary verbs.",
+      "pending": "Independent review of the female referent, propitious wording, debratha and dark place; complete apparatus comparison.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.5",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 6,
+      "focus": "6:8, 17, 22, 25, 27",
+      "decision": "Kept direct prayer Thee in 6:18 and 6:20, ordinary you elsewhere, Elmoni, singular fiery chariot, fifty-shekel price and the king's negative wish. Modernized requests and finite verbs.",
+      "pending": "Independent review of Elmoni, the captive/striking clause and the king's negative wish; no harmonization of the famine price.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.6",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 7,
+      "focus": "7:9, 14, 17; German publisher presentation after the English route failed",
+      "decision": "Modernized ordinary address and the request in 7:13. Retained repeated price declarations, floodgates, lawlessness, two horse riders and the messenger in 7:17.",
+      "pending": "Independent review of the negative question, lawlessness and the rider/messenger wording.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/bibel/LXX/2KI.7",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 8,
+      "focus": "8:8, 10–11, 15, 28",
+      "decision": "Modernized ordinary address and requests; retained manaa, machma, the second-person death prediction, unnamed agents and compressed face/shame wording, and king of the foreigners.",
+      "pending": "Independent review of the 8:10–11 referents, face/shame syntax and borrowed terms; historical notes on 8:11, 15 consulted.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.8",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 9,
+      "focus": "9:13, 20, 26, 32, 35",
+      "decision": "Modernized ordinary address and please requests; kept garem, distinct driver/Jehu roles, the ambiguous deranged subject, Naboth's sons, third-person repayment and traces of hands.",
+      "pending": "Independent review of garem, the driving clause, 9:32's address and traces of hands; historical notes on 9:13, 20 consulted.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.9",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 10,
+      "focus": "10:10, 22, 25–27, 29",
+      "decision": "Modernized finite verbs and possessives, including My in God's self-reference. Preserved Appho, Mesthaal, city of Baal's house, singular/plural pillars, mouth-to-mouth image and golden heifers.",
+      "pending": "Independent review of Appho, Mesthaal, city, the pillar sequence and life-for-life referents.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.10",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 11,
+      "focus": "11:1, 4, 8–10, 12",
+      "decision": "Modernized ordinary address and enters; retained plural sons, Chorri/Rasim, saderoth, discerning one, threefold weapons, nezer and the third-person narrative end of 11:8.",
+      "pending": "Independent review of borrowed guard/royal terms and difficult grammatical transitions; historical note on 11:8 consulted.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.11",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 12,
+      "focus": "12:6, 10, 22",
+      "decision": "Modernized ordinary dialogue; retained source numbering, sales, bedek, Iamibin, difficult chest location and the assassin-name syntax.",
+      "pending": "Independent lexical and syntactic review of bedek, Iamibin, the chest location and names; historical notes on 12:6, 10 consulted.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.12",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 13,
+      "focus": "13:13–14, 18, 21",
+      "decision": "Improved the English sickness sentence and modernized ordinary speech. Kept singular horseman, bows in 13:18, the raider's number, revived man's movement and accession wording.",
+      "pending": "Independent review of bows, the grave episode and the unusual succession clause; complete apparatus review.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.13",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 14,
+      "focus": "14:14, 25, 29",
+      "decision": "Modernized ordinary address and spoke; retained sons of mixed unions, shifted boundary, names and the unusual Azariah succession notice.",
+      "pending": "Independent review of mixed unions, boundary verb and accession sequence.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.14",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 15,
+      "focus": "15:5, 10, 16, 25",
+      "decision": "Modernized the quoted ordinary address; retained Apphousoth, Keblaam as a participant, Thersa, fifty from four hundred, and source-specific chronological figures.",
+      "pending": "Independent review of borrowed house term, participant names and regnal chronology.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.15",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 16,
+      "focus": "16:3, 6, 15, 18",
+      "decision": "Modernized ordinary address; retained Jeroboam's way, Idumeans, bronze altar for the morning, mechonoth and foundation of the seat.",
+      "pending": "Independent review of the morning clause and altered temple construction; no restoration from Hebrew.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.16",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 17,
+      "focus": "17:6, 9, 11, 20, 27, 34, 40",
+      "decision": "Modernized ordinary pronouns and divine My. Preserved rivers plural, clothing-in-words image, associates/engraved, human rejection of the Lord, incomplete command at 17:27, affirmative 17:34 and second-person 17:40.",
+      "pending": "Independent syntactic review of 17:8–11, 20, 24, 27, 34–40; uncertain clauses and source variants remain visible.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.17",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 18,
+      "focus": "18:17, 20, 26, 31",
+      "decision": "Modernized finite verbs, ordinary address and the request to speak in Syrian. Retained source names, broken reed and piercing imagery, make a blessing, and drinking from the vine.",
+      "pending": "Independent review of royal titles/names, words-of-lips syntax and blessing expression.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.18",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 19,
+      "focus": "19:15–16, 19, 23–26, 28",
+      "decision": "Retained Thou/Thee/Thine in Hezekiah's direct prayer and ordinary you in divine replies. Modernized third-person verbs and divine My. Kept opaque melon, differing action times, compressed deportation/warrior clause and hooks/bridle imagery.",
+      "pending": "Independent review of melon and 19:23–26 syntax; historical notes consulted. No fluent reconstruction of the uncertain source clause is claimed.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.19",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 20,
+      "focus": "20:3, 9, 17–19; German publisher presentation after the English route failed",
+      "decision": "Preserved direct prayer Thee/Thine, ordinary divine replies, conditional shadow statement, nechotha, 'No word ... shall be left over', and source-specific son/eunuch wording. Modernized finite forms.",
+      "pending": "Independent review of the explicit conditional at 20:9 and its textual variants; historical note consulted.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/bibel/LXX/2KI.20",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 21,
+      "focus": "21:6, 13",
+      "decision": "Modernized spoke/has/says and divine My. Kept plural sons, knowing ones, alabaster jar, measurement/weight and the repeated wiping image.",
+      "pending": "Independent review of divinatory terminology and the vessel/measurement images.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.21",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 22,
+      "focus": "22:3–4, 14, 19–20",
+      "decision": "Modernized ordinary address and finite verbs; retained eighth month, seal the silver, melted down, Olda, masena, softened heart/shame and 'Not so'.",
+      "pending": "Independent review of monetary verbs, masena and prophetic discourse connection; full apparatus review.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.22",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 23,
+      "focus": "23:7, 10–11, 33–35",
+      "decision": "Improved punctuation around Eliakim's parentage at 23:34 and to the Lord at 23:25. Preserved borrowed cult terms, the unnegated infinitive in 23:10, difficult Nathan/king/eunuch wording, one sun chariot, and one hundred gold talents.",
+      "pending": "Specialist review of 23:10's purpose/description, 23:11's title syntax and 23:35's assessment sentence; historical notes consulted. No negative was invented.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.23",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 24,
+      "focus": "24:6, 14, 17",
+      "decision": "Modernized spoke and shuts. Preserved repeated Joakim for father and son, Maththanias as his son, occupational shuts-up wording and the deportation figures.",
+      "pending": "Independent review of source names, kinship and occupational terminology; historical note on 24:17 consulted.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.24",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    },
+    {
+      "chapter": 25,
+      "focus": "25:8–10, 12, 17–18, 25",
+      "decision": "Modernized spoke. At 25:25 placed the death report in a parenthesis to clarify the single attacker's objects without adding an agent. Preserved chief cook, borrowed technical terms, exact dates/figures, and verse 25:10 as the subject completing 25:9.",
+      "pending": "Independent review of chief cook, gabin/iamin/chothar/sabacha, second-rank wording and elliptical victims clause; historical notes on 25:10, 25 consulted.",
+      "running_text_read": "selected verses only",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2KI.25",
+      "english_review": "Every existing English verse unit individually read and reviewed."
+    }
+  ]
+}
