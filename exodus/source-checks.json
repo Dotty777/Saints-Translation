@@ -1,0 +1,290 @@
+{
+  "book": "Exodus",
+  "date": "2026-10-14",
+  "edition": "Rahlfs–Hanhart, second revised edition (2006), German Bible Society online running text",
+  "authorization": "User authorized provisional continuation with Rahlfs–Hanhart 2006; Göttingen not obtained.",
+  "scope": "Rahlfs–Hanhart 2006 is the user-authorized provisional base. The listed running-text passages were inspected selectively; this is not a new complete Greek collation. Göttingen, full apparatus, independent linguistic and textual-critical review, and human read-aloud review remain pending.",
+  "historical_records": "Earlier Law study and existing chapter notes were consulted as historical evidence, not proof of new Greek verification.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.1",
+      "inspected": "1–22",
+      "decision": "Retain seventy-five descendants, On/City of the Sun and the midwives' houses. Restore the doubled intensifier at 1:7 and 1:12: exceedingly, exceedingly strong. This is a documented correction from the inspected running text, not a new manuscript choice.",
+      "pending": "The syntax of 1:19–21 and personal-name forms need independent review."
+    },
+    {
+      "chapter": 2,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.2",
+      "inspected": "3, 10, 22, 25",
+      "decision": "Retain the basket, bitumen-pitch, Moses' water naming, Gershom alone in 2:22 and God becoming known in 2:25. Ordinary dialogue uses you/your.",
+      "pending": "Review the material term in 2:3 and the Jethro/Reuel/Zipporah name index."
+    },
+    {
+      "chapter": 3,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.3",
+      "inspected": "7–8, 14–15, 22",
+      "decision": "Retain the One Who Is, repeated divine names, all seven peoples and the neighbour/fellow-lodger wording. The repeated source clauses have not been harmonized to another stream.",
+      "pending": "Independent review of divine-name language and its explanation."
+    },
+    {
+      "chapter": 4,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.4",
+      "inspected": "10, 13, 16, 24–26",
+      "decision": "Direct prayer retains Thee/Thou/Thy; God's speech to Moses uses you/your. Keep the angel, stone, unidentified feet and repeated blood statement in 4:24–26 without inserting a named referent.",
+      "pending": "Priority review: the elliptical phrase in 4:16 and the syntax and referents of 4:24–26."
+    },
+    {
+      "chapter": 5,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.5",
+      "inspected": "1, 3, 21–23",
+      "decision": "Retain the feast, death or slaughter, smell and sword images. Moses' prayer at 5:22–23 retains Thou/Thy; speech to Pharaoh and the officials uses you/your.",
+      "pending": "Review the legal/social vocabulary and the complaint's syntax."
+    },
+    {
+      "chapter": 6,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.6",
+      "inspected": "3, 5, 18, 20, 22, 26",
+      "decision": "Retain your covenant at 6:5 (Greek plural address), Kohath's 130 years, Amram's 132 years, Jochebed's relationship, Miriam and the two named sons in 6:22.",
+      "pending": "Genealogical, numerical and divine-name review."
+    },
+    {
+      "chapter": 7,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.7",
+      "inspected": "1, 7, 9, 13, 22",
+      "decision": "Retain a god to Pharaoh, the ages eighty/eighty-three, the singular he in 7:7, dragon in the sign and the existing distinctions in hardening vocabulary.",
+      "pending": "Lexical review of dragon/serpent and the hardening verbs."
+    },
+    {
+      "chapter": 8,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.8",
+      "inspected": "5, 15, 18–19",
+      "decision": "Retain the appointed time, houses, finger of God, repeated Lord, dogflies and distinction wording. No insect identification has been silently substituted.",
+      "pending": "Plague terminology and singular/plural address in the dialogue."
+    },
+    {
+      "chapter": 9,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.9",
+      "inspected": "9, 15–16, 24",
+      "decision": "Retain the repeated human/animal scope, the future threat, the passive preservation language and the strong hail description.",
+      "pending": "Independent review of the tense and force of 9:15–16."
+    },
+    {
+      "chapter": 10,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.10",
+      "inspected": "7, 10, 13, 19, 22, 25, 29",
+      "decision": "Retain the south wind, sea wind, darkness/gloom/tempest and household and offering distinctions. Ordinary speech including Pharaoh's commands uses you/your.",
+      "pending": "Review the rhetorical question in 10:7 and wind terminology."
+    },
+    {
+      "chapter": 11,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.11",
+      "inspected": "2–3, 7–8",
+      "decision": "Retain the secret instruction, lending language, dog's tongue image and Pharaoh's servants. Smooth the departure speech without deleting its clauses.",
+      "pending": "Review the lending verb and rhetorical imagery."
+    },
+    {
+      "chapter": 12,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.12",
+      "inspected": "10, 13, 19, 22, 38, 40, 44",
+      "decision": "Retain both bone prohibitions, blood beside the door, shelter language, mixed multitude, and the 430-year Egypt-and-Canaan reading. Keep slavery and resident-foreigner distinctions explicit.",
+      "pending": "Passover terminology, legal status and the chronological reading require specialist review."
+    },
+    {
+      "chapter": 13,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.13",
+      "inspected": "6, 12–13, 18",
+      "decision": "Retain six days in 13:6 and seven in 13:7, the donkey redemption wording and the fifth generation. No harmonization of these readings.",
+      "pending": "Review firstborn/redemption terms and fifth-generation wording."
+    },
+    {
+      "chapter": 14,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.14",
+      "inspected": "12, 16, 20–21, 25, 31",
+      "decision": "Retain the south wind, darkness and gloom, and bound axles. Keep lift up with your staff at 14:16 provisionally; in at 14:31 supplies an English connection while retaining the great-hand image.",
+      "pending": "Priority review of the elliptical staff command in 14:16 and the construction in 14:31."
+    },
+    {
+      "chapter": 15,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.15",
+      "inspected": "1–27",
+      "decision": "The song's line breaks, repeated refrain, right-hand imagery, wrath and beyond remain. Direct address uses Thou/Thee/Thy. At 15:16 restore the second possessive: this people of Thine. At 15:13 this people of Thine retains the existing possessive in smoother English. The PDF names this chapter as a voice benchmark but does not supply an accepted full chapter text.",
+      "pending": "Independent review of holy ones/holiness (15:11), comfort and dwelling (15:13), song rhythm and apparatus."
+    },
+    {
+      "chapter": 16,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.16",
+      "inspected": "8, 16, 23, 28–29, 31, 33, 35–36",
+      "decision": "Retain Man, the golden jar, Phoenicia and the measure wording. You in 16:28–29 addresses the community in the plural despite the introductory address to Moses. Keep gathering and Sabbath repetitions.",
+      "pending": "Review the measure in 16:36 and food/material terms."
+    },
+    {
+      "chapter": 17,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.17",
+      "inspected": "5–7, 9, 14–16",
+      "decision": "Retain the staff, rock, place names and hidden hand. Draw up for battle makes the military command in 17:9 natural without changing its action.",
+      "pending": "Priority review of the hidden-hand expression in 17:16."
+    },
+    {
+      "chapter": 18,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.18",
+      "inspected": "6, 11, 13, 17–23",
+      "decision": "Retain the reported message, after the next day and the difficult pronouns in 18:11. Represent the people in matters pertaining to God at 18:19 makes the contextual role explicit in English.",
+      "pending": "Review 18:11's referents, 18:13's time expression and the role phrase in 18:19."
+    },
+    {
+      "chapter": 19,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.19",
+      "inspected": "3–6, 12–13, 15, 18, 22–24",
+      "decision": "Keep royal priesthood, the departure of sounds/trumpets/cloud, the people's astonishment and the Lord departing in 19:22. Moses' direct address to God in 19:23 retains Thou; quoted commands to people use ordinary address.",
+      "pending": "Review boundary language and the differing verbs in 19:22 and 19:24."
+    },
+    {
+      "chapter": 20,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.20",
+      "inspected": "3–26",
+      "decision": "Retain the Greek commandment order: adultery, theft, murder in 20:13–15. Keep saw the sound at 20:18, the repeated name in 20:24 and the original plural/singular movement; the commandments principally address a singular you, while 20:22–24 includes plural community address.",
+      "pending": "Legal and literary review, including the sensory image in 20:18."
+    },
+    {
+      "chapter": 21,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.21",
+      "inspected": "6–7, 10, 17, 22–23, 32, 37",
+      "decision": "Modernize conditional verbs without changing legal conditions or remedies. Retain female slaves in 21:7, the formed/unformed distinction in 21:22–23, thirty didrachmas and the theft law at 21:37.",
+      "pending": "Priority legal/lexical review of 21:8–11, 17 and 22–23. No modern legal or moral application is added to Scripture."
+    },
+    {
+      "chapter": 22,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.22",
+      "inspected": "2–3, 7–8, 12, 17, 27",
+      "decision": "Retain the difficult pronouns and death wording in 22:2, before/through God in adjudication, taking the owner to the prey, plural sorcerers and gods/rulers at 22:27. Conditional verbs and ordinary address are made natural.",
+      "pending": "Priority review of 22:2's subjects, the judicial terminology and 22:27."
+    },
+    {
+      "chapter": 23,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.23",
+      "inspected": "18, 20, 22–23, 25, 28, 31",
+      "decision": "Keep the expanded covenant wording in 23:22, all named peoples, wine, hornets and Euphrates. You in 23:22 moves between plural community address and singular address; the repetitions are preserved. Angel pronouns remain lower case without deciding an identification.",
+      "pending": "Review the expanded text against the full apparatus and confirm all singular/plural shifts."
+    },
+    {
+      "chapter": 24,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.24",
+      "inspected": "10–11, 14–15",
+      "decision": "Retain seeing the place where God stood, the chosen men not missing, their appearance in God's place, the plural they said and Joshua ascending with Moses.",
+      "pending": "Priority review of the vision language and the grammar in 24:10–11."
+    },
+    {
+      "chapter": 25,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.25",
+      "inspected": "5, 7, 22–23, 33–35; absence of separate verse 6",
+      "decision": "Preserve blue skins, decay-resistant wood, the table of pure gold and the lampstand details. Remove the accidental duplicated from in 25:22. No verse 25:6 is inserted.",
+      "pending": "Technical terms, stones, propitiatory cover and lampstand construction need specialist review."
+    },
+    {
+      "chapter": 26,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.26",
+      "inspected": "12, 18, 20, 26–27, 34",
+      "decision": "Retain north/south orientation, the singular post formulations, curtain repetitions and screening the ark with the veil. Commands to Moses use you/your; measurements are unchanged.",
+      "pending": "Architectural vocabulary and the arrangement of curtains, posts and bars."
+    },
+    {
+      "chapter": 27,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.27",
+      "inspected": "9, 11, 13–14, 16, 18",
+      "decision": "Preserve the source's directions and dimensions, including fifteen/twenty cubits high and a hundred by a hundred. They have not been corrected to a familiar reconstruction.",
+      "pending": "Priority architectural and textual review of directions and dimensions in 27:9–18."
+    },
+    {
+      "chapter": 28,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.28",
+      "inspected": "9, 29–30, 33–36, 38, 41",
+      "decision": "Retain emeralds, Manifestation and Truth, gold pomegranates, the sound, removal of sins and filling the hands. Preserve 28:29a and the absence of separate 28:23–28.",
+      "pending": "Priestly dress, gemstones, oracle-piece terminology and the consecration idiom."
+    },
+    {
+      "chapter": 29,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.29",
+      "inspected": "2–3, 9, 20, 23, 36, 42–43, 45–46",
+      "decision": "Retain the two bread types, on the basket, the hand/foot extremities, day of purification and being called upon. At 29:30 divide the long relative construction into two linked clauses without changing the priest or the seven days.",
+      "pending": "Consecration terms and the meaning of 29:43. Review the source's from-there expression at 29:42, not separately expressed in the inherited English."
+    },
+    {
+      "chapter": 30,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.30",
+      "inspected": "6, 12–13, 21, 23–24, 35",
+      "decision": "Retain didrachma/obols in the census and shekels in the oil recipe, iris, the repeated washing instruction and plural they shall make at 30:35.",
+      "pending": "Aromatic substances and census terminology. Review the source's from-there expression in 30:6, not separately expressed in the inherited English."
+    },
+    {
+      "chapter": 31,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.31",
+      "inspected": "3, 6, 8, 13, 17",
+      "decision": "Retain Eliab, plural altars and ceased and rested. Preserve the inherited divine Spirit wording without treating capitalization as a resolution of theological questions.",
+      "pending": "Name-index, Spirit vocabulary and Sabbath syntax."
+    },
+    {
+      "chapter": 32,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.32",
+      "inspected": "2, 4, 6, 13, 18, 25, 29–30, 32; absence of separate verse 9",
+      "decision": "Retain wives/daughters, singular he in 32:4 and 32:6, wine-song, scattered, filled hands and the repeated forgiveness command. Direct prayer uses Thyself; human speech uses you. No separate 32:9 is inserted.",
+      "pending": "Priority review of 32:18, 25, 29 and the time expression in 32:30."
+    },
+    {
+      "chapter": 33,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.33",
+      "inspected": "2, 5–6, 12–13, 15, 18–19, 23",
+      "decision": "Retain the six peoples of 33:2, the different blow and clothing language, reveal Thyself, singular me in 33:15 and what is behind Me. Quoted divine speech inside Moses' prayer uses you; Moses addresses God as Thou/Thee/Thy.",
+      "pending": "Priority review of presence, revelation and knowledge language in 33:12–23."
+    },
+    {
+      "chapter": 34,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.34",
+      "inspected": "7, 13, 16, 20, 22, 26, 29",
+      "decision": "Retain righteousness, burning carved images, both marriage directions, paying a beast's value, middle of the year and offer a lamb in milk. Keep glorified facial appearance. Thou shalt in 34:9 is retained because Moses addresses God.",
+      "pending": "Covenant vocabulary, 34:22 and 26, and the glorification language."
+    },
+    {
+      "chapter": 35,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.35",
+      "inspected": "3, 12, 19, 22–23, 27, 34",
+      "decision": "Retain I am the Lord in 35:3, the men bringing from the women, the shorter materials list, emeralds and Eliab. Preserve 35:12a and the existing absent verse labels.",
+      "pending": "Offering syntax, names and material terms."
+    },
+    {
+      "chapter": 36,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.36",
+      "inspected": "1, 8, 13–14, 28, 31, 37",
+      "decision": "Retain the Greek sequence beginning the garments at 36:8, emeralds, and the shifts between they and he. Smooth only the placement of had been given in 36:1; the other English wording already reads naturally.",
+      "pending": "Technical dress vocabulary and singular/plural workmanship clauses."
+    },
+    {
+      "chapter": 37,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.37",
+      "inspected": "7, 9, 16, 19–21",
+      "decision": "The English wording is retained after review. Keep a hundred by a hundred, height and breadth, Ithamar and Eliab, and this chapter's Greek arrangement.",
+      "pending": "Dimensions, Levite service and craft terminology."
+    },
+    {
+      "chapter": 38,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.38",
+      "inspected": "9, 13, 16, 18, 20, 22, 26",
+      "decision": "Clarify the gold lampstand sentence while retaining the present gives light. Keep the pure-gold table, Korah censers and the repeated fasting description; do not harmonize their chronology or details.",
+      "pending": "Priority review of 38:16, 18, 20, 22 and 26, including furniture terms and referents."
+    },
+    {
+      "chapter": 39,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.39",
+      "inspected": "1–3, 5–6, 10–12, 23",
+      "decision": "The English wording is retained after review. Keep all quantities, drachma/shekel distinctions, gilded capitals, leftover materials and repeated statements of completion.",
+      "pending": "Independent numerical and technical audit, including the silver/gilding wording in 39:5."
+    },
+    {
+      "chapter": 40,
+      "url": "https://www.die-bibel.de/en/bible/LXX/EXO.40",
+      "inspected": "2–3, 8, 15, 17, 20, 29, 33–35, 38",
+      "decision": "Retain new-moon dating, poles beneath the ark, all completion repetitions and the cloud/fire conclusion. Commands use you. Keep all existing gaps in verse numbering.",
+      "pending": "Review the elliptical instruction at 40:8 and the furniture/dating terms."
+    }
+  ]
+}

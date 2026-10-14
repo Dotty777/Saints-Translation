@@ -1,0 +1,879 @@
+{
+  "editorial_review": {
+    "date": "2026-10-14",
+    "status": "All 1165 English verse units individually read and editorially reviewed; approved as a provisional staging revision.",
+    "chapters": 40,
+    "poetic_breaks_preserved": true,
+    "source_scope": "Selected running-text inspections as separately recorded; not full collation.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "Newer Bespoke PDF, superseding conflicting older pronoun rules.",
+    "approved_text_sha256": "55eac0540940df24385ae7fcf82e02ea03045072952edc6c8fef06102d941fc3"
+  },
+  "preflight": [
+    {
+      "chapter": 1,
+      "verse_units": 22,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 2,
+      "verse_units": 25,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 3,
+      "verse_units": 22,
+      "changed": 13,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 4,
+      "verse_units": 31,
+      "changed": 21,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 5,
+      "verse_units": 23,
+      "changed": 15,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 6,
+      "verse_units": 30,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 7,
+      "verse_units": 29,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 8,
+      "verse_units": 28,
+      "changed": 11,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 9,
+      "verse_units": 35,
+      "changed": 15,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 10,
+      "verse_units": 29,
+      "changed": 13,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 11,
+      "verse_units": 10,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 12,
+      "verse_units": 51,
+      "changed": 22,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 13,
+      "verse_units": 22,
+      "changed": 15,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 14,
+      "verse_units": 31,
+      "changed": 10,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 15,
+      "verse_units": 27,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 16,
+      "verse_units": 36,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 17,
+      "verse_units": 16,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 18,
+      "verse_units": 27,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 19,
+      "verse_units": 25,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 20,
+      "verse_units": 26,
+      "changed": 21,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 21,
+      "verse_units": 37,
+      "changed": 32,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 22,
+      "verse_units": 30,
+      "changed": 26,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 23,
+      "verse_units": 33,
+      "changed": 32,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 24,
+      "verse_units": 18,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 25,
+      "verse_units": 39,
+      "changed": 26,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 26,
+      "verse_units": 37,
+      "changed": 28,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 27,
+      "verse_units": 21,
+      "changed": 10,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 28,
+      "verse_units": 38,
+      "changed": 23,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 29,
+      "verse_units": 46,
+      "changed": 14,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 30,
+      "verse_units": 38,
+      "changed": 17,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 31,
+      "verse_units": 18,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 32,
+      "verse_units": 34,
+      "changed": 16,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 33,
+      "verse_units": 23,
+      "changed": 16,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 34,
+      "verse_units": 35,
+      "changed": 19,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 35,
+      "verse_units": 32,
+      "changed": 10,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 36,
+      "verse_units": 38,
+      "changed": 2,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 37,
+      "verse_units": 21,
+      "changed": 0,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 38,
+      "verse_units": 27,
+      "changed": 1,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 39,
+      "verse_units": 23,
+      "changed": 0,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 40,
+      "verse_units": 32,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_old_notes_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "poetry_line_breaks_preserved": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 1041,
+      "chapter": 1,
+      "modified": "2026-10-14T06:22:15",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "82d74d1992ef8ca7220289c4ba5c454812a9b20f8aa6865225dc2531876fb972"
+    },
+    {
+      "id": 1198,
+      "chapter": 2,
+      "modified": "2026-10-14T06:23:07",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "a9d56d53d1ab00713b18831a67857c45f2ec2bf81f9ddc5d25af41bf19cc7f8c"
+    },
+    {
+      "id": 1200,
+      "chapter": 3,
+      "modified": "2026-10-14T06:23:21",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "d9e9344e5e44eabf50840bbf709ad9254e507a421f8abe6bed5ccfa921512871"
+    },
+    {
+      "id": 1202,
+      "chapter": 4,
+      "modified": "2026-10-14T06:23:33",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "cb1f34277b8629174a41451aa523519d6f66ffd67b3f4a7afb00be79000610eb"
+    },
+    {
+      "id": 1204,
+      "chapter": 5,
+      "modified": "2026-10-14T06:23:45",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "84ee8f75a40265177170c56bf1f1f494f1b26071ec24e8e7add5a8ff59bd92db"
+    },
+    {
+      "id": 1206,
+      "chapter": 6,
+      "modified": "2026-10-14T06:23:58",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "b29e2c153a837d38bf57c99d5673f75402d8d470d54a0b380f52c71423534934"
+    },
+    {
+      "id": 1208,
+      "chapter": 7,
+      "modified": "2026-10-14T06:24:11",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "0499e56676e66187878c8da8b23c155d69ce35042c35e24c7d1c614a2f26c9e3"
+    },
+    {
+      "id": 1210,
+      "chapter": 8,
+      "modified": "2026-10-14T06:24:23",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "802d92cd162ed326542071f8195e32c1f3b9ec6df0501aa9e318741d59317c51"
+    },
+    {
+      "id": 1212,
+      "chapter": 9,
+      "modified": "2026-10-14T06:24:35",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "fc49396d9d37b3b4259cb6f22a7a4b1c678be73bdd4318b736c1a45f7b200809"
+    },
+    {
+      "id": 1214,
+      "chapter": 10,
+      "modified": "2026-10-14T06:24:47",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "660594f42ab35ec5dae30f6e3d21faa2ae55600fc47b9241995cf7d11740cd38"
+    },
+    {
+      "id": 1216,
+      "chapter": 11,
+      "modified": "2026-10-14T06:24:59",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "a11ce166848bf1ec0138eae41e3a5f8cb001f20828397b973efb85eff8ec132e"
+    },
+    {
+      "id": 1218,
+      "chapter": 12,
+      "modified": "2026-10-14T06:27:02",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "702ad672c9676273d2fee1092b234c99a528387944b7db79c6b1682e4d107264"
+    },
+    {
+      "id": 1220,
+      "chapter": 13,
+      "modified": "2026-10-14T06:27:15",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "3aed3057ebffb9afed1987061f434736e5a114df7e1f7a1ab7baebfae28f169f"
+    },
+    {
+      "id": 1222,
+      "chapter": 14,
+      "modified": "2026-10-14T06:27:26",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "611dd2fc66ef74e87088e09c700fb247f56b206f3614a73ff24884c72ca2bca1"
+    },
+    {
+      "id": 1224,
+      "chapter": 15,
+      "modified": "2026-10-14T06:27:37",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "232fe30cbb9f2e0aee355aae5b121848398b4ae2af6152e3e1c9e1bf00c965c8"
+    },
+    {
+      "id": 1226,
+      "chapter": 16,
+      "modified": "2026-10-14T06:27:49",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "2dabea73779e07701bcb7179b2fab4a534ea0e945b069322e22c9001a502f898"
+    },
+    {
+      "id": 1228,
+      "chapter": 17,
+      "modified": "2026-10-14T06:28:02",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "33d47f580e55f98a279c6a13154e7311295b463fee1e48052011421a9e3b7539"
+    },
+    {
+      "id": 1230,
+      "chapter": 18,
+      "modified": "2026-10-14T06:28:14",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "e3feb84aa8bdb2b91d2b5eccaa75cf9978254e4467b885e3ed7352a47cc528d3"
+    },
+    {
+      "id": 1232,
+      "chapter": 19,
+      "modified": "2026-10-14T06:28:28",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "28a3a504ce3e7039d89e51cda87a9e476435d549551a798bca6a8a5d64676530"
+    },
+    {
+      "id": 1234,
+      "chapter": 20,
+      "modified": "2026-10-14T06:28:42",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "8a1d434f6de168dcfdc275e3c9596fb6b9977da73aa37bd282c0c761aef5b6fe"
+    },
+    {
+      "id": 1236,
+      "chapter": 21,
+      "modified": "2026-10-14T06:28:55",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "fe4d2c2268523dc0e22c19cd0bbd8d06f681a9b2edae2b5d98383b8e3eb0a133"
+    },
+    {
+      "id": 1238,
+      "chapter": 22,
+      "modified": "2026-10-14T06:29:37",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "639941636a008277f7e5f4b6e40bb5e1590c8ab58df38a8f4e9cb634222bacc1"
+    },
+    {
+      "id": 1240,
+      "chapter": 23,
+      "modified": "2026-10-14T06:29:48",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "f2360a45735d974b06600405d17b124d5af5a1e137d60d6559278c38ab12e846"
+    },
+    {
+      "id": 1242,
+      "chapter": 24,
+      "modified": "2026-10-14T06:30:00",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "79962d4449c9b62ce44c14678ea377163b7cd0714b574f13aaad42702107ee78"
+    },
+    {
+      "id": 1244,
+      "chapter": 25,
+      "modified": "2026-10-14T06:30:12",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "28cdf95fa568acca19f4e19f3344d8e9308d9ba6bcf556914c9231f324b0cef3"
+    },
+    {
+      "id": 1246,
+      "chapter": 26,
+      "modified": "2026-10-14T06:30:24",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "f641994d32210ce7c9f185853c9be5954fa78a6644400da0f293617ec3e1e816"
+    },
+    {
+      "id": 1248,
+      "chapter": 27,
+      "modified": "2026-10-14T06:30:36",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "0bdc4ece6144c2b3698fa76868f7ea9cd7d628f07be2bb58c58cf2bf2e3c0dc0"
+    },
+    {
+      "id": 1250,
+      "chapter": 28,
+      "modified": "2026-10-14T06:30:48",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "ab699710e8028126ef9382c9d5938e2c60051dcafa428fac76f2f7023dbd6e73"
+    },
+    {
+      "id": 1252,
+      "chapter": 29,
+      "modified": "2026-10-14T06:31:01",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "0ffc786b00d7e94b600480abd5146c7c9da8198b52dcd463d853a32022e94c0a"
+    },
+    {
+      "id": 1254,
+      "chapter": 30,
+      "modified": "2026-10-14T06:31:14",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "39c3b9996d48c60ea4bcf2e6db437ac83eeaf98424cda42a4948fd7e6c3fccdc"
+    },
+    {
+      "id": 1256,
+      "chapter": 31,
+      "modified": "2026-10-14T06:31:26",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "15af4438ace4a97539b158ef0e8213fcc864b3d0ece054f6e6dd012429aec4d7"
+    },
+    {
+      "id": 1258,
+      "chapter": 32,
+      "modified": "2026-10-14T06:32:18",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "0b50db9b460049ec5c89a6c2ca6f1fab8ab59e0851a54225d9a6a3d43a4c0121"
+    },
+    {
+      "id": 1260,
+      "chapter": 33,
+      "modified": "2026-10-14T06:32:29",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "4727597732cb91b8ca5085078b3e3f9f8fd255baa3db8b857ec19e8cd6742222"
+    },
+    {
+      "id": 1262,
+      "chapter": 34,
+      "modified": "2026-10-14T06:32:42",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "45e513a67ec5395cda7d6c1b9c7eaaf119f1497f63b3a85fb509790a61968867"
+    },
+    {
+      "id": 1264,
+      "chapter": 35,
+      "modified": "2026-10-14T06:32:54",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "0feb919d8e8868a7ebfeda9e9402ccc1adb8583169038f578b0c462d33aeb490"
+    },
+    {
+      "id": 1266,
+      "chapter": 36,
+      "modified": "2026-10-14T06:33:05",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "51777c1cff904f7585b67dd0a611f94c32711cff53de2c5de7eaa1fa720549fd"
+    },
+    {
+      "id": 1268,
+      "chapter": 37,
+      "modified": "2026-10-14T06:33:18",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "ae567a45ea7abf1b63bf1fec668f47e6680745f0cdc9f9ebbc1513eeb34cd873"
+    },
+    {
+      "id": 1270,
+      "chapter": 38,
+      "modified": "2026-10-14T06:33:31",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "f327a023a8e95f66fb3bea21925340ba6aed628b3fc9b4d7274f30689ee901c7"
+    },
+    {
+      "id": 1272,
+      "chapter": 39,
+      "modified": "2026-10-14T06:33:43",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "26758d824a8f2da4a678e0c83fda871166b9d15e736708d7096afb28124627e1"
+    },
+    {
+      "id": 1274,
+      "chapter": 40,
+      "modified": "2026-10-14T06:33:58",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "30d43423b75ef7b538962ede6a0a00b9e83fd0b4051b1715eba1997549e55a5c"
+    },
+    {
+      "id": 1036,
+      "chapter": 0,
+      "modified": "2026-10-14T06:34:11",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "after_sha256": "afaa4515bdffc13c4b8ec3b482b8f15a1939d851fb6618e5e0e51cfb38cce39f"
+    }
+  ],
+  "browser_samples": {
+    "date": "2026-10-14",
+    "samples": [
+      {
+        "chapter": 1,
+        "chapterOptions": 40,
+        "ordinaryAddress": "1:16 And he said, “When you attend the Hebrew women in childbirth, and they are about to give birth, if the child is male, kill him; but if the child is female, preserve her.”",
+        "updated": true,
+        "verseCount": 22
+      },
+      {
+        "chapter": 3,
+        "currentNotes": true,
+        "earlierNotes": true,
+        "nameReading": "3:14 And God said to Moses, “I am the One Who Is.” And He said, “This is what you shall say to the sons of Israel: ‘The One Who Is has sent me to you.’”",
+        "updated": true,
+        "verseCount": 22
+      },
+      {
+        "chapter": 15,
+        "currentNotes": true,
+        "poeticBreaks": 26,
+        "prayer": "15:16 May fear and trembling fall upon them;\nby the greatness of Thine arm let them become as stone, until Thy people pass over, O Lord, until this people of Thine whom Thou hast purchased pass over.",
+        "updated": true,
+        "verseCount": 27
+      },
+      {
+        "chapter": 20,
+        "commandments": [
+          "20:13 You shall not commit adultery.",
+          "20:14 You shall not steal.",
+          "20:15 You shall not murder."
+        ],
+        "image": "20:18 All the people saw the sound, the flashes, the trumpet’s sound, and the smoking mountain. All the people were afraid and stood far away.",
+        "updated": true,
+        "verseCount": 26
+      },
+      {
+        "additionalVerse": "28:29a And you shall set the braided ornaments upon the oracle-piece of judgment; you shall set the chains upon both sides of the oracle-piece, and the two rosettes upon both shoulders of the shoulder-piece in front.",
+        "chapter": 28,
+        "manifestationTruth": "28:30 And you shall set Manifestation and Truth upon the oracle-piece of judgment; and it shall be upon Aaron’s breast when he enters into the sanctuary before the Lord. And Aaron shall bear the judgments of the sons of Israel upon his breast before the Lord continually.",
+        "missingLabelsPreserved": true,
+        "updated": true,
+        "verseCount": 38
+      },
+      {
+        "additionalVerse": "35:12a the hangings of the court and its pillars, the emerald stones, the incense, and the anointing oil;",
+        "chapter": 35,
+        "missingLabelsPreserved": true,
+        "updated": true,
+        "verseCount": 32
+      },
+      {
+        "chapter": 40,
+        "finalVerse": "40:38 For a cloud was over the tent by day, and fire was over it by night, in the sight of all Israel throughout all their journeys.",
+        "missingLabelsPreserved": true,
+        "nextBookLink": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/law/leviticus/chapter-1/",
+        "updated": true,
+        "verseCount": 32,
+        "nextBookNavigationObserved": "Next chapter, Leviticus 1 — /bible/law/leviticus/chapter-1/"
+      },
+      {
+        "chapter": "index",
+        "comparisonLinksPreserved": true,
+        "readingChapterLinks": 40,
+        "updated": true
+      }
+    ],
+    "screenshot": "exodus-staging-proof.png"
+  },
+  "comparison_checks": [
+    {
+      "id": 23433,
+      "title": "Exodus — Study Edition",
+      "unchanged": true,
+      "modified": "2026-10-06T14:15:31"
+    },
+    {
+      "id": 18960,
+      "title": "Exodus — Disparate Study Guide",
+      "modified": "2026-10-04T12:31:52",
+      "unchanged": true
+    },
+    {
+      "id": 20675,
+      "title": "Exodus — Masoretic Text and Saints Translation",
+      "modified": "2026-09-29T05:57:17",
+      "unchanged": true
+    }
+  ],
+  "combined_reader": {
+    "all_1165_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_note_links_resolve": true
+  }
+}
