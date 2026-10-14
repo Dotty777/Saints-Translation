@@ -1,0 +1,1008 @@
+{
+  "preflight": [
+    {
+      "chapter": 1,
+      "verses": 31,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "matches_accepted_pdf": true,
+      "changed_verses": 26
+    },
+    {
+      "chapter": 2,
+      "verses": 25,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "matches_accepted_pdf": true,
+      "changed_verses": 21
+    },
+    {
+      "chapter": 3,
+      "verses": 24,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "matches_accepted_pdf": true,
+      "changed_verses": 17
+    },
+    {
+      "chapter": 4,
+      "verses": 26,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "matches_accepted_pdf": true,
+      "changed_verses": 25
+    },
+    {
+      "chapter": 5,
+      "verses": 32,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "matches_accepted_pdf": true,
+      "changed_verses": 25
+    },
+    {
+      "chapter": 6,
+      "verses": 22,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "matches_accepted_pdf": true,
+      "changed_verses": 17
+    },
+    {
+      "chapter": 7,
+      "verses": 24,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "matches_accepted_pdf": true,
+      "changed_verses": 23
+    },
+    {
+      "chapter": 8,
+      "verses": 22,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "matches_accepted_pdf": true,
+      "changed_verses": 21
+    },
+    {
+      "chapter": 9,
+      "verses": 29,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "matches_accepted_pdf": true,
+      "changed_verses": 29
+    },
+    {
+      "chapter": 10,
+      "verses": 32,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "matches_accepted_pdf": true,
+      "changed_verses": 32
+    },
+    {
+      "chapter": 11,
+      "verses": 32,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "matches_accepted_pdf": true,
+      "changed_verses": 32
+    },
+    {
+      "chapter": 12,
+      "verses": 20,
+      "changed_verses": 20,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 13,
+      "verses": 18,
+      "changed_verses": 14,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 14,
+      "verses": 24,
+      "changed_verses": 19,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 15,
+      "verses": 21,
+      "changed_verses": 14,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 16,
+      "verses": 16,
+      "changed_verses": 14,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 17,
+      "verses": 27,
+      "changed_verses": 23,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 18,
+      "verses": 33,
+      "changed_verses": 29,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 19,
+      "verses": 38,
+      "changed_verses": 32,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 20,
+      "verses": 18,
+      "changed_verses": 13,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 21,
+      "verses": 34,
+      "changed_verses": 27,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 22,
+      "verses": 24,
+      "changed_verses": 19,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 23,
+      "verses": 20,
+      "changed_verses": 14,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 24,
+      "verses": 67,
+      "changed_verses": 53,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 25,
+      "verses": 34,
+      "changed_verses": 15,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 26,
+      "verses": 35,
+      "changed_verses": 21,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 27,
+      "verses": 46,
+      "changed_verses": 41,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 28,
+      "verses": 22,
+      "changed_verses": 17,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 29,
+      "verses": 35,
+      "changed_verses": 24,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 30,
+      "verses": 43,
+      "changed_verses": 33,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 31,
+      "verses": 53,
+      "changed_verses": 41,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 32,
+      "verses": 33,
+      "changed_verses": 21,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 33,
+      "verses": 20,
+      "changed_verses": 12,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 34,
+      "verses": 31,
+      "changed_verses": 23,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 35,
+      "verses": 28,
+      "changed_verses": 20,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 36,
+      "verses": 43,
+      "changed_verses": 14,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 37,
+      "verses": 36,
+      "changed_verses": 32,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 38,
+      "verses": 30,
+      "changed_verses": 26,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 39,
+      "verses": 23,
+      "changed_verses": 15,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 40,
+      "verses": 23,
+      "changed_verses": 17,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 41,
+      "verses": 57,
+      "changed_verses": 25,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 42,
+      "verses": 38,
+      "changed_verses": 34,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 43,
+      "verses": 34,
+      "changed_verses": 24,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 44,
+      "verses": 34,
+      "changed_verses": 31,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 45,
+      "verses": 28,
+      "changed_verses": 24,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 46,
+      "verses": 34,
+      "changed_verses": 17,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 47,
+      "verses": 31,
+      "changed_verses": 28,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 48,
+      "verses": 22,
+      "changed_verses": 19,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 49,
+      "verses": 33,
+      "changed_verses": 17,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    },
+    {
+      "chapter": 50,
+      "verses": 26,
+      "changed_verses": 19,
+      "anchors_preserved": true,
+      "hrefs_preserved": true,
+      "old_notes_preserved": true,
+      "study_scripts_identical": true,
+      "every_verse_matches_reviewed_draft": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "chapter": 1,
+      "id": 1030,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T04:51:49",
+      "sha256": "6ab40f7bf06312cf3251145a85e44487a29ee7a4f2ea43d541b4925ad099bff7"
+    },
+    {
+      "chapter": 2,
+      "id": 1033,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T04:52:50",
+      "sha256": "c33d824ac16366503009130ef81dd454526846e45e271fbff4bdbb79e0997d6f"
+    },
+    {
+      "chapter": 3,
+      "id": 1046,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T04:52:57",
+      "sha256": "18843902f31fab10b1b1032e948b18bdb797079c1b933eb018d912a2930d34d2"
+    },
+    {
+      "chapter": 4,
+      "id": 1047,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T04:53:05",
+      "sha256": "69d35fb7e9164f121a0408bfdff3b7e16d431800cbc662be69d0a943b1452faf"
+    },
+    {
+      "chapter": 5,
+      "id": 1049,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T04:53:14",
+      "sha256": "2b850cec0268f2e68ad0439b21efdc972b26aaa05f46070373c3c9d24ab091a5"
+    },
+    {
+      "chapter": 6,
+      "id": 1051,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T04:53:44",
+      "sha256": "2a8a7613de704cf72a17e6ee4c8c8d91a5db31ad3d61f381f4ccf69c9ae2d1f6"
+    },
+    {
+      "chapter": 7,
+      "id": 1053,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T04:53:53",
+      "sha256": "6da83328f9ad3635657609a04365a8ef6d2153cb2476b7f8c7adb77a39ad8bec"
+    },
+    {
+      "chapter": 8,
+      "id": 1055,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T04:54:01",
+      "sha256": "426014513d38d3161c3940f16217b9ca0f05afd2d6b1e5ac2b81c2fff7d5ba20"
+    },
+    {
+      "chapter": 9,
+      "id": 1057,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T04:54:10",
+      "sha256": "99a4bb080ea3361059cf94b6f2ed1e4a004d718439fa080324dfc400dea18a24"
+    },
+    {
+      "chapter": 10,
+      "id": 1059,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T04:54:31",
+      "sha256": "b6e129775877fc89e14eafc4669e9b6bf6e7f78894e9a5cdb16f838730a403a9"
+    },
+    {
+      "chapter": 11,
+      "id": 1061,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T04:54:40",
+      "sha256": "48bbd153e0ddccd95629e5dd1d364568a6c31d5461dc3a89c7d091cfcb9b7a4d"
+    },
+    {
+      "chapter": 12,
+      "id": 1063,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:13:09",
+      "sha256": "202ce0b4a04eb1a2252b79ed170c86ede9e5c9942c5668f67e008c0d34357cbc"
+    },
+    {
+      "chapter": 13,
+      "id": 1065,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:13:18",
+      "sha256": "985e03b8ebf2a15ed59bffb0353519c6671dfd1c8ca1a055a1f1794097dc5432"
+    },
+    {
+      "chapter": 14,
+      "id": 1067,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:13:26",
+      "sha256": "fd62a596796ad1e44261d26a20bd1a5d09a53e37ebe65ab70c7e9fc3094f61b7"
+    },
+    {
+      "chapter": 15,
+      "id": 1069,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:13:35",
+      "sha256": "8db5f398e846f26ae9dbc43c11e353110ba1c442e65dcd850e0ab4ea491b0a3c"
+    },
+    {
+      "chapter": 16,
+      "id": 1071,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:13:43",
+      "sha256": "2457ebf0c54354895b707d0d07c74e11240ee55d8c0a5caee7995ef368825fe5"
+    },
+    {
+      "chapter": 17,
+      "id": 1073,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:13:52",
+      "sha256": "9c74047b53453733353b492abdf0bec5ada9afe2dc99028e3257b53955f2fc22"
+    },
+    {
+      "chapter": 18,
+      "id": 1075,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:14:00",
+      "sha256": "2de4bbc8de87f2af73f237c142f1b97a348ec30750e41acc62334e00be0735ff"
+    },
+    {
+      "chapter": 19,
+      "id": 1077,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:38:08",
+      "sha256": "ab12446fe511eebe2629e3051c6d460f2b0529c1d314938876f16033063301d5",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 20,
+      "id": 1079,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:38:17",
+      "sha256": "f8dffb6ce259a21029adc5cbfbc38f355ef6704dcff8c92723a575dc29fd391d",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 21,
+      "id": 1081,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:38:26",
+      "sha256": "8ba6913866b215fde24d88c9c43e2de2fe2ff2d57c78fa012325cf80f083644d",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 22,
+      "id": 1083,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:38:37",
+      "sha256": "f95f5e37e130eb7f1b838fa52086f01719b5fc2d08c96b110062d2d7abcf2e12",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 23,
+      "id": 1085,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:38:45",
+      "sha256": "4a7fed95601800b648c1cb31b2dd3c985b3b3a8c844ee5c41665134f1887a2da",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 24,
+      "id": 1087,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:38:53",
+      "sha256": "e9c2c3b9ae611e432a19e2e0e7cc474bf7571dcb2c6a9313e8c633c095311d61",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 25,
+      "id": 1089,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:39:01",
+      "sha256": "6baaa3e8d82f3c2adaabadb6535a9b7719a5617bf0f95809be278a8892b4f957",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 26,
+      "id": 1091,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:39:33",
+      "sha256": "941a49ee3adb3d4f941acafa85121efa23108fdb6d9fcd33f88b5afbd6fcb08b",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 27,
+      "id": 1093,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:39:42",
+      "sha256": "f60bfe677579b6d6f91f78984669fe55e1f4339196cf4a24926fe480b99ec3e5",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 28,
+      "id": 1095,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:39:53",
+      "sha256": "e441b87594afe237a6788366bfc316433b7b7edd7a56f518b6b78175dbe18804",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 29,
+      "id": 1097,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:40:04",
+      "sha256": "f7b01e584b2c5818d09dc293b6b2732c5061b1e6ef6175278c0a71356e00415f",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 30,
+      "id": 1099,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:40:12",
+      "sha256": "f08b2af782020271db15c6f264ce607dd3be9e6abd25161139d877c028afa319",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 31,
+      "id": 1157,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:40:20",
+      "sha256": "b76fb4055d5ad9f4d7bc7fa6266a3c6179db6fc73498ec295e7aae20de377b8c",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 32,
+      "id": 1159,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:40:28",
+      "sha256": "33b2fea6afaed85569a220c1fe36f2d389474cc71c546f7fcea2eaa112e3d5d2",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 33,
+      "id": 1161,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:40:36",
+      "sha256": "0054a64549dbd7f6c27e991bc51ae1217cac823ac548a15828d2216c576cbb12",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 34,
+      "id": 1163,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:40:46",
+      "sha256": "91de9d224204ed43367e36ec723480cebc9d17d9792570b6ece0aa2b730bc4c8",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 35,
+      "id": 1165,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:40:56",
+      "sha256": "1e07aab418ddc6887809dcbdd0020d717d8dd3b68679ddff433190730f794cb0",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 36,
+      "id": 1167,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:41:05",
+      "sha256": "ece9dc0a34027ce837f3d9d344b293d2ef1c6b7f42d31fb743520f81b3bc4a43",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 37,
+      "id": 1169,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:41:14",
+      "sha256": "9fc0c509224416ae3908f8465a806e41a8810320c9b9c9e3cb81df1a30526a9c",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 38,
+      "id": 1171,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:43:09",
+      "sha256": "2a9487f2e4a42a4c2d33b1faf6906209a63f2848b5d0e4a55507041c798e3d15",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 39,
+      "id": 1173,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:43:18",
+      "sha256": "09ef1df593008f6606529ea04813301b20173c3524bb7b35c9d7235e1ff77f54",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 40,
+      "id": 1175,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:43:25",
+      "sha256": "339664b25209566e6a9c8da3a1cb9c63039ef8ccc75ef5fe0a1d2bbaa5d005f7",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 41,
+      "id": 1177,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:43:33",
+      "sha256": "99d5edf6af3074516c7022e7d23ec3357a0f3933788a323bf7594f53ccf68ead",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 42,
+      "id": 1179,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:43:42",
+      "sha256": "81a7052d721687c2875943cbc1a126c2ceacb86f462233a47498909e4df2f15c",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 43,
+      "id": 1181,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:43:50",
+      "sha256": "d549b43ff7712378f478418a73349116c6b9b154b945d7916914e706f3e523c7",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 44,
+      "id": 1183,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:43:59",
+      "sha256": "6529211ed88c75ff6c59faea9ddd8cd95f6b7c450ee6b1648bbbca3eaedef623",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 45,
+      "id": 1185,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:44:07",
+      "sha256": "6c9791fa9a81e20739853ca055c7655b103ff5aea80ad411dd8b36d05eac12f8",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 46,
+      "id": 1187,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:44:15",
+      "sha256": "438773de7d95186b1826e7d8966fd51312bb4bd954b6bbd015059a01bddcc5e4",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 47,
+      "id": 1189,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:44:24",
+      "sha256": "3be5d95d8d15a021726ad4c33f44dce977b283bc61e79151b8e226b4d9cd6cef",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 48,
+      "id": 1191,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:44:33",
+      "sha256": "5a81e338cc366dc90d19cc673e2a7287a0d5eddf47e376625cd6cc932fbd74f3",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 49,
+      "id": 1193,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:44:41",
+      "sha256": "f3765c3e3428fb017df19cf8fb1a933d44d7eac1cf6fadc331c14da3c45b3b74",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": 50,
+      "id": 1195,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:44:51",
+      "sha256": "7fb883845d3cadc3cdadd3010454b53a5260decfc5dd305f1292c03493dc3c5e",
+      "verification": "Exact text comparison with reviewed first block plus byte-preserved original suffix"
+    },
+    {
+      "chapter": "index",
+      "id": 1029,
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "modified": "2026-10-14T05:45:39",
+      "sha256": "b17e572d10ddf3ca189f847aa2eac92cfdf9fab49d1d4eceb05713b69676e444"
+    }
+  ],
+  "browser_samples": {
+    "date": "2026-10-14",
+    "site": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/",
+    "samples": [
+      {
+        "chapter": 1,
+        "checked": "31 rendered verses; translation-note link; 50 chapter choices and study workspace present."
+      },
+      {
+        "chapter": 11,
+        "checked": "32 verse units; full Cainan material rendered within v11-13; current benchmark notes separate."
+      },
+      {
+        "chapter": 17,
+        "checked": "27 rendered verse units; Sara/Sarah distinction; ordinary your in divine speech and Thee in Abraham’s prayer; current edition notice and note links; study workspace retained."
+      },
+      {
+        "chapter": 35,
+        "checked": "28 existing verse units; no v35-21; v35-22, v35-22a and v35-22b preserved; 50 chapter choices."
+      },
+      {
+        "chapter": 49,
+        "checked": "33 rendered verses; 15 existing poetic line breaks; repeated son grown great and repeated blessing; current provisional notice."
+      },
+      {
+        "chapter": 50,
+        "checked": "26 rendered verses; final coffin verse; previous Genesis 49 and next Exodus 1 navigation; current notice."
+      },
+      {
+        "chapter": "index",
+        "checked": "Bespoke edition title, 50-chapter status, accepted/provisional distinction and newer policy explanation rendered; comparison chooser retained."
+      }
+    ],
+    "scope_limit": "Representative browser inspection only. No claim that every study popup, comparative note or offline feature has been revalidated against the new wording. Existing study scripts and comparison text were preserved.",
+    "screenshot": "qa/genesis-staging-complete.png"
+  },
+  "comparison_checks": [
+    {
+      "id": 23385,
+      "title": "Genesis — Study Edition",
+      "content_unchanged": true,
+      "metadata_preserved": true
+    },
+    {
+      "id": 20672,
+      "title": "Genesis — Masoretic Text and Saints Translation",
+      "content_unchanged": true,
+      "metadata_preserved": true
+    },
+    {
+      "id": 18883,
+      "title": "Genesis — Disparate Study",
+      "content_unchanged": true,
+      "metadata_preserved": true
+    },
+    {
+      "id": 26026,
+      "title": "Genesis — Parallel Reader",
+      "content_unchanged": true,
+      "metadata_preserved": true
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "edition": "Rahlfs–Hanhart Septuaginta, second revised edition, 2006",
+  "access": "German Bible Society online running text inspected on 14 October 2026",
+  "authorization": "User expressly authorized provisional Rahlfs–Hanhart 2006 continuation beyond the accepted Genesis 1–11 benchmark.",
+  "limitations": "Selected running-text checks support editorial decisions. No full verse-by-verse Greek collation, full apparatus examination, Göttingen/Wevers collation or independent specialist certification was completed. Earlier study-note verification statements describe historical work and were not adopted as new claims.",
+  "benchmark": "Genesis 1–11: all 299 existing verse units aligned with the accepted rendering in Bespoke Saints English (1).pdf. This is exact benchmark alignment, not a newly established critical text.",
+  "checks": [
+    {
+      "chapter": 12,
+      "scope": "Blessed/tribes, seed and soul, calves/mules, Sara spelling and Lot in 12:20."
+    },
+    {
+      "chapter": 13,
+      "scope": "Sand, east/sea directions and kinship wording."
+    },
+    {
+      "chapter": 14,
+      "scope": "Horses in 14:11,16,21; loaves in 14:18; created in 14:19,22; future hand clause in 14:22; 318 and named kings."
+    },
+    {
+      "chapter": 15,
+      "scope": "15:2 difficult household names; 11 sat down; 12 trance; 16 sins; 17 furnace and torches; 18 future grant and listed peoples."
+    },
+    {
+      "chapter": 16,
+      "scope": "16:2 singular address; 5 first-person seeing; 12 wild man and hands; 13–14 seeing expressions remain provisional."
+    },
+    {
+      "chapter": 17,
+      "scope": "Repeated adverb in 17:6; address number in 10–13; eighth day in 14; Sara/Sarah transition in 15; him in 16; nations in 20."
+    },
+    {
+      "chapter": 18,
+      "scope": "Address number in 3–5, speakers in 9–14, knew in 19, difficult passive in 21 and intercession numbers/repetitions."
+    },
+    {
+      "chapter": 19,
+      "scope": "19:14 daughters; 16 plural troubled; 18–19 singular petition; 21 face; repeated Lord in 24; Amman in 38."
+    },
+    {
+      "chapter": 20,
+      "scope": "20:3 death warning; 5 righteousness of hands; 13 future righteousness statement; 14–16 money, face and women; 18 womb wording."
+    },
+    {
+      "chapter": 21,
+      "scope": "21:7 nursing and old age; 9 playing; 14 shoulder wording; 16 child crying; 19 living water; 22 Ahuzzath; 30 future take; 33 field."
+    },
+    {
+      "chapter": 22,
+      "scope": "Beloved, high land, sheep, bound feet, knife/slaughter, 22:13 sabek, 14 seeing name, 17 cities and 21–24 names."
+    },
+    {
+      "chapter": 23,
+      "scope": "Two residence terms, king from God, double cave, four hundred didrachms, land/trees/borders and acquisition statements."
+    },
+    {
+      "chapter": 24,
+      "scope": "Prayer and its retelling, singular/plural address, earrings/weights, speaking in mind, plural brothers, possessions and mother’s house; both narrative accounts retained."
+    },
+    {
+      "chapter": 25,
+      "scope": "Names and ages; greater/lesser in 25:23; aplastos and singular house in 27. The English lexical choice remains provisional."
+    },
+    {
+      "chapter": 26,
+      "scope": "26:1–6 and 12–35, especially barley, farmland, living water, the negative at 32 and Hivite at 34."
+    },
+    {
+      "chapter": 27,
+      "scope": "27:1–28 and 39–40; blessing images and unresolved richness/cast-down syntax."
+    },
+    {
+      "chapter": 28,
+      "scope": "My God, sand, Oulamlous, vow syntax and direct address in 28:22."
+    },
+    {
+      "chapter": 29,
+      "scope": "Harran, repeated mother’s brother, weak eyes, marriage periods and hated."
+    },
+    {
+      "chapter": 30,
+      "scope": "Naming speeches, unmarked/marked in 30:42 and doubled exceedingly in 43. The latter repetition was explicitly restored to the English. Divination/botany remain for review."
+    },
+    {
+      "chapter": 31,
+      "scope": "31:7 ten lambs; 41 ten ewe lambs; 48–54 oath, heap and numbering, including no separate verse 51."
+    },
+    {
+      "chapter": 32,
+      "scope": "32:10–17 prayer, embedded divine quotation and animal counts; 23–31 wrestling, numbness and Form of God."
+    },
+    {
+      "chapter": 33,
+      "scope": "33:17–20 houses/booths, Salem, hundred lambs and altar naming."
+    },
+    {
+      "chapter": 34,
+      "scope": "34:1–4,12–18,25,29–31: Horite, violation, negotiations, named brothers, daughters and household."
+    },
+    {
+      "chapter": 35,
+      "scope": "35:4–6 and 16–25: difficult destruction clause, tower, Rachel’s death, Reuben and existing numbering."
+    },
+    {
+      "chapter": 36,
+      "scope": "36:24 Iamin/Onas; 27 four sons; 39 Arad son of Barad and Matred as son. Names not independently collated across witnesses."
+    },
+    {
+      "chapter": 37,
+      "scope": "37:28 twenty gold pieces and selling sequence; 35 Hades; 36 court titles."
+    },
+    {
+      "chapter": 38,
+      "scope": "38:2 Shua; 12 Hirah as shepherd; 25–26 pledges, recognition and comparison."
+    },
+    {
+      "chapter": 39,
+      "scope": "39:1 court titles; 14 and 17 different reported accusations; 20 fortress/prison."
+    },
+    {
+      "chapter": 40,
+      "scope": "40:5 each dream and shared night; 16 coarse bread; 19 execution wording. Lexical choice remains provisional."
+    },
+    {
+      "chapter": 41,
+      "scope": "41:14 others shave Joseph; 16 difficult negative answer; 44 hand; 45 name and Heliopolis."
+    },
+    {
+      "chapter": 42,
+      "scope": "42:4 sickness; 9–12 tracks; 15–16 Pharaoh’s health."
+    },
+    {
+      "chapter": 43,
+      "scope": "43:14 my God; 28 blessing on father; 34 fivefold portion and drunkenness."
+    },
+    {
+      "chapter": 44,
+      "scope": "44:1–2 plural commands; 5 my cup/my lord; 21 care promise; 30–32 dependent soul and surety."
+    },
+    {
+      "chapter": 45,
+      "scope": "45:7 remnant repetition; 19 command imperative and change of address number; 22–23 gifts and female mules."
+    },
+    {
+      "chapter": 46,
+      "scope": "46:20 extended genealogy and 26–27 stated totals sixty-six, nine and seventy-five."
+    },
+    {
+      "chapter": 47,
+      "scope": "47:5 repeated arrival/speech; 21 enslavement; 22 priestly land exemption; 31 staff."
+    },
+    {
+      "chapter": 48,
+      "scope": "48:7 difficult horse-course/Chabratha; 12 plural bowing; 16 present deliverance; 20 address number and blessing."
+    },
+    {
+      "chapter": 49,
+      "scope": "Running text of all 33 verse labels inspected, especially poetic images and difficult 9–10,12,21–27; repeated blessings in 28 and death in 33. This is not a completed independent syntactic or apparatus review."
+    },
+    {
+      "chapter": 50,
+      "scope": "50:19 belongs to God; 20 feeding; 23 thighs; 24–25 visitation and bones."
+    }
+  ],
+  "source_url_pattern": "https://www.die-bibel.de/en/bible/LXX/GEN.{chapter}",
+  "source_variant_policy": "Distinctive inherited readings retained; no alternative witness substituted silently. New English corrections and preserved uncertainties are recorded in changes.json and chapter notes."
+}
