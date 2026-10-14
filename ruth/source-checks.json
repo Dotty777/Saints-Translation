@@ -1,0 +1,42 @@
+{
+  "book": "Ruth",
+  "date": "2026-10-14",
+  "edition": "Rahlfs–Hanhart 2006; German Bible Society online running text",
+  "authorization": "User authorized provisional continuation with Rahlfs–Hanhart; Göttingen not obtained.",
+  "scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. The publisher’s running text for all four chapters was read, with focused checks recorded separately. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+  "historical_records": "All six existing reference pages and five dagger notes were consulted as historical reference, not proof of fresh complete Greek verification.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "url": "https://www.die-bibel.de/en/bible/LXX/RUT.1",
+      "running_text_read": "1–22",
+      "focus": "1–2, 6, 8–17, 20–22",
+      "decision": "Ordinary address, including Ruth's pledge to Naomi, uses you/your. Blessings addressed to people remain third-person wishes about the Lord. Preserve Abimelech, the repeated field of Moab, bread, womb, hand, Bitter, Sufficient One, and full/empty. Retain the plural they heard in 1:6, Orpah's return and Ruth's following in 1:14, and the positive death shall part wording in 1:17. The word this in 1:9 supplies an English object for the elliptical grant; it introduces no new gift. The hypothetical reading of 1:12 is inherited, and no tonight is added.",
+      "pending": "Independent review of the elliptical blessing in 1:9, the difficult hypothetical construction in 1:12–13, the oath in 1:17, and Sufficient One in 1:20–21; Göttingen and the full apparatus were not obtained."
+    },
+    {
+      "chapter": 2,
+      "url": "https://www.die-bibel.de/en/bible/LXX/RUT.2",
+      "running_text_read": "1–23",
+      "focus": "7–14, 16–17, 20–23",
+      "decision": "Retain morning until evening and no rest even a little in 2:7, affirmative I shall be in 2:13, barley meal in 2:14, and oiphi without an unsupported modern conversion in 2:17. Stay close connects the gleaning instructions in 2:8, 21 and 23. Keep eyes, heart, wings, handmaid/maidservants and the repeated mercy. The doubled be sure in 2:16 preserves the emphatic repeated construction. Lowercase he/his in 2:20 leaves the referent open. Servants in 2:21 and maidens in 2:22 are not homogenized; the past you went and future they shall not meet are retained.",
+      "pending": "Independent review of the carry/cast expressions in 2:16, oiphi, the referent in 2:20 and the encounter expression in 2:22. The existing dagger note for 2:20 remains unchanged."
+    },
+    {
+      "chapter": 3,
+      "url": "https://www.die-bibel.de/en/bible/LXX/RUT.3",
+      "running_text_read": "1–18",
+      "focus": "3–4, 7–18",
+      "decision": "Keep rest, heart, strength, the wing image and repeated next-of-kin language. Preserve go up in 3:3 and went down in 3:6, the drinking/eating order, and what is at his feet without specifying a body part or adding an action to 3:7. The sentence in 3:11 continues into 3:12 with and that. Six measures in 3:15 and 17 does not specify an unstated unit. The inherited he entered the city in 3:15 remains an interpretive choice; the Greek verb does not itself supply a gendered pronoun. Keep Who are you? in 3:16 and the difficult negative matter shall not fall through in 3:18.",
+      "pending": "Independent review of the feet expression, the 3:11–12 construction, the subject of entered in 3:15, the question in 3:16 and the negative idiom in 3:18. Both existing dagger notes remain unchanged."
+    },
+    {
+      "chapter": 4,
+      "url": "https://www.die-bibel.de/en/bible/LXX/RUT.4",
+      "running_text_read": "1–22",
+      "focus": "1, 3–15, 18–22",
+      "decision": "Preserve unnamed one, the field given to Naomi rather than a harmonized sale, uncover your ear, repeated kinship rights, hand, inheritance, seed and raising up the dead man's name. Verse 4:3 makes the inherited relative clause a full English statement without changing ownership or adding a sale. The plural verbs in 4:11 remain attached to Rachel and Leah. Your name and lowercase he in 4:14 preserve the inherited unresolved reading. Retain seven sons, Abimelech, Arran and Salman. Begot follows the accepted Genesis genealogy cadence.",
+      "pending": "Independent review of the legal constructions in 4:3–7, the plural clause and name expression in 4:11, and the verbal subject and your name in 4:14. Both existing dagger notes remain unchanged."
+    }
+  ]
+}

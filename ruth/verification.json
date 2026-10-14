@@ -1,0 +1,562 @@
+{
+  "editorial_review": {
+    "date": "2026-10-14",
+    "status": "All 85 existing English verse units individually read and editorially reviewed; approved as a provisional staging revision.",
+    "chapters": 4,
+    "changed_verse_units": 78,
+    "source_scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. The publisher’s running text for all four chapters was read, with focused checks recorded separately. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "e03fb7bb16a1bcb1bc8b7b76e12f25774b289668a7286a2dbb10e2ae788250bb"
+  },
+  "preflight": [
+    {
+      "chapter": 1,
+      "verse_units": 22,
+      "changed": 20,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 2,
+      "verse_units": 23,
+      "changed": 21,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 3,
+      "verse_units": 18,
+      "changed": 17,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 4,
+      "verse_units": 22,
+      "changed": 20,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_and_daggers_identical": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 2216,
+      "chapter": 1,
+      "modified": "2026-10-14T15:14:06",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "08656ba5d0389ab27d88a2a72241c415bef22e9695617ca42cd1475dd397bb2b"
+    },
+    {
+      "id": 2217,
+      "chapter": 2,
+      "modified": "2026-10-14T15:14:17",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "7d77bc98d2e348e12d36886e54561f6de4b6dbb56738e69d13aca01afbc61b37"
+    },
+    {
+      "id": 2213,
+      "chapter": 3,
+      "modified": "2026-10-14T15:14:28",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "c8851aad134576d04c72047c479cf49c174d0c2ef6f0e4c9554c674590efd0b0"
+    },
+    {
+      "id": 2220,
+      "chapter": 4,
+      "modified": "2026-10-14T15:14:40",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "ee61691c43815bd437051e5da7f79b006eee058128c45d88bc2f966c56d27777"
+    },
+    {
+      "id": 2210,
+      "chapter": 0,
+      "modified": "2026-10-14T15:14:53",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "6dd88547d2c09e38972d638c2664f156e7ab1bded4b23f9065b8cfcab985aa3d"
+    }
+  ],
+  "browser_checks": {
+    "date": "2026-10-14",
+    "chapters": [
+      {
+        "chapter": 1,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ruth/chapter-1/",
+        "verses": [
+          {
+            "id": "v1-1",
+            "text": "1:1When the judges were judging, there was a famine in the land. A man went from Bethlehem of Judah to live for a time in the field of Moab, with his wife and his sons."
+          },
+          {
+            "id": "v1-2",
+            "text": "1:2The man’s name was Abimelech, and his wife’s name was Naomi. His two sons were named Mahlon and Chilion. They were Ephrathites from Bethlehem of Judah. They came into the field of Moab and stayed there."
+          },
+          {
+            "id": "v1-3",
+            "text": "1:3And Abimelech, Naomi's husband, died, and she was left with her two sons."
+          },
+          {
+            "id": "v1-4",
+            "text": "1:4They took Moabite wives for themselves: one was named Orpah, and the second Ruth. They lived there about ten years."
+          },
+          {
+            "id": "v1-5",
+            "text": "1:5And both Mahlon and Chilion also died, and the woman was left bereft of her husband and her two sons."
+          },
+          {
+            "id": "v1-6",
+            "text": "1:6She arose with her two daughters-in-law, and they returned from the field of Moab, for they had heard in the field of Moab that the Lord had visited His people to give them bread."
+          },
+          {
+            "id": "v1-7",
+            "text": "1:7She left the place where she had been, with her two daughters-in-law, and they set out on the road to return to the land of Judah."
+          },
+          {
+            "id": "v1-8",
+            "text": "1:8Naomi said to her daughters-in-law, “Go now, each of you return to her mother’s house. May the Lord show you mercy, as you have shown mercy to the dead and to me."
+          },
+          {
+            "id": "v1-9",
+            "text": "1:9May the Lord grant this to you, and may each of you find rest in the house of her husband.” She kissed them tenderly, and they lifted up their voice and wept."
+          },
+          {
+            "id": "v1-10",
+            "text": "1:10They said to her, “We are returning with you to your people.”"
+          },
+          {
+            "id": "v1-11",
+            "text": "1:11But Naomi said, “Return now, my daughters. Why are you going with me? Do I still have sons in my womb who could become your husbands?"
+          },
+          {
+            "id": "v1-12",
+            "text": "1:12Return now, my daughters, for I have grown too old to have a husband. Even if I said that I had hope of having a husband and would bear sons,"
+          },
+          {
+            "id": "v1-13",
+            "text": "1:13would you wait for them until they were grown? Would you hold yourselves back for them and remain without a husband? No, my daughters; it has become more bitter for me than for you, because the hand of the Lord has gone out against me.”"
+          },
+          {
+            "id": "v1-14",
+            "text": "1:14They lifted up their voice and wept again. Orpah kissed her mother-in-law tenderly and returned to her people, but Ruth followed her."
+          },
+          {
+            "id": "v1-15",
+            "text": "1:15Naomi said to Ruth, “Behold, your sister-in-law has returned to her people and her gods. You too should return after your sister-in-law.”"
+          },
+          {
+            "id": "v1-16",
+            "text": "1:16But Ruth said, “Do not oppose me by making me leave you or turn back from following you, for wherever you go, I will go, and wherever you lodge, I will lodge. Your people are my people, and your God my God."
+          },
+          {
+            "id": "v1-17",
+            "text": "1:17Where you die, I will die, and there I shall be buried. May the Lord do these things to me, and add these things, for death shall part me and you.”"
+          },
+          {
+            "id": "v1-18",
+            "text": "1:18When Naomi saw that Ruth was firmly resolved to go with her, she said no more to her."
+          },
+          {
+            "id": "v1-19",
+            "text": "1:19The two journeyed until they came to Bethlehem. The whole city resounded because of them, and they said, “Is this Naomi?”"
+          },
+          {
+            "id": "v1-20",
+            "text": "1:20She said to them, “Do not call me Naomi; call me Bitter, for the Sufficient One has dealt very bitterly with me."
+          },
+          {
+            "id": "v1-21",
+            "text": "1:21I went out full, and the Lord has brought me back empty. Why do you call me Naomi? The Lord has humbled me, and the Sufficient One has afflicted me.”"
+          },
+          {
+            "id": "v1-22",
+            "text": "1:22So Naomi returned, and Ruth the Moabite, her daughter-in-law, returned from the field of Moab. They came to Bethlehem at the beginning of the barley harvest."
+          }
+        ],
+        "notice": "Bespoke Saints English Translation · Ruth 1\nProvisional English editorial revision · 14 October 2026. Rahlfs–Hanhart 2006. Declared Greek source[1]. Verse labels and unresolved readings are retained. Specialist review remains pending."
+      },
+      {
+        "chapter": 2,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ruth/chapter-2/",
+        "verses": [
+          {
+            "id": "v2-1",
+            "text": "2:1Naomi had an acquaintance of her husband, a man mighty in strength, of the kindred of Abimelech. His name was Boaz."
+          },
+          {
+            "id": "v2-2",
+            "text": "2:2Ruth the Moabite said to Naomi, “Let me go now into a field and glean among the ears of grain after someone in whose eyes I find favour.” She said to her, “Go, daughter.”"
+          },
+          {
+            "id": "v2-3",
+            "text": "2:3And she went and gleaned in the field after the reapers; and by chance she came upon the portion of the field belonging to Boaz, who was of the kindred of Abimelech."
+          },
+          {
+            "id": "v2-4",
+            "text": "2:4And behold, Boaz came from Bethlehem and said to the reapers, “The Lord be with you.” They said to him, “May the Lord bless you.”"
+          },
+          {
+            "id": "v2-5",
+            "text": "2:5Boaz said to his servant who was in charge of the reapers, “Whose young woman is this?”"
+          },
+          {
+            "id": "v2-6",
+            "text": "2:6The servant in charge of the reapers answered, “She is the Moabite girl who returned with Naomi from the field of Moab,"
+          },
+          {
+            "id": "v2-7",
+            "text": "2:7and she said, ‘Let me glean now, and gather among the sheaves after the reapers.’ She came and stood from morning until evening; she did not rest in the field, even a little.”"
+          },
+          {
+            "id": "v2-8",
+            "text": "2:8Boaz said to Ruth, “Have you not heard, daughter? Do not go to glean in another field, and do not leave this one. Stay close here to my maidens."
+          },
+          {
+            "id": "v2-9",
+            "text": "2:9Keep your eyes on the field where they reap, and follow them. Behold, I have commanded the servants not to touch you. Whenever you are thirsty, go to the vessels and drink from where the servants draw water.”"
+          },
+          {
+            "id": "v2-10",
+            "text": "2:10She fell on her face and bowed to the ground, and said to him, “Why have I found favour in your eyes, that you take notice of me, a foreign woman?”"
+          },
+          {
+            "id": "v2-11",
+            "text": "2:11Boaz answered her, “I have been fully told all that you have done for your mother-in-law since your husband’s death: how you left your father and mother and the land of your birth, and came to a people you had not known before."
+          },
+          {
+            "id": "v2-12",
+            "text": "2:12May the Lord repay your work, and may your reward be full from the Lord, the God of Israel, under whose wings you have come to trust."
+          },
+          {
+            "id": "v2-13",
+            "text": "2:13She said, “May I find favour in your eyes, my lord, for you have comforted me and spoken to the heart of your handmaid. And behold, I shall be as one of your maidservants.”"
+          },
+          {
+            "id": "v2-14",
+            "text": "2:14Boaz said to her, “It is time to eat now. Come here, eat some bread, and dip your morsel in the vinegar.” Ruth sat beside the reapers, and Boaz heaped barley meal for her. She ate and was filled, and left some over."
+          },
+          {
+            "id": "v2-15",
+            "text": "2:15She arose to glean, and Boaz commanded his servants, “Let her glean even among the sheaves, and do not put her to shame."
+          },
+          {
+            "id": "v2-16",
+            "text": "2:16Be sure to carry some for her, and be sure to cast some for her from the heaped-up grain. Leave it, and she shall glean, and you shall not rebuke her.”"
+          },
+          {
+            "id": "v2-17",
+            "text": "2:17And she gleaned in the field until evening, and beat out what she had gleaned; and it was about an oiphi of barley."
+          },
+          {
+            "id": "v2-18",
+            "text": "2:18She lifted it up and entered the city, and her mother-in-law saw what she had gleaned. Ruth brought out and gave her what she had left from the food that had filled her."
+          },
+          {
+            "id": "v2-19",
+            "text": "2:19Her mother-in-law said to her, “Where have you gleaned today, and where have you worked? Blessed be the man who took notice of you.” Ruth told her mother-in-law where she had worked, and said, “The name of the man with whom I worked today is Boaz.”"
+          },
+          {
+            "id": "v2-20",
+            "text": "2:20Naomi said to her daughter-in-law, “Blessed is he of the Lord, for he has not forsaken his mercy toward the living and the dead.” And Naomi said to her, “The man is near to us; he is among those who act as our next of kin.” †"
+          },
+          {
+            "id": "v2-21",
+            "text": "2:21Ruth said to her mother-in-law, “He also said to me, ‘Stay close to my servants until they have finished all my harvest.’”"
+          },
+          {
+            "id": "v2-22",
+            "text": "2:22Naomi said to Ruth her daughter-in-law, “It is good, daughter, that you went with his maidens, and they shall not meet you in another field.”"
+          },
+          {
+            "id": "v2-23",
+            "text": "2:23Ruth stayed close to the maidens of Boaz, gleaning until the barley and wheat harvest was over. And she lived with her mother-in-law."
+          }
+        ],
+        "notice": "Bespoke Saints English Translation · Ruth 2\nProvisional English editorial revision · 14 October 2026. Rahlfs–Hanhart 2006. Declared Greek source[1]. Verse labels and unresolved readings are retained. Specialist review remains pending.",
+        "note": ""
+      },
+      {
+        "chapter": 3,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ruth/chapter-3/",
+        "verses": [
+          {
+            "id": "v3-1",
+            "text": "3:1Naomi her mother-in-law said to her, “Daughter, shall I not seek rest for you, so that it may be well with you?"
+          },
+          {
+            "id": "v3-2",
+            "text": "3:2Now, is not Boaz our acquaintance, with whose maidens you were? Behold, he is winnowing the barley on the threshing floor tonight."
+          },
+          {
+            "id": "v3-3",
+            "text": "3:3Wash and anoint yourself, put on your clothes, and go up to the threshing floor. Do not make yourself known to the man until he has finished drinking and eating."
+          },
+          {
+            "id": "v3-4",
+            "text": "3:4When he lies down, note the place where he lies. Go in, uncover what is at his feet, and lie down. He will tell you what to do.”"
+          },
+          {
+            "id": "v3-5",
+            "text": "3:5Ruth said to her, “All that you say I will do.”"
+          },
+          {
+            "id": "v3-6",
+            "text": "3:6She went down to the threshing floor and did all that her mother-in-law had commanded her."
+          },
+          {
+            "id": "v3-7",
+            "text": "3:7Boaz ate, and his heart was glad. He went to lie down at a part of the heap. She came secretly and uncovered what was at his feet."
+          },
+          {
+            "id": "v3-8",
+            "text": "3:8At midnight the man was startled and troubled, and behold, a woman was lying at his feet."
+          },
+          {
+            "id": "v3-9",
+            "text": "3:9He said, “Who are you?” She said, “I am Ruth, your handmaid. Spread the wing of your garment over your handmaid, for you are a near kinsman.”"
+          },
+          {
+            "id": "v3-10",
+            "text": "3:10Boaz said, “Blessed are you of the Lord God, daughter, for you have made your latter mercy greater than the first by not following young men, whether poor or rich."
+          },
+          {
+            "id": "v3-11",
+            "text": "3:11And now, daughter, do not be afraid. I will do for you all that you say, for the whole tribe of my people knows that you are a woman of strength,"
+          },
+          {
+            "id": "v3-12",
+            "text": "3:12and that I truly am a near kinsman. Yet there is a near kinsman nearer than I."
+          },
+          {
+            "id": "v3-13",
+            "text": "3:13Lodge tonight. In the morning, if he will act as your next of kin, good; let him do so. But if he is unwilling to act as your next of kin, I will act as your next of kin, as the Lord lives. Lie down until morning.”"
+          },
+          {
+            "id": "v3-14",
+            "text": "3:14She lay at his feet until morning, and arose before a man could recognise his neighbour. Boaz said, “Let it not be known that a woman came to the threshing floor.”"
+          },
+          {
+            "id": "v3-15",
+            "text": "3:15He said to her, “Bring the wrap you are wearing.” She held it, and he measured six measures of barley and laid it on her; and he entered the city. †"
+          },
+          {
+            "id": "v3-16",
+            "text": "3:16Ruth came in to her mother-in-law, who said, “Who are you, daughter?” She told her all that the man had done for her."
+          },
+          {
+            "id": "v3-17",
+            "text": "3:17She said to her, “He gave me these six measures of barley, for he said to me, ‘Do not go to your mother-in-law empty-handed.’”"
+          },
+          {
+            "id": "v3-18",
+            "text": "3:18She said, “Sit, daughter, until you know how the matter shall not fall through, for the man will surely not rest until he has finished the matter today.” †"
+          }
+        ],
+        "notice": "Bespoke Saints English Translation · Ruth 3\nProvisional English editorial revision · 14 October 2026. Rahlfs–Hanhart 2006. Declared Greek source[1]. Verse labels and unresolved readings are retained. Specialist review remains pending.",
+        "noteIds": [
+          "ruth-note-3-15",
+          "ruth-note-3-18"
+        ],
+        "openedNote": "Ruth 3:18. The matter shall not fall through. The governing Greek includes a negative with the falling expression. The draft keeps the matter shall not fall through. The historical versions describe how the matter will fall or turn out without that negative. Retain the Greek’s polarity while leaving the precise idiom open to further review. ↩ 3:18"
+      },
+      {
+        "chapter": 4,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ruth/chapter-4/",
+        "verses": [
+          {
+            "id": "v4-1",
+            "text": "4:1Boaz went up to the gate and sat there, and behold, the near kinsman he had spoken of was passing by. Boaz said to him, “Turn aside and sit here, unnamed one.” He turned aside and sat down."
+          },
+          {
+            "id": "v4-2",
+            "text": "4:2And he took ten men from the elders of the city, and said, “Sit here.” And they sat down."
+          },
+          {
+            "id": "v4-3",
+            "text": "4:3Boaz said to the near kinsman, “The portion of the field that belongs to our brother Abimelech has been given to Naomi, who is returning from the field of Moab."
+          },
+          {
+            "id": "v4-4",
+            "text": "4:4I said, ‘I will uncover your ear,’ saying, ‘Acquire it before those who sit here and before the elders of my people.’ If you will act as next of kin, do so; but if you will not act as next of kin, tell me, and I shall know. There is no one besides you to act as next of kin, and I come after you.” He said, “I am he; I will act as next of kin.”"
+          },
+          {
+            "id": "v4-5",
+            "text": "4:5Boaz said, “On the day you acquire the field from the hand of Naomi and from Ruth the Moabite, the wife of the dead man, you must also acquire her herself, to raise up the name of the dead upon his inheritance.”"
+          },
+          {
+            "id": "v4-6",
+            "text": "4:6The near kinsman said, “I shall not be able to act as next of kin for myself, lest I destroy my inheritance. Exercise my right as next of kin for yourself, for I shall not be able to do it.”"
+          },
+          {
+            "id": "v4-7",
+            "text": "4:7This was formerly the ordinance in Israel concerning the right of next of kin and exchange, to establish every matter: a man removed his sandal and gave it to his neighbour who was exercising his kinship right. This was testimony in Israel."
+          },
+          {
+            "id": "v4-8",
+            "text": "4:8The near kinsman said to Boaz, “Acquire my kinship right for yourself.” He removed his sandal and gave it to him."
+          },
+          {
+            "id": "v4-9",
+            "text": "4:9Boaz said to the elders and all the people, “You are witnesses today that I have acquired from the hand of Naomi all that belongs to Abimelech, and all that belongs to Chilion and Mahlon."
+          },
+          {
+            "id": "v4-10",
+            "text": "4:10I have also acquired Ruth the Moabite, the wife of Mahlon, as my wife, to raise up the name of the dead upon his inheritance. The name of the dead shall not be destroyed from among his brothers and from the tribe of his people. You are witnesses today.”"
+          },
+          {
+            "id": "v4-11",
+            "text": "4:11All the people at the gate said, “We are witnesses.” And the elders said, “May the Lord make your wife, who is entering your house, like Rachel and Leah, who together built the house of Israel and established strength in Ephrathah; and there shall be a name in Bethlehem. †"
+          },
+          {
+            "id": "v4-12",
+            "text": "4:12May your house be like the house of Perez, whom Tamar bore to Judah, through the seed which the Lord shall give you from this young woman.”"
+          },
+          {
+            "id": "v4-13",
+            "text": "4:13Boaz took Ruth, and she became his wife. He went in to her, and the Lord gave her conception, and she bore a son."
+          },
+          {
+            "id": "v4-14",
+            "text": "4:14The women said to Naomi, “Blessed be the Lord, who has not left you without the near kinsman today; and may he call your name in Israel. †"
+          },
+          {
+            "id": "v4-15",
+            "text": "4:15He shall be a restorer of life to you and a nourisher of your old age, for your daughter-in-law who loved you has borne him, and she is better to you than seven sons.”"
+          },
+          {
+            "id": "v4-16",
+            "text": "4:16And Naomi took the child and laid him in her bosom, and became his nurse."
+          },
+          {
+            "id": "v4-17",
+            "text": "4:17The neighbouring women gave him a name, saying, “A son is born to Naomi.” They called his name Obed. He was the father of Jesse, the father of David."
+          },
+          {
+            "id": "v4-18",
+            "text": "4:18Now these are the generations of Perez: Perez begot Hezron,"
+          },
+          {
+            "id": "v4-19",
+            "text": "4:19and Hezron begot Arran, and Arran begot Amminadab,"
+          },
+          {
+            "id": "v4-20",
+            "text": "4:20and Amminadab begot Nahshon, and Nahshon begot Salman,"
+          },
+          {
+            "id": "v4-21",
+            "text": "4:21and Salman begot Boaz, and Boaz begot Obed,"
+          },
+          {
+            "id": "v4-22",
+            "text": "4:22and Obed begot Jesse, and Jesse begot David."
+          }
+        ],
+        "notice": "Bespoke Saints English Translation · Ruth 4\nProvisional English editorial revision · 14 October 2026. Rahlfs–Hanhart 2006. Declared Greek source[1]. Verse labels and unresolved readings are retained. Specialist review remains pending.",
+        "nextLink": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/1-samuel/chapter-1/",
+        "noteIds": [
+          "ruth-note-4-11",
+          "ruth-note-4-14"
+        ]
+      }
+    ],
+    "index": {
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ruth/",
+      "notice": "Bespoke Saints English Translation\n\nAll 4 chapters, containing 85 verse units, have received the Bespoke English editorial pass. 78 verse units have revised wording; 7 retain their wording. All verse labels and the 5 existing dagger notes are preserved.\n\nThe newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy address God directly; ordinary address uses you/your.\n\nRahlfs–Hanhart 2006 remains the user-authorized provisional base. The publisher’s running text for all four chapters was read, with focused checks recorded separately. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.\n\nDistinctive names, numbers, imagery and unresolved readings remain visible. Notes are separated from Scripture. Saints Translation literal-smooth and the six study/comparison pages retain their existing wording and earlier review records."
+    },
+    "chapter_selector_exercised": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "dagger_note_opened": "Ruth 3:18",
+    "all_85_rendered_verse_texts_match": true,
+    "normalization": "Whitespace and WordPress apostrophe typography only; visible verse numbers and preserved dagger marks excluded."
+  },
+  "comparison_checks": [
+    {
+      "id": 2225,
+      "title": "Ruth — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ruth/editorial-guide/",
+      "before_content_hash": "3b886b480079909bed5be9db91a15d2f7f2fffc5",
+      "after_content_hash": "3b886b480079909bed5be9db91a15d2f7f2fffc5",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3798,
+      "title": "Ruth — Hebrew and Greek compared",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ruth/comparison-edition/",
+      "before_content_hash": "787523a2c85ca896a62a46aee7622d350b6ea9a9",
+      "after_content_hash": "787523a2c85ca896a62a46aee7622d350b6ea9a9",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 18882,
+      "title": "Ruth — Disparate Study",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ruth/disparate-study/",
+      "before_content_hash": "f640f4c25043a04fc708be1748079b77e0a664ed",
+      "after_content_hash": "f640f4c25043a04fc708be1748079b77e0a664ed",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20690,
+      "title": "Ruth — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ruth/vulgate-comparison/",
+      "before_content_hash": "28f8359296822673bd18706033e7a0feda99b52d",
+      "after_content_hash": "28f8359296822673bd18706033e7a0feda99b52d",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20691,
+      "title": "Ruth — King James Bible and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ruth/kjv-comparison/",
+      "before_content_hash": "db1b32c3725f4d101d747326604e49d54d2de5de",
+      "after_content_hash": "db1b32c3725f4d101d747326604e49d54d2de5de",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 23639,
+      "title": "Ruth — Study Edition",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ruth/study/",
+      "before_content_hash": "a84d122a015784b243dc1b627063f60516c80262",
+      "after_content_hash": "a84d122a015784b243dc1b627063f60516c80262",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "all_85_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_note_links_resolve": true,
+    "all_5_existing_notes_preserved": true
+  },
+  "backup_scope": "Complete original content for all five edited pages and all six reference pages, plus six reference hash snapshots. Book archive, not a full-site backup."
+}
