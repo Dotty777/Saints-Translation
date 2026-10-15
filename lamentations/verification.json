@@ -1,0 +1,1293 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 150 existing English verse units individually read and editorially reviewed; approved as a provisional staging revision.",
+    "chapters": 5,
+    "reading_sections": 5,
+    "changed_verse_units": 53,
+    "source_scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "68721816e1f1832f515de59a37e450f4216993d75c3c3af4a7890014dae76a2d"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 22,
+      "changed": 13,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 22,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 62,
+      "changed": 18,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 22,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 5,
+      "chapter": 5,
+      "verse_units": 22,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 2778,
+      "chapter": 1,
+      "modified": "2026-10-14T22:35:44",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "aa82b500747b676e3fb74c1ad637bde11cb134e18d8ef76e716be04b59ad4acc"
+    },
+    {
+      "id": 2780,
+      "chapter": 2,
+      "modified": "2026-10-14T22:35:50",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "de2e5db9446f93e80611254792c242cf095e42b3bdaaa864c3afe16b8d862275"
+    },
+    {
+      "id": 2783,
+      "chapter": 3,
+      "modified": "2026-10-14T22:35:55",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "472e82cd50e211ab9c9798f551f097cc0e82f3db15dbc595d09d19a53df2403c"
+    },
+    {
+      "id": 2786,
+      "chapter": 4,
+      "modified": "2026-10-14T22:36:34",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "b9a2aa7137b95b8e3afd33cbbb923e177e2c2f2108dd15247d9b7766a2412402"
+    },
+    {
+      "id": 2792,
+      "chapter": 5,
+      "modified": "2026-10-14T22:36:39",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "3d9c8bdda63e89b33a21b648eda5aaae49c958a26fb513cd931a57a6077edec7"
+    },
+    {
+      "id": 2769,
+      "chapter": 0,
+      "modified": "2026-10-14T22:36:45",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "3c8be8bcec350661348ee42283b7cb67013841a96d999ac299903e94040e2ceb"
+    }
+  ],
+  "browser_checks": {
+    "chapters": [
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-8/",
+            "label": "Previous chapter, Song of Songs 8",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-2/",
+            "label": "Next chapter, Lamentations 2",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-8/",
+            "text": "← Song of Songs 8"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/",
+            "text": "Lamentations: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-2/",
+            "text": "Lamentations 2 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/lamentations/1/",
+            "text": "All 510 cross-references for Lamentations 1, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v1-1",
+            "text": "1:1After Israel was taken captive and Jerusalem laid waste, Jeremiah sat weeping and lamented this lament over Jerusalem, saying:\nHow the city once full of peoples sat alone!\nShe has become like a widow, she who was populous among the nations.\nA ruler among the regions has become subject to tribute."
+          },
+          {
+            "id": "v1-2",
+            "text": "1:2 Weeping, she wept in the night, her tears upon her cheeks.\nAmong all those who love her there is no one to comfort her.\nAll her friends have dealt faithlessly with her; they have become her enemies."
+          },
+          {
+            "id": "v1-3",
+            "text": "1:3 Judea was deported because of her humiliation and her great slavery.\nShe dwelt among the nations; she found no rest.\nAll her pursuers overtook her among those who afflicted her."
+          },
+          {
+            "id": "v1-4",
+            "text": "1:4Zion’s roads mourn because no one comes at the festival.\nAll her gates are destroyed; her priests groan.\nHer virgins are led away, and she is embittered within herself."
+          },
+          {
+            "id": "v1-5",
+            "text": "1:5 Those afflicting her have become the head, and her enemies prospered,\nbecause the Lord humbled her for her many acts of ungodliness.\nHer infants went into captivity before the oppressor."
+          },
+          {
+            "id": "v1-6",
+            "text": "1:6All her beauty has departed from Daughter Zion.\nHer rulers have become like rams finding no pasture;\nthey went without strength before the pursuer."
+          },
+          {
+            "id": "v1-7",
+            "text": "1:7 Jerusalem remembered the days of her humiliation and rejection,\nall her desired things from ancient days.\nWhen her people fell into the oppressor’s hands and no one helped her,\nher enemies saw her and laughed at her deportation."
+          },
+          {
+            "id": "v1-8",
+            "text": "1:8Jerusalem has sinned grievously; therefore she has come into upheaval.\nAll who glorified her humbled her, for they saw her shame.\nShe too groaned and turned backward."
+          },
+          {
+            "id": "v1-9",
+            "text": "1:9Her uncleanness is at her feet; she did not remember her last things.\nHe brought her down exceedingly; there is no one to comfort her.\nSee, Lord, my humiliation, for the enemy has grown great!"
+          },
+          {
+            "id": "v1-10",
+            "text": "1:10 The oppressor spread out his hand over all her desired things.\nShe saw nations enter her sanctuary,\nthose whom Thou didst command not to enter Thine assembly."
+          },
+          {
+            "id": "v1-11",
+            "text": "1:11 All her people groan, seeking bread.\nThey gave her desired things for food to restore life.\nSee, Lord, and behold, for I have become dishonored!"
+          },
+          {
+            "id": "v1-12",
+            "text": "1:12 Not to you, all who pass along the road!\nTurn and see whether there is pain like my pain, which came to be.\nSpeaking against me, the Lord humbled me on the day of His furious anger."
+          },
+          {
+            "id": "v1-13",
+            "text": "1:13From His height He sent fire; He brought it down into my bones.\nHe spread a net for my feet; He turned me backward.\nHe made me desolate, suffering pain all day long."
+          },
+          {
+            "id": "v1-14",
+            "text": "1:14A watch was kept over my acts of ungodliness;\nthey were intertwined in my hands and rose upon my neck.\nMy strength weakened, because the Lord put pains into my hands; I will not be able to stand."
+          },
+          {
+            "id": "v1-15",
+            "text": "1:15 The Lord removed all my strong men from my midst.\nHe called a time against me to crush my chosen men.\nThe Lord trod a winepress for the virgin Daughter Judah; for these things I weep."
+          },
+          {
+            "id": "v1-16",
+            "text": "1:16My eye brought down water,\nfor the one who comforts me, who restores my life, is far from me.\nMy sons have been destroyed, for the enemy has grown strong."
+          },
+          {
+            "id": "v1-17",
+            "text": "1:17Zion spread out her hands; there is no one to comfort her.\nThe Lord commanded concerning Jacob; around him are those who afflict him.\nJerusalem has become like a woman sitting apart among them."
+          },
+          {
+            "id": "v1-18",
+            "text": "1:18The Lord is righteous, for I embittered His mouth.\nHear now, all you peoples, and see my pain.\nMy virgins and my young men went into captivity."
+          },
+          {
+            "id": "v1-19",
+            "text": "1:19I called my lovers, but they deceived me.\nMy priests and my elders failed in the city,\nfor they sought food for themselves to restore their lives, and found none."
+          },
+          {
+            "id": "v1-20",
+            "text": "1:20See, Lord, how I am afflicted! My belly is troubled,\nand my heart has turned within me, for I have bitterly provoked.\nOutside the sword bereaved me, like death in the house."
+          },
+          {
+            "id": "v1-21",
+            "text": "1:21Hear now that I groan; there is no one to comfort me.\nAll my enemies heard of my calamities and rejoiced because Thou didst do it.\nThou didst bring a day, Thou didst call a time, and they became like me."
+          },
+          {
+            "id": "v1-22",
+            "text": "1:22 May all their wickedness come before Thee,\nand glean them as they made a gleaning for all my sins;\nfor my groans are many and my heart is grieved."
+          }
+        ],
+        "chapter": 1,
+        "section": 1,
+        "page_id": 2778,
+        "title": "Lamentations 1",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-1/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 5,
+        "selected_chapter": "Lamentations 1"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-1/",
+            "label": "Previous chapter, Lamentations 1",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-3/",
+            "label": "Next chapter, Lamentations 3",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-1/",
+            "text": "← Lamentations 1"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/",
+            "text": "Lamentations: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-3/",
+            "text": "Lamentations 3 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/lamentations/2/",
+            "text": "All 419 cross-references for Lamentations 2, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v2-1",
+            "text": "2:1How the Lord has darkened Daughter Zion in His anger!\nHe hurled Israel’s glory from heaven to earth\nand did not remember His footstool on the day of His anger."
+          },
+          {
+            "id": "v2-2",
+            "text": "2:2 The Lord drowned without sparing all Jacob’s beautiful things.\nIn His fury He brought down Daughter Judah’s strongholds;\nHe pressed them to the earth and profaned her king and her rulers."
+          },
+          {
+            "id": "v2-3",
+            "text": "2:3 In His furious anger He broke every horn of Israel.\nHe turned back His right hand before the enemy\nand kindled a flame in Jacob like fire, consuming everything around."
+          },
+          {
+            "id": "v2-4",
+            "text": "2:4He drew His bow like an enemy and made His right hand firm like an opponent.\nHe killed everything desired by my eyes in Daughter Zion’s tent;\nHe poured out His fury like fire."
+          },
+          {
+            "id": "v2-5",
+            "text": "2:5 The Lord became like an enemy; He drowned Israel.\nHe drowned all her citadels and destroyed his strongholds;\nHe multiplied humiliation and abasement for Daughter Judah."
+          },
+          {
+            "id": "v2-6",
+            "text": "2:6 He spread out His dwelling like a vine and destroyed His festival.\nThe Lord forgot what He had made in Zion of festival and Sabbath;\nin His angry indignation He provoked king, priest and ruler."
+          },
+          {
+            "id": "v2-7",
+            "text": "2:7 The Lord rejected His altar and shook off His sanctuary.\nHe shattered the wall of her citadels in the enemy’s hand.\nThey raised a shout in the Lord’s house as on a festival day."
+          },
+          {
+            "id": "v2-8",
+            "text": "2:8 The Lord turned to destroy Daughter Zion’s wall.\nHe stretched out a measure; He did not withdraw His hand from trampling.\nThe outer defense mourned, and the wall weakened together with it."
+          },
+          {
+            "id": "v2-9",
+            "text": "2:9 Her gates were fixed in the earth; He destroyed and broke her bars.\nHer king and her rulers are among the nations.\nThere is no law; even her prophets saw no vision from the Lord."
+          },
+          {
+            "id": "v2-10",
+            "text": "2:10 Daughter Zion’s elders sat on the ground in silence.\nThey put dust on their heads and girded themselves with sackcloth.\nThey brought the leading virgins in Jerusalem down to the ground."
+          },
+          {
+            "id": "v2-11",
+            "text": "2:11My eyes failed with tears; my heart was troubled.\nMy glory was poured onto the ground at the shattering of the daughter of my people,\nas infant and nursing child failed in the city’s squares."
+          },
+          {
+            "id": "v2-12",
+            "text": "2:12They said to their mothers, “Where are grain and wine?”\nThey weakened like the wounded in the city’s squares,\nand their lives poured out into their mothers’ bosoms."
+          },
+          {
+            "id": "v2-13",
+            "text": "2:13What can I testify to you, or what can I liken to you, Daughter Jerusalem?\nWho will save you and comfort you, virgin Daughter Zion?\nFor the cup of your crushing has grown great; who will heal you?"
+          },
+          {
+            "id": "v2-14",
+            "text": "2:14Your prophets saw futile things and folly for you.\nThey did not uncover your injustice to turn back your captivity;\nthey saw for you futile pronouncements and expulsions."
+          },
+          {
+            "id": "v2-15",
+            "text": "2:15All who pass along the road clapped their hands at you.\nThey hissed and shook their heads at Daughter Jerusalem:\n“Is this the city they will call a crown of glory, the gladness of all the earth?”"
+          },
+          {
+            "id": "v2-16",
+            "text": "2:16All your enemies opened their mouths against you.\nThey hissed and gnashed their teeth; they said, “We have swallowed her!\nIndeed, this is the day we expected; we found it, we saw it!”"
+          },
+          {
+            "id": "v2-17",
+            "text": "2:17The Lord did what He intended; He fulfilled His words,\nwhich He commanded from ancient days. He brought down without sparing;\nHe made the enemy rejoice over you and exalted your oppressor’s horn."
+          },
+          {
+            "id": "v2-18",
+            "text": "2:18Their heart cried to the Lord:\nWalls of Zion, bring down tears like torrents day and night!\nGive yourself no sobering pause; daughter, may your eye not fall silent."
+          },
+          {
+            "id": "v2-19",
+            "text": "2:19Rise, exult in the night at the beginning of your watch!\nPour out your heart like water before the Lord.\nLift your hands to Him for the lives of your infants,\nwho weaken with hunger at the head of every way out."
+          },
+          {
+            "id": "v2-20",
+            "text": "2:20 See, Lord, and look: whom hast Thou gleaned in this way?\nWill women eat the fruit of their womb?\nA butcher made a gleaning; will infants nursing at breasts be murdered?\nWilt Thou kill priest and prophet in the Lord’s sanctuary?"
+          },
+          {
+            "id": "v2-21",
+            "text": "2:21 Child and elder lay at the way out.\nMy virgins and my young men went into captivity.\nWith sword and famine Thou didst kill; on the day of Thine anger Thou didst slaughter without sparing."
+          },
+          {
+            "id": "v2-22",
+            "text": "2:22He called a festival day of my sojourning from all around.\nOn the day of the Lord’s anger there was neither one rescued nor one left,\nas I prevailed and multiplied all my enemies."
+          }
+        ],
+        "chapter": 2,
+        "section": 2,
+        "page_id": 2780,
+        "title": "Lamentations 2",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-2/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 5,
+        "selected_chapter": "Lamentations 2"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-2/",
+            "label": "Previous chapter, Lamentations 2",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-4/",
+            "label": "Next chapter, Lamentations 4",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-2/",
+            "text": "← Lamentations 2"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/",
+            "text": "Lamentations: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-4/",
+            "text": "Lamentations 4 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/lamentations/3/",
+            "text": "All 553 cross-references for Lamentations 3, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v3-1",
+            "text": "3:1I am the man who sees poverty under the rod of His fury against me."
+          },
+          {
+            "id": "v3-2",
+            "text": "3:2 He took me and led me away into darkness, not light."
+          },
+          {
+            "id": "v3-3",
+            "text": "3:3 Indeed, against me He turned His hand all day."
+          },
+          {
+            "id": "v3-4",
+            "text": "3:4 He made my flesh and my skin old; He shattered my bones."
+          },
+          {
+            "id": "v3-5",
+            "text": "3:5 He built against me, surrounded my head and toiled."
+          },
+          {
+            "id": "v3-6",
+            "text": "3:6 He made me dwell in dark places like the dead of ages."
+          },
+          {
+            "id": "v3-7",
+            "text": "3:7 He built against me, and I will not go out; He made my bronze heavy."
+          },
+          {
+            "id": "v3-8",
+            "text": "3:8Indeed, I will cry and call out; He blocked my prayer."
+          },
+          {
+            "id": "v3-9",
+            "text": "3:9 He built up my roads, blocked my paths and troubled them."
+          },
+          {
+            "id": "v3-10",
+            "text": "3:10 He is a bear lying in wait for me, a lion in hidden places."
+          },
+          {
+            "id": "v3-11",
+            "text": "3:11He pursued me when I turned away and brought me to a stop; He made me desolate."
+          },
+          {
+            "id": "v3-12",
+            "text": "3:12 He drew His bow and fixed me as a target for a missile."
+          },
+          {
+            "id": "v3-13",
+            "text": "3:13 He drove the arrows of His quiver into my kidneys."
+          },
+          {
+            "id": "v3-14",
+            "text": "3:14 I became a laughingstock to all my people, their psalm all day."
+          },
+          {
+            "id": "v3-15",
+            "text": "3:15 He filled me with bitterness and made me drunk with gall."
+          },
+          {
+            "id": "v3-16",
+            "text": "3:16 He knocked out my teeth with a pebble and fed me ashes."
+          },
+          {
+            "id": "v3-17",
+            "text": "3:17 He drove my soul away from peace; I forgot good things."
+          },
+          {
+            "id": "v3-18",
+            "text": "3:18I said, “My victory has perished, and my hope from the Lord.”"
+          },
+          {
+            "id": "v3-19",
+            "text": "3:19 I remembered, from my poverty and my persecution, my bitterness and gall."
+          },
+          {
+            "id": "v3-20",
+            "text": "3:20 My soul will remember and brood over me."
+          },
+          {
+            "id": "v3-21",
+            "text": "3:21I will set this in my heart; therefore I will endure."
+          },
+          {
+            "id": "v3-25",
+            "text": "3:25 The Lord is good to those who wait for Him, to the soul that will seek Him as good"
+          },
+          {
+            "id": "v3-26",
+            "text": "3:26 and will endure and be quiet for the Lord’s salvation."
+          },
+          {
+            "id": "v3-27",
+            "text": "3:27It is good for a man when he takes up a yoke in his youth."
+          },
+          {
+            "id": "v3-28",
+            "text": "3:28He will sit alone and be silent, because he has taken it upon himself."
+          },
+          {
+            "id": "v3-30",
+            "text": "3:30 He will give his cheek to the one striking him; he will be filled with reproaches."
+          },
+          {
+            "id": "v3-31",
+            "text": "3:31 For the Lord will not reject for ever."
+          },
+          {
+            "id": "v3-32",
+            "text": "3:32 For the One who humbled will have compassion according to His abundant mercy."
+          },
+          {
+            "id": "v3-33",
+            "text": "3:33 For He did not answer from His heart, and He humbled human beings."
+          },
+          {
+            "id": "v3-34",
+            "text": "3:34 To humble under one’s feet all the prisoners of the earth,"
+          },
+          {
+            "id": "v3-35",
+            "text": "3:35 to turn aside a man’s judgment before the face of the Most High,"
+          },
+          {
+            "id": "v3-36",
+            "text": "3:36 to condemn a person when he is judged—the Lord did not say to do this."
+          },
+          {
+            "id": "v3-37",
+            "text": "3:37 Who spoke in this way and it came to be? The Lord did not command,"
+          },
+          {
+            "id": "v3-38",
+            "text": "3:38will not calamities and good come from the mouth of the Most High?"
+          },
+          {
+            "id": "v3-39",
+            "text": "3:39 Why should a living person grumble, a man concerning his sin?"
+          },
+          {
+            "id": "v3-40",
+            "text": "3:40 Our way was searched and examined; let us return to the Lord."
+          },
+          {
+            "id": "v3-41",
+            "text": "3:41 Let us lift our hearts upon our hands to the Exalted One in heaven."
+          },
+          {
+            "id": "v3-42",
+            "text": "3:42We have sinned and acted godlessly, and Thou wast not propitiated."
+          },
+          {
+            "id": "v3-43",
+            "text": "3:43 Thou didst cover Thyself with fury and drive us away; Thou didst kill without sparing."
+          },
+          {
+            "id": "v3-44",
+            "text": "3:44 Thou didst spread a cloud over Thyself because of prayer,"
+          },
+          {
+            "id": "v3-45",
+            "text": "3:45to close my eyes; Thou didst place us to be rejected among the peoples."
+          },
+          {
+            "id": "v3-46",
+            "text": "3:46 All our enemies opened their mouths against us."
+          },
+          {
+            "id": "v3-47",
+            "text": "3:47 Fear and fury have come upon us, exaltation and crushing."
+          },
+          {
+            "id": "v3-48",
+            "text": "3:48My eye will bring down outpourings of water at the shattering of the daughter of my people."
+          },
+          {
+            "id": "v3-49",
+            "text": "3:49My eye was swallowed up, and I will not be silent, for there is no recovery,"
+          },
+          {
+            "id": "v3-50",
+            "text": "3:50until the Lord bends down and sees from heaven."
+          },
+          {
+            "id": "v3-51",
+            "text": "3:51My eye will glean my soul beyond all the daughters of a city."
+          },
+          {
+            "id": "v3-52",
+            "text": "3:52My enemies hunted and hunted me like a sparrow without cause."
+          },
+          {
+            "id": "v3-53",
+            "text": "3:53 They put my life to death in a pit and laid a stone upon me."
+          },
+          {
+            "id": "v3-54",
+            "text": "3:54Water overflowed my head; I said, “I have been rejected.”"
+          },
+          {
+            "id": "v3-55",
+            "text": "3:55 I called upon Thy name, Lord, from the lowest pit."
+          },
+          {
+            "id": "v3-56",
+            "text": "3:56Thou didst hear my voice: “Do not hide Thine ears from my supplication.”"
+          },
+          {
+            "id": "v3-57",
+            "text": "3:57Thou didst draw near to help me on the day I called Thee; Thou didst say to me, “Do not fear.”"
+          },
+          {
+            "id": "v3-58",
+            "text": "3:58 Thou didst judge the cases of my soul, Lord; Thou didst redeem my life."
+          },
+          {
+            "id": "v3-59",
+            "text": "3:59 Thou didst see my troubles, Lord; Thou didst judge my case."
+          },
+          {
+            "id": "v3-60",
+            "text": "3:60 Thou didst see all their vengeance in all their reasonings against me."
+          },
+          {
+            "id": "v3-61",
+            "text": "3:61 Thou didst hear their reproach, all their reasonings against me,"
+          },
+          {
+            "id": "v3-62",
+            "text": "3:62 the lips of those rising against me and their meditations against me all day,"
+          },
+          {
+            "id": "v3-63",
+            "text": "3:63 their sitting and their rising; look upon their eyes."
+          },
+          {
+            "id": "v3-64",
+            "text": "3:64 Thou wilt repay them a recompense, Lord, according to the works of their hands."
+          },
+          {
+            "id": "v3-65",
+            "text": "3:65 Thou wilt give them a shielding of heart, Thy toil for them."
+          },
+          {
+            "id": "v3-66",
+            "text": "3:66 Thou wilt pursue in anger and consume them from beneath heaven, Lord."
+          }
+        ],
+        "chapter": 3,
+        "section": 3,
+        "page_id": 2783,
+        "title": "Lamentations 3",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-3/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 5,
+        "selected_chapter": "Lamentations 3"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-3/",
+            "label": "Previous chapter, Lamentations 3",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-5/",
+            "label": "Next chapter, Lamentations 5",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-3/",
+            "text": "← Lamentations 3"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/",
+            "text": "Lamentations: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-5/",
+            "text": "Lamentations 5 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/lamentations/4/",
+            "text": "All 254 cross-references for Lamentations 4, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v4-1",
+            "text": "4:1 How the gold will grow dim, how the good silver will change!\nHoly stones were poured out at the head of every way out."
+          },
+          {
+            "id": "v4-2",
+            "text": "4:2 Zion’s precious sons, exalted in gold—\nhow they were regarded as earthen vessels, works of a potter’s hands!"
+          },
+          {
+            "id": "v4-3",
+            "text": "4:3 Even dragons bared breasts, and their young suckled;\nthe daughters of my people have become incurable, like a sparrow in the wilderness."
+          },
+          {
+            "id": "v4-4",
+            "text": "4:4 The nursing child’s tongue clung to its throat with thirst.\nInfants asked for bread; there is no one to break it for them."
+          },
+          {
+            "id": "v4-5",
+            "text": "4:5 Those who ate luxuries were destroyed at the ways out;\nthose nursed upon scarlet wrapped themselves in dung heaps."
+          },
+          {
+            "id": "v4-6",
+            "text": "4:6 The lawlessness of the daughter of my people became greater than Sodom’s lawlessness,\nwhich was overthrown as in haste, and they did not labor their hands upon it."
+          },
+          {
+            "id": "v4-7",
+            "text": "4:7Her Nazirites were made purer than snow and shone beyond milk;\nthey glowed red beyond sapphire stones in their cut portion."
+          },
+          {
+            "id": "v4-8",
+            "text": "4:8 Their appearance grew darker than soot; they were unrecognized at the ways out.\nTheir skin clung to their bones; they dried up and became like wood."
+          },
+          {
+            "id": "v4-9",
+            "text": "4:9 Those wounded by the sword were better off than those wounded by famine;\nthey went away pierced through, deprived of the fields’ produce."
+          },
+          {
+            "id": "v4-10",
+            "text": "4:10 The hands of compassionate women boiled their children;\nthey became food for them at the shattering of the daughter of my people."
+          },
+          {
+            "id": "v4-11",
+            "text": "4:11 The Lord completed His fury and poured out His furious anger.\nHe kindled a fire in Zion, and it consumed her foundations."
+          },
+          {
+            "id": "v4-12",
+            "text": "4:12 The kings of the earth, all who dwell in the inhabited world, did not believe\nthat enemy and oppressor would enter through Jerusalem’s gates."
+          },
+          {
+            "id": "v4-13",
+            "text": "4:13 It was because of her prophets’ sins and her priests’ injustices,\nthose who shed righteous blood in her midst."
+          },
+          {
+            "id": "v4-14",
+            "text": "4:14 Her watchmen were shaken at the ways out, polluted with blood;\nwhen they were unable, they touched their garments."
+          },
+          {
+            "id": "v4-15",
+            "text": "4:15Keep away from unclean people—call them—keep away, keep away! Do not touch,\nfor they were set aflame and shaken. Say among the nations, “They will sojourn no longer.”"
+          },
+          {
+            "id": "v4-16",
+            "text": "4:16 The Lord’s face is their portion; He will look upon them no longer.\nThey showed no respect to priests and no mercy to elders."
+          },
+          {
+            "id": "v4-17",
+            "text": "4:17While we still existed, our eyes failed, looking vainly for our help.\nKeeping watch, we watched for a nation that does not save."
+          },
+          {
+            "id": "v4-18",
+            "text": "4:18We hunted our little ones so they would not walk in our squares.\nOur time has drawn near, our days were fulfilled, our time is here."
+          },
+          {
+            "id": "v4-19",
+            "text": "4:19 Those pursuing us became swifter than the eagles of heaven.\nThey were kindled upon the mountains and lay in wait for us in the wilderness."
+          },
+          {
+            "id": "v4-20",
+            "text": "4:20The spirit of our face, the Lord’s anointed, was seized in their destructions,\nof whom we said, “In his shadow we will live among the nations.”"
+          },
+          {
+            "id": "v4-21",
+            "text": "4:21Rejoice and be glad, daughter of Idumea, dwelling upon the land!\nTo you too the Lord’s cup will pass; you will become drunk and pour it out."
+          },
+          {
+            "id": "v4-22",
+            "text": "4:22Your lawlessness has ended, Daughter Zion; He will deport you no longer.\nHe has visited your acts of lawlessness, Daughter Edom; He has uncovered your acts of ungodliness."
+          }
+        ],
+        "chapter": 4,
+        "section": 4,
+        "page_id": 2786,
+        "title": "Lamentations 4",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-4/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 5,
+        "selected_chapter": "Lamentations 4"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-4/",
+            "label": "Previous chapter, Lamentations 4",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-1/",
+            "label": "Next chapter, Wisdom of Solomon 1",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-4/",
+            "text": "← Lamentations 4"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/",
+            "text": "Lamentations: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-1/",
+            "text": "Wisdom of Solomon 1 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/lamentations/5/",
+            "text": "All 236 cross-references for Lamentations 5, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v5-1",
+            "text": "5:1Remember, Lord, what has happened to us;\nlook and see our reproach."
+          },
+          {
+            "id": "v5-2",
+            "text": "5:2Our inheritance has passed to outsiders,\nour houses to strangers."
+          },
+          {
+            "id": "v5-3",
+            "text": "5:3 We have become orphans; there is no father;\nour mothers are like widows."
+          },
+          {
+            "id": "v5-4",
+            "text": "5:4 From our days, our wood came in exchange."
+          },
+          {
+            "id": "v5-5",
+            "text": "5:5 We were pursued at our neck;\nwe toiled and did not rest."
+          },
+          {
+            "id": "v5-6",
+            "text": "5:6 Egypt gave a hand,\nAssyria for their satisfaction."
+          },
+          {
+            "id": "v5-7",
+            "text": "5:7 Our fathers sinned and no longer exist;\nwe bore their lawless acts."
+          },
+          {
+            "id": "v5-8",
+            "text": "5:8 Slaves ruled over us;\nthere is no one to redeem us from their hand."
+          },
+          {
+            "id": "v5-9",
+            "text": "5:9 At the risk of our lives we will bring in our bread,\nbecause of the sword of the wilderness."
+          },
+          {
+            "id": "v5-10",
+            "text": "5:10 Our skin turned livid like an oven;\nthey shriveled because of famine’s storms."
+          },
+          {
+            "id": "v5-11",
+            "text": "5:11 They humiliated women in Zion,\nvirgins in Judah’s cities."
+          },
+          {
+            "id": "v5-12",
+            "text": "5:12 Rulers were hung by their hands;\nelders were not glorified."
+          },
+          {
+            "id": "v5-13",
+            "text": "5:13 Chosen men took up weeping,\nand young men weakened under wood."
+          },
+          {
+            "id": "v5-14",
+            "text": "5:14 Elders ceased from the gate,\nchosen men ceased from their songs."
+          },
+          {
+            "id": "v5-15",
+            "text": "5:15 The joy of our heart ended;\nour dancing turned to mourning."
+          },
+          {
+            "id": "v5-16",
+            "text": "5:16 The crown fell from our head;\nwoe indeed to us, for we sinned!"
+          },
+          {
+            "id": "v5-17",
+            "text": "5:17 For this our heart became sorrowful;\nfor this our eyes grew dim,"
+          },
+          {
+            "id": "v5-18",
+            "text": "5:18 because Mount Zion was destroyed;\nfoxes passed through her."
+          },
+          {
+            "id": "v5-19",
+            "text": "5:19But Thou, Lord, wilt dwell for ever;\nThy throne endures from generation to generation."
+          },
+          {
+            "id": "v5-20",
+            "text": "5:20 Why wilt Thou forget us for ever\nand forsake us for so many days?"
+          },
+          {
+            "id": "v5-21",
+            "text": "5:21 Turn us back unto Thee, O Lord, and we shall be turned back; and renew our days as before."
+          },
+          {
+            "id": "v5-22",
+            "text": "5:22 For Thou hast utterly rejected us\nand hast been exceedingly angry with us."
+          }
+        ],
+        "chapter": 5,
+        "section": 5,
+        "page_id": 2792,
+        "title": "Lamentations 5",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-5/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 5,
+        "selected_chapter": "Lamentations 5"
+      }
+    ],
+    "index": {
+      "links": [
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-1/",
+          "text": "Chapter 1Zion desolate and weeping"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-2/",
+          "text": "Chapter 2The Lord’s anger"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-3/",
+          "text": "Chapter 3The suffering man’s hope"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-4/",
+          "text": "Chapter 4The siege remembered"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-5/",
+          "text": "Chapter 5Prayer for restoration"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-1/#v1-12",
+          "text": "Lamentations 1:12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-3/#v3-22",
+          "text": "Lamentations 3:22"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-5/#v5-21",
+          "text": "Lamentations 5:21"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/study/",
+          "text": "Open the Lamentations study edition →"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/#saints-ref-1-1",
+          "text": "[1]"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/#",
+          "text": "Suggest a correction"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-1/",
+          "text": "Begin reading →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-1/",
+          "text": "1Lamentations 1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-2/",
+          "text": "2Lamentations 2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-3/",
+          "text": "3Lamentations 3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-4/",
+          "text": "4Lamentations 4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-5/",
+          "text": "5Lamentations 5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/comparison-edition/2/",
+          "text": "Begin comparing →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/comparison-edition/2/",
+          "text": "1Chapter 1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/comparison-edition/3/",
+          "text": "2Chapter 2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/comparison-edition/4/",
+          "text": "3Chapter 3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/comparison-edition/5/",
+          "text": "4Chapter 4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/comparison-edition/6/",
+          "text": "5Chapter 5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/comparison-edition/",
+          "text": "Jewish–Hebrew Masoretic TextCompared with the Saints TranslationOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/vulgate-comparison/",
+          "text": "Catholic Latin VulgateCompared with the Saints TranslationOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/kjv-comparison/",
+          "text": "Protestant King James BibleCompared with the Saints TranslationOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/kjv-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/kjv-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/kjv-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/kjv-comparison/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/kjv-comparison/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/comparison-edition/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/comparison-edition/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/comparison-edition/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/comparison-edition/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/comparison-edition/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/vulgate-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/vulgate-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/vulgate-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/vulgate-comparison/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/vulgate-comparison/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-1/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-2/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-3/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-4/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-5/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/editorial-guide/",
+          "text": "Read the editorial guide"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+          "text": "Wisdom of Solomon →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/",
+          "text": "III. Wisdom"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-1/",
+          "text": "Chapter 1Zion desolate and weeping"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-2/",
+          "text": "Chapter 2The Lord’s anger"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-3/",
+          "text": "Chapter 3The suffering man’s hope"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-4/",
+          "text": "Chapter 4The siege remembered"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-5/",
+          "text": "Chapter 5Prayer for restoration"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-1/#v1-12",
+          "text": "Lamentations 1:12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-3/#v3-22",
+          "text": "Lamentations 3:22"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-5/#v5-21",
+          "text": "Lamentations 5:21"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/study/",
+          "text": "Open the Lamentations study edition →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/editorial-guide/",
+          "text": "Read the editorial guide"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+          "text": "Wisdom of Solomon →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/",
+          "text": "III. Wisdom"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/#saints-ref-1-cite-1",
+          "text": "↑"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        }
+      ],
+      "text": "Lamentations\n\nBespoke Saints English Translation · 5 chapters · Provisional editorial edition · 15 October 2026\n\nDraft for review. Only editors can see this introduction. Approve all introductions under Settings → Saints Study.\n\nINTRODUCTION\n\nIntroducing Lamentations\n\nLamentations is a sequence of five poems mourning the destruction of Jerusalem and its temple. Amid grief and confession it holds on to hope in the steadfast mercy of the Lord.\n\nSETTING\nWritten for the survivors in ruined Judah and the exiles in Babylon, it gave voice to a people facing devastation as the consequence of sin.\nAUTHOR\nTraditionally attributed to Jeremiah, as the Greek and Latin versions state. Many modern scholars consider the author unknown, possibly more than one poet.\nDATE\nTraditionally soon after the fall of Jerusalem in 587/586 BC; most scholars place it in the 6th century BC.\nOutline\nChapter 1\nZion desolate and weeping\nChapter 2\nThe Lord’s anger\nChapter 3\nThe suffering man’s hope\nChapter 4\nThe siege remembered\nChapter 5\nPrayer for restoration\nKey passages\nLamentations 1:12 — Is any sorrow like mine?\nLamentations 3:22 — Mercies new every morning\nLamentations 5:21 — Restore us to yourself\nThemes\nGrief over judgement\nConfession of sin\nGod’s faithfulness\nHope in mercy\nRead in the light of Christ\n\nThe Church sang Lamentations in Holy Week, hearing in its grieving city and suffering man the sorrows of Christ in his Passion.\n\nOpen the Lamentations study edition →\n\nIntroduction by Saints.Bible · CC BY-SA 4.0[1] · Suggest a correction\n\nFind a chapter\n\n10 links. Choose a section to browse.\n\nREAD\nLamentations · Reading\n5 chapters\nBegin reading →\n1\nLamentations 1\n2\nLamentations 2\n3\nLamentations 3\n4\nLamentations 4\n5\nLamentations 5\nSTUDY\nLamentations · Comparisons\n5 chapters and study sections\n\nCompare Lamentations with the Saints Translation\n\nJewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison\nCatholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison\nProtestant King James Bible\nCompared with the Saints Translation\nOpen comparison\n\nGO STRAIGHT TO A CHAPTER\n\nKJV & Greek\n1\n2\n3\n4\n5\nHebrew & Greek\n1\n2\n3\n4\n5\nLatin Vulgate\n1\n2\n3\n4\n5\nSaints Translation: sources and study approach\nBespoke Saints English editorial guide\n\nAll 5 numbered chapters and 150 existing reading units have received the Bespoke English editorial pass: 53 revised and 97 retained. Source-specific numbering, additions, gaps, names, repetitions and verse anchors are preserved. The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.\n\nRahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending. All English reading units were individually reviewed. Earlier source-checking statements and retrieval limitations are retained in the original backup and historical reference pages; they are not claims of fresh complete verification in this revision.\n\nThe newer Bespoke PDF governs this reading edition. Saints Translation literal-smooth and all comparison/study streams remain separate and unchanged. Notes are separated from Scripture. Earlier wording notes are historical records and may quote superseded pronouns or wording; the dated current Bespoke notes explain the changes. The Greek introduction remains within 1:1. The accessed Greek text and this reading stream omit 3:22–24 and 3:29, leaving 150 numbered units; those gaps and the abbreviated 5:4 are preserved. An older study claim about a water-for-silver clause in printed 5:4 conflicts with the accessed display and remains for printed-edition and apparatus review. Historical comparison pages may contain older English drafts and unresolved alignment issues; they are preserved as separate records.\n\nRead the editorial guide\n\nThe reading journey\n\nContinue the Wisdom division with its meditation on righteousness, mercy, and enduring hope.\n\nWisdom of Solomon → · III. Wisdom\n\nThis Bespoke reading edition follows the newer translation policy: ordinary address uses you/your, and direct address to God retains Thou/Thee/Thy/Thine. The existing Greek-based reading stream and separately dated comparison editions remain distinct.\n\nExplore links from this page\nScripture\nFootnotes\n↑CC BY-SA 4.0 — creativecommons.org",
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/",
+      "all_5_chapter_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "Whitespace and WordPress apostrophe typography only; visible verse numbers excluded.",
+    "chapter_navigation": [
+      {
+        "text": "Lamentations 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-1/"
+      },
+      {
+        "text": "Lamentations 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-2/"
+      },
+      {
+        "text": "Lamentations 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-3/"
+      },
+      {
+        "text": "Lamentations 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-4/"
+      },
+      {
+        "text": "Lamentations 5",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-5/"
+      }
+    ],
+    "visual_capture": "A screenshot of saved Lamentations 5 was captured and visually inspected. Every reading page received rendered DOM text and navigation checks; visual inspection of all 5 pages is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 2788,
+      "title": "Lamentations — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/editorial-guide/",
+      "before_content_hash": "09d734ffaa6b06d8addc245abd2765a532f99e9d",
+      "after_content_hash": "09d734ffaa6b06d8addc245abd2765a532f99e9d",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3795,
+      "title": "Lamentations — Hebrew and Greek compared",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/comparison-edition/",
+      "before_content_hash": "b2d1c72642b59c1b33084e2da876b4e44f42284d",
+      "after_content_hash": "b2d1c72642b59c1b33084e2da876b4e44f42284d",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20721,
+      "title": "Lamentations — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/vulgate-comparison/",
+      "before_content_hash": "0c203608d237bb0715236518f561014c0b42093a",
+      "after_content_hash": "0c203608d237bb0715236518f561014c0b42093a",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20722,
+      "title": "Lamentations — King James Bible and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/kjv-comparison/",
+      "before_content_hash": "ecc71aebe537d8360d6793212430b4427a37d7c3",
+      "after_content_hash": "ecc71aebe537d8360d6793212430b4427a37d7c3",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 23889,
+      "title": "Lamentations — Study Edition",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/study/",
+      "before_content_hash": "f31fa38ed081873c24962c3b4fe26056365e66d6",
+      "after_content_hash": "f31fa38ed081873c24962c3b4fe26056365e66d6",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 150,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 6 edited pages and all 5 reference pages, plus 5 reference hash snapshots. This is a book archive, not a full-site backup."
+}
