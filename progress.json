@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 17,
-  "pending_book_revisions": 53,
-  "next_book": "Nehemiah",
+  "completed_book_records": 18,
+  "pending_book_revisions": 52,
+  "next_book": "Esther",
   "full_bible_complete": false,
   "books": [
     {
@@ -168,8 +168,11 @@
       "order": 18,
       "book": "Nehemiah",
       "staging_path": "/bible/judgement/nehemiah/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "nehemiah/",
+      "chapters": 13,
+      "verse_units": 392,
+      "wording_changes": 37
     },
     {
       "order": 19,
@@ -551,9 +554,10 @@
       "2 Chronicles",
       "1 Maccabees",
       "2 Maccabees",
-      "Ezra"
+      "Ezra",
+      "Nehemiah"
     ],
-    "pending_books": 3,
-    "next_book": "Nehemiah"
+    "pending_books": 2,
+    "next_book": "Esther"
   }
 }

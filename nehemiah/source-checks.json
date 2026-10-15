@@ -1,0 +1,127 @@
+{
+  "book": "Nehemiah",
+  "date": "2026-10-14",
+  "edition": "Rahlfs–Hanhart 2006; German Bible Society online running text",
+  "authorization": "User authorized provisional continuation with Rahlfs–Hanhart; Göttingen not obtained.",
+  "scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+  "historical_records": "Existing index and reference records were consulted as historical reference, not proof of fresh complete Greek verification.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/EZR.11",
+      "focus": "1:1,5–11",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained Thou/Thee/Thy in direct prayer and modernized the quoted divine address to the people. Used Fearsome for Terrible and dost keep for direct address; retained the Greek shift to Him/His, No I pray, the covenant repetition and the mighty-hand image.",
+      "pending": "1:1 abira, 1:5 and 1:11 petition formula, 1:5 change of grammatical person and full apparatus need specialist review."
+    },
+    {
+      "chapter": 2,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/EZR.12",
+      "focus": "2:1–2,4–8,12–13,15,18,20",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary royal address; smoothed the king’s question, if it pleases the king and time limit. Preserved no other person, the concubine’s participation, repeated breaking at the wall, Spring of Figs, God’s hand and pure servants.",
+      "pending": "2:1–2 sequence, 2:6 concubine and time limit, 2:13–15 breaking terminology and full apparatus remain pending."
+    },
+    {
+      "chapter": 3,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/EZR.13",
+      "focus": "3:4–5,8,14–15,20–21,24–25,30–31,34–37",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained every English unit, repeated repair formula, name, abbreviated passage and numbered gap. Preserved necks, Pool of Fleeces/king’s shearing, place-like Bethelisoub and the short imprecatory prayer.",
+      "pending": "3:4 Ramoth, 3:5 adoreem, 3:15 fleeces/shearing, list segmentation, missing verse numbers and full textual collation need specialist review."
+    },
+    {
+      "chapter": 4,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/EZR.14",
+      "focus": "4:1,4,6,10–12,14,17",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized the third-person verb and ordinary plural address. Preserved growth on walls, enemies’ strength, shaken-out men, lifting gear, dart and the shortened concluding account.",
+      "pending": "4:4 enemies reading, 4:10 shaken-out expression, 4:11 lifting gear and 4:12 horn-blower referent require specialist review."
+    },
+    {
+      "chapter": 5,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/EZR.15",
+      "focus": "5:5–11,13–16,18–19",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address, third-person does and my acquaintances. Preserved grief, voluntary purchase, debt/exaction language, shaken wrap and men, forty didrachms, the negative wall-work statement and brief prayer.",
+      "pending": "5:9 syntax, 5:11 commodity repayment, 5:14–18 coerced provision, 5:15 present tense and 5:16 negation require full apparatus and specialist review."
+    },
+    {
+      "chapter": 6,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/EZR.16",
+      "focus": "6:1–19 (publisher browser view of Esdras B 16)",
+      "running_text_read": "All nineteen verses of this chapter read in the publisher browser view; no critical-apparatus collation.",
+      "decision": "Modernized ordinary address in the letters and warning. Preserved no breath, the promise to come down after finishing, I strengthened my hands, the hired crowd across verses, singular his deeds and fifty-two days. The publisher’s page was read in the browser after retrieval attempts failed.",
+      "pending": "6:9 declarative versus Hebrew imperative, 6:11 shortened reply, 6:12–14 crowd/pronoun syntax and full apparatus remain pending."
+    },
+    {
+      "chapter": 7,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/EZR.17",
+      "focus": "7:2–3,5,7,17–18,20,22,26,32,64–65,70–72",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained the complete English roster, its numbers and names, including both Anania figures, Jesus, the additional names, separate Bethlehem/Netopha counts, the priest giving light, gifts to Neemia and garment totals.",
+      "pending": "7:3 command-person shift, full name and numerical collation, 7:64 status wording and 7:70–72 gifts/units require specialist review."
+    },
+    {
+      "chapter": 8,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/EZR.18",
+      "focus": "8:2–3,6–10,15,17–18",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained all English units, three named teachers, Esdras’s teaching, it is your strength without an added subject, trumpet signal, foliage, tents and closing observance.",
+      "pending": "8:8 knowledge/explanation syntax, 8:10 implied strength referent, 8:15 festival instruction and full apparatus require specialist review."
+    },
+    {
+      "chapter": 9,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/EZR.19",
+      "focus": "9:5–6,13–14,18,21,24,26,29–30,32–33,35–37",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Preserved the sustained direct prayer with Thou/Thee/Thy and its second-person verb forms. Smoothed unto to to, modernized third-person does/has/belongs, and used dost keep in direct address. Retained Esdras as speaker, plural gods, split-open feet, bodies/back/neck images, repeated compassion and the cross-verse land clause.",
+      "pending": "9:5 shift into prayer, 9:18 plural gods, 9:24 wipe out, 9:32 keeping Thy covenant and 9:35–37 kingdom/land syntax require specialist and apparatus review."
+    },
+    {
+      "chapter": 10,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/EZR.20",
+      "focus": "10:1–3,15–16,29–30,32–33,39",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained all English units, source numbering, Sedekias son of Saraia, the divided sons-of clause, prevailed/cursed, the demand of every hand, third of a didrachm and tithe of the tithe.",
+      "pending": "10:2–3 lineage segmentation, 10:15–16 list division, 10:30 social action, 10:32 release wording and full apparatus require specialist review."
+    },
+    {
+      "chapter": 11,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/EZR.21",
+      "focus": "11:11–15,17–19,22–27,30–31,36",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained the shortened roster and all numbered gaps. Kept Saraia opposite the house, surviving names/counts, the king’s hand, farmsteads and the final Levite portions without importing longer witnesses.",
+      "pending": "Full roster and place-name collation, 11:22 grammatical grouping, 11:25–31 curtailed settlement list and 11:36 portions need specialist review."
+    },
+    {
+      "chapter": 12,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/EZR.22",
+      "focus": "12:3,7–9,17,22–23,25,27,30–31,36,38,42–44,46–47",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained all English wording and gaps, over the hands, at times, I gathered, thodatha, two great ones for praise, repeated gladness, names and the difficult storehouse appointment clause.",
+      "pending": "12:8–9 hands/service divisions, 12:17 at times, 12:31 companies, 12:42 appointment, 12:44 syntax and complete apparatus need specialist review."
+    },
+    {
+      "chapter": 13,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/EZR.23",
+      "focus": "13:2,4,6–7,14,16,19,22,24–25,28–31",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary plural address and third-person has; smoothed after some days had passed and do not let in prayer. Kept Thy in direct prayer, the repeated remembrance petitions, Eliasib/Elisoub forms, anonymous traders, acts of violence, lineage fragment and bakchouria.",
+      "pending": "13:6 elapsed-days phrase, 13:14 kindness, 13:19 gates at rest, 13:28–29 lineage/disqualification and 13:31 bakchouria require specialist review."
+    }
+  ]
+}
