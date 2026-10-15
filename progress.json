@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 43,
-  "pending_book_revisions": 27,
-  "next_book": "Matthew",
+  "completed_book_records": 44,
+  "pending_book_revisions": 26,
+  "next_book": "Mark",
   "full_bible_complete": false,
   "books": [
     {
@@ -458,8 +458,12 @@
       "order": 44,
       "book": "Matthew",
       "staging_path": "/bible/salvation/matthew/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "matthew/",
+      "chapters": 28,
+      "reading_sections": 28,
+      "verse_units": 1068,
+      "wording_changes": 228
     },
     {
       "order": 45,
@@ -644,29 +648,14 @@
       "records": null
     }
   ],
-  "current_division": "Judgement",
+  "current_division": "Salvation",
   "division_progress": {
-    "division": "Providence",
+    "division": "Salvation",
     "completed_books": [
-      "Isaiah",
-      "Jeremiah",
-      "Ezekiel",
-      "Daniel",
-      "Hosea",
-      "Joel",
-      "Amos",
-      "Obadiah",
-      "Jonah",
-      "Micah",
-      "Nahum",
-      "Habakkuk",
-      "Zephaniah",
-      "Haggai",
-      "Zechariah",
-      "Malachi"
+      "Matthew"
     ],
-    "pending_books": 0,
-    "next_book": "Matthew",
+    "pending_books": 3,
+    "next_book": "Mark",
     "status": "English editorial and staging complete for listed books; specialist review pending"
   },
   "completed_divisions": [
@@ -675,7 +664,7 @@
     "Wisdom",
     "Providence"
   ],
-  "current_priority": "Finish the remaining Old Testament after Job: all Wisdom books and all Prophets, one book at a time, with staging verification and GitHub main uploads.",
+  "current_priority": "Continue the remaining New Testament books one at a time, using the authorized provisional NA28 base, preserving records, verifying staging and uploading to GitHub main.",
   "old_testament_completed_book_records": 43,
   "old_testament_pending_book_revisions": 0,
   "next_division": "Salvation",
@@ -685,19 +674,22 @@
     "full_preferred_text_obtained": false,
     "available_full_running_text": "Nestle–Aland 28 (NA28), German Bible Society online reader",
     "existing_site_records": "NA28 governs recorded decisions; earlier drafts retain their documented base, including SBLGNT with selective NA28 comparison",
-    "decision": "Awaiting the user’s choice between provisional NA28 continuation and waiting for UBS6 access",
+    "decision": "User explicitly authorized NA28 provisionally on 15 October 2026; UBS6/ECM and independent specialist reviews remain pending.",
     "matthew_audit": {
       "chapters": 28,
       "verse_units": 1068,
       "full_original_page_backups": 31,
       "comparison_pages": 2,
       "preserved_historical_note_groups": 21,
-      "staging_changes": 0
+      "staging_changes": 29,
+      "status": "All 28 chapters and index saved and verified; 1,068 rendered verse units matched the reviewed draft; 228 wording changes."
     },
     "source_links": [
       "https://www.die-bibel.de/en/bible/NA28/MAT.1",
       "https://www.die-bibel.de/en/the-sixth-edition-of-the-greek-new-testament-ubs6"
     ],
     "access_checks": "The publisher’s browser edition picker displayed NA28 and UBS5, but not UBS6. Focused searches of the linked project Drive folder and accessible Drive files did not locate UBS6. A publisher sample is available, but it is not the full edition."
-  }
+  },
+  "new_testament_completed_book_records": 1,
+  "new_testament_pending_book_revisions": 26
 }

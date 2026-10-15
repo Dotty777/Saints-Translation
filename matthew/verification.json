@@ -1,0 +1,1197 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 1068 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 28,
+    "reading_sections": 28,
+    "changed_verse_units": 228,
+    "source_scope": "NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "409180c7c1a5122f733d19d58e7688fc5e2ac436ab29114ca7234b93da85e9b9"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 25,
+      "changed": 19,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 23,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 17,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 25,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 5,
+      "chapter": 5,
+      "verse_units": 48,
+      "changed": 39,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 6,
+      "chapter": 6,
+      "verse_units": 34,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 7,
+      "chapter": 7,
+      "verse_units": 29,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 8,
+      "chapter": 8,
+      "verse_units": 34,
+      "changed": 13,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 9,
+      "chapter": 9,
+      "verse_units": 38,
+      "changed": 10,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 10,
+      "chapter": 10,
+      "verse_units": 42,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 11,
+      "chapter": 11,
+      "verse_units": 30,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 12,
+      "chapter": 12,
+      "verse_units": 50,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 13,
+      "chapter": 13,
+      "verse_units": 58,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 14,
+      "chapter": 14,
+      "verse_units": 36,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 15,
+      "chapter": 15,
+      "verse_units": 39,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 16,
+      "chapter": 16,
+      "verse_units": 28,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 17,
+      "chapter": 17,
+      "verse_units": 26,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 18,
+      "chapter": 18,
+      "verse_units": 34,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 19,
+      "chapter": 19,
+      "verse_units": 30,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 20,
+      "chapter": 20,
+      "verse_units": 34,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 21,
+      "chapter": 21,
+      "verse_units": 46,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 22,
+      "chapter": 22,
+      "verse_units": 46,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 23,
+      "chapter": 23,
+      "verse_units": 38,
+      "changed": 2,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 24,
+      "chapter": 24,
+      "verse_units": 51,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 25,
+      "chapter": 25,
+      "verse_units": 46,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 26,
+      "chapter": 26,
+      "verse_units": 75,
+      "changed": 19,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 27,
+      "chapter": 27,
+      "verse_units": 66,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 28,
+      "chapter": 28,
+      "verse_units": 20,
+      "changed": 2,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 938,
+      "chapter": 1,
+      "modified": "2026-10-15T16:23:49",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "528206409c8d5929ebd3b9cbfb7b0e22a705ee3c276354b5aa5cfba6f353491e"
+    },
+    {
+      "id": 940,
+      "chapter": 2,
+      "modified": "2026-10-15T16:24:18",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "391dbed5c1816352b09c3930d54adae1d9e14f87bc59cde60aadf693301b0133"
+    },
+    {
+      "id": 944,
+      "chapter": 3,
+      "modified": "2026-10-15T16:24:34",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "517510b6b87f9989505ca7308537652d6317cef2f43471dfaa51b212bddc9168"
+    },
+    {
+      "id": 946,
+      "chapter": 4,
+      "modified": "2026-10-15T16:24:52",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "aa776a752a1b363351ec6ed21588a09a4ef13d30cd7f703ffdb4f8e8321326b6"
+    },
+    {
+      "id": 951,
+      "chapter": 5,
+      "modified": "2026-10-15T16:25:10",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "1ce575636f82974649c786d3d3c567067d05b681a886d791cc64fcee5fad8671"
+    },
+    {
+      "id": 954,
+      "chapter": 6,
+      "modified": "2026-10-15T16:26:00",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "e42f879e8c3630a295cb6ea64d15b1848b42a4441176fa160dfe94da08c507e6"
+    },
+    {
+      "id": 957,
+      "chapter": 7,
+      "modified": "2026-10-15T16:26:16",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "f0e9e7deb214ed0e096d492a78ba3420c650b30969e6925e7a19273878d70089"
+    },
+    {
+      "id": 961,
+      "chapter": 8,
+      "modified": "2026-10-15T16:26:33",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "b39b14fbbde1d07ac4e1c7f76538b9ea682950fc8152cfd8aea56b587cf41b3e"
+    },
+    {
+      "id": 964,
+      "chapter": 9,
+      "modified": "2026-10-15T16:27:18",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "1ee01280513ff58487e58e568d411be79960e2a49c4f83c2e50f4deebe30a85c"
+    },
+    {
+      "id": 967,
+      "chapter": 10,
+      "modified": "2026-10-15T16:27:37",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "a8f73ef2e72dc9839150c150e1f6f43e15ae9e201af9b7b386d97cb32f274deb"
+    },
+    {
+      "id": 970,
+      "chapter": 11,
+      "modified": "2026-10-15T16:27:56",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "8f418bb1b7446172d46443ba531fffffbfac9c0101c7010ebedcf6efa42b178c"
+    },
+    {
+      "id": 974,
+      "chapter": 12,
+      "modified": "2026-10-15T16:28:15",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "ff783e510fae6fac360fb564b68cc0db4594848a6d440885569e781d751b1bf6"
+    },
+    {
+      "id": 979,
+      "chapter": 13,
+      "modified": "2026-10-15T16:29:49",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "83283946740f86dd91600745459826176a6a530be0a595bb22343e17d0092dfd"
+    },
+    {
+      "id": 983,
+      "chapter": 14,
+      "modified": "2026-10-15T16:30:05",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "028c38b09fa2077fa83af71dbe8d7b9a4b245c0a42211b98c299b89bb2d96a9c"
+    },
+    {
+      "id": 986,
+      "chapter": 15,
+      "modified": "2026-10-15T16:30:22",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "d52bb8b83ed7943585de108d09f7a6164b76086b3ee043ebb5e7e301525de405"
+    },
+    {
+      "id": 988,
+      "chapter": 16,
+      "modified": "2026-10-15T16:30:42",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "531bf77363225048fef86c9ec04519c0f08308869da8b3ee4a3efb2b63bf87b6"
+    },
+    {
+      "id": 991,
+      "chapter": 17,
+      "modified": "2026-10-15T16:31:50",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "76b6a8b7b32f1f3c9c2cadf7658071b8ec062ca84525a8dc6b36befc649986d8"
+    },
+    {
+      "id": 994,
+      "chapter": 18,
+      "modified": "2026-10-15T16:32:06",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "93e094f0b4a2df89d20fe8669a332e2e1a993817f3f2a5a1351365bb6b849f9b"
+    },
+    {
+      "id": 998,
+      "chapter": 19,
+      "modified": "2026-10-15T16:32:26",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "e8d7e77d2f246b8d564e27f307590515428809b81eb2e20db448a59555ee377b"
+    },
+    {
+      "id": 1002,
+      "chapter": 20,
+      "modified": "2026-10-15T16:32:44",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "94f021768fd175c35c3a95e4e140e1499e164f0dae6153c6555b812b2c88976d"
+    },
+    {
+      "id": 1006,
+      "chapter": 21,
+      "modified": "2026-10-15T16:33:40",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "e22c3c5d506e376583c14f6a06087867d9f1e2a5417a76be526b06c4a68afe1b"
+    },
+    {
+      "id": 1010,
+      "chapter": 22,
+      "modified": "2026-10-15T16:33:57",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "640fe9a69c91fe63028a8ad908b9b7f2ca01383d7c42765dba643a36a2001ca5"
+    },
+    {
+      "id": 1013,
+      "chapter": 23,
+      "modified": "2026-10-15T16:34:15",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "e69f4dd3de98753cd5c208f3dd04765a0ffb6e79a8ac0ace750d5dbffcb86d55"
+    },
+    {
+      "id": 1016,
+      "chapter": 24,
+      "modified": "2026-10-15T16:34:32",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "59b45d9710b62979dc9518a331616241aff98816877beff12c92b706dffacebf"
+    },
+    {
+      "id": 1018,
+      "chapter": 25,
+      "modified": "2026-10-15T16:35:12",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "fe88d4cb3674845bf57c4f8ed13a17ea723c02aa09535117eb607b9512fc7766"
+    },
+    {
+      "id": 1021,
+      "chapter": 26,
+      "modified": "2026-10-15T16:35:29",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "cd1dacef5f21ac7b467c0df7e9bb0586a639863c50bf45cc07d7aa42a35eec12"
+    },
+    {
+      "id": 1023,
+      "chapter": 27,
+      "modified": "2026-10-15T16:35:49",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "fe12f84ec37afc09f35c8147dab1ca9484b2a0aaf90199016e1bfbf3bff07805"
+    },
+    {
+      "id": 1024,
+      "chapter": 28,
+      "modified": "2026-10-15T16:36:11",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "f8afdc26481eb73fcade228064be7e37c1a0029d1efc2500da02d844e864c417"
+    },
+    {
+      "id": 935,
+      "chapter": null,
+      "modified": "2026-10-15T16:36:34",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "f0599ef98dcea1de1856f9f851203956c50dc800ccf8cbc71f989d87d16a52e3"
+    }
+  ],
+  "browser_checks": {
+    "format": "sha256-dom-v1",
+    "date": "2026-10-15",
+    "chapter_navigation": [
+      {
+        "text": "Matthew 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-1/"
+      },
+      {
+        "text": "Matthew 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-2/"
+      },
+      {
+        "text": "Matthew 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-3/"
+      },
+      {
+        "text": "Matthew 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-4/"
+      },
+      {
+        "text": "Matthew 5",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-5/"
+      },
+      {
+        "text": "Matthew 6",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-6/"
+      },
+      {
+        "text": "Matthew 7",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-7/"
+      },
+      {
+        "text": "Matthew 8",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-8/"
+      },
+      {
+        "text": "Matthew 9",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-9/"
+      },
+      {
+        "text": "Matthew 10",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-10/"
+      },
+      {
+        "text": "Matthew 11",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-11/"
+      },
+      {
+        "text": "Matthew 12",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-12/"
+      },
+      {
+        "text": "Matthew 13",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-13/"
+      },
+      {
+        "text": "Matthew 14",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-14/"
+      },
+      {
+        "text": "Matthew 15",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-15/"
+      },
+      {
+        "text": "Matthew 16",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-16/"
+      },
+      {
+        "text": "Matthew 17",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-17/"
+      },
+      {
+        "text": "Matthew 18",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-18/"
+      },
+      {
+        "text": "Matthew 19",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-19/"
+      },
+      {
+        "text": "Matthew 20",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-20/"
+      },
+      {
+        "text": "Matthew 21",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-21/"
+      },
+      {
+        "text": "Matthew 22",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-22/"
+      },
+      {
+        "text": "Matthew 23",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-23/"
+      },
+      {
+        "text": "Matthew 24",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-24/"
+      },
+      {
+        "text": "Matthew 25",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-25/"
+      },
+      {
+        "text": "Matthew 26",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-26/"
+      },
+      {
+        "text": "Matthew 27",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-27/"
+      },
+      {
+        "text": "Matthew 28",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-28/"
+      }
+    ],
+    "chapters": [
+      {
+        "chapter": 1,
+        "page_id": 938,
+        "verse_count": 25,
+        "rendered_text_sha256": "487b99297fbc81ea14439a7996d390b422e02be9fe8b42790e5ba8188f3601c5",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-1/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 1"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 2,
+        "page_id": 940,
+        "verse_count": 23,
+        "rendered_text_sha256": "05402f32243611c439614abe4716276e49b75fd7a26a1d8f7d62362638b4a9a1",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-2/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 2"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 3,
+        "page_id": 944,
+        "verse_count": 17,
+        "rendered_text_sha256": "a4e0e23badce76799f25ee7e290b5900baee0780e35fea9f51aacd2387ad4791",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-3/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 3"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 4,
+        "page_id": 946,
+        "verse_count": 25,
+        "rendered_text_sha256": "3e8f530de82760b4cc8775ce0bf19452f992a0e3d2732419d62a0e6bb888a768",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-4/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 4"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 5,
+        "page_id": 951,
+        "verse_count": 48,
+        "rendered_text_sha256": "8f8637799ee66057651c7c082f8704ba25a7f11e1dfa3e4d2e88900fe56c989d",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-5/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 5"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 6,
+        "page_id": 954,
+        "verse_count": 34,
+        "rendered_text_sha256": "a04a0ea0a6e1c403de1b5eac6a1341fb6fea7d0aec6a859f1ded03adc883b215",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-6/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 6"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 7,
+        "page_id": 957,
+        "verse_count": 29,
+        "rendered_text_sha256": "bb15aa0710fe5cccff96b09b5f9c8343ccddf4df9527f37e72d2ed494e1357fa",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-7/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 7"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 8,
+        "page_id": 961,
+        "verse_count": 34,
+        "rendered_text_sha256": "bbeb33527478da69fcfa0406611726c2a3f0cb4f69f5ce9fd1b5a6f5528a0ed5",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-8/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 8"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 9,
+        "page_id": 964,
+        "verse_count": 38,
+        "rendered_text_sha256": "8d31019e5ea05a3f69b5f886fa10360def6468aba524992fda5936c1a43c460c",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-9/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 9"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 10,
+        "page_id": 967,
+        "verse_count": 42,
+        "rendered_text_sha256": "5f6e5ad039790f45ef3239ed0c13f07222ede0c21309a0ad6261648683aa0ad7",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-10/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 10"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 11,
+        "page_id": 970,
+        "verse_count": 30,
+        "rendered_text_sha256": "30fb6d920047aef02530ec50048d3ea14c55fad9d93ef1f6f38c33495fd47920",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-11/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 11"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 12,
+        "page_id": 974,
+        "verse_count": 50,
+        "rendered_text_sha256": "bcc2c0a9d2a5c68c3b75cf0c8b01ddaaf2d042ba11beb52a335c7c81619f8617",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-12/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 12"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 13,
+        "page_id": 979,
+        "verse_count": 58,
+        "rendered_text_sha256": "6efa2a530d2ea6f7a037fdb7834258174054e8dbf55ad43428425cdef25f6212",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-13/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 13"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 14,
+        "page_id": 983,
+        "verse_count": 36,
+        "rendered_text_sha256": "14223d482d5e4a1d1639a6a3b35f5c0d9665cc290ab4020ae2aeb97185b370f4",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-14/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 14"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 15,
+        "page_id": 986,
+        "verse_count": 39,
+        "rendered_text_sha256": "0d352cbc59b35187096ad628d5c4a5cc80bfa3b60e875f9e1bee1e082b3b9d63",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-15/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 15"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 16,
+        "page_id": 988,
+        "verse_count": 28,
+        "rendered_text_sha256": "9252b1a2625d4e3bfd4155ba524411aa820f116f1ca9d6cdf355435a302c7ff0",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-16/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 16"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 17,
+        "page_id": 991,
+        "verse_count": 26,
+        "rendered_text_sha256": "27bc90ab948395819b3da94df0988205cf9ba0ccc518e13b03fd11199a3250f5",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-17/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 17"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 18,
+        "page_id": 994,
+        "verse_count": 34,
+        "rendered_text_sha256": "f53bc4a0cdd42b3ada693f0da1092198adfccd9ab64bcf96995acaa0f82e808f",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-18/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 18"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 19,
+        "page_id": 998,
+        "verse_count": 30,
+        "rendered_text_sha256": "be6cd8a62852f42f968d7a3cb67f0955fb3a9a52c4b4dc4e8eadb0e3fd6fc9d5",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-19/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 19"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 20,
+        "page_id": 1002,
+        "verse_count": 34,
+        "rendered_text_sha256": "9a241faf9c6710286c66212179d9f4ef0088ebe97d583ce31b51684d4792a0c3",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-20/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 20"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 21,
+        "page_id": 1006,
+        "verse_count": 46,
+        "rendered_text_sha256": "45d8575114705d5e6b322a3fbdf78605ed5de9af52089217bd5ac75d87f22792",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-21/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 21"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 22,
+        "page_id": 1010,
+        "verse_count": 46,
+        "rendered_text_sha256": "a2505e34bec46a49125d6ca4ecf6dea91b6488c98edb13e4cf3713e715f98462",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-22/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 22"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 23,
+        "page_id": 1013,
+        "verse_count": 38,
+        "rendered_text_sha256": "69d6e6f469507d994f975fcc08dbd5ba30a69aedecd6461eef225fe04bbf94f8",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-23/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 23"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 24,
+        "page_id": 1016,
+        "verse_count": 51,
+        "rendered_text_sha256": "50c5634441275a4f02fa6a83f1e2dacfc7aa31200934eed72891b527b8412d12",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-24/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 24"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 25,
+        "page_id": 1018,
+        "verse_count": 46,
+        "rendered_text_sha256": "9a4f881e91fea2964260c05984a23ea34607844b70242a8d40cd5345db154678",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-25/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 25"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 26,
+        "page_id": 1021,
+        "verse_count": 75,
+        "rendered_text_sha256": "1784966cfdcf4d06aaca002f2b198496fd09a59fb6e426cfd81c5362b5a8b6fe",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-26/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 26"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 27,
+        "page_id": 1023,
+        "verse_count": 66,
+        "rendered_text_sha256": "6da9d05d5b678c7ca038a41368c55f38a9c50fc1d5e50a89f129f392122f02b1",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-27/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 27"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 28,
+        "page_id": 1024,
+        "verse_count": 20,
+        "rendered_text_sha256": "8bdb0857e942c852124d5936d82b0b2b5af40ddf936c4f79c7f9bbc331af6a88",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-28/",
+        "currentNotes": 1,
+        "navigation_sha256": "2caa8c5a56a0a85ee5b70a0410df36cf6c0e2720aa3f76c703757b795d32c0bd",
+        "chapter_option_count": 28,
+        "selected_chapter": [
+          "Matthew 28"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      }
+    ],
+    "index": {
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/",
+      "currentNotes": 1,
+      "reading_links": [
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-1/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-2/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-3/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-4/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-5/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-6/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-7/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-8/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-9/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-10/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-11/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-12/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-13/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-14/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-15/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-16/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-17/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-18/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-19/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-20/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-21/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-22/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-23/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-24/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-25/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-26/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-27/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-28/"
+      ],
+      "reading_links_scope": "The complete 28-link sequence actually observed beginning at position 11 in the index's chapter links; duplicate links and highlighted-passage shortcuts excluded from this compact record.",
+      "text": "All 28 chapters, comprising 1068 existing verse units, have received the Bespoke English editorial pass: 228 revised and 840 retained. Source-specific numbering, names, repetitions and verse anchors are preserved. The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+      "text_scope": "Visible status paragraph excerpt from the current Bespoke editorial guide.",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "SHA-256 of the ordered JSON array of [verse ID, displayed text] pairs, encoded as UTF-8. The visible verse-number span and sup footnote callouts are excluded; only whitespace and WordPress curly-apostrophe typography are normalized. All other text and order must match.",
+    "visual_capture": "Rendered DOM text and navigation checked for all 28 chapters and the index. Screenshot access became available in the refreshed browser session; the index and Matthew 28 were visually inspected. The Bespoke index status and chapter reader layout were legible. Whole-book screenshot inspection is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 20755,
+      "title": "Matthew — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/vulgate-comparison/",
+      "before_content_hash": "d2a5dd21915db8f117561b4a8a4b59e15121f919",
+      "after_content_hash": "d2a5dd21915db8f117561b4a8a4b59e15121f919",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3771,
+      "title": "Matthew — Saints Translation and KJV",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/comparison-edition/",
+      "before_content_hash": "64728c6641d442ff343ba96e22a986d57480a771",
+      "after_content_hash": "64728c6641d442ff343ba96e22a986d57480a771",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 1068,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 29 edited pages and all 2 reference pages, plus 2 reference hash snapshots. This is a book archive, not a full-site backup."
+}
