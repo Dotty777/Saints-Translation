@@ -16,13 +16,15 @@ Book-by-book Bespoke Saints English editorial editions, change records and revie
 - [2 Kings — 25 chapters](2-kings/README.md): provisional editorial revision; 723 verse units, 234 wording changes. Staging verified on 14 October 2026.
 - [1 Chronicles — 29 chapters](1-chronicles/README.md): provisional editorial revision; 930 verse units, 154 wording changes. Staging verified on 14 October 2026.
 - [2 Chronicles — 36 chapters](2-chronicles/README.md): provisional editorial revision; 833 verse units, 183 wording changes. Staging verified on 14 October 2026.
-- The Law division is complete at the English editorial/staging stage. Joshua, Judges, Ruth, 1 Samuel, 2 Samuel, 1 Kings, 2 Kings, 1 Chronicles and 2 Chronicles are complete in the Judgement Division; 1 Maccabees is next, with 6 books in this division and 56 books overall still pending the Bespoke pass.
+- [1 Maccabees — 16 chapters](1-maccabees/README.md): provisional editorial revision; 924 verse units, 110 wording changes. Staging verified on 14 October 2026.
+- The Law division is complete at the English editorial/staging stage. Joshua, Judges, Ruth, 1 Samuel, 2 Samuel, 1 Kings, 2 Kings, 1 Chronicles, 2 Chronicles and 1 Maccabees are complete in the Judgement Division; 2 Maccabees is next, with 5 books in this division and 55 books overall still pending the Bespoke pass.
 
 [progress.json](progress.json) lists the site's selected seventy-book working edition in its actual reading order: 43 Old Testament and 27 New Testament books. The current user instruction is to extend the Genesis–Exodus manner through every remaining book and keep updates in the current chat. The full Bible revision is not yet complete.
 
 The newer Bespoke policy governs. Rahlfs–Hanhart 2006 continuation is provisional and user-authorized for the relevant Old Testament books. Each book's declared source and any exceptions must be retained and checked before revision. Full apparatus, Göttingen, independent Greek and human read-aloud reviews remain pending. Saints Translation literal-smooth and other comparison streams remain separate. Files here do not deploy the WordPress live site.
 
 This progress list supersedes the next-book status in earlier book snapshots; their original records remain preserved. “Completed” means the recorded English pass, staging verification and archive, not independent specialist publication approval.
+
 
 
 

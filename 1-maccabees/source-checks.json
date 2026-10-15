@@ -1,0 +1,154 @@
+{
+  "book": "1 Maccabees",
+  "date": "2026-10-14",
+  "edition": "Rahlfs–Hanhart 2006; German Bible Society online running text",
+  "authorization": "User authorized provisional continuation with Rahlfs–Hanhart; Göttingen not obtained.",
+  "scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+  "historical_records": "Existing index and reference records were consulted as historical reference, not proof of fresh complete Greek verification.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1MA.1",
+      "focus": "1:1, 5, 12, 15, 18, 24, 28, 38, 40, 47, 54, 56–57, 61, 63",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Clarified the law-book destruction and possession clauses in 56–57, preserving their sequence and recurring force. Retained lifted heart, made foreskins, wounded, put on shame, Jerusalem personification and altar distinction.",
+      "pending": "Opening sequence, anatomical/assimilation expression, tribute title, source dates, body/household referents in 61 and full critical collation."
+    },
+    {
+      "chapter": 2,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1MA.2",
+      "focus": "2:7,9,19,24,26–27,37–38,48,52,54,61,63,65",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address and narrative verbs; made the command to listen at 2:65 natural. Preserved inward-parts, horn and burning-zeal images, present/past distinctions at 2:19 and 63, little children at 2:9, and ancestral names and counts.",
+      "pending": "Specialist assessment of kidneys/inward parts and anger according to judgment at 2:24, fate sequence at 2:63, and complete apparatus collation."
+    },
+    {
+      "chapter": 3,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1MA.3",
+      "focus": "3:3,6,18–19,22,40–41,48,50–53,60",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained Thou/Thee/Thy in the appeal to Heaven at 3:50–53. Clarified the army-size contrast at 3:19 and the will-in-heaven sentence at 3:60; preserved giant, breastplate and hand imagery, and source subject shifts at 3:40. A historical query about 3:40 was checked: the accessed running text has the singular departure verb followed by plural arrival and encampment verbs, matching the retained subject shift.",
+      "pending": "Meaning of consulting the law book/idol likenesses at 3:48; subject shifts and elliptical divine reference at 3:40,60; full collation."
+    },
+    {
+      "chapter": 4,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1MA.4",
+      "focus": "4:9,11,17,24,30–34,43–47,55,61",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained divine address at 4:30–33, melt imagery and repeated fell at 4:34. Modernized third-person verbs, clarified the decision to pull down the altar, and used impersonal “it is good” for the printed neuter formula at 4:24. Left the distinct altar stones and difficult fortification sentence intact.",
+      "pending": "The elliptical praise formula at 4:24, heaven-directed blessing at 4:55, and fortification/Beth-zur syntax at 4:61 require specialist review; no apparatus consultation."
+    },
+    {
+      "chapter": 5,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1MA.5",
+      "focus": "5:5,8,13,15,26,32,35,40–42,48,54,62–63,65,67",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address and cross/become/encamp forms. Preserved devoted-to-destruction and daughter-town images, reported-to-direct speech shift, distinct stream/river terms, all counts, and “The man Judas”. The city is addressed in the singular for “your land” at 5:48, followed by a plural assurance; modern English your/you is number-neutral. The historical query at 5:32 was resolved for this running text: it prints our brothers, which is retained.",
+      "pending": "Place-name and location syntax at 5:26, military-geographic vocabulary, and lineage/deliverance statement at 5:62; complete source collation."
+    },
+    {
+      "chapter": 6,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1MA.6",
+      "focus": "6:1,9–11,23,25,28,34,37,39,44,46,51,53,57–59,62",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized royal address, my eyes, and the wording of rule and dwindling. Retained the blood-of-grapes image, hand-of-peace gesture, present willingness at 6:23, territorial pronoun at 6:25, and four fighting men plus the Indian driver at 6:37 as printed in the accessed running text.",
+      "pending": "Existing comparison note reports competing thirty/thirty-two/four readings at 6:37; that apparatus evidence has NOT been independently consulted. Specialist review of elephant equipment, siege vocabulary, royal titles and chronological details remains pending."
+    },
+    {
+      "chapter": 7,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1MA.7",
+      "focus": "7:7–9,13,17,19,32,34,37–38,41–42,46",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary royal address and trust. Retained Thy in the quoted prayer at 7:17 and divine forms in 7:37–42, while modernizing third-person “he has”. Made the quotation at 7:17 more natural without suppressing flesh and blood. Preserved the pit, defilement and battle imagery and all figures. The 500 casualties at 7:32 match the accessed running text; the competing 5,000 figure remains a historical comparison note pending apparatus review.",
+      "pending": "Psalm quotation alignment, defiled them at 7:34, request to grant no continuance at 7:38, and full apparatus collation require specialist review."
+    },
+    {
+      "chapter": 8,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1MA.8",
+      "focus": "8:1,5,7–8,11,13,15–16,18,23,25–28,31–32",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized treaty and diplomatic address; clarified the paired reign/remove statement. Preserved the doubled mighty-in-strength statement, India/Media/Lydia, 320 councillors, one annual ruler, the yoke and soul imagery, and the difficult allies clause at 8:28 without adding an unstated enemy.",
+      "pending": "Treaty obligation referents at 8:26–28, the help/reign syntax at 8:13, and historical-geographic and governmental claims; no harmonization to reconstructed history or unseen apparatus."
+    },
+    {
+      "chapter": 9,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1MA.9",
+      "focus": "9:8–10,21,24,27,29,37,41,46,50,54–55,59,65–66,73",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address, third-person verbs and conferred. Preserved the lament for the mighty one, go-out/come-in and hand imagery, the wedding-to-mourning reversal, loss of prophecy, sword ceasing, place names and counts. The plural command to cry to Heaven in 9:46 addresses people and uses you.",
+      "pending": "Prophetic works/wall sequence at 9:54, subject and small-number phrasing at 9:65–66, geographical identifications and full collation."
+    },
+    {
+      "chapter": 10,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1MA.10",
+      "focus": "10:11,19–20,23,29–30,33–35,40–43,55,61,65,69,71–72,89",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized royal and ordinary address and trust, and recast the greeting at 10:55 for spoken English. Preserved four-foot stones, all financial amounts and proportions, repeated time expressions, the letter’s parenthesis, pestilent image, and court titles. The golden clasp and Kinsmen title at 10:89 were checked in a separate retrieved excerpt.",
+      "pending": "Scope of tax remission, fiscal terminology, subject transitions, and distinctions among court ranks require specialist review; full collation pending."
+    },
+    {
+      "chapter": 11,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1MA.11",
+      "focus": "11:18,28,31–32,34–36,47,50,57–59,66,70–71",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary diplomatic address while preserving the letter structure, repeated ownership phrases, three/four district distinction, right-hand imagery, royal titles and all battle figures. Prayer is narrated at 11:71; no words of prayer were invented.",
+      "pending": "Territorial and fiscal syntax at 11:28,34–35, diplomatic father/Kinsman titles, narrative subject shifts and full apparatus collation."
+    },
+    {
+      "chapter": 12,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1MA.12",
+      "focus": "12:7,9,11,15,20–23,28–29,37,44,47,50,52",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address and shows/threatens. Preserved holy books in our hands, repeated help/helping and mourning, the diplomatic claims of brotherhood, numerical division of forces, Chaphenatha, and the report of Jonathan’s death without harmonizing the later death account.",
+      "pending": "Historical and textual evaluation of Spartan correspondence, the unexpressed departure at 12:29, fortification terminology at 12:37, and report versus narrative chronology at 12:50; complete collation."
+    },
+    {
+      "chapter": 13,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1MA.13",
+      "focus": "13:3–4,7–9,17–18,23,28–29,37–39,42,46,49–52",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address and tell/stands, including the plea to Simon at 13:46; it is human address, not prayer. Preserved spirit rekindled, the first-person shift at 13:18, seven pyramids despite six named family members, the right-hand gesture, yoke image, legal terms and festival date.",
+      "pending": "Speech perspective at 13:17–18, memorial architecture and count, royal financial terminology, and source chronology need specialist review; no harmonization or apparatus claim."
+    },
+    {
+      "chapter": 14,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1MA.14",
+      "focus": "14:4–5,8–9,12,14–15,24,27,30,35–36,40–41,43,45,47",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized acts and annuls in the decree. Preserved the vine-and-fig-tree image, repeated glory and holy places, 1,000 minas, Asaramel, gathered-to-his-people idiom, hands imagery, and “for ever, until a faithful prophet should arise”. Kept inscription hierarchy and court offices.",
+      "pending": "Asaramel interpretation, the hands/prosperity and purity phrasing at 14:36, temporal scope of the perpetual appointment, and documentary history/full collation."
+    },
+    {
+      "chapter": 15,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1MA.15",
+      "focus": "15:5–8,16,18,21,23,25,27,30–31,33–35,38",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address, hold/demand and unto; corrected the possessive to yours where it stands alone. Preserved remissions, independent coinage, all place names and sums, pestilent imagery, the repeated inheritance claim and treaty reversal.",
+      "pending": "Royal-debt scope, the second-day expression and assault imagery at 15:25, geographical names, decree syntax and full collation."
+    },
+    {
+      "chapter": 16,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/1MA.16",
+      "focus": "16:2–4,6,9–10,13,16–18,22–24",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address and third-person verbs. Preserved hands/prosperity, blessing of help from Heaven, heart lifted up, evil-for-good reversal, repeated destruction language, ambiguous subject/referent shifts, and the closing reference to the high-priestly record. Restored “behold” in the closing record formula at 16:24 after the historical study flagged its omission and the accessed running text confirmed it; the marker points the reader to the cited record.",
+      "pending": "Subject at 16:4, the singular object burned at 16:10, military totals, reign chronology and closing-source formula require specialist review; full collation and human read-aloud remain pending."
+    }
+  ]
+}
