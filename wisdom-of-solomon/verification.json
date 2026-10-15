@@ -1,0 +1,3630 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 435 existing English verse units individually read and editorially reviewed; approved as a provisional staging revision.",
+    "chapters": 19,
+    "reading_sections": 19,
+    "changed_verse_units": 119,
+    "source_scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "48f3b9f813dddaeb74f2bfd8f2788fc68224308271f9e65b0b7be7818915356f"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 16,
+      "changed": 11,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 24,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 19,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 20,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 5,
+      "chapter": 5,
+      "verse_units": 23,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 6,
+      "chapter": 6,
+      "verse_units": 25,
+      "changed": 15,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 7,
+      "chapter": 7,
+      "verse_units": 30,
+      "changed": 10,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 8,
+      "chapter": 8,
+      "verse_units": 21,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 9,
+      "chapter": 9,
+      "verse_units": 18,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 10,
+      "chapter": 10,
+      "verse_units": 21,
+      "changed": 1,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 11,
+      "chapter": 11,
+      "verse_units": 26,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 12,
+      "chapter": 12,
+      "verse_units": 27,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 13,
+      "chapter": 13,
+      "verse_units": 19,
+      "changed": 10,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 14,
+      "chapter": 14,
+      "verse_units": 31,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 15,
+      "chapter": 15,
+      "verse_units": 19,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 16,
+      "chapter": 16,
+      "verse_units": 29,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 17,
+      "chapter": 17,
+      "verse_units": 20,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 18,
+      "chapter": 18,
+      "verse_units": 25,
+      "changed": 1,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 19,
+      "chapter": 19,
+      "verse_units": 22,
+      "changed": 1,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 17959,
+      "chapter": 1,
+      "modified": "2026-10-14T22:55:23",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "fe1589fbdcd2443ed915137c8d9aea59fab12a03dfcabffca4823cdf20c8b72f"
+    },
+    {
+      "id": 17960,
+      "chapter": 2,
+      "modified": "2026-10-14T22:55:29",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "7ebaecde32ab6429f8255896a3b525162e711e0d591c462614ef35c8ace9d61c"
+    },
+    {
+      "id": 17961,
+      "chapter": 3,
+      "modified": "2026-10-14T22:55:35",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "452749e7230e668925394b7a9afc40e2898c851ecb7073cbb96400ed72230105"
+    },
+    {
+      "id": 17962,
+      "chapter": 4,
+      "modified": "2026-10-14T22:55:42",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "afdac0f120612147d31553a13f2fff3debceb0df6a67e33f98457e5034b4ce88"
+    },
+    {
+      "id": 17963,
+      "chapter": 5,
+      "modified": "2026-10-14T22:55:48",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "a2e0af2fd278aa70bb5da0b7dae728a688c95178a9a8b1179911930a3749a54d"
+    },
+    {
+      "id": 17964,
+      "chapter": 6,
+      "modified": "2026-10-14T22:56:39",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "af67b06343676b525e3299184b83981c729b0fd148dd6808bde90920267877de"
+    },
+    {
+      "id": 17965,
+      "chapter": 7,
+      "modified": "2026-10-14T22:56:44",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "f1ed0a9387b5b6457c26dcce7cb6ba1b80feee5de4b3e1129d057da9d9d42a35"
+    },
+    {
+      "id": 17966,
+      "chapter": 8,
+      "modified": "2026-10-14T22:56:50",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "b63640a6043caa1fe33218a670df025210d6a4f8501b6e5f2d32b0fcb7b8ebf3"
+    },
+    {
+      "id": 17967,
+      "chapter": 9,
+      "modified": "2026-10-14T22:56:56",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "3685e8efd06282bbdbcfbcb2cc6e24b8060058c316d01b2d5f59af8353209e69"
+    },
+    {
+      "id": 17968,
+      "chapter": 10,
+      "modified": "2026-10-14T22:57:01",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "070396154322e2c42d9c85b7601fd7b0969b8d1c7e40c3eda929167ce085f985"
+    },
+    {
+      "id": 17969,
+      "chapter": 11,
+      "modified": "2026-10-14T23:03:27",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "61d0d98cb2c541a33d5fa0e52480acee172dad2310ca800d9638d6bcca572646"
+    },
+    {
+      "id": 17970,
+      "chapter": 12,
+      "modified": "2026-10-14T23:03:34",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "a2e75a99c0febf2d903942e3d3514ba9472559e1b68f5a9aab383ccf8f2b0514"
+    },
+    {
+      "id": 17971,
+      "chapter": 13,
+      "modified": "2026-10-14T23:03:41",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "96f38390328b14bfda3d94a14f515bcc5c80589416b1dc3811ccb9b28033bc22"
+    },
+    {
+      "id": 17972,
+      "chapter": 14,
+      "modified": "2026-10-14T23:03:48",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "7dd751f603fa235000004693e5131df9f095a5f09bae803dd0f8b1ae9cb499e2"
+    },
+    {
+      "id": 17973,
+      "chapter": 15,
+      "modified": "2026-10-14T23:03:53",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "6352cb9b43622f03d847ae5a3fafd8521027113f13c422a857ede2e4fd005467"
+    },
+    {
+      "id": 17974,
+      "chapter": 16,
+      "modified": "2026-10-14T23:05:12",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "89cfe4b196e98dc4c228813b01d180870863334fcef7aca03ef4e1c15249972f"
+    },
+    {
+      "id": 17975,
+      "chapter": 17,
+      "modified": "2026-10-14T23:05:20",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "3ecd6cca337a22bb32590e4810bb89a5c696921ec9cbf82357c2b6c6ac4a8eb4"
+    },
+    {
+      "id": 17976,
+      "chapter": 18,
+      "modified": "2026-10-14T23:05:28",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "c7053f2a97a1d747aa8d16f50376fde7c8177825d78ccd402154af6079b31ef0"
+    },
+    {
+      "id": 17977,
+      "chapter": 19,
+      "modified": "2026-10-14T23:05:34",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "d4bc39c7c5fbcd00b3176c98be8840a74e39fa80dbcefbc174201275dab25af8"
+    },
+    {
+      "id": 17956,
+      "chapter": 0,
+      "modified": "2026-10-14T23:05:39",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "c13a44984a05bcfc60aa46e96438806ed60df0431d5564da5ebcaec91f18405a"
+    }
+  ],
+  "browser_checks": {
+    "chapters": [
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-5/",
+            "label": "Previous chapter, Lamentations 5",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-2/",
+            "label": "Next chapter, Wisdom of Solomon 2",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-5/",
+            "text": "← Lamentations 5"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+            "text": "Wisdom of Solomon: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-2/",
+            "text": "Wisdom of Solomon 2 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/wisdom-of-solomon/1/",
+            "text": "All 31 cross-references for Wisdom of Solomon 1, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v1-1",
+            "text": "1:1 Love righteousness, you who judge the earth;\nthink of the Lord in goodness,\nand seek Him in simplicity of heart."
+          },
+          {
+            "id": "v1-2",
+            "text": "1:2 For He is found by those who do not put Him to the test,\nand He makes Himself known to those who do not distrust Him."
+          },
+          {
+            "id": "v1-3",
+            "text": "1:3 For crooked reasonings separate from God,\nand power, when put to the test, exposes the foolish."
+          },
+          {
+            "id": "v1-4",
+            "text": "1:4 For wisdom will not enter a soul that devises evil,\nnor will she dwell in a body indebted to sin."
+          },
+          {
+            "id": "v1-5",
+            "text": "1:5 For a holy spirit of discipline will flee deceit\nand depart from senseless reasonings,\nand will be put to shame when injustice comes upon it."
+          },
+          {
+            "id": "v1-6",
+            "text": "1:6 For wisdom is a spirit that loves humanity,\nand she will not acquit a blasphemer of what his lips have said;\nfor God is a witness of his kidneys,\na true overseer of his heart,\nand a hearer of his tongue."
+          },
+          {
+            "id": "v1-7",
+            "text": "1:7 For the Spirit of the Lord has filled the inhabited world,\nand that which holds all things together has knowledge of utterance."
+          },
+          {
+            "id": "v1-8",
+            "text": "1:8 Therefore no one who speaks unjust things will escape notice,\nnor will convicting justice pass him by."
+          },
+          {
+            "id": "v1-9",
+            "text": "1:9 For there will be an examination of the ungodly person’s deliberations,\nand the report of his words will come to the Lord\nto expose his lawless deeds."
+          },
+          {
+            "id": "v1-10",
+            "text": "1:10 For an ear of jealousy listens to all things,\nand the murmur of grumblings is not hidden."
+          },
+          {
+            "id": "v1-11",
+            "text": "1:11 Therefore guard yourselves against useless grumbling,\nand restrain your tongue from slander;\nfor a secret utterance will not pass away without effect,\nand a lying mouth destroys a soul."
+          },
+          {
+            "id": "v1-12",
+            "text": "1:12 Do not pursue death through the wandering of your life,\nnor draw destruction upon yourselves through the works of your hands;"
+          },
+          {
+            "id": "v1-13",
+            "text": "1:13 For God did not make death,\nneither does He delight in the destruction of the living."
+          },
+          {
+            "id": "v1-14",
+            "text": "1:14 For He created all things that they might exist,\nand the created things of the world are life-preserving;\nthere is no poison of destruction in them,\nnor is Hades’ dominion upon the earth."
+          },
+          {
+            "id": "v1-15",
+            "text": "1:15 For righteousness is immortal."
+          },
+          {
+            "id": "v1-16",
+            "text": "1:16 But the ungodly summoned him by their hands and words;\nconsidering him a friend, they wasted away,\nand they made a covenant with him,\nbecause they are worthy to belong to his portion."
+          }
+        ],
+        "chapter": 1,
+        "section": 1,
+        "page_id": 17959,
+        "title": "Wisdom of Solomon — Chapter 1",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-1/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 19,
+        "selected_chapter": "Wisdom of Solomon 1"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-1/",
+            "label": "Previous chapter, Wisdom of Solomon 1",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-3/",
+            "label": "Next chapter, Wisdom of Solomon 3",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-1/",
+            "text": "← Wisdom of Solomon 1"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+            "text": "Wisdom of Solomon: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-3/",
+            "text": "Wisdom of Solomon 3 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/wisdom-of-solomon/2/",
+            "text": "All 37 cross-references for Wisdom of Solomon 2, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v2-1",
+            "text": "2:1 For they said among themselves, reasoning wrongly:\n“Our life is short and sorrowful,\nand there is no healing when a human being dies,\nand no one has been known to return from Hades."
+          },
+          {
+            "id": "v2-2",
+            "text": "2:2 For we came into being by chance,\nand afterward we will be as though we had not existed;\nfor the breath in our nostrils is smoke,\nand reason is a spark in the movement of our heart;"
+          },
+          {
+            "id": "v2-3",
+            "text": "2:3 when it is extinguished, the body will become ashes,\nand the spirit will disperse like insubstantial air."
+          },
+          {
+            "id": "v2-4",
+            "text": "2:4 And our name will be forgotten in time,\nand no one will remember our works;\nour life will pass like the traces of a cloud,\nand will disperse like mist,\ndriven away by the sun’s rays\nand weighed down by its heat."
+          },
+          {
+            "id": "v2-5",
+            "text": "2:5 For our allotted time is the passing of a shadow,\nand there is no turning back from our end,\nbecause it has been sealed, and no one returns."
+          },
+          {
+            "id": "v2-6",
+            "text": "2:6 Come, then, and let us enjoy the good things that exist,\nand eagerly make use of creation as in youth."
+          },
+          {
+            "id": "v2-7",
+            "text": "2:7 Let us fill ourselves with costly wine and perfumes,\nand let no spring blossom pass us by."
+          },
+          {
+            "id": "v2-8",
+            "text": "2:8 Let us crown ourselves with rosebuds before they wither."
+          },
+          {
+            "id": "v2-9",
+            "text": "2:9 Let none of us be without a share in our revelry;\nlet us leave tokens of our enjoyment everywhere,\nfor this is our portion, and this our lot."
+          },
+          {
+            "id": "v2-10",
+            "text": "2:10 Let us oppress the poor righteous person;\nlet us not spare a widow,\nnor show regard for an old man’s many years of gray hair."
+          },
+          {
+            "id": "v2-11",
+            "text": "2:11 Let our strength be the law of righteousness,\nfor what is weak is shown to be useless."
+          },
+          {
+            "id": "v2-12",
+            "text": "2:12 Let us lie in wait for the righteous person, because he is troublesome to us\nand opposes our works;\nhe reproaches us for sins against law\nand charges us with sins against our upbringing."
+          },
+          {
+            "id": "v2-13",
+            "text": "2:13 He professes to have knowledge of God\nand calls himself a child of the Lord."
+          },
+          {
+            "id": "v2-14",
+            "text": "2:14 He has become a reproach to our thoughts;\neven the sight of him weighs upon us,"
+          },
+          {
+            "id": "v2-15",
+            "text": "2:15 because his life is unlike that of others,\nand his paths are different."
+          },
+          {
+            "id": "v2-16",
+            "text": "2:16 He has reckoned us counterfeit,\nand keeps away from our ways as from impurities;\nhe calls the final lot of the righteous blessed,\nand boasts that God is his father."
+          },
+          {
+            "id": "v2-17",
+            "text": "2:17 Let us see whether his words are true,\nand test what will happen at his departure."
+          },
+          {
+            "id": "v2-18",
+            "text": "2:18 For if the righteous person is a son of God, He will help him\nand rescue him from the hand of his opponents."
+          },
+          {
+            "id": "v2-19",
+            "text": "2:19 Let us examine him with insult and torture,\nso that we may know his gentleness\nand test his endurance of wrong."
+          },
+          {
+            "id": "v2-20",
+            "text": "2:20 Let us condemn him to a shameful death,\nfor, according to his words, he will be visited with care.”"
+          },
+          {
+            "id": "v2-21",
+            "text": "2:21 They reasoned these things and went astray,\nfor their wickedness blinded them;"
+          },
+          {
+            "id": "v2-22",
+            "text": "2:22 they did not know the mysteries of God,\nnor hope for a reward of holiness,\nnor recognize a prize for blameless souls."
+          },
+          {
+            "id": "v2-23",
+            "text": "2:23 For God created the human being for incorruption\nand made him an image of His own eternity;"
+          },
+          {
+            "id": "v2-24",
+            "text": "2:24 but through the devil’s envy death entered the world,\nand those who belong to his portion experience it."
+          }
+        ],
+        "chapter": 2,
+        "section": 2,
+        "page_id": 17960,
+        "title": "Wisdom of Solomon — Chapter 2",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-2/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 19,
+        "selected_chapter": "Wisdom of Solomon 2"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-2/",
+            "label": "Previous chapter, Wisdom of Solomon 2",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-4/",
+            "label": "Next chapter, Wisdom of Solomon 4",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-2/",
+            "text": "← Wisdom of Solomon 2"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+            "text": "Wisdom of Solomon: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-4/",
+            "text": "Wisdom of Solomon 4 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/wisdom-of-solomon/3/",
+            "text": "All 41 cross-references for Wisdom of Solomon 3, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v3-1",
+            "text": "3:1 But the souls of the righteous are in the hand of God, and torment will surely not touch them."
+          },
+          {
+            "id": "v3-2",
+            "text": "3:2 In the eyes of the foolish they seemed to have died,\nand their departure was reckoned a calamity,"
+          },
+          {
+            "id": "v3-3",
+            "text": "3:3 and their going away from us a destruction;\nbut they are in peace."
+          },
+          {
+            "id": "v3-4",
+            "text": "3:4 For even if they are punished in the sight of human beings,\ntheir hope is full of immortality;"
+          },
+          {
+            "id": "v3-5",
+            "text": "3:5 and after being disciplined a little, they will receive great benefits,\nbecause God tested them\nand found them worthy of Himself."
+          },
+          {
+            "id": "v3-6",
+            "text": "3:6 Like gold in a crucible He tested them,\nand like a sacrificial whole burnt offering He accepted them."
+          },
+          {
+            "id": "v3-7",
+            "text": "3:7 And at the time of their visitation they will shine out,\nand like sparks among stubble they will dart about."
+          },
+          {
+            "id": "v3-8",
+            "text": "3:8 They will judge nations and rule over peoples,\nand the Lord will reign over them unto the ages."
+          },
+          {
+            "id": "v3-9",
+            "text": "3:9 Those who trust in Him will understand truth,\nand the faithful will remain with Him in love,\nfor grace and mercy are for His chosen ones."
+          },
+          {
+            "id": "v3-10",
+            "text": "3:10 But the ungodly will have punishment in keeping with their reasoning—\nthose who neglected what is righteous and departed from the Lord."
+          },
+          {
+            "id": "v3-11",
+            "text": "3:11 For the one who despises wisdom and discipline is wretched;\ntheir hope is empty, their labors unprofitable,\nand their works useless."
+          },
+          {
+            "id": "v3-12",
+            "text": "3:12 Their wives are foolish,\nand their children wicked;\ntheir offspring is accursed."
+          },
+          {
+            "id": "v3-13",
+            "text": "3:13 For blessed is the undefiled barren woman,\nwho has not known a bed of transgression;\nshe will have fruit at the visitation of souls,"
+          },
+          {
+            "id": "v3-14",
+            "text": "3:14 and the eunuch who has done no lawless deed with his hand\nand has not conceived evil against the Lord;\nfor a choice favor will be given him for his faithfulness,\nand a more delightful portion in the Lord’s temple."
+          },
+          {
+            "id": "v3-15",
+            "text": "3:15 For the fruit of good labors is glorious,\nand the root of understanding does not fail."
+          },
+          {
+            "id": "v3-16",
+            "text": "3:16 But the children of adulterers will not reach fulfillment,\nand offspring from an unlawful bed will disappear."
+          },
+          {
+            "id": "v3-17",
+            "text": "3:17 For even if they become long-lived, they will be reckoned as nothing,\nand their old age will be without honor at the end;"
+          },
+          {
+            "id": "v3-18",
+            "text": "3:18 and if they die quickly, they will have no hope,\nnor consolation on the day of decision."
+          },
+          {
+            "id": "v3-19",
+            "text": "3:19 For the ends of an unrighteous generation are harsh."
+          }
+        ],
+        "chapter": 3,
+        "section": 3,
+        "page_id": 17961,
+        "title": "Wisdom of Solomon — Chapter 3",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-3/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 19,
+        "selected_chapter": "Wisdom of Solomon 3"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-3/",
+            "label": "Previous chapter, Wisdom of Solomon 3",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-5/",
+            "label": "Next chapter, Wisdom of Solomon 5",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-3/",
+            "text": "← Wisdom of Solomon 3"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+            "text": "Wisdom of Solomon: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-5/",
+            "text": "Wisdom of Solomon 5 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/wisdom-of-solomon/4/",
+            "text": "All 29 cross-references for Wisdom of Solomon 4, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v4-1",
+            "text": "4:1 Childlessness with virtue is better,\nfor immortality is in its remembrance,\nbecause it is recognized both by God and by human beings."
+          },
+          {
+            "id": "v4-2",
+            "text": "4:2 When it is present, people imitate it,\nand when it has departed, they long for it;\nthroughout the age it marches crowned in triumph,\nhaving won the contest for undefiled prizes."
+          },
+          {
+            "id": "v4-3",
+            "text": "4:3 But the prolific multitude of the ungodly will be of no use;\nfrom illegitimate shoots it will not send a root deep down,\nnor establish a secure foundation."
+          },
+          {
+            "id": "v4-4",
+            "text": "4:4 For even if it flourishes in branches for a time,\nstanding insecurely, it will be shaken by wind\nand uprooted by the force of winds."
+          },
+          {
+            "id": "v4-5",
+            "text": "4:5 Unfulfilled branches will be broken off,\nand their fruit will be useless, unripe for eating,\nand fit for nothing."
+          },
+          {
+            "id": "v4-6",
+            "text": "4:6 For children born from unlawful unions\nare witnesses of wickedness against their parents at their examination."
+          },
+          {
+            "id": "v4-7",
+            "text": "4:7 But if a righteous person dies early, he will be at rest."
+          },
+          {
+            "id": "v4-8",
+            "text": "4:8 For honorable old age is not length of time,\nnor is it measured by a number of years;"
+          },
+          {
+            "id": "v4-9",
+            "text": "4:9 rather, understanding is gray hair for human beings,\nand an unstained life is the maturity of old age."
+          },
+          {
+            "id": "v4-10",
+            "text": "4:10 Having become pleasing to God, he was loved,\nand while living among sinners he was transferred."
+          },
+          {
+            "id": "v4-11",
+            "text": "4:11 He was snatched away, lest evil change his understanding\nor deceit mislead his soul;"
+          },
+          {
+            "id": "v4-12",
+            "text": "4:12 for the fascination of wickedness obscures what is good,\nand the wandering of desire alters an innocent mind."
+          },
+          {
+            "id": "v4-13",
+            "text": "4:13 Having been brought to completion in a short time, he fulfilled long years;"
+          },
+          {
+            "id": "v4-14",
+            "text": "4:14 for his soul was pleasing to the Lord;\ntherefore he hastened from the midst of wickedness.\nYet the peoples saw and did not understand,\nnor set such a thing in their minds:"
+          },
+          {
+            "id": "v4-15",
+            "text": "4:15 that grace and mercy are among His chosen ones,\nand visitation among His holy ones."
+          },
+          {
+            "id": "v4-16",
+            "text": "4:16 But a righteous person who has died will condemn the living ungodly,\nand youth brought swiftly to completion will condemn the many years of an unrighteous person’s old age."
+          },
+          {
+            "id": "v4-17",
+            "text": "4:17 For they will see a wise person’s end\nand will not understand what the Lord planned concerning him\nor for what purpose He kept him safe."
+          },
+          {
+            "id": "v4-18",
+            "text": "4:18 They will see and despise,\nbut the Lord will laugh them to scorn."
+          },
+          {
+            "id": "v4-19",
+            "text": "4:19 And afterward they will become a dishonored corpse\nand an object of outrage among the dead for ever;\nfor He will dash them down headlong, speechless,\nand shake them from their foundations;\nthey will be laid utterly waste,\nand will be in anguish,\nand their remembrance will perish."
+          },
+          {
+            "id": "v4-20",
+            "text": "4:20 They will come in dread at the reckoning of their sins,\nand their lawless deeds will confront and convict them."
+          }
+        ],
+        "chapter": 4,
+        "section": 4,
+        "page_id": 17962,
+        "title": "Wisdom of Solomon — Chapter 4",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-4/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 19,
+        "selected_chapter": "Wisdom of Solomon 4"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-4/",
+            "label": "Previous chapter, Wisdom of Solomon 4",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-6/",
+            "label": "Next chapter, Wisdom of Solomon 6",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-4/",
+            "text": "← Wisdom of Solomon 4"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+            "text": "Wisdom of Solomon: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-6/",
+            "text": "Wisdom of Solomon 6 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/wisdom-of-solomon/5/",
+            "text": "All 51 cross-references for Wisdom of Solomon 5, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v5-1",
+            "text": "5:1 Then the righteous person will stand with great boldness\nbefore those who afflicted him\nand those who disregarded his labors."
+          },
+          {
+            "id": "v5-2",
+            "text": "5:2 When they see him, they will be troubled with terrible fear\nand astonished at his unexpected salvation."
+          },
+          {
+            "id": "v5-3",
+            "text": "5:3 They will speak among themselves in repentance,\nand in anguish of spirit they will groan and say:"
+          },
+          {
+            "id": "v5-4",
+            "text": "5:4 “This was the one whom we fools once made a laughingstock\nand a byword of reproach.\nWe reckoned his life madness\nand his end dishonorable."
+          },
+          {
+            "id": "v5-5",
+            "text": "5:5 How was he counted among the sons of God,\nand how is his portion among the saints?"
+          },
+          {
+            "id": "v5-6",
+            "text": "5:6 So we strayed from the way of truth,\nand the light of righteousness did not shine upon us,\nand the sun did not rise upon us."
+          },
+          {
+            "id": "v5-7",
+            "text": "5:7 We were filled with paths of lawlessness and destruction,\nand traveled through trackless deserts,\nbut the way of the Lord we did not know."
+          },
+          {
+            "id": "v5-8",
+            "text": "5:8 What did arrogance profit us?\nAnd what did wealth with boasting contribute to us?"
+          },
+          {
+            "id": "v5-9",
+            "text": "5:9 All those things passed like a shadow\nand like a report rushing by;"
+          },
+          {
+            "id": "v5-10",
+            "text": "5:10 like a ship passing through surging water,\nwhose trace cannot be found after it has crossed,\nnor the path of its keel among the waves;"
+          },
+          {
+            "id": "v5-11",
+            "text": "5:11 or like a bird that has flown through the air:\nno sign of its passage is found.\nIt crossed the light air,\nlashed by the beat of its pinions\nand split by the force of its rushing wings;\nand afterward no sign of its passage was found in it;"
+          },
+          {
+            "id": "v5-12",
+            "text": "5:12 or like an arrow shot at a target:\nthe air it cut immediately flowed back into itself,\nso that its course could not be known:"
+          },
+          {
+            "id": "v5-13",
+            "text": "5:13 so we also were born and vanished,\nand had no sign of virtue to show,\nbut were consumed in our wickedness.”"
+          },
+          {
+            "id": "v5-14",
+            "text": "5:14 For the hope of an ungodly person is like dust borne by wind,\nand like fine frost driven by a storm;\nlike smoke it was dispersed by wind,\nand like the memory of a guest who stayed one day it passed away."
+          },
+          {
+            "id": "v5-15",
+            "text": "5:15 But the righteous live for ever,\nand their reward is with the Lord,\nand the Most High takes care of them."
+          },
+          {
+            "id": "v5-16",
+            "text": "5:16 Therefore they will receive the royal crown of splendor\nand the diadem of beauty from the Lord’s hand,\nbecause with His right hand He will cover them\nand with His arm He will shield them."
+          },
+          {
+            "id": "v5-17",
+            "text": "5:17 He will take His zeal as full armor\nand make creation into weapons to repel His enemies;"
+          },
+          {
+            "id": "v5-18",
+            "text": "5:18 He will put on righteousness as a breastplate,\nand put on unfeigned judgment as a helmet;"
+          },
+          {
+            "id": "v5-19",
+            "text": "5:19 He will take holiness as an invincible shield,"
+          },
+          {
+            "id": "v5-20",
+            "text": "5:20 and sharpen stern wrath into a sword;\nthe world will fight together with Him against the senseless."
+          },
+          {
+            "id": "v5-21",
+            "text": "5:21 Well-aimed bolts of lightning will go forth,\nand from the clouds, as from a well-curved bow, they will leap at the target;"
+          },
+          {
+            "id": "v5-22",
+            "text": "5:22 and hailstones full of fury will be hurled from a catapult;\nthe water of the sea will rage against them,\nand rivers will flood over them relentlessly."
+          },
+          {
+            "id": "v5-23",
+            "text": "5:23 A mighty wind will oppose them\nand winnow them away like a storm;\nlawlessness will lay the whole earth waste,\nand wrongdoing will overturn the thrones of rulers."
+          }
+        ],
+        "chapter": 5,
+        "section": 5,
+        "page_id": 17963,
+        "title": "Wisdom of Solomon — Chapter 5",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-5/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 19,
+        "selected_chapter": "Wisdom of Solomon 5"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-5/",
+            "label": "Previous chapter, Wisdom of Solomon 5",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-7/",
+            "label": "Next chapter, Wisdom of Solomon 7",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-5/",
+            "text": "← Wisdom of Solomon 5"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+            "text": "Wisdom of Solomon: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-7/",
+            "text": "Wisdom of Solomon 7 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/wisdom-of-solomon/6/",
+            "text": "All 29 cross-references for Wisdom of Solomon 6, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v6-1",
+            "text": "6:1 Listen, then, kings, and understand;\nlearn, judges of the ends of the earth."
+          },
+          {
+            "id": "v6-2",
+            "text": "6:2 Give ear, you who rule a multitude\nand boast over crowds of nations;"
+          },
+          {
+            "id": "v6-3",
+            "text": "6:3 for your rule was given you by the Lord,\nand your authority by the Most High,\nwho will examine your works and search out your plans."
+          },
+          {
+            "id": "v6-4",
+            "text": "6:4 For though you were servants of His kingdom, you did not judge rightly,\nnor keep law,\nnor walk according to God’s purpose."
+          },
+          {
+            "id": "v6-5",
+            "text": "6:5 He will come upon you terribly and swiftly,\nfor a severe judgment falls upon those in high position."
+          },
+          {
+            "id": "v6-6",
+            "text": "6:6 For the least is pardonable through mercy,\nbut the powerful will be powerfully examined."
+          },
+          {
+            "id": "v6-7",
+            "text": "6:7 For the Master of all will not shrink before anyone’s face\nor show deference to greatness,\nbecause He Himself made both small and great\nand provides for all alike;"
+          },
+          {
+            "id": "v6-8",
+            "text": "6:8 but a forceful inquiry awaits the mighty."
+          },
+          {
+            "id": "v6-9",
+            "text": "6:9 To you, therefore, rulers, my words are directed,\nso that you may learn wisdom and not fall away."
+          },
+          {
+            "id": "v6-10",
+            "text": "6:10 For those who keep holy things in holiness will be made holy,\nand those instructed in them will find a defense."
+          },
+          {
+            "id": "v6-11",
+            "text": "6:11 Desire my words, then;\nlong for them, and you will be instructed."
+          },
+          {
+            "id": "v6-12",
+            "text": "6:12 Wisdom is radiant and unfading;\nshe is readily seen by those who love her\nand found by those who seek her."
+          },
+          {
+            "id": "v6-13",
+            "text": "6:13 She goes ahead of those who desire her, making herself known first."
+          },
+          {
+            "id": "v6-14",
+            "text": "6:14 The one who rises early for her will not grow weary,\nfor he will find her sitting beside his gates."
+          },
+          {
+            "id": "v6-15",
+            "text": "6:15 For to reflect upon her is the perfection of understanding,\nand the one who keeps watch for her will soon be free from care;"
+          },
+          {
+            "id": "v6-16",
+            "text": "6:16 for she herself goes about seeking those worthy of her,\nappears graciously to them on their paths,\nand meets them in every thought."
+          },
+          {
+            "id": "v6-17",
+            "text": "6:17 For her beginning is the truest desire for discipline,\nand concern for discipline is love;"
+          },
+          {
+            "id": "v6-18",
+            "text": "6:18 love is the keeping of her laws,\nand attention to laws is assurance of incorruption;"
+          },
+          {
+            "id": "v6-19",
+            "text": "6:19 and incorruption brings one near to God."
+          },
+          {
+            "id": "v6-20",
+            "text": "6:20 Therefore desire for wisdom leads up to kingship."
+          },
+          {
+            "id": "v6-21",
+            "text": "6:21 If, then, you delight in thrones and scepters, rulers of peoples,\nhonor wisdom, so that you may reign for ever."
+          },
+          {
+            "id": "v6-22",
+            "text": "6:22 What wisdom is and how she came to be, I will declare,\nand I will not hide mysteries from you;\ninstead I will trace her from the beginning of her origin,\nand bring the knowledge of her into the open,\nand I will certainly not pass truth by."
+          },
+          {
+            "id": "v6-23",
+            "text": "6:23 Nor will I travel with wasting envy,\nfor it will have no share with wisdom."
+          },
+          {
+            "id": "v6-24",
+            "text": "6:24 A multitude of wise people is the world’s salvation,\nand an understanding king is the stability of a people."
+          },
+          {
+            "id": "v6-25",
+            "text": "6:25 Therefore be instructed by my words, and you will benefit."
+          }
+        ],
+        "chapter": 6,
+        "section": 6,
+        "page_id": 17964,
+        "title": "Wisdom of Solomon — Chapter 6",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-6/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 19,
+        "selected_chapter": "Wisdom of Solomon 6"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-6/",
+            "label": "Previous chapter, Wisdom of Solomon 6",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-8/",
+            "label": "Next chapter, Wisdom of Solomon 8",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-6/",
+            "text": "← Wisdom of Solomon 6"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+            "text": "Wisdom of Solomon: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-8/",
+            "text": "Wisdom of Solomon 8 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/wisdom-of-solomon/7/",
+            "text": "All 57 cross-references for Wisdom of Solomon 7, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v7-1",
+            "text": "7:1 I too am a mortal human being, equal to all,\nand a descendant of the first-formed earthborn man;\nin a mother’s womb I was sculpted into flesh,"
+          },
+          {
+            "id": "v7-2",
+            "text": "7:2 taking form in blood over a time of ten months,\nfrom a man’s seed and the pleasure that accompanied sleep."
+          },
+          {
+            "id": "v7-3",
+            "text": "7:3 And when I was born, I drew in the common air\nand fell upon the earth that shares the same lot,\ncrying as my first sound just like everyone else."
+          },
+          {
+            "id": "v7-4",
+            "text": "7:4 I was brought up in swaddling clothes and attentive care."
+          },
+          {
+            "id": "v7-5",
+            "text": "7:5 For no king had a different beginning of birth;"
+          },
+          {
+            "id": "v7-6",
+            "text": "7:6 all have one entrance into life, and the same departure."
+          },
+          {
+            "id": "v7-7",
+            "text": "7:7 Therefore I prayed, and understanding was given me;\nI called out, and a spirit of wisdom came to me."
+          },
+          {
+            "id": "v7-8",
+            "text": "7:8 I preferred her to scepters and thrones,\nand reckoned wealth as nothing in comparison with her."
+          },
+          {
+            "id": "v7-9",
+            "text": "7:9 Nor did I compare a priceless stone with her,\nfor all gold in her sight is a little sand,\nand silver will be reckoned as clay before her."
+          },
+          {
+            "id": "v7-10",
+            "text": "7:10 I loved her more than health and beauty,\nand chose to have her rather than light,\nbecause the radiance that comes from her never sleeps."
+          },
+          {
+            "id": "v7-11",
+            "text": "7:11 But all good things came to me together with her,\nand immeasurable wealth was in her hands."
+          },
+          {
+            "id": "v7-12",
+            "text": "7:12 I rejoiced in them all, because wisdom leads them,\nbut I did not know that she was their mother."
+          },
+          {
+            "id": "v7-13",
+            "text": "7:13 I learned without deceit and share without envy;\nI do not conceal her wealth."
+          },
+          {
+            "id": "v7-14",
+            "text": "7:14 For she is an unfailing treasure for human beings;\nthose who acquire it enter into friendship with God,\ncommended by the gifts that come from discipline."
+          },
+          {
+            "id": "v7-15",
+            "text": "7:15 May God grant me to speak with judgment\nand to reflect worthily on what has been given,\nfor He is both the guide of wisdom\nand the corrector of the wise."
+          },
+          {
+            "id": "v7-16",
+            "text": "7:16 For in His hand are both we and our words,\nall understanding and skill in crafts."
+          },
+          {
+            "id": "v7-17",
+            "text": "7:17 For He Himself gave me unerring knowledge of existing things:\nto know the composition of the world and the activity of the elements,"
+          },
+          {
+            "id": "v7-18",
+            "text": "7:18 the beginning and end and middle of times,\nthe changes of the solstices and the transitions of seasons,"
+          },
+          {
+            "id": "v7-19",
+            "text": "7:19 the cycles of the year and the positions of stars,"
+          },
+          {
+            "id": "v7-20",
+            "text": "7:20 the natures of living creatures and the tempers of wild animals,\nthe forces of winds and the reasonings of human beings,\nthe varieties of plants and the powers of roots."
+          },
+          {
+            "id": "v7-21",
+            "text": "7:21 I learned all that is hidden and manifest,\nfor wisdom, the artisan of all things, taught me."
+          },
+          {
+            "id": "v7-22",
+            "text": "7:22 For in her is a spirit intelligent, holy,\nunique, manifold, subtle,\nagile, lucid, undefiled,\nclear, unharmed, loving the good, keen,"
+          },
+          {
+            "id": "v7-23",
+            "text": "7:23 unhindered, beneficent, loving humanity,\nsteadfast, secure, free from care,\nall-powerful, all-overseeing,\nand passing through all spirits\nthat are intelligent, pure, and most subtle."
+          },
+          {
+            "id": "v7-24",
+            "text": "7:24 For wisdom is more mobile than every motion;\nshe penetrates and passes through all things because of her purity."
+          },
+          {
+            "id": "v7-25",
+            "text": "7:25 For she is a breath of God’s power\nand a pure outflow of the Almighty’s glory;\ntherefore nothing defiled enters into her."
+          },
+          {
+            "id": "v7-26",
+            "text": "7:26 For she is a radiance of eternal light,\nan unstained mirror of God’s activity,\nand an image of His goodness."
+          },
+          {
+            "id": "v7-27",
+            "text": "7:27 Though she is one, she can do all things;\nremaining in herself, she renews all things,\nand passing into holy souls from generation to generation,\nshe makes friends of God and prophets."
+          },
+          {
+            "id": "v7-28",
+            "text": "7:28 For God loves no one except the one who dwells with wisdom."
+          },
+          {
+            "id": "v7-29",
+            "text": "7:29 For she is more beautiful than the sun\nand surpasses every arrangement of stars;\ncompared with light, she is found superior."
+          },
+          {
+            "id": "v7-30",
+            "text": "7:30 For night succeeds light,\nbut evil does not overpower wisdom."
+          }
+        ],
+        "chapter": 7,
+        "section": 7,
+        "page_id": 17965,
+        "title": "Wisdom of Solomon — Chapter 7",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-7/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 19,
+        "selected_chapter": "Wisdom of Solomon 7"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-7/",
+            "label": "Previous chapter, Wisdom of Solomon 7",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-9/",
+            "label": "Next chapter, Wisdom of Solomon 9",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-7/",
+            "text": "← Wisdom of Solomon 7"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+            "text": "Wisdom of Solomon: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-9/",
+            "text": "Wisdom of Solomon 9 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/wisdom-of-solomon/8/",
+            "text": "All 25 cross-references for Wisdom of Solomon 8, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v8-1",
+            "text": "8:1 She reaches mightily from end to end, and governs all things well."
+          },
+          {
+            "id": "v8-2",
+            "text": "8:2 I loved her and sought her out from my youth,\nand sought to take her as my bride,\nand became a lover of her beauty."
+          },
+          {
+            "id": "v8-3",
+            "text": "8:3 She glorifies her noble birth by sharing life with God,\nand the Master of all loved her;"
+          },
+          {
+            "id": "v8-4",
+            "text": "8:4 for she is initiated into God’s knowledge\nand is a chooser of His works."
+          },
+          {
+            "id": "v8-5",
+            "text": "8:5 If wealth is a desirable possession in life,\nwhat is richer than wisdom, who works all things?"
+          },
+          {
+            "id": "v8-6",
+            "text": "8:6 And if understanding accomplishes things,\nwho among existing beings is more skilled than she?"
+          },
+          {
+            "id": "v8-7",
+            "text": "8:7 And if anyone loves righteousness,\nher labors are virtues;\nfor she teaches self-control and understanding,\nrighteousness and courage;\nnothing in life is more useful for human beings than these."
+          },
+          {
+            "id": "v8-8",
+            "text": "8:8 And if anyone longs for wide experience,\nshe knows ancient things and infers what is to come;\nshe understands turns of speech and solutions of riddles;\nshe knows signs and wonders beforehand,\nand the outcomes of seasons and times."
+          },
+          {
+            "id": "v8-9",
+            "text": "8:9 Therefore I decided to take her to live with me,\nknowing that she would be a counselor of good things to me\nand encouragement amid cares and sorrow."
+          },
+          {
+            "id": "v8-10",
+            "text": "8:10 Through her I will have glory among the crowds,\nand, though young, honor among elders."
+          },
+          {
+            "id": "v8-11",
+            "text": "8:11 I will be found keen in judgment\nand will be admired in the sight of rulers."
+          },
+          {
+            "id": "v8-12",
+            "text": "8:12 When I am silent they will wait for me, and when I speak they will pay attention;\nif I speak at length,\nthey will place a hand upon their mouth."
+          },
+          {
+            "id": "v8-13",
+            "text": "8:13 Through her I will have immortality,\nand will leave an everlasting remembrance to those after me."
+          },
+          {
+            "id": "v8-14",
+            "text": "8:14 I will govern peoples, and nations will be subjected to me."
+          },
+          {
+            "id": "v8-15",
+            "text": "8:15 Terrifying rulers will fear me when they hear of me;\namong the multitude I will appear good, and in war courageous."
+          },
+          {
+            "id": "v8-16",
+            "text": "8:16 When I enter my house, I will rest beside her;\nfor companionship with her has no bitterness,\nand life with her no anguish,\nbut gladness and joy."
+          },
+          {
+            "id": "v8-17",
+            "text": "8:17 Having reasoned these things within myself\nand considered in my heart\nthat immortality is in kinship with wisdom,"
+          },
+          {
+            "id": "v8-18",
+            "text": "8:18 and in friendship with her is good delight,\nand in the labors of her hands unfailing wealth,\nand in the shared exercise of companionship with her understanding,\nand in sharing her words good renown,\nI went about seeking how to take her to myself."
+          },
+          {
+            "id": "v8-19",
+            "text": "8:19 I was a naturally gifted child,\nand received a good soul as my lot;"
+          },
+          {
+            "id": "v8-20",
+            "text": "8:20 or rather, being good, I came into an undefiled body."
+          },
+          {
+            "id": "v8-21",
+            "text": "8:21 But knowing that I could not otherwise gain possession of her unless God gave her—\nand this too was understanding: to know whose gift it was—\nI appealed to the Lord and petitioned Him,\nand said with my whole heart:"
+          }
+        ],
+        "chapter": 8,
+        "section": 8,
+        "page_id": 17966,
+        "title": "Wisdom of Solomon — Chapter 8",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-8/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 19,
+        "selected_chapter": "Wisdom of Solomon 8"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-8/",
+            "label": "Previous chapter, Wisdom of Solomon 8",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-10/",
+            "label": "Next chapter, Wisdom of Solomon 10",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-8/",
+            "text": "← Wisdom of Solomon 8"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+            "text": "Wisdom of Solomon: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-10/",
+            "text": "Wisdom of Solomon 10 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/wisdom-of-solomon/9/",
+            "text": "All 41 cross-references for Wisdom of Solomon 9, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v9-1",
+            "text": "9:1 “God of the fathers and Lord of mercy,\nwho made all things by Thy word"
+          },
+          {
+            "id": "v9-2",
+            "text": "9:2 and by Thy wisdom fashioned the human being,\nso that he might rule over the creatures made by Thee"
+          },
+          {
+            "id": "v9-3",
+            "text": "9:3 and administer the world in holiness and righteousness,\nand render judgment in uprightness of soul,"
+          },
+          {
+            "id": "v9-4",
+            "text": "9:4 give me wisdom, who sits beside Thy thrones,\nand do not reject me from among Thy servants."
+          },
+          {
+            "id": "v9-5",
+            "text": "9:5 For I am Thy slave and the son of Thy slave woman,\na weak and short-lived human being,\ndeficient in understanding judgment and laws."
+          },
+          {
+            "id": "v9-6",
+            "text": "9:6 For even if someone is perfect among the sons of human beings,\nwithout the wisdom that comes from Thee, he will be reckoned as nothing."
+          },
+          {
+            "id": "v9-7",
+            "text": "9:7 Thou didst choose me as king of Thy people\nand judge of Thy sons and daughters."
+          },
+          {
+            "id": "v9-8",
+            "text": "9:8 Thou didst tell me to build a temple on Thy holy mountain\nand an altar in the city of Thy dwelling,\na likeness of the holy tent that Thou didst prepare beforehand from the beginning."
+          },
+          {
+            "id": "v9-9",
+            "text": "9:9 With Thee is wisdom, who knows Thy works\nand was present when Thou didst make the world,\nwho understands what is pleasing in Thine eyes\nand what is upright in Thy commandments."
+          },
+          {
+            "id": "v9-10",
+            "text": "9:10 Send her out from the holy heavens,\nand from the throne of Thy glory send her,\nso that she may labor at my side,\nand I may know what is pleasing to Thee."
+          },
+          {
+            "id": "v9-11",
+            "text": "9:11 For she knows and understands all things,\nand will guide me prudently in my actions\nand guard me in her glory;"
+          },
+          {
+            "id": "v9-12",
+            "text": "9:12 and my works will be acceptable,\nand I will judge Thy people righteously\nand be worthy of my father’s thrones."
+          },
+          {
+            "id": "v9-13",
+            "text": "9:13 For what human being will know God’s purpose?\nOr who will conceive what the Lord wills?"
+          },
+          {
+            "id": "v9-14",
+            "text": "9:14 For the reasonings of mortals are uncertain,\nand our thoughts precarious;"
+          },
+          {
+            "id": "v9-15",
+            "text": "9:15 for a corruptible body weighs down a soul,\nand the earthly tent burdens a mind full of cares."
+          },
+          {
+            "id": "v9-16",
+            "text": "9:16 With difficulty we infer the things on earth,\nand find what lies at hand only with labor;\nbut who has traced out the things in heaven?"
+          },
+          {
+            "id": "v9-17",
+            "text": "9:17 And who knew Thy purpose, unless Thou didst give wisdom\nand send Thy Holy Spirit from on high?"
+          },
+          {
+            "id": "v9-18",
+            "text": "9:18 And in this way the paths of those on earth were set right,\nand human beings were taught what pleases Thee,\nand were saved by wisdom.”"
+          }
+        ],
+        "chapter": 9,
+        "section": 9,
+        "page_id": 17967,
+        "title": "Wisdom of Solomon — Chapter 9",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-9/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 19,
+        "selected_chapter": "Wisdom of Solomon 9"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-9/",
+            "label": "Previous chapter, Wisdom of Solomon 9",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-11/",
+            "label": "Next chapter, Wisdom of Solomon 11",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-9/",
+            "text": "← Wisdom of Solomon 9"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+            "text": "Wisdom of Solomon: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-11/",
+            "text": "Wisdom of Solomon 11 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/wisdom-of-solomon/10/",
+            "text": "All 57 cross-references for Wisdom of Solomon 10, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v10-1",
+            "text": "10:1 She guarded the first-formed father of the world,\nwho had been created alone,\nand delivered him from his own transgression;"
+          },
+          {
+            "id": "v10-2",
+            "text": "10:2 and she gave him strength to rule over all things."
+          },
+          {
+            "id": "v10-3",
+            "text": "10:3 But an unrighteous man, departing from her in his anger,\nperished with the passions that made him kill his brother."
+          },
+          {
+            "id": "v10-4",
+            "text": "10:4 Because of him the earth was being flooded, but wisdom again saved it,\nsteering the righteous man by means of humble wood."
+          },
+          {
+            "id": "v10-5",
+            "text": "10:5 When nations were confounded in their shared wickedness,\nshe recognized the righteous man and kept him blameless before God,\nand preserved him strong against compassion for his child."
+          },
+          {
+            "id": "v10-6",
+            "text": "10:6 When the ungodly were being destroyed, she rescued a righteous man\nwho fled the fire descending upon the Five Cities."
+          },
+          {
+            "id": "v10-7",
+            "text": "10:7 As a witness to its wickedness there still stands a smoking wasteland,\nand plants whose fruit never reaches ripeness,\nand a standing pillar of salt, a memorial to a disbelieving soul."
+          },
+          {
+            "id": "v10-8",
+            "text": "10:8 For by passing wisdom by,\nthey were harmed not only by failing to know what is good,\nbut also left life a memorial of their folly,\nso that even in the things in which they failed they could not escape notice."
+          },
+          {
+            "id": "v10-9",
+            "text": "10:9 But wisdom rescued those who served her from troubles."
+          },
+          {
+            "id": "v10-10",
+            "text": "10:10 She guided a righteous man fleeing his brother’s anger along upright paths;\nshe showed him God’s kingdom\nand gave him knowledge of holy things;\nshe made him prosper in his hardships\nand multiplied the fruit of his labors."
+          },
+          {
+            "id": "v10-11",
+            "text": "10:11 She stood beside him against those who overpowered him in their greed,\nand made him rich."
+          },
+          {
+            "id": "v10-12",
+            "text": "10:12 She guarded him from enemies\nand kept him safe from those lying in wait;\nshe presided over a mighty contest for him,\nso that he might know that devotion to God is stronger than everything."
+          },
+          {
+            "id": "v10-13",
+            "text": "10:13 She did not abandon a righteous man who had been sold,\nbut rescued him from sin;"
+          },
+          {
+            "id": "v10-14",
+            "text": "10:14 she went down with him into a pit\nand did not leave him in bonds,\nuntil she brought him the scepters of kingship\nand authority over those who ruled him;\nshe showed those who accused him to be liars\nand gave him everlasting glory."
+          },
+          {
+            "id": "v10-15",
+            "text": "10:15 She rescued a holy people and blameless offspring\nfrom a nation of oppressors;"
+          },
+          {
+            "id": "v10-16",
+            "text": "10:16 she entered the soul of a servant of the Lord\nand opposed terrifying kings with wonders and signs."
+          },
+          {
+            "id": "v10-17",
+            "text": "10:17 She repaid the holy ones the reward of their labors,\nguided them on a marvelous way,\nand became for them a covering by day\nand a flame of stars by night."
+          },
+          {
+            "id": "v10-18",
+            "text": "10:18 She brought them across the Red Sea\nand led them through abundant water;"
+          },
+          {
+            "id": "v10-19",
+            "text": "10:19 but their enemies she overwhelmed with the flood\nand cast them up from the depth of the abyss."
+          },
+          {
+            "id": "v10-20",
+            "text": "10:20 Therefore the righteous plundered the ungodly\nand sang hymns, Lord, to Thy holy name,\nand praised with one accord Thy hand that fought for them;"
+          },
+          {
+            "id": "v10-21",
+            "text": "10:21 for wisdom opened the mouth of the mute\nand made the tongues of infants speak clearly."
+          }
+        ],
+        "chapter": 10,
+        "section": 10,
+        "page_id": 17968,
+        "title": "Wisdom of Solomon — Chapter 10",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-10/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 19,
+        "selected_chapter": "Wisdom of Solomon 10"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-10/",
+            "label": "Previous chapter, Wisdom of Solomon 10",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-12/",
+            "label": "Next chapter, Wisdom of Solomon 12",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-10/",
+            "text": "← Wisdom of Solomon 10"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+            "text": "Wisdom of Solomon: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-12/",
+            "text": "Wisdom of Solomon 12 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/wisdom-of-solomon/11/",
+            "text": "All 55 cross-references for Wisdom of Solomon 11, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v11-1",
+            "text": "11:1 She prospered their works by the hand of a holy prophet."
+          },
+          {
+            "id": "v11-2",
+            "text": "11:2 They traveled through an uninhabited desert\nand pitched tents in trackless places;"
+          },
+          {
+            "id": "v11-3",
+            "text": "11:3 they opposed their adversaries and repelled their enemies."
+          },
+          {
+            "id": "v11-4",
+            "text": "11:4 They thirsted and called upon Thee,\nand water was given them from a sheer rock,\nand a cure for thirst from hard stone."
+          },
+          {
+            "id": "v11-5",
+            "text": "11:5 For through the very things by which their enemies were punished,\nthey themselves received benefits in their need."
+          },
+          {
+            "id": "v11-6",
+            "text": "11:6 Instead of the source of an ever-flowing river\nturbid with bloody gore,"
+          },
+          {
+            "id": "v11-7",
+            "text": "11:7 as a rebuke to the decree for killing infants,\nThou didst give them abundant water beyond their expectation,"
+          },
+          {
+            "id": "v11-8",
+            "text": "11:8 showing through the thirst of that time\nhow Thou didst punish their opponents."
+          },
+          {
+            "id": "v11-9",
+            "text": "11:9 For when they were tested, although disciplined in mercy,\nthey learned how the ungodly were tormented when judged in wrath."
+          },
+          {
+            "id": "v11-10",
+            "text": "11:10 For these Thou didst test as a father giving instruction,\nbut those Thou didst examine as a stern king condemning them."
+          },
+          {
+            "id": "v11-11",
+            "text": "11:11 Whether absent or present, they were worn down alike;"
+          },
+          {
+            "id": "v11-12",
+            "text": "11:12 for a twofold sorrow seized them,\nand a groaning at the remembrance of what had passed."
+          },
+          {
+            "id": "v11-13",
+            "text": "11:13 For when they heard that the others had received benefits through their own punishments,\nthey became aware of the Lord."
+          },
+          {
+            "id": "v11-14",
+            "text": "11:14 For the one long ago cast out in exposure, whom they rejected with mockery,\nthey marveled at in the final outcome,\nhaving thirsted unlike the righteous."
+          },
+          {
+            "id": "v11-15",
+            "text": "11:15 In return for the senseless reasonings of their unrighteousness,\nin which they went astray and worshiped irrational creeping things and worthless beasts,\nThou didst send upon them a multitude of irrational animals for vengeance,"
+          },
+          {
+            "id": "v11-16",
+            "text": "11:16 so that they might know that through the things by which someone sins, through those things he is punished."
+          },
+          {
+            "id": "v11-17",
+            "text": "11:17 For Thine all-powerful hand,\nwhich created the world from unformed matter,\nwas not at a loss to send upon them a multitude of bears or fierce lions,"
+          },
+          {
+            "id": "v11-18",
+            "text": "11:18 or newly created, unknown beasts full of fury,\neither breathing a fire-breathing blast,\nor scattering a stench of smoke,\nor flashing dreadful sparks from their eyes,"
+          },
+          {
+            "id": "v11-19",
+            "text": "11:19 whose injury could not only utterly crush them,\nbut whose very appearance could terrify and destroy them."
+          },
+          {
+            "id": "v11-20",
+            "text": "11:20 Even without these, they could have fallen at a single breath,\npursued by justice\nand winnowed away by the breath of Thy power;\nbut Thou didst arrange all things by measure and number and weight."
+          },
+          {
+            "id": "v11-21",
+            "text": "11:21 For great strength is always at Thy disposal,\nand who will oppose the might of Thine arm?"
+          },
+          {
+            "id": "v11-22",
+            "text": "11:22 For the whole world before Thee is like a slight tipping of the scales,\nand like a drop of morning dew that has fallen upon the earth."
+          },
+          {
+            "id": "v11-23",
+            "text": "11:23 But Thou hast mercy on all, because Thou canst do all things,\nand Thou overlookest human sins with a view to repentance."
+          },
+          {
+            "id": "v11-24",
+            "text": "11:24 For Thou lovest all existing things\nand abhorrest nothing that Thou didst make;\nfor Thou wouldst not have fashioned anything while hating it."
+          },
+          {
+            "id": "v11-25",
+            "text": "11:25 How could anything have endured unless Thou didst will it,\nor what had not been called by Thee have been preserved?"
+          },
+          {
+            "id": "v11-26",
+            "text": "11:26 But Thou sparest all things, because they are Thine, Master who loves life."
+          }
+        ],
+        "chapter": 11,
+        "section": 11,
+        "page_id": 17969,
+        "title": "Wisdom of Solomon — Chapter 11",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-11/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 19,
+        "selected_chapter": "Wisdom of Solomon 11"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-11/",
+            "label": "Previous chapter, Wisdom of Solomon 11",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-13/",
+            "label": "Next chapter, Wisdom of Solomon 13",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-11/",
+            "text": "← Wisdom of Solomon 11"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+            "text": "Wisdom of Solomon: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-13/",
+            "text": "Wisdom of Solomon 13 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/wisdom-of-solomon/12/",
+            "text": "All 42 cross-references for Wisdom of Solomon 12, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v12-1",
+            "text": "12:1 For Thine incorruptible Spirit is in all things."
+          },
+          {
+            "id": "v12-2",
+            "text": "12:2 Therefore Thou reprovest those who fall away little by little,\nand admonishest them by reminding them of the things in which they sin,\nso that, freed from evil, they may believe in Thee, Lord."
+          },
+          {
+            "id": "v12-3",
+            "text": "12:3 For the ancient inhabitants of Thy holy land,"
+          },
+          {
+            "id": "v12-4",
+            "text": "12:4 whom Thou didst hate for practicing the most detestable things—\nworks of sorcery and unholy rites,"
+          },
+          {
+            "id": "v12-5",
+            "text": "12:5 merciless murders of children,\nand an entrail-devouring feast of human flesh and blood—\ninitiates from the midst of a ritual company,"
+          },
+          {
+            "id": "v12-6",
+            "text": "12:6 and parents who were murderers of helpless lives,\nThou didst will to destroy by the hands of our fathers,"
+          },
+          {
+            "id": "v12-7",
+            "text": "12:7 so that the land most precious to Thee of all\nmight receive a worthy settlement of God’s children."
+          },
+          {
+            "id": "v12-8",
+            "text": "12:8 Yet even these Thou didst spare as human beings,\nand send hornets as forerunners of Thine army,\nso that they might destroy them little by little."
+          },
+          {
+            "id": "v12-9",
+            "text": "12:9 Thou wast not unable to give the ungodly into the hands of the righteous in battle,\nor to crush them all at once with terrifying beasts or a stern word;"
+          },
+          {
+            "id": "v12-10",
+            "text": "12:10 but judging them little by little, Thou didst give room for repentance,\nnot unaware that their origin was wicked,\nand their evil ingrained,\nand that their reasoning would never change."
+          },
+          {
+            "id": "v12-11",
+            "text": "12:11 For they were an accursed offspring from the beginning;\nnor was it out of fear of anyone that Thou didst grant them respite for their sins."
+          },
+          {
+            "id": "v12-12",
+            "text": "12:12 For who will say, ‘What hast Thou done?’\nOr who will oppose Thy judgment?\nWho will accuse Thee concerning destroyed nations that Thou didst make?\nOr who will come to confront Thee as an avenger concerning unrighteous human beings?"
+          },
+          {
+            "id": "v12-13",
+            "text": "12:13 For there is no god besides Thee, who cares for all,\nso that Thou shouldst have to show that Thou hast not judged unjustly;"
+          },
+          {
+            "id": "v12-14",
+            "text": "12:14 nor will a king or ruler be able to face Thee concerning those Thou didst punish."
+          },
+          {
+            "id": "v12-15",
+            "text": "12:15 But being righteous, Thou administerest all things righteously,\nregarding it as alien to Thy power\nto condemn anyone who does not deserve punishment."
+          },
+          {
+            "id": "v12-16",
+            "text": "12:16 For Thy strength is the beginning of righteousness,\nand Thy mastery over all makes Thee spare all."
+          },
+          {
+            "id": "v12-17",
+            "text": "12:17 For Thou displayest strength when the completeness of Thy power is disbelieved,\nand among those who know, Thou exposest their audacity."
+          },
+          {
+            "id": "v12-18",
+            "text": "12:18 But Thou, master of strength, judgest with gentleness\nand governest us with great forbearance;\nfor the ability to act is at Thy disposal whenever Thou wilt."
+          },
+          {
+            "id": "v12-19",
+            "text": "12:19 Through such works Thou didst teach Thy people\nthat the righteous person must love humanity,\nand make Thy sons hopeful,\nbecause Thou givest repentance for sins."
+          },
+          {
+            "id": "v12-20",
+            "text": "12:20 For if Thou didst punish the enemies of Thy children, who were liable to death,\nwith such attention and leniency,\ngiving times and room through which they might be freed from evil,"
+          },
+          {
+            "id": "v12-21",
+            "text": "12:21 with how much care didst Thou judge Thy sons,\nto whose fathers Thou didst give oaths and covenants of good promises?"
+          },
+          {
+            "id": "v12-22",
+            "text": "12:22 Therefore, while disciplining us, Thou scourgest our enemies with myriad blows,\nso that when judging we may consider Thy goodness,\nand when judged we may expect mercy."
+          },
+          {
+            "id": "v12-23",
+            "text": "12:23 Therefore those who lived unrighteously in a foolish way of life\nThou didst also torment through their own abominations."
+          },
+          {
+            "id": "v12-24",
+            "text": "12:24 For they wandered even farther than the paths of error,\nsupposing that creatures despised even among shameful animals were gods,\ndeceived like senseless infants."
+          },
+          {
+            "id": "v12-25",
+            "text": "12:25 Therefore, as to children without reason,\nThou didst send judgment in mockery."
+          },
+          {
+            "id": "v12-26",
+            "text": "12:26 But those who were not admonished by playful reproofs\nwill experience a judgment worthy of God."
+          },
+          {
+            "id": "v12-27",
+            "text": "12:27 For as they suffered punishment through the very creatures\nthey had supposed to be gods, they grew indignant at them,\nand saw and recognized as the true God the One they had long refused to know;\ntherefore the final condemnation also came upon them."
+          }
+        ],
+        "chapter": 12,
+        "section": 12,
+        "page_id": 17970,
+        "title": "Wisdom of Solomon — Chapter 12",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-12/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 19,
+        "selected_chapter": "Wisdom of Solomon 12"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-12/",
+            "label": "Previous chapter, Wisdom of Solomon 12",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-14/",
+            "label": "Next chapter, Wisdom of Solomon 14",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-12/",
+            "text": "← Wisdom of Solomon 12"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+            "text": "Wisdom of Solomon: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-14/",
+            "text": "Wisdom of Solomon 14 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/wisdom-of-solomon/13/",
+            "text": "All 41 cross-references for Wisdom of Solomon 13, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v13-1",
+            "text": "13:1 For all human beings in whom ignorance of God was present were futile by nature;\nfrom the good things seen they could not know the One who is,\nnor, attending to the works, did they recognize the Artisan."
+          },
+          {
+            "id": "v13-2",
+            "text": "13:2 Instead, they supposed fire or wind or swift-moving air,\nor the circuit of stars or violent water,\nor the lights of heaven to be gods, rulers of the world."
+          },
+          {
+            "id": "v13-3",
+            "text": "13:3 If, delighted by their beauty, they supposed these things to be gods,\nlet them know how much better than these their Master is;\nfor the Originator of beauty created them."
+          },
+          {
+            "id": "v13-4",
+            "text": "13:4 And if they were astonished at their power and activity,\nlet them understand from these how much more powerful the One who fashioned them is."
+          },
+          {
+            "id": "v13-5",
+            "text": "13:5 For from the greatness and beauty of created things\ntheir Maker is seen by analogy."
+          },
+          {
+            "id": "v13-6",
+            "text": "13:6 Yet the blame upon these is small,\nfor perhaps they themselves go astray\nwhile seeking God and wishing to find Him."
+          },
+          {
+            "id": "v13-7",
+            "text": "13:7 For living among His works, they search them out\nand are persuaded by their appearance, because the things seen are beautiful."
+          },
+          {
+            "id": "v13-8",
+            "text": "13:8 But again, even they are not excusable;"
+          },
+          {
+            "id": "v13-9",
+            "text": "13:9 for if they were able to know so much\nthat they could investigate the world,\nhow did they not more quickly find the Master of these things?"
+          },
+          {
+            "id": "v13-10",
+            "text": "13:10 But wretched are those whose hopes rest in dead things,\nwho called the works of human hands gods:\ngold and silver, exercises of craftsmanship,\nlikenesses of living creatures,\nor a useless stone, the work of an ancient hand."
+          },
+          {
+            "id": "v13-11",
+            "text": "13:11 Suppose a woodcutting craftsman sawed down a manageable tree,\nskillfully scraped off all its bark,\nand, working it handsomely,\nfashioned a useful vessel for the service of life,"
+          },
+          {
+            "id": "v13-12",
+            "text": "13:12 and burned the scraps from the work\nto prepare food and ate his fill,"
+          },
+          {
+            "id": "v13-13",
+            "text": "13:13 then took the scrap left from these, useful for nothing,\na crooked piece of wood grown full of knots,\nand carved it with the care of his leisure,\nshaped it with practiced understanding,\nand made it resemble a human image,"
+          },
+          {
+            "id": "v13-14",
+            "text": "13:14 or made it like some worthless animal,\ncoating it with red ocher and reddening its surface with paint,\nand covering every blemish in it,"
+          },
+          {
+            "id": "v13-15",
+            "text": "13:15 and made for it a dwelling worthy of it,\nset it in a wall, and secured it with iron."
+          },
+          {
+            "id": "v13-16",
+            "text": "13:16 He took care that it would not fall,\nknowing that it cannot help itself;\nfor it is an image and needs help."
+          },
+          {
+            "id": "v13-17",
+            "text": "13:17 Yet when praying concerning his possessions, marriage, and children,\nhe is not ashamed to address what has no soul;\nfor health he calls upon what is weak,"
+          },
+          {
+            "id": "v13-18",
+            "text": "13:18 for life he petitions what is dead,\nfor assistance he begs what is utterly inexperienced,\nfor a journey what cannot even use its feet,"
+          },
+          {
+            "id": "v13-19",
+            "text": "13:19 and for gain, work, and success of his hands,\nhe asks vigor of what is most powerless with its hands."
+          }
+        ],
+        "chapter": 13,
+        "section": 13,
+        "page_id": 17971,
+        "title": "Wisdom of Solomon — Chapter 13",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-13/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 19,
+        "selected_chapter": "Wisdom of Solomon 13"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-13/",
+            "label": "Previous chapter, Wisdom of Solomon 13",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-15/",
+            "label": "Next chapter, Wisdom of Solomon 15",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-13/",
+            "text": "← Wisdom of Solomon 13"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+            "text": "Wisdom of Solomon: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-15/",
+            "text": "Wisdom of Solomon 15 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/wisdom-of-solomon/14/",
+            "text": "All 43 cross-references for Wisdom of Solomon 14, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v14-1",
+            "text": "14:1 Again, someone preparing for a voyage and about to traverse wild waves\ncalls upon a piece of wood more rotten than the ship carrying him."
+          },
+          {
+            "id": "v14-2",
+            "text": "14:2 For the desire for gain devised that ship,\nand wisdom, the artisan, fashioned it;"
+          },
+          {
+            "id": "v14-3",
+            "text": "14:3 but Thy providence, Father, steers it,\nfor Thou didst give a way even in the sea\nand a safe path among the waves,"
+          },
+          {
+            "id": "v14-4",
+            "text": "14:4 showing that Thou canst save from every danger,\nso that even someone without skill may embark."
+          },
+          {
+            "id": "v14-5",
+            "text": "14:5 Thou wilt that the works of Thy wisdom should not be idle;\ntherefore human beings entrust their lives even to a very small piece of wood,\nand, crossing the surge on a raft, they were brought safely through."
+          },
+          {
+            "id": "v14-6",
+            "text": "14:6 For even at the beginning, when arrogant giants were perishing,\nthe hope of the world took refuge on a raft\nand left to the age a seed for generation, steered by Thy hand."
+          },
+          {
+            "id": "v14-7",
+            "text": "14:7 For blessed is wood through which righteousness comes about;"
+          },
+          {
+            "id": "v14-8",
+            "text": "14:8 but the handmade object is accursed, both it and its maker:\nthe one because he made it,\nand the other because, though corruptible, it was named a god."
+          },
+          {
+            "id": "v14-9",
+            "text": "14:9 For equally hateful to God are the ungodly person and his ungodliness;"
+          },
+          {
+            "id": "v14-10",
+            "text": "14:10 for what was done will be punished together with the one who did it."
+          },
+          {
+            "id": "v14-11",
+            "text": "14:11 Therefore there will also be a visitation upon the nations’ idols,\nbecause within God’s creation they became an abomination,\nstumbling blocks to human souls,\nand a snare for the feet of fools."
+          },
+          {
+            "id": "v14-12",
+            "text": "14:12 For the devising of idols is the beginning of sexual immorality,\nand their invention the corruption of life."
+          },
+          {
+            "id": "v14-13",
+            "text": "14:13 For they did not exist from the beginning,\nnor will they exist for ever;"
+          },
+          {
+            "id": "v14-14",
+            "text": "14:14 through human vainglory they entered the world,\nand therefore a swift end was planned for them."
+          },
+          {
+            "id": "v14-15",
+            "text": "14:15 For a father worn down by untimely grief,\nhaving made an image of a child swiftly taken away,\nnow honored as a god the one who had once been a dead human being,\nand handed on mysteries and rites to those under him."
+          },
+          {
+            "id": "v14-16",
+            "text": "14:16 Then, strengthened over time, the ungodly custom was kept as law."
+          },
+          {
+            "id": "v14-17",
+            "text": "14:17 And carved images were worshiped at rulers’ commands;\nwhen people could not honor them face to face because they lived far away,\nthey reproduced their distant appearance\nand made a visible image of the honored king,\nso that by their zeal they might flatter the absent one as though present."
+          },
+          {
+            "id": "v14-18",
+            "text": "14:18 The artist’s ambition urged even those who did not know the king\ntoward still greater worship;"
+          },
+          {
+            "id": "v14-19",
+            "text": "14:19 for, perhaps wishing to please the ruler,\nhe used his art to force the likeness toward greater beauty."
+          },
+          {
+            "id": "v14-20",
+            "text": "14:20 The multitude, drawn by the charm of the workmanship,\nnow reckoned as an object of worship the human being whom they had honored a little before."
+          },
+          {
+            "id": "v14-21",
+            "text": "14:21 And this became an ambush for life,\nbecause human beings, enslaved either to misfortune or to royal power,\nbestowed upon stones and pieces of wood the name that cannot be shared."
+          },
+          {
+            "id": "v14-22",
+            "text": "14:22 Then it was not enough to go astray about the knowledge of God;\nliving in the great war of ignorance,\nthey also call such great evils peace."
+          },
+          {
+            "id": "v14-23",
+            "text": "14:23 For while celebrating rites that murder children, or secret mysteries,\nor frenzied revelries with strange customs,"
+          },
+          {
+            "id": "v14-24",
+            "text": "14:24 they no longer keep either lives or marriages pure;\none kills another by ambush or grieves him by adultery."
+          },
+          {
+            "id": "v14-25",
+            "text": "14:25 Bloodshed and murder, theft and deceit, hold everything in confusion,\ncorruption, unfaithfulness, disturbance, perjury,"
+          },
+          {
+            "id": "v14-26",
+            "text": "14:26 confusion of good things, forgetfulness of favor,\ndefilement of souls, alteration of natural relations,\ndisorder in marriages, adultery, and licentiousness."
+          },
+          {
+            "id": "v14-27",
+            "text": "14:27 For worship of nameless idols\nis the beginning, cause, and end of every evil."
+          },
+          {
+            "id": "v14-28",
+            "text": "14:28 For they either go mad in their merrymaking, or prophesy lies,\nor live unjustly, or readily swear falsely."
+          },
+          {
+            "id": "v14-29",
+            "text": "14:29 For trusting in lifeless idols,\nthey do not expect to be harmed when they swear wrongly."
+          },
+          {
+            "id": "v14-30",
+            "text": "14:30 But just consequences will pursue them for both things:\nbecause they thought wrongly about God by attending to idols,\nand swore unjustly in deceit, despising holiness."
+          },
+          {
+            "id": "v14-31",
+            "text": "14:31 For it is not the power of those by whom they swear,\nbut the justice due to sinners,\nthat always pursues the transgression of the unrighteous."
+          }
+        ],
+        "chapter": 14,
+        "section": 14,
+        "page_id": 17972,
+        "title": "Wisdom of Solomon — Chapter 14",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-14/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 19,
+        "selected_chapter": "Wisdom of Solomon 14"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-14/",
+            "label": "Previous chapter, Wisdom of Solomon 14",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-16/",
+            "label": "Next chapter, Wisdom of Solomon 16",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-14/",
+            "text": "← Wisdom of Solomon 14"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+            "text": "Wisdom of Solomon: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-16/",
+            "text": "Wisdom of Solomon 16 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/wisdom-of-solomon/15/",
+            "text": "All 27 cross-references for Wisdom of Solomon 15, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v15-1",
+            "text": "15:1 But Thou, our God, art good and true,\npatient, and governing all things in mercy."
+          },
+          {
+            "id": "v15-2",
+            "text": "15:2 For even if we sin, we are Thine, knowing Thy might;\nbut we will not sin, knowing that we have been reckoned as Thine."
+          },
+          {
+            "id": "v15-3",
+            "text": "15:3 For to know Thee is complete righteousness,\nand to know Thy might is the root of immortality."
+          },
+          {
+            "id": "v15-4",
+            "text": "15:4 For neither the evil-devising invention of human beings misled us,\nnor the fruitless labor of painters,\na form stained with varied colors,"
+          },
+          {
+            "id": "v15-5",
+            "text": "15:5 the sight of which stirs desire in fools,\nand one longs for the breathless form of a dead image."
+          },
+          {
+            "id": "v15-6",
+            "text": "15:6 Lovers of evil and worthy of such hopes\nare those who make them, those who desire them, and those who worship them."
+          },
+          {
+            "id": "v15-7",
+            "text": "15:7 For a potter, laboriously kneading soft earth,\nshapes each object for our service;\nfrom the same clay he fashioned alike\nvessels serving clean purposes\nand those serving the opposite;\nand the clay-worker decides the use of each kind."
+          },
+          {
+            "id": "v15-8",
+            "text": "15:8 With evil labor he also shapes a futile god from the same clay,\nthough he himself, having come from earth a little before,\nwill shortly go back to that from which he was taken,\nwhen the debt of his soul is demanded."
+          },
+          {
+            "id": "v15-9",
+            "text": "15:9 But his concern is not that he is about to die,\nnor that his life is short;\ninstead, he competes with goldsmiths and silver-workers,\nimitates bronze-workers,\nand considers it glory that he fashions counterfeits."
+          },
+          {
+            "id": "v15-10",
+            "text": "15:10 His heart is ashes, and his hope more worthless than earth,\nand his life more dishonorable than clay,"
+          },
+          {
+            "id": "v15-11",
+            "text": "15:11 because he did not know the One who formed him,\nwho breathed into him an active soul\nand breathed in a life-giving spirit."
+          },
+          {
+            "id": "v15-12",
+            "text": "15:12 Instead, they reckoned our life a plaything\nand our existence a profitable fair;\nfor he says that one must make gain from whatever source, even evil."
+          },
+          {
+            "id": "v15-13",
+            "text": "15:13 For this man knows better than everyone that he is sinning,\nwhen he crafts fragile vessels and carved images from earthy material."
+          },
+          {
+            "id": "v15-14",
+            "text": "15:14 But all the enemies of Thy people who oppressed them\nare most foolish and more wretched than an infant’s soul,"
+          },
+          {
+            "id": "v15-15",
+            "text": "15:15 because they also reckoned all the nations’ idols gods,\nthough these have neither use of eyes for sight,\nnor nostrils for drawing in air,\nnor ears to hear,\nnor fingers of their hands to feel,\nand their feet are idle for walking."
+          },
+          {
+            "id": "v15-16",
+            "text": "15:16 For a human being made them,\nand one who had borrowed his spirit fashioned them;\nfor no human being can shape a god like himself."
+          },
+          {
+            "id": "v15-17",
+            "text": "15:17 Being mortal, he makes a dead thing with lawless hands;\nfor he is better than the objects he worships:\nhe at least has lived, but they never have."
+          },
+          {
+            "id": "v15-18",
+            "text": "15:18 They also worship the most hateful animals,\nfor compared in senselessness with the others, these are worse;"
+          },
+          {
+            "id": "v15-19",
+            "text": "15:19 Nor, in their appearance as animals, are they beautiful enough to be desired,\nand they have escaped both God’s praise and His blessing."
+          }
+        ],
+        "chapter": 15,
+        "section": 15,
+        "page_id": 17973,
+        "title": "Wisdom of Solomon — Chapter 15",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-15/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 19,
+        "selected_chapter": "Wisdom of Solomon 15"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-15/",
+            "label": "Previous chapter, Wisdom of Solomon 15",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-17/",
+            "label": "Next chapter, Wisdom of Solomon 17",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-15/",
+            "text": "← Wisdom of Solomon 15"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+            "text": "Wisdom of Solomon: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-17/",
+            "text": "Wisdom of Solomon 17 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/wisdom-of-solomon/16/",
+            "text": "All 49 cross-references for Wisdom of Solomon 16, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v16-1",
+            "text": "16:1 Therefore they were deservedly punished through similar creatures\nand tormented by a multitude of beasts."
+          },
+          {
+            "id": "v16-2",
+            "text": "16:2 In contrast to that punishment, Thou didst benefit Thy people:\nto meet their eager appetite Thou didst prepare quail as food,\na novel taste,"
+          },
+          {
+            "id": "v16-3",
+            "text": "16:3 so that those, though desiring food,\nwould turn away even from their necessary appetite\nbecause of the loathsomeness of the creatures sent upon them,\nwhile these, after a brief lack,\nwould share in a novel taste."
+          },
+          {
+            "id": "v16-4",
+            "text": "16:4 For unavoidable need had to come upon those who oppressed,\nbut these only had to be shown how their enemies were tormented."
+          },
+          {
+            "id": "v16-5",
+            "text": "16:5 For even when the terrible fury of beasts came upon them,\nand they were being destroyed by the bites of twisting snakes,\nThy wrath did not remain to the end;"
+          },
+          {
+            "id": "v16-6",
+            "text": "16:6 they were troubled for a short time as an admonition,\nhaving a symbol of salvation to remind them of the commandment of Thy law."
+          },
+          {
+            "id": "v16-7",
+            "text": "16:7 For the one who turned toward it was saved not through what was seen,\nbut through Thee, the Savior of all."
+          },
+          {
+            "id": "v16-8",
+            "text": "16:8 Through this Thou didst also convince our enemies\nthat Thou art the One who rescues from every evil."
+          },
+          {
+            "id": "v16-9",
+            "text": "16:9 For the bites of locusts and flies killed those others,\nand no cure was found for their lives,\nbecause they deserved to be punished by such creatures;"
+          },
+          {
+            "id": "v16-10",
+            "text": "16:10 but even the teeth of venom-spitting serpents did not conquer Thy sons,\nfor Thy mercy came to meet them and healed them."
+          },
+          {
+            "id": "v16-11",
+            "text": "16:11 For they were stung as a reminder of Thine oracles\nand swiftly brought safely through,\nso that they would not fall into deep forgetfulness\nand become inattentive to Thy beneficence."
+          },
+          {
+            "id": "v16-12",
+            "text": "16:12 For neither herb nor poultice healed them,\nbut Thy word, Lord, which heals all."
+          },
+          {
+            "id": "v16-13",
+            "text": "16:13 For Thou hast authority over life and death,\nand Thou bringest down to the gates of Hades and bringest up again;"
+          },
+          {
+            "id": "v16-14",
+            "text": "16:14 but a human being kills by his wickedness,\nand does not bring back a spirit that has gone out,\nnor release a soul that has been taken."
+          },
+          {
+            "id": "v16-15",
+            "text": "16:15 But it is impossible to escape Thy hand."
+          },
+          {
+            "id": "v16-16",
+            "text": "16:16 For the ungodly, refusing to know Thee,\nwere scourged by the strength of Thine arm,\npursued by strange rains, hail, and relentless showers,\nand consumed by fire."
+          },
+          {
+            "id": "v16-17",
+            "text": "16:17 Most astonishingly, in water that quenches everything,\nthe fire worked still more strongly,\nfor the world fights for the righteous."
+          },
+          {
+            "id": "v16-18",
+            "text": "16:18 At one time the flame was tamed,\nso that it would not burn up the animals sent against the ungodly,\nbut they themselves, seeing, would know that they were being driven by God’s judgment;"
+          },
+          {
+            "id": "v16-19",
+            "text": "16:19 at another time, even amid water, it burns beyond fire’s own power,\nso that it may destroy the produce of an unrighteous land."
+          },
+          {
+            "id": "v16-20",
+            "text": "16:20 In contrast, Thou didst feed Thy people with angels’ food\nand supply them ready bread from heaven without toil,\ncapable of every delight and suited to every taste."
+          },
+          {
+            "id": "v16-21",
+            "text": "16:21 For Thy sustenance manifested Thy sweetness toward Thy children;\nserving the desire of the one who received it,\nit was transformed into whatever that person wished."
+          },
+          {
+            "id": "v16-22",
+            "text": "16:22 Snow and ice endured fire and did not melt,\nso that they might know that the enemies’ fruits\nwere destroyed by fire blazing in the hail\nand flashing in the rains;"
+          },
+          {
+            "id": "v16-23",
+            "text": "16:23 yet again, so that the righteous might be nourished,\nthis fire has even forgotten its own power."
+          },
+          {
+            "id": "v16-24",
+            "text": "16:24 For creation, serving Thee who made it,\nstrains itself for punishment against the unrighteous\nand relaxes itself for benefit on behalf of those who trust in Thee."
+          },
+          {
+            "id": "v16-25",
+            "text": "16:25 Therefore at that time also, changing into all things,\nit served Thy gift that nourishes all,\naccording to the desire of those in need,"
+          },
+          {
+            "id": "v16-26",
+            "text": "16:26 so that Thy sons whom Thou didst love, Lord, might learn\nthat it is not the production of fruits that nourishes a human being,\nbut Thine utterance that preserves those who trust in Thee."
+          },
+          {
+            "id": "v16-27",
+            "text": "16:27 For what was not destroyed by fire\nmelted when merely warmed by a brief ray of the sun,"
+          },
+          {
+            "id": "v16-28",
+            "text": "16:28 so that it might be known that one must rise before the sun to give Thee thanks\nand appeal to Thee at the rising of the light."
+          },
+          {
+            "id": "v16-29",
+            "text": "16:29 For the hope of an ungrateful person will melt like wintry frost\nand flow away like useless water."
+          }
+        ],
+        "chapter": 16,
+        "section": 16,
+        "page_id": 17974,
+        "title": "Wisdom of Solomon — Chapter 16",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-16/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 19,
+        "selected_chapter": "Wisdom of Solomon 16"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-16/",
+            "label": "Previous chapter, Wisdom of Solomon 16",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-18/",
+            "label": "Next chapter, Wisdom of Solomon 18",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-16/",
+            "text": "← Wisdom of Solomon 16"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+            "text": "Wisdom of Solomon: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-18/",
+            "text": "Wisdom of Solomon 18 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/wisdom-of-solomon/17/",
+            "text": "All 8 cross-references for Wisdom of Solomon 17, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v17-1",
+            "text": "17:1 For Thy judgments are great and hard to recount;\ntherefore uninstructed souls went astray."
+          },
+          {
+            "id": "v17-2",
+            "text": "17:2 For lawless people, supposing they could oppress a holy nation,\nlay as prisoners of darkness and captives of a long night,\nshut under their roofs, fugitives from eternal providence."
+          },
+          {
+            "id": "v17-3",
+            "text": "17:3 For thinking they could escape notice in secret sins,\nunder a lightless covering of forgetfulness,\nthey were scattered, terribly astonished\nand shaken by apparitions."
+          },
+          {
+            "id": "v17-4",
+            "text": "17:4 For not even the recess that held them kept them free from fear;\nterrifying sounds rang around them,\nand gloomy specters with unsmiling faces appeared."
+          },
+          {
+            "id": "v17-5",
+            "text": "17:5 No force of fire could give light,\nnor could the bright flames of stars\nendure to illuminate that hateful night."
+          },
+          {
+            "id": "v17-6",
+            "text": "17:6 Only a self-kindled fire\nfull of fear shone through to them;\nterrified by that unseen sight,\nthey reckoned what they saw still worse."
+          },
+          {
+            "id": "v17-7",
+            "text": "17:7 The delusions of magical art lay prostrate,\nand its boasting of understanding suffered a scornful exposure;"
+          },
+          {
+            "id": "v17-8",
+            "text": "17:8 for those who promised to drive away the terrors and disturbances of a sick soul\nwere themselves sick with a ridiculous fear."
+          },
+          {
+            "id": "v17-9",
+            "text": "17:9 For even if nothing disturbing frightened them,\nstartled by the passing of beasts and the hissing of creeping things,\nthey perished trembling,\nrefusing even to look at the air, which cannot be escaped anywhere."
+          },
+          {
+            "id": "v17-10",
+            "text": "17:10 For wickedness is a cowardly thing, condemned by its own witness;\npressed by conscience, it always imagines grievous things."
+          },
+          {
+            "id": "v17-11",
+            "text": "17:11 For fear is nothing but a betrayal of the aids that come from reasoning;"
+          },
+          {
+            "id": "v17-12",
+            "text": "17:12 and as expectation within grows weaker,\nit reckons ignorance more fearful than the cause that produces the torment."
+          },
+          {
+            "id": "v17-13",
+            "text": "17:13 But they, sleeping the same sleep during that truly powerless night,\nwhich had come upon them from the recesses of powerless Hades,"
+          },
+          {
+            "id": "v17-14",
+            "text": "17:14 were at one moment driven by monstrous apparitions,\nat another paralyzed by their soul’s betrayal;\nfor a sudden and unexpected fear poured over them."
+          },
+          {
+            "id": "v17-15",
+            "text": "17:15 Then whoever it might be who fell there\nwas held under guard, shut in a prison without iron bars."
+          },
+          {
+            "id": "v17-16",
+            "text": "17:16 For whether someone was a farmer or shepherd\nor a laborer toiling in the wilderness,\nonce overtaken, he endured the inescapable compulsion;\nfor all were bound by one chain of darkness."
+          },
+          {
+            "id": "v17-17",
+            "text": "17:17 Whether a whistling wind,\nor the melodious sound of birds among spreading branches,\nor the rhythm of water rushing violently,\nor the harsh crash of falling rocks,"
+          },
+          {
+            "id": "v17-18",
+            "text": "17:18 or the unseen running of leaping animals,\nor the voice of the fiercest roaring beasts,\nor an echo rebounding from the hollows of mountains,\nthese terrified and paralyzed them."
+          },
+          {
+            "id": "v17-19",
+            "text": "17:19 For the whole world was illuminated by brilliant light\nand occupied with unhindered works;"
+          },
+          {
+            "id": "v17-20",
+            "text": "17:20 but over those alone a heavy night was spread,\nan image of the darkness that was to receive them;\nyet they were heavier to themselves than the darkness."
+          }
+        ],
+        "chapter": 17,
+        "section": 17,
+        "page_id": 17975,
+        "title": "Wisdom of Solomon — Chapter 17",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-17/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 19,
+        "selected_chapter": "Wisdom of Solomon 17"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-17/",
+            "label": "Previous chapter, Wisdom of Solomon 17",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-19/",
+            "label": "Next chapter, Wisdom of Solomon 19",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-17/",
+            "text": "← Wisdom of Solomon 17"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+            "text": "Wisdom of Solomon: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-19/",
+            "text": "Wisdom of Solomon 19 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/wisdom-of-solomon/18/",
+            "text": "All 42 cross-references for Wisdom of Solomon 18, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v18-1",
+            "text": "18:1 But for Thy holy ones there was very great light;\nhearing their voices but not seeing their forms,\nthe others called them blessed because they had not suffered likewise,"
+          },
+          {
+            "id": "v18-2",
+            "text": "18:2 and thanked them because, though previously wronged, they did not harm them,\nand begged pardon for their quarrel."
+          },
+          {
+            "id": "v18-3",
+            "text": "18:3 In contrast, Thou didst supply a fire-blazing pillar,\na guide for an unknown journey,\nand a harmless sun for a glorious sojourn abroad."
+          },
+          {
+            "id": "v18-4",
+            "text": "18:4 For those deserved to be deprived of light and imprisoned in darkness\nwho had kept Thy sons shut up,\nthrough whom the incorruptible light of law was to be given to the world."
+          },
+          {
+            "id": "v18-5",
+            "text": "18:5 When they planned to kill the infants of the holy ones,\nand one child had been exposed and saved,\nThou didst take away their multitude of children as a rebuke\nand destroy them together in violent water."
+          },
+          {
+            "id": "v18-6",
+            "text": "18:6 That night was known beforehand to our fathers,\nso that, knowing securely the oaths in which they trusted, they might take courage."
+          },
+          {
+            "id": "v18-7",
+            "text": "18:7 Thy people awaited\nthe salvation of the righteous and the destruction of enemies;"
+          },
+          {
+            "id": "v18-8",
+            "text": "18:8 for by the very means through which Thou didst punish the opponents,\nThou didst glorify us, calling us to Thyself."
+          },
+          {
+            "id": "v18-9",
+            "text": "18:9 For in secret the holy children of good ancestors offered sacrifice,\nand in unity established the divine law:\nthat the saints would share alike in the same good things and dangers,\nalready singing beforehand the praises of the fathers."
+          },
+          {
+            "id": "v18-10",
+            "text": "18:10 But the discordant cry of enemies echoed back,\nand a pitiful sound spread abroad as children were mourned."
+          },
+          {
+            "id": "v18-11",
+            "text": "18:11 Slave and master were punished together by the same judgment,\nand the commoner suffered the same things as the king;"
+          },
+          {
+            "id": "v18-12",
+            "text": "18:12 all together, under one name of death,\nthey had countless dead;\nfor the living were not even sufficient to bury them,\nsince in a single moment their most honored offspring had been destroyed."
+          },
+          {
+            "id": "v18-13",
+            "text": "18:13 For though they disbelieved everything because of their sorceries,\nat the destruction of the firstborn they acknowledged that the people were God’s son."
+          },
+          {
+            "id": "v18-14",
+            "text": "18:14 For while quiet silence surrounded all things\nand night was midway through its swift course,"
+          },
+          {
+            "id": "v18-15",
+            "text": "18:15 Thine all-powerful word leaped from heaven, from royal thrones,\na stern warrior, into the midst of the doomed land,\ncarrying Thine unfeigned command as a sharp sword;"
+          },
+          {
+            "id": "v18-16",
+            "text": "18:16 standing there, it filled all things with death;\nit touched heaven while standing upon the earth."
+          },
+          {
+            "id": "v18-17",
+            "text": "18:17 Then at once apparitions of dreadful dreams disturbed them,\nand unexpected fears came upon them;"
+          },
+          {
+            "id": "v18-18",
+            "text": "18:18 one here and another there, hurled down half-dead,\nmade known the reason why they were dying."
+          },
+          {
+            "id": "v18-19",
+            "text": "18:19 For the dreams that troubled them had announced this beforehand,\nso that they would not perish without knowing why they suffered."
+          },
+          {
+            "id": "v18-20",
+            "text": "18:20 But a trial of death touched the righteous too,\nand a breaking of the multitude occurred in the wilderness;\nyet the wrath did not remain long."
+          },
+          {
+            "id": "v18-21",
+            "text": "18:21 For a blameless man hastened to fight for them,\nbringing the weapon of his own ministry:\nprayer and propitiation by incense.\nHe opposed the wrath and put an end to the calamity,\nshowing that he was Thy servant."
+          },
+          {
+            "id": "v18-22",
+            "text": "18:22 He conquered the anger, not by bodily strength,\nnot by the activity of weapons,\nbut by a word he subdued the punisher,\nreminding him of the fathers’ oaths and covenants."
+          },
+          {
+            "id": "v18-23",
+            "text": "18:23 For when the dead had already fallen in heaps upon one another,\nhe stood between them and checked the wrath,\nand cut off the path to the living."
+          },
+          {
+            "id": "v18-24",
+            "text": "18:24 For upon his ankle-length garment was the whole world,\nand the glories of the fathers upon the engraving of four rows of stones,\nand Thy majesty upon the diadem of his head."
+          },
+          {
+            "id": "v18-25",
+            "text": "18:25 To these the destroyer yielded, and these he feared;\nfor the trial of wrath alone was enough."
+          }
+        ],
+        "chapter": 18,
+        "section": 18,
+        "page_id": 17976,
+        "title": "Wisdom of Solomon — Chapter 18",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-18/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 19,
+        "selected_chapter": "Wisdom of Solomon 18"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-18/",
+            "label": "Previous chapter, Wisdom of Solomon 18",
+            "text": "← Previous"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-18/",
+            "text": "← Wisdom of Solomon 18"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+            "text": "Wisdom of Solomon: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/sirach/prologue/",
+            "text": "Sirach · Prologue →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/wisdom-of-solomon/19/",
+            "text": "All 30 cross-references for Wisdom of Solomon 19, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v19-1",
+            "text": "19:1 But merciless fury came upon the ungodly to the end,\nfor He knew beforehand even what they would do,"
+          },
+          {
+            "id": "v19-2",
+            "text": "19:2 that after permitting the people to depart\nand sending them on their way with haste,\nthey would change their minds and pursue them."
+          },
+          {
+            "id": "v19-3",
+            "text": "19:3 For while their griefs were still at hand\nand they were lamenting beside the graves of the dead,\nthey drew upon themselves another senseless plan,\nand pursued as fugitives those whom they had begged to leave."
+          },
+          {
+            "id": "v19-4",
+            "text": "19:4 For the compulsion they deserved drew them toward this end\nand cast upon them forgetfulness of what had happened,\nso that they might fill up the punishment still lacking in their torments,"
+          },
+          {
+            "id": "v19-5",
+            "text": "19:5 and Thy people might experience an astonishing journey,\nwhile those others found an extraordinary death."
+          },
+          {
+            "id": "v19-6",
+            "text": "19:6 For the whole creation, in its own kind, was being fashioned anew from the beginning,\nserving Thy commands,\nso that Thy children might be guarded unharmed."
+          },
+          {
+            "id": "v19-7",
+            "text": "19:7 The cloud overshadowing the camp was seen,\nand dry land rising from water that had existed before,\nan unobstructed way out of the Red Sea,\nand a grass-bearing plain out of the violent surge;"
+          },
+          {
+            "id": "v19-8",
+            "text": "19:8 through it those sheltered by Thy hand passed as an entire nation,\nhaving seen marvelous wonders."
+          },
+          {
+            "id": "v19-9",
+            "text": "19:9 For they grazed like horses\nand leaped like lambs, praising Thee, Lord, who rescued them."
+          },
+          {
+            "id": "v19-10",
+            "text": "19:10 For they still remembered the things from their sojourn:\nhow, instead of producing animals, the earth brought forth gnats,\nand instead of aquatic creatures the river disgorged a multitude of frogs."
+          },
+          {
+            "id": "v19-11",
+            "text": "19:11 Later they also saw a new production of birds,\nwhen, urged on by desire, they asked for luxurious foods;"
+          },
+          {
+            "id": "v19-12",
+            "text": "19:12 for as a consolation quail came up to them from the sea."
+          },
+          {
+            "id": "v19-13",
+            "text": "19:13 Punishments also came upon the sinners,\nnot without earlier signs in the violence of thunderbolts;\nfor they suffered justly for their own wickedness,\nsince they had practiced a harsher hatred of strangers."
+          },
+          {
+            "id": "v19-14",
+            "text": "19:14 For the former did not receive unfamiliar visitors when they came,\nbut these enslaved strangers who had benefited them."
+          },
+          {
+            "id": "v19-15",
+            "text": "19:15 And not only that: there will be a visitation upon the former,\nsince they received foreigners with hostility;"
+          },
+          {
+            "id": "v19-16",
+            "text": "19:16 but the latter, after receiving with celebrations\nthose who had already shared in the same rights,\nafflicted them with terrible labors."
+          },
+          {
+            "id": "v19-17",
+            "text": "19:17 They were also struck with blindness,\nlike those at the righteous man’s doors,\nwhen, surrounded by yawning darkness,\neach sought the passage through his own doors."
+          },
+          {
+            "id": "v19-18",
+            "text": "19:18 For the elements were being rearranged among themselves,\nas notes on a harp change the pattern of the rhythm,\nwhile always retaining their sound;\nthis can be inferred precisely from observing what happened."
+          },
+          {
+            "id": "v19-19",
+            "text": "19:19 For land creatures were changed into water creatures,\nand swimming creatures moved onto land;"
+          },
+          {
+            "id": "v19-20",
+            "text": "19:20 fire in water exceeded its own power,\nand water forgot its nature of extinguishing;"
+          },
+          {
+            "id": "v19-21",
+            "text": "19:21 flames, conversely, did not wither the flesh\nof perishable animals walking among them,\nnor the meltable, crystal-like kind of heavenly food that readily melts."
+          },
+          {
+            "id": "v19-22",
+            "text": "19:22 For in every way, Lord, Thou didst magnify and glorify Thy people,\nand didst not disregard them, standing beside them at every time and place."
+          }
+        ],
+        "chapter": 19,
+        "section": 19,
+        "page_id": 17977,
+        "title": "Wisdom of Solomon — Chapter 19",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-19/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 19,
+        "selected_chapter": "Wisdom of Solomon 19"
+      }
+    ],
+    "index": {
+      "links": [
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/",
+          "text": "The Holy Bible"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/",
+          "text": "III. Wisdom"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-1/",
+          "text": "Begin Wisdom of Solomon 1 →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/",
+          "text": "Compare Latin and Greek"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/",
+          "text": "← Lamentations"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/",
+          "text": "III. Wisdom"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/sirach/",
+          "text": "Sirach →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-1/",
+          "text": "Chapters 1–5Righteousness and immortality"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-6/",
+          "text": "Chapters 6–9Solomon’s praise of Wisdom"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-10/",
+          "text": "Chapters 10–12Wisdom in Israel’s history"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-13/",
+          "text": "Chapters 13–15The folly of idolatry"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-16/",
+          "text": "Chapters 16–19God’s care for his people in the Exodus"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-2/#v2-12",
+          "text": "Wisdom of Solomon 2:12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-3/#v3-1",
+          "text": "Wisdom of Solomon 3:1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-7/#v7-26",
+          "text": "Wisdom of Solomon 7:26"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/study/",
+          "text": "Open the Wisdom of Solomon study edition →"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/#saints-ref-1-1",
+          "text": "[1]"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/#",
+          "text": "Suggest a correction"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-1/",
+          "text": "Begin reading →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-1/",
+          "text": "1Wisdom of Solomon — Chapter 1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-2/",
+          "text": "2Wisdom of Solomon — Chapter 2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-3/",
+          "text": "3Wisdom of Solomon — Chapter 3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-4/",
+          "text": "4Wisdom of Solomon — Chapter 4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-5/",
+          "text": "5Wisdom of Solomon — Chapter 5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-6/",
+          "text": "6Wisdom of Solomon — Chapter 6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-7/",
+          "text": "7Wisdom of Solomon — Chapter 7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-8/",
+          "text": "8Wisdom of Solomon — Chapter 8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-9/",
+          "text": "9Wisdom of Solomon — Chapter 9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-10/",
+          "text": "10Wisdom of Solomon — Chapter 10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-11/",
+          "text": "11Wisdom of Solomon — Chapter 11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-12/",
+          "text": "12Wisdom of Solomon — Chapter 12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-13/",
+          "text": "13Wisdom of Solomon — Chapter 13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-14/",
+          "text": "14Wisdom of Solomon — Chapter 14"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-15/",
+          "text": "15Wisdom of Solomon — Chapter 15"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-16/",
+          "text": "16Wisdom of Solomon — Chapter 16"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-17/",
+          "text": "17Wisdom of Solomon — Chapter 17"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-18/",
+          "text": "18Wisdom of Solomon — Chapter 18"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-19/",
+          "text": "19Wisdom of Solomon — Chapter 19"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/2/",
+          "text": "Begin comparing →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/2/",
+          "text": "1Chapter 1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/3/",
+          "text": "2Chapter 2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/4/",
+          "text": "3Chapter 3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/5/",
+          "text": "4Chapter 4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/6/",
+          "text": "5Chapter 5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/7/",
+          "text": "6Chapter 6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/8/",
+          "text": "7Chapter 7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/9/",
+          "text": "8Chapter 8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/10/",
+          "text": "9Chapter 9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/11/",
+          "text": "10Chapter 10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/12/",
+          "text": "11Chapter 11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/13/",
+          "text": "12Chapter 12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/14/",
+          "text": "13Chapter 13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/15/",
+          "text": "14Chapter 14"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/16/",
+          "text": "15Chapter 15"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/17/",
+          "text": "16Chapter 16"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/18/",
+          "text": "17Chapter 17"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/19/",
+          "text": "18Chapter 18"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/20/",
+          "text": "19Chapter 19"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/",
+          "text": "Catholic Latin VulgateCompared with the Saints TranslationOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/7/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/8/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/9/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/10/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/11/",
+          "text": "10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/12/",
+          "text": "11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/13/",
+          "text": "12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/14/",
+          "text": "13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/15/",
+          "text": "14"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/16/",
+          "text": "15"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/17/",
+          "text": "16"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/18/",
+          "text": "17"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/19/",
+          "text": "18"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/20/",
+          "text": "19"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-1/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-2/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-3/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-4/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-5/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-6/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-7/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-8/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-9/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-10/",
+          "text": "10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-11/",
+          "text": "11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-12/",
+          "text": "12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-13/",
+          "text": "13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-14/",
+          "text": "14"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-15/",
+          "text": "15"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-16/",
+          "text": "16"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-17/",
+          "text": "17"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-18/",
+          "text": "18"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-19/",
+          "text": "19"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-1/",
+          "text": "Chapter 1 — Righteousness, wisdom, and the rejection of death"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-2/",
+          "text": "Chapter 2 — The ungodly plot against the righteous"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-3/",
+          "text": "Chapter 3 — The righteous in God’s hand"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-4/",
+          "text": "Chapter 4 — Virtue, early death, and final judgment"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-5/",
+          "text": "Chapter 5 — The righteous vindicated and the ungodly judged"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-6/",
+          "text": "Chapter 6 — Rulers must seek wisdom"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-7/",
+          "text": "Chapter 7 — Wisdom’s worth and her radiant spirit"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-8/",
+          "text": "Chapter 8 — Wisdom as companion and gift"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-9/",
+          "text": "Chapter 9 — Prayer for wisdom from God"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-10/",
+          "text": "Chapter 10 — Wisdom preserves the righteous through history"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-11/",
+          "text": "Chapter 11 — Water, judgment, and the mercy of the Creator"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-12/",
+          "text": "Chapter 12 — God’s patient judgment teaches mercy"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-13/",
+          "text": "Chapter 13 — Recognizing the Maker and the folly of idols"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-14/",
+          "text": "Chapter 14 — The making of idols and its consequences"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-15/",
+          "text": "Chapter 15 — The living God and the lifeless works of human hands"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-16/",
+          "text": "Chapter 16 — Creatures, healing, fire, and bread from heaven"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-17/",
+          "text": "Chapter 17 — The prison of darkness and fear"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-18/",
+          "text": "Chapter 18 — Light, the night of deliverance, and the halted plague"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-19/",
+          "text": "Chapter 19 — The sea crossing and creation renewed in service"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/",
+          "text": "← Lamentations"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/",
+          "text": "III. Wisdom"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/sirach/",
+          "text": "Sirach →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/",
+          "text": "The Holy Bible"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/",
+          "text": "III. Wisdom"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-1/",
+          "text": "Begin Wisdom of Solomon 1 →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/",
+          "text": "← Lamentations"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/sirach/",
+          "text": "Sirach →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-6/",
+          "text": "Chapters 6–9Solomon’s praise of Wisdom"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-10/",
+          "text": "Chapters 10–12Wisdom in Israel’s history"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-13/",
+          "text": "Chapters 13–15The folly of idolatry"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-16/",
+          "text": "Chapters 16–19God’s care for his people in the Exodus"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-2/#v2-12",
+          "text": "Wisdom of Solomon 2:12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-3/#v3-1",
+          "text": "Wisdom of Solomon 3:1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-7/#v7-26",
+          "text": "Wisdom of Solomon 7:26"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/",
+          "text": "Compare Latin and Greek"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/#saints-ref-1-cite-1",
+          "text": "↑"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        }
+      ],
+      "text": "Wisdom of Solomon\n\nThe Holy Bible · III. Wisdom\n\nBespoke Saints English Translation · 19 chapters · Provisional editorial edition · 15 October 2026\n\nWisdom of Solomon calls us to love righteousness, seek the wisdom of God, and trust His care through suffering and death. Within the Wisdom division, it joins prayerful discernment to hope in God’s justice and mercy. Christians hear its portrait of the suffering righteous one anew in the passion of Christ and His vindication in the resurrection.\n\nThe reading journey\n\nAfter the lament for Jerusalem, Wisdom of Solomon turns toward the hope of the righteous and God’s care through suffering. Its prayer for wisdom leads naturally into Sirach’s instruction for everyday faithfulness. In this edition, these books bring the Wisdom division toward its close.\n\nBegin Wisdom of Solomon 1 → · Compare Latin and Greek\n\n← Lamentations · III. Wisdom · Sirach →\n\nDraft for review. Only editors can see this introduction. Approve all introductions under Settings → Saints Study.\n\nINTRODUCTION\n\nIntroducing Wisdom of Solomon\n\nThe Wisdom of Solomon exhorts rulers to love justice and seek Wisdom, God’s radiant gift. It offers a strong hope of immortality for the righteous and reflects on God’s guidance in Israel’s history.\n\nSETTING\nAddressed to Jews living in a Hellenistic city, likely Alexandria, it encouraged fidelity to God amid pagan philosophy and idolatry.\nAUTHOR\nWritten in the voice of Solomon. Most scholars, ancient and modern, recognise it as the work of a Greek-speaking Jewish author, probably in Alexandria.\nDATE\nProbably the 1st century BC, possibly early 1st century AD.\nOutline\nChapters 1–5\nRighteousness and immortality\nChapters 6–9\nSolomon’s praise of Wisdom\nChapters 10–12\nWisdom in Israel’s history\nChapters 13–15\nThe folly of idolatry\nChapters 16–19\nGod’s care for his people in the Exodus\nKey passages\nWisdom of Solomon 2:12 — The plot against the righteous one\nWisdom of Solomon 3:1 — Souls in God’s hand\nWisdom of Solomon 7:26 — Reflection of eternal light\nThemes\nWisdom as God’s gift\nImmortality of the righteous\nJustice for rulers\nCritique of idolatry\nProvidence in history\nRead in the light of Christ\n\nThe Fathers read the persecuted righteous one of chapter 2 as foretelling the Passion, and Wisdom as the ‘radiance’ of God (7:26) as an image of the Son, echoed in Hebrews 1:3.\n\nOpen the Wisdom of Solomon study edition →\n\nIntroduction by Saints.Bible · CC BY-SA 4.0[1] · Suggest a correction\n\nFind a chapter\n\n38 links. Choose a section to browse.\n\nREAD\nWisdom of Solomon · Reading\n19 chapters\nBegin reading →\n1\nWisdom of Solomon — Chapter 1\n2\nWisdom of Solomon — Chapter 2\n3\nWisdom of Solomon — Chapter 3\n4\nWisdom of Solomon — Chapter 4\n5\nWisdom of Solomon — Chapter 5\n6\nWisdom of Solomon — Chapter 6\n7\nWisdom of Solomon — Chapter 7\n8\nWisdom of Solomon — Chapter 8\n9\nWisdom of Solomon — Chapter 9\n10\nWisdom of Solomon — Chapter 10\n11\nWisdom of Solomon — Chapter 11\n12\nWisdom of Solomon — Chapter 12\n13\nWisdom of Solomon — Chapter 13\n14\nWisdom of Solomon — Chapter 14\n15\nWisdom of Solomon — Chapter 15\n16\nWisdom of Solomon — Chapter 16\n17\nWisdom of Solomon — Chapter 17\n18\nWisdom of Solomon — Chapter 18\n19\nWisdom of Solomon — Chapter 19\nSTUDY\nWisdom of Solomon · Comparisons\n19 chapters and study sections\n\nCompare Wisdom of Solomon with the Saints Translation\n\nCatholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison\n\nGO STRAIGHT TO A CHAPTER\n\nKJV & Greek\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n\nThis book has no Masoretic Text counterpart. A KJV comparison is not included in the project’s currently selected 66-book KJV source; historical KJV Apocrypha editions are a separate source choice.\n\nSaints Translation: sources and study approach\nBespoke Saints English editorial guide\n\nAll 19 numbered chapters and 435 existing reading units have received the Bespoke English editorial pass: 119 revised and 316 retained. Source-specific numbering, additions, gaps, names, repetitions and verse anchors are preserved. The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.\n\nRahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending. All English reading units were individually reviewed. Earlier source-checking statements and retrieval limitations are retained in the original backup and historical reference pages; they are not claims of fresh complete verification in this revision.\n\nThe newer Bespoke PDF governs this reading edition. Saints Translation literal-smooth and all comparison/study streams remain separate and unchanged. Notes are separated from Scripture. Earlier wording notes are historical records and may quote superseded pronouns or wording; the dated current Bespoke notes explain the changes. The source numbering remains intact, including chapter 17 ending at 17:20. The later KJV Apocrypha comparison is preserved as a separate record; older chooser and study statements that no KJV comparison exists describe an earlier source scope. Historical comparison pages may contain older English drafts and unresolved alignment issues; they are preserved as separate records.\n\nIncluded in the Old Testament, Division III: Wisdom, in this selected edition. Catholic Scripture; received in many Orthodox Old Testaments; generally classed as Apocrypha outside the Protestant Old Testament canon. This placement is the editor’s selection, not a claim of agreement among all churches.\n\nSaints English revision of the working translation recovered from the manuscript of 8 September 2026. Declared source: Septuaginta, Rahlfs–Hanhart, 2006, Deutsche Bibelgesellschaft, publisher’s Greek main text. Independent linguistic and critical-apparatus review remains outstanding. Source-access and reception claims in the inherited notes have not been freshly revalidated. Chapter and section headings are editorial.\n\nSource numbering retained: chapter 17 ends at 17:20.\n\nChapter headings\nChapter 1 — Righteousness, wisdom, and the rejection of death\nChapter 2 — The ungodly plot against the righteous\nChapter 3 — The righteous in God’s hand\nChapter 4 — Virtue, early death, and final judgment\nChapter 5 — The righteous vindicated and the ungodly judged\nChapter 6 — Rulers must seek wisdom\nChapter 7 — Wisdom’s worth and her radiant spirit\nChapter 8 — Wisdom as companion and gift\nChapter 9 — Prayer for wisdom from God\nChapter 10 — Wisdom preserves the righteous through history\nChapter 11 — Water, judgment, and the mercy of the Creator\nChapter 12 — God’s patient judgment teaches mercy\nChapter 13 — Recognizing the Maker and the folly of idols\nChapter 14 — The making of idols and its consequences\nChapter 15 — The living God and the lifeless works of human hands\nChapter 16 — Creatures, healing, fire, and bread from heaven\nChapter 17 — The prison of darkness and fear\nChapter 18 — Light, the night of deliverance, and the halted plague\nChapter 19 — The sea crossing and creation renewed in service\n\n← Lamentations · III. Wisdom · Sirach →\n\nThis Bespoke reading edition follows the newer translation policy: ordinary address uses you/your, and direct address to God retains Thou/Thee/Thy/Thine. The existing Greek-based reading stream and separately dated comparison editions remain distinct.\n\nExplore links from this page\nScripture\nOther site resources\nFootnotes\n↑CC BY-SA 4.0 — creativecommons.org",
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/",
+      "all_19_chapter_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "Whitespace and WordPress apostrophe typography only; visible verse numbers excluded.",
+    "chapter_navigation": [
+      {
+        "text": "Wisdom of Solomon 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-1/"
+      },
+      {
+        "text": "Wisdom of Solomon 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-2/"
+      },
+      {
+        "text": "Wisdom of Solomon 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-3/"
+      },
+      {
+        "text": "Wisdom of Solomon 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-4/"
+      },
+      {
+        "text": "Wisdom of Solomon 5",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-5/"
+      },
+      {
+        "text": "Wisdom of Solomon 6",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-6/"
+      },
+      {
+        "text": "Wisdom of Solomon 7",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-7/"
+      },
+      {
+        "text": "Wisdom of Solomon 8",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-8/"
+      },
+      {
+        "text": "Wisdom of Solomon 9",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-9/"
+      },
+      {
+        "text": "Wisdom of Solomon 10",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-10/"
+      },
+      {
+        "text": "Wisdom of Solomon 11",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-11/"
+      },
+      {
+        "text": "Wisdom of Solomon 12",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-12/"
+      },
+      {
+        "text": "Wisdom of Solomon 13",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-13/"
+      },
+      {
+        "text": "Wisdom of Solomon 14",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-14/"
+      },
+      {
+        "text": "Wisdom of Solomon 15",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-15/"
+      },
+      {
+        "text": "Wisdom of Solomon 16",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-16/"
+      },
+      {
+        "text": "Wisdom of Solomon 17",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-17/"
+      },
+      {
+        "text": "Wisdom of Solomon 18",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-18/"
+      },
+      {
+        "text": "Wisdom of Solomon 19",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/chapter-19/"
+      }
+    ],
+    "visual_capture": "A screenshot of saved Wisdom of Solomon 19 was captured and visually inspected. Every reading page received rendered DOM text and navigation checks; visual inspection of all 19 pages is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 23904,
+      "title": "Wisdom of Solomon — Study Edition",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/study/",
+      "before_content_hash": "3487a71fe6a42bd9952a2cb0d8ee20faafdc62fd",
+      "after_content_hash": "3487a71fe6a42bd9952a2cb0d8ee20faafdc62fd",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 24560,
+      "title": "Wisdom of Solomon — King James Bible and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/wisdom-of-solomon/kjv-comparison/",
+      "before_content_hash": "4d5a586534bac7d91e63eeb64762eee967002c13",
+      "after_content_hash": "4d5a586534bac7d91e63eeb64762eee967002c13",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3859,
+      "title": "Wisdom of Solomon — Latin–Greek Comparison",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/comparison-library/wisdom-comparison-edition/",
+      "before_content_hash": "b81a9290f448d84e8060fe49e9ea99d885da86d9",
+      "after_content_hash": "b81a9290f448d84e8060fe49e9ea99d885da86d9",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 435,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 20 edited pages and all 3 reference pages, plus 3 reference hash snapshots. This is a book archive, not a full-site backup."
+}

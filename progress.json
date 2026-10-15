@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-10-15",
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 25,
-  "pending_book_revisions": 45,
-  "next_book": "Wisdom of Solomon",
+  "completed_book_records": 26,
+  "pending_book_revisions": 44,
+  "next_book": "Sirach",
   "full_bible_complete": false,
   "books": [
     {
@@ -254,8 +254,12 @@
       "order": 26,
       "book": "Wisdom of Solomon",
       "staging_path": "/bible/wisdom/wisdom-of-solomon/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "wisdom-of-solomon/",
+      "chapters": 19,
+      "reading_sections": 19,
+      "verse_units": 435,
+      "wording_changes": 119
     },
     {
       "order": 27,
@@ -574,10 +578,11 @@
       "Proverbs",
       "Ecclesiastes",
       "Song of Songs",
-      "Lamentations"
+      "Lamentations",
+      "Wisdom of Solomon"
     ],
-    "pending_books": 2,
-    "next_book": "Wisdom of Solomon",
+    "pending_books": 1,
+    "next_book": "Sirach",
     "status": "In progress; specialist review pending"
   },
   "completed_divisions": [
@@ -585,6 +590,6 @@
     "Judgement"
   ],
   "current_priority": "Finish the remaining Old Testament after Job: all Wisdom books and all Prophets, one book at a time, with staging verification and GitHub main uploads.",
-  "old_testament_completed_book_records": 25,
-  "old_testament_pending_book_revisions": 18
+  "old_testament_completed_book_records": 26,
+  "old_testament_pending_book_revisions": 17
 }
