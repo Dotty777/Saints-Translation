@@ -1,0 +1,1149 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 105 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 7,
+    "reading_sections": 7,
+    "changed_verse_units": 59,
+    "source_scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "900f01823cc8f6a740b32f3fc3c9f7127eb651a639489d759b50e2a11ef8eb87"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 16,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 13,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 12,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 14,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 5,
+      "chapter": 5,
+      "verse_units": 14,
+      "changed": 11,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 6,
+      "chapter": 6,
+      "verse_units": 16,
+      "changed": 10,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 7,
+      "chapter": 7,
+      "verse_units": 20,
+      "changed": 13,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 3023,
+      "chapter": 1,
+      "modified": "2026-10-15T05:04:39",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "7e129f400f7b038af36b49e9a3a898afed8c3e221378387b36c5b3eae91326a8"
+    },
+    {
+      "id": 3026,
+      "chapter": 2,
+      "modified": "2026-10-15T05:04:45",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "a0084891cd6d09049acc4bc00bdfafe3a1cde8421f958848d7f7ac0cf53b056b"
+    },
+    {
+      "id": 3028,
+      "chapter": 3,
+      "modified": "2026-10-15T05:04:51",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "4960695723282e16e8ba09ac7367a644bb57c0bb040543a7ff5a32e2cf190149"
+    },
+    {
+      "id": 3030,
+      "chapter": 4,
+      "modified": "2026-10-15T05:04:56",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "8106ffda3c70685988d78e8cc8f534cb254008d084e3579f1e62bcdc326b88be"
+    },
+    {
+      "id": 3035,
+      "chapter": 5,
+      "modified": "2026-10-15T05:06:45",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "10356ce8a6c120819284df8db11223b95426c5904888ce9ad27c2c2cf5bf5de1"
+    },
+    {
+      "id": 3032,
+      "chapter": 6,
+      "modified": "2026-10-15T05:06:51",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "db9093cb145fd83e6bb0d31bd6c14a24a7891feab8983b17c67555f311080d2c"
+    },
+    {
+      "id": 3040,
+      "chapter": 7,
+      "modified": "2026-10-15T05:06:57",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "8cf7d5d6cf0dc96dbbd31dd57ee1520796b076d9196843b9a51d1453ec138303"
+    },
+    {
+      "id": 3018,
+      "chapter": null,
+      "modified": "2026-10-15T05:07:03",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "17ddb2836fad3dbb0e6b6ebd7449375c6dfae5363eeaa3e2d5885da6de3eb9d9"
+    }
+  ],
+  "browser_checks": {
+    "chapters": [
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-4/",
+            "label": "Previous chapter, Jonah 4",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-2/",
+            "label": "Next chapter, Micah 2",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-4/",
+            "text": "← Jonah 4"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/",
+            "text": "Micah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-2/",
+            "text": "Micah 2 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/micah/1/",
+            "text": "All 217 cross-references for Micah 1, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v1-1",
+            "text": "1:1The word of the Lord came to Michaiah of Morashthi in the days of Jotham, Ahaz and Hezekiah, kings of Judah, concerning what he saw about Samaria and Jerusalem."
+          },
+          {
+            "id": "v1-2",
+            "text": "1:2Hear words, you peoples! Let the earth and everyone in it attend! The Lord will be among you as a testimony, the Lord from His holy house."
+          },
+          {
+            "id": "v1-3",
+            "text": "1:3For look, the Lord is coming out of His place; He will descend and step upon the heights of the earth,"
+          },
+          {
+            "id": "v1-4",
+            "text": "1:4and the mountains will be shaken beneath Him, and the valleys will melt like wax before fire and like water flowing downhill."
+          },
+          {
+            "id": "v1-5",
+            "text": "1:5All this is because of Jacob’s impiety and the sin of Israel’s house. What is Jacob’s impiety? Is it not Samaria? And what is the sin of Judah’s house? Is it not Jerusalem?"
+          },
+          {
+            "id": "v1-6",
+            "text": "1:6I will make Samaria a fruit watcher’s hut in a field and a vineyard plantation. I will pull her stones down into a chasm and uncover her foundations."
+          },
+          {
+            "id": "v1-7",
+            "text": "1:7They will cut up all her carved images and burn all her wages in fire, and I will consign all her idols to obliteration. For she gathered from prostitution wages and amassed from prostitution wages."
+          },
+          {
+            "id": "v1-8",
+            "text": "1:8Because of this she will lament and mourn; she will go barefoot and naked. She will make lamentation like dragons and mourning like daughters of sirens."
+          },
+          {
+            "id": "v1-9",
+            "text": "1:9For her blow has prevailed; it came as far as Judah and touched the gate of My people, as far as Jerusalem."
+          },
+          {
+            "id": "v1-10",
+            "text": "1:10You in Gath, do not magnify yourselves! You in Akim, do not rebuild from a house for laughter; sprinkle yourselves with earth in keeping with your laughter."
+          },
+          {
+            "id": "v1-11",
+            "text": "1:11Dwelling well in her cities, the inhabitant of Sennaan did not come out to mourn the house adjoining her; she will receive from you a blow of pain."
+          },
+          {
+            "id": "v1-12",
+            "text": "1:12Who began good things for the woman dwelling in pains? For calamities came down from the Lord upon Jerusalem’s gates,"
+          },
+          {
+            "id": "v1-13",
+            "text": "1:13the noise of chariots and horsemen. Inhabitant of Lachish, she is a leader of sin to the daughter of Zion, for Israel’s impieties were found in you."
+          },
+          {
+            "id": "v1-14",
+            "text": "1:14Therefore you will give away those being sent as far as the inheritance of Gath—vain houses; it became empty things for Israel’s kings."
+          },
+          {
+            "id": "v1-15",
+            "text": "1:15Until I bring heirs to you, O inheritance dwelling in Lachish, the glory of Israel’s daughter will come as far as Odollam."
+          },
+          {
+            "id": "v1-16",
+            "text": "1:16Shave yourself and shear your hair for your delicate children. Enlarge your widowhood like an eagle, for they have been taken captive away from you."
+          }
+        ],
+        "chapter": 1,
+        "section": 1,
+        "page_id": 3023,
+        "title": "Micah 1",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-1/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 7,
+        "selected_chapter": "Micah 1"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-1/",
+            "label": "Previous chapter, Micah 1",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-3/",
+            "label": "Next chapter, Micah 3",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-1/",
+            "text": "← Micah 1"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/",
+            "text": "Micah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-3/",
+            "text": "Micah 3 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/micah/2/",
+            "text": "All 271 cross-references for Micah 2, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v2-1",
+            "text": "2:1They became people planning troubles and working evil on their beds, and at daybreak they carried them out, because they did not raise their hands to God."
+          },
+          {
+            "id": "v2-2",
+            "text": "2:2They coveted fields and plundered orphans, oppressed houses and plundered a man and his house, a man and his inheritance."
+          },
+          {
+            "id": "v2-3",
+            "text": "2:3Therefore thus says the Lord: “Look, I am planning calamities against this tribe, from which you will certainly not lift your necks, and you will certainly not suddenly walk upright, for it is an evil time."
+          },
+          {
+            "id": "v2-4",
+            "text": "2:4On that day a parable will be taken up against you, and a lament will be sung in melody, saying: ‘We have suffered grievous misery! The portion of My people was measured with a cord, and there was no one to prevent him from turning away; our fields were divided.’"
+          },
+          {
+            "id": "v2-5",
+            "text": "2:5Therefore you will have no one casting a measuring cord by lot in the assembly of the Lord."
+          },
+          {
+            "id": "v2-6",
+            "text": "2:6Do not weep with tears, nor let them shed tears over these things, for he will not reject reproaches."
+          },
+          {
+            "id": "v2-7",
+            "text": "2:7The one who says, ‘Jacob’s house has provoked the Lord’s Spirit’: Are these his practices? Are not his words good with him, and have they walked uprightly?"
+          },
+          {
+            "id": "v2-8",
+            "text": "2:8And formerly My people stood opposed in enmity; facing his peace, they flayed his skin to take away hope—a shattering of war."
+          },
+          {
+            "id": "v2-9",
+            "text": "2:9Therefore the leaders of My people will be cast out of their luxurious houses; because of their evil practices they were expelled. Draw near to everlasting mountains!"
+          },
+          {
+            "id": "v2-10",
+            "text": "2:10Rise and go, for this is no resting place for you because of uncleanness. You were corrupted with corruption,"
+          },
+          {
+            "id": "v2-11",
+            "text": "2:11you were pursued with no one pursuing. A spirit established falsehood; it dripped to you into wine and strong drink. And it will be from the drop of this people:"
+          },
+          {
+            "id": "v2-12",
+            "text": "2:12Jacob will surely be gathered with everyone. I will surely receive Israel’s remaining ones; I will put their turning back together. Like sheep in affliction, like a flock within their resting place, they will leap out from among people."
+          },
+          {
+            "id": "v2-13",
+            "text": "2:13Through the breach before them they broke through, passed a gate and went out through it. Their king went out before them, and the Lord will lead them.”"
+          }
+        ],
+        "chapter": 2,
+        "section": 2,
+        "page_id": 3026,
+        "title": "Micah 2",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-2/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 7,
+        "selected_chapter": "Micah 2"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-2/",
+            "label": "Previous chapter, Micah 2",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-4/",
+            "label": "Next chapter, Micah 4",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-2/",
+            "text": "← Micah 2"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/",
+            "text": "Micah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-4/",
+            "text": "Micah 4 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/micah/3/",
+            "text": "All 180 cross-references for Micah 3, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v3-1",
+            "text": "3:1He will say: “Hear these things now, authorities of Jacob’s house and remaining ones of Israel’s house! Is it not for you to know justice,"
+          },
+          {
+            "id": "v3-2",
+            "text": "3:2you who hate good things and seek evil things, who snatch their skins from them and their flesh from their bones?”"
+          },
+          {
+            "id": "v3-3",
+            "text": "3:3Just as they ate the flesh of My people, flayed their skins from their bones, crushed their bones and divided them into pieces like flesh for a cauldron and meat for a cooking pot,"
+          },
+          {
+            "id": "v3-4",
+            "text": "3:4so they will cry to the Lord, but He will not listen to them. He will turn His face away from them at that time, because they acted wickedly in their practices against them."
+          },
+          {
+            "id": "v3-5",
+            "text": "3:5Thus says the Lord concerning the prophets who lead My people astray, who bite with their teeth and proclaim peace to him; but when nothing was put into their mouths, they raised war against him:"
+          },
+          {
+            "id": "v3-6",
+            "text": "3:6“Therefore you will have night instead of vision and darkness instead of divination; the sun will set upon the prophets, and the day will darken over them."
+          },
+          {
+            "id": "v3-7",
+            "text": "3:7Those seeing dreams will be ashamed and the diviners mocked; all of them will speak against them, because there will be no one listening to them,"
+          },
+          {
+            "id": "v3-8",
+            "text": "3:8unless I fill up strength in the Spirit of the Lord and of judgment and might, to declare to Jacob his impieties and to Israel his sins.”"
+          },
+          {
+            "id": "v3-9",
+            "text": "3:9Hear these things now, leaders of Jacob’s house and remaining ones of Israel’s house, who abhor justice and twist all straight things,"
+          },
+          {
+            "id": "v3-10",
+            "text": "3:10you who build Zion with bloodshed and Jerusalem with injustices!"
+          },
+          {
+            "id": "v3-11",
+            "text": "3:11Her leaders judged with gifts, her priests answered for wages and her prophets divined for silver; yet they relied upon the Lord, saying, “Is not the Lord among us? Calamities will certainly not come upon us.”"
+          },
+          {
+            "id": "v3-12",
+            "text": "3:12Therefore, because of you, Zion will be plowed like a field, Jerusalem will be like a fruit watcher’s hut, and the mountain of the house like a forest grove."
+          }
+        ],
+        "chapter": 3,
+        "section": 3,
+        "page_id": 3028,
+        "title": "Micah 3",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-3/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 7,
+        "selected_chapter": "Micah 3"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-3/",
+            "label": "Previous chapter, Micah 3",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-5/",
+            "label": "Next chapter, Micah 5",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-3/",
+            "text": "← Micah 3"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/",
+            "text": "Micah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-5/",
+            "text": "Micah 5 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/micah/4/",
+            "text": "All 290 cross-references for Micah 4, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v4-1",
+            "text": "4:1In the last days the mountain of the Lord will be manifest, established upon the mountain summits and raised above the hills, and peoples will hurry toward it."
+          },
+          {
+            "id": "v4-2",
+            "text": "4:2Many nations will go and say, “Come, let us go up to the Lord’s mountain and to the house of Jacob’s God. They will show us His way, and we will walk in His paths.” For law will go out from Zion, and the Lord’s word from Jerusalem."
+          },
+          {
+            "id": "v4-3",
+            "text": "4:3He will judge between many peoples and reprove strong nations as far as a distant land. They will cut their swords into plows and their spears into sickles. Nation will certainly no longer raise sword against nation, nor will they learn to wage war anymore."
+          },
+          {
+            "id": "v4-4",
+            "text": "4:4Each will rest beneath his vine and each beneath his fig tree, and there will be no one causing fear, because the mouth of the Lord Almighty has spoken these things."
+          },
+          {
+            "id": "v4-5",
+            "text": "4:5For all the peoples will walk, each his own way, but we will walk in the name of the Lord our God forever and beyond."
+          },
+          {
+            "id": "v4-6",
+            "text": "4:6“On that day,” says the Lord, “I will gather the crushed one, receive the expelled one and those I rejected."
+          },
+          {
+            "id": "v4-7",
+            "text": "4:7I will make the crushed one a remnant and the rejected one a strong nation. The Lord will reign over them on Mount Zion from now and forever."
+          },
+          {
+            "id": "v4-8",
+            "text": "4:8And you, squalid tower of the flock, daughter of Zion, to you it will come and enter—the former rule, a kingdom from Babylon for the daughter of Jerusalem.”"
+          },
+          {
+            "id": "v4-9",
+            "text": "4:9And now why have you experienced calamities? Did you have no king? Has your counsel perished, that birth pains have seized you like a woman giving birth?"
+          },
+          {
+            "id": "v4-10",
+            "text": "4:10Labor in birth, be courageous and draw near, daughter of Zion, like a woman giving birth! For now you will go out from the city, camp in the plain and come as far as Babylon. From there He will rescue you, and from there the Lord your God will redeem you from your enemies’ hand."
+          },
+          {
+            "id": "v4-11",
+            "text": "4:11Now many nations have gathered against you, saying, “We will rejoice over her, and our eyes will look upon Zion!”"
+          },
+          {
+            "id": "v4-12",
+            "text": "4:12But they did not know the Lord’s thought or understand His counsel, for He gathered them like sheaves of a threshing floor."
+          },
+          {
+            "id": "v4-13",
+            "text": "4:13Rise and thresh them, daughter of Zion, for I will make your horns iron and your hooves bronze. With them you will melt down nations and grind many peoples fine; you will dedicate their multitude to the Lord and their strength to the Lord of all the earth."
+          },
+          {
+            "id": "v4-14",
+            "text": "4:14Now the daughter of Ephraim will be fenced in with a barrier; he has set a constraint upon us. With a rod they will strike Israel’s tribes on the cheek."
+          }
+        ],
+        "chapter": 4,
+        "section": 4,
+        "page_id": 3030,
+        "title": "Micah 4",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-4/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 7,
+        "selected_chapter": "Micah 4"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-4/",
+            "label": "Previous chapter, Micah 4",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-6/",
+            "label": "Next chapter, Micah 6",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-4/",
+            "text": "← Micah 4"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/",
+            "text": "Micah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-6/",
+            "text": "Micah 6 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/micah/5/",
+            "text": "All 243 cross-references for Micah 5, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v5-1",
+            "text": "5:1And you, Bethlehem, house of Ephrathah, are small to be among Judah’s thousands; from you one will come out for Me to be a ruler in Israel, and his goings out are from the beginning, from days of old."
+          },
+          {
+            "id": "v5-2",
+            "text": "5:2Therefore he will give them up until the time of the woman giving birth, when she gives birth; then the remaining ones of their brothers will return to the sons of Israel."
+          },
+          {
+            "id": "v5-3",
+            "text": "5:3He will stand, see and shepherd his flock in the Lord’s strength, and they will exist in the glory of the name of the Lord their God; for now he will be magnified to the ends of the earth."
+          },
+          {
+            "id": "v5-4",
+            "text": "5:4This will be peace: when an Assyrian comes upon your land and steps upon your country, seven shepherds and eight bites of people will rise against him."
+          },
+          {
+            "id": "v5-5",
+            "text": "5:5They will shepherd Assour with the sword and Nebrod’s land in its ditch. He will rescue from Assour when he comes upon your land and steps upon your borders."
+          },
+          {
+            "id": "v5-6",
+            "text": "5:6Jacob’s remnant will be among the nations, amid many peoples, like dew falling from the Lord and like lambs upon couch grass, so that no one may be gathered or stand among the sons of humankind."
+          },
+          {
+            "id": "v5-7",
+            "text": "5:7Jacob’s remnant will be among the nations, amid many peoples, like a lion among beasts in the forest and like a young lion among flocks of sheep, which passes through, separates and seizes, with no one to deliver."
+          },
+          {
+            "id": "v5-8",
+            "text": "5:8Your hand will be raised above those afflicting you, and all your enemies will be destroyed."
+          },
+          {
+            "id": "v5-9",
+            "text": "5:9“On that day,” says the Lord, “I will destroy your horses from your midst and destroy your chariots,"
+          },
+          {
+            "id": "v5-10",
+            "text": "5:10and I will destroy the cities of your land and remove all your strongholds."
+          },
+          {
+            "id": "v5-11",
+            "text": "5:11I will remove your sorceries from your hands, and there will be no utterers of oracles among you."
+          },
+          {
+            "id": "v5-12",
+            "text": "5:12I will destroy your carved images and pillars from your midst, and you will certainly no longer bow down to the works of your hands."
+          },
+          {
+            "id": "v5-13",
+            "text": "5:13I will cut down your groves from your midst and obliterate your cities."
+          },
+          {
+            "id": "v5-14",
+            "text": "5:14I will execute vengeance in anger and wrath among the nations because they did not obey.”"
+          }
+        ],
+        "chapter": 5,
+        "section": 5,
+        "page_id": 3035,
+        "title": "Micah 5",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-5/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 7,
+        "selected_chapter": "Micah 5"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-5/",
+            "label": "Previous chapter, Micah 5",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-7/",
+            "label": "Next chapter, Micah 7",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-5/",
+            "text": "← Micah 5"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/",
+            "text": "Micah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-7/",
+            "text": "Micah 7 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/micah/6/",
+            "text": "All 340 cross-references for Micah 6, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v6-1",
+            "text": "6:1Hear now the word of the Lord. The Lord said: “Rise, enter into judgment before the mountains, and let the hills hear your voice.”"
+          },
+          {
+            "id": "v6-2",
+            "text": "6:2Hear, hills, the Lord’s judgment, and you ravines, foundations of the earth! For the Lord has a case against His people, and He will argue it with Israel."
+          },
+          {
+            "id": "v6-3",
+            "text": "6:3“My people, what have I done to you? How have I grieved you, or how have I troubled you? Answer Me!"
+          },
+          {
+            "id": "v6-4",
+            "text": "6:4For I brought you up from Egypt’s land and redeemed you from the house of slavery. I sent Moses, Aaron and Miriam before you."
+          },
+          {
+            "id": "v6-5",
+            "text": "6:5My people, remember what Balak king of Moab planned against you and what Balaam son of Beor answered him, from the rushes to Galgal, so that the Lord’s righteousness may be known.”"
+          },
+          {
+            "id": "v6-6",
+            "text": "6:6With what shall I take hold of the Lord and grasp my God Most High? Shall I take hold of Him with whole burnt offerings, with year-old calves?"
+          },
+          {
+            "id": "v6-7",
+            "text": "6:7Will the Lord receive with thousands of rams or with ten thousands of fat-rich torrents? Shall I give my firstborn offspring for impieties, the fruit of my body for the sin of my life?"
+          },
+          {
+            "id": "v6-8",
+            "text": "6:8Has it been declared to you, O man, what is good? Or what does the Lord seek from you, except to do justice, and to love mercy, and to be ready to walk with the Lord your God?"
+          },
+          {
+            "id": "v6-9",
+            "text": "6:9The Lord’s voice will be called to the city, and He will save those who fear His name. “Hear, tribe! And who will adorn a city?"
+          },
+          {
+            "id": "v6-10",
+            "text": "6:10Is there not fire, and a lawless person’s house storing lawless treasures, and injustice with insolence?"
+          },
+          {
+            "id": "v6-11",
+            "text": "6:11Will a lawless person be justified with a balance and deceptive weights in a pouch?"
+          },
+          {
+            "id": "v6-12",
+            "text": "6:12From these they filled their wealth with impiety; those inhabiting her spoke falsehoods, and their tongue was exalted in their mouth."
+          },
+          {
+            "id": "v6-13",
+            "text": "6:13And I will begin to strike you; I will obliterate you because of your sins."
+          },
+          {
+            "id": "v6-14",
+            "text": "6:14You will eat but certainly not be filled. It will grow dark within you and turn aside, and you will certainly not be saved; whoever is saved will be handed over to the sword."
+          },
+          {
+            "id": "v6-15",
+            "text": "6:15You will sow but certainly not reap; you will press olives but certainly not anoint yourself with oil, and you will press wine, but you shall certainly not drink it. The ordinances of My people will be obliterated."
+          },
+          {
+            "id": "v6-16",
+            "text": "6:16You kept the ordinances of Zambri and all the works of Achaab’s house, and you walked in their counsels, so that I may hand you over to obliteration and her inhabitants to hissing. You will receive the reproaches of peoples.”"
+          }
+        ],
+        "chapter": 6,
+        "section": 6,
+        "page_id": 3032,
+        "title": "Micah 6",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-6/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 7,
+        "selected_chapter": "Micah 6"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-6/",
+            "label": "Previous chapter, Micah 6",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-1/",
+            "label": "Next chapter, Nahum 1",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-6/",
+            "text": "← Micah 6"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/",
+            "text": "Micah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-1/",
+            "text": "Nahum 1 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/micah/7/",
+            "text": "All 415 cross-references for Micah 7, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v7-1",
+            "text": "7:1Alas! I have become like someone gathering stubble at harvest and a gleaning at vintage, with no cluster available to eat the first fruits. Alas, my soul,"
+          },
+          {
+            "id": "v7-2",
+            "text": "7:2for the devout person has perished from the earth, and no one acts rightly among people. They all litigate for bloodshed; each crushes his neighbor with crushing."
+          },
+          {
+            "id": "v7-3",
+            "text": "7:3They prepare their hands for evil; the ruler asks, and the judge spoke peaceful words—it is his soul’s desire. And I will remove"
+          },
+          {
+            "id": "v7-4",
+            "text": "7:4their good things like a moth eating away and walking upon a measuring rod on the day of watching. Woe, woe! Your punishments have arrived; now they will weep."
+          },
+          {
+            "id": "v7-5",
+            "text": "7:5Do not put confidence in friends or hope in leaders. With your bed companion, beware of entrusting anything to her."
+          },
+          {
+            "id": "v7-6",
+            "text": "7:6For a son dishonors his father, a daughter will rise against her mother, a daughter-in-law will rise against her mother-in-law; a man’s enemies are all the men in his house."
+          },
+          {
+            "id": "v7-7",
+            "text": "7:7But I will look toward the Lord; I will wait upon God my Savior. My God will listen to me."
+          },
+          {
+            "id": "v7-8",
+            "text": "7:8Do not rejoice over me, my enemy, because I have fallen! I will rise, for if I sit in darkness, the Lord will shine for me."
+          },
+          {
+            "id": "v7-9",
+            "text": "7:9I will bear the Lord’s anger, for I sinned against Him, until He vindicates my case. He will execute my judgment and bring me out into the light; I will see His righteousness."
+          },
+          {
+            "id": "v7-10",
+            "text": "7:10My enemy will see and clothe herself in shame, she who says to me, “Where is the Lord your God?” My eyes will look upon her; now she will become a trampling place like mud in the streets"
+          },
+          {
+            "id": "v7-11",
+            "text": "7:11on a day of brick plastering. That day is your obliteration, and it will rub away your ordinances—"
+          },
+          {
+            "id": "v7-12",
+            "text": "7:12that day. Your cities will come to leveling and division among Assyrians, and your fortified cities to division from Tyre as far as Syria’s river—a day of water and tumult."
+          },
+          {
+            "id": "v7-13",
+            "text": "7:13The land will become an obliteration together with those inhabiting it, from the fruits of their practices."
+          },
+          {
+            "id": "v7-14",
+            "text": "7:14Shepherd Thy people with Thy rod, the sheep of Thine inheritance, camping by themselves in a forest amid Carmel. They will graze in Bashan and Gilead as in the days of old."
+          },
+          {
+            "id": "v7-15",
+            "text": "7:15And as in the days of your departure from Egypt, you will see wonderful things."
+          },
+          {
+            "id": "v7-16",
+            "text": "7:16Nations will see and be ashamed of all their strength. They will place hands over their mouth; their ears will be deafened."
+          },
+          {
+            "id": "v7-17",
+            "text": "7:17They will lick dust like snakes dragging along the earth; they will be thrown into turmoil in their confinement. They will be astonished at the Lord our God and fear Thee."
+          },
+          {
+            "id": "v7-18",
+            "text": "7:18Who is a God like Thee, removing injustices and passing over impieties for the remaining ones of His inheritance? He did not retain His anger as a testimony, because He desires mercy."
+          },
+          {
+            "id": "v7-19",
+            "text": "7:19He Himself will turn back and pity us; He will sink our injustices, and they will be thrown into the depths of the sea—all our sins."
+          },
+          {
+            "id": "v7-20",
+            "text": "7:20Thou wilt grant truth to Jacob, mercy to Abraham, just as Thou didst swear to our fathers in the former days."
+          }
+        ],
+        "chapter": 7,
+        "section": 7,
+        "page_id": 3040,
+        "title": "Micah 7",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-7/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 7,
+        "selected_chapter": "Micah 7"
+      }
+    ],
+    "index": {
+      "links": [
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/comparison-edition/",
+          "text": "Jewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/vulgate-comparison/",
+          "text": "Catholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/kjv-comparison/",
+          "text": "Protestant King James Bible\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-1/",
+          "text": "Chapters 1–3\nJudgement on Samaria and Jerusalem"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-4/",
+          "text": "Chapters 4–5\nZion’s future and the ruler from Bethlehem"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-6/",
+          "text": "Chapters 6–7\nThe Lord’s case and final hope"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-4/#v4-3",
+          "text": "Micah 4:3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-5/#v5-2",
+          "text": "Micah 5:2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-6/#v6-8",
+          "text": "Micah 6:8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-7/#v7-18",
+          "text": "Micah 7:18"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/study/",
+          "text": "Open the Micah study edition →"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/#saints-ref-1-1",
+          "text": "[1]"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/#",
+          "text": "Suggest a correction"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-1/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-2/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-3/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-4/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-5/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-6/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-7/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/editorial-guide/",
+          "text": "Read the editorial guide for Micah →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/disparate-study/",
+          "text": "Micah — Disparate Study"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/disparate-studies/",
+          "text": "Explore the Providence study guide →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-1/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-4/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-6/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-4/#v4-3",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-5/#v5-2",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-6/#v6-8",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-7/#v7-18",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/study/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/editorial-guide/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/disparate-study/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/disparate-studies/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/#saints-ref-1-cite-1",
+          "text": "↑"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        }
+      ],
+      "text": "Micah\n\nBespoke Saints English Translation · 7 chapters · Provisional editorial edition · 15 October 2026\n\nCompare Micah with the Saints Translation\n\nJewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison\nCatholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison\nProtestant King James Bible\nCompared with the Saints Translation\nOpen comparison\nSaints Translation: sources and study approach\n\nDraft for review. Only editors can see this introduction. Approve all introductions under Settings → Saints Study.\n\nINTRODUCTION\n\nIntroducing Micah\n\nMicah denounces the injustice of Judah’s leaders and foretells the fall of Jerusalem, yet promises a ruler from Bethlehem and peace among the nations. It sums up true religion in justice, mercy and humility.\n\nSETTING\nA countryman from the Judean lowlands, Micah spoke against the corruption of Jerusalem and Samaria under the Assyrian threat.\nAUTHOR\nAttributed to Micah of Moresheth; scholars generally accept a core from him with later additions, especially in the hopeful passages.\nDATE\nMicah’s ministry c. 740–700 BC.\nOutline\nChapters 1–3\nJudgement on Samaria and Jerusalem\nChapters 4–5\nZion’s future and the ruler from Bethlehem\nChapters 6–7\nThe Lord’s case and final hope\nKey passages\nMicah 4:3 — Swords into ploughshares\nMicah 5:2 — From Bethlehem\nMicah 6:8 — Do justice, love mercy\nMicah 7:18 — Who is a God like you?\nThemes\nSocial justice\nCorrupt leaders\nThe coming ruler\nPeace among nations\nGod who pardons\nRead in the light of Christ\n\nMatthew cites the ruler from Bethlehem as fulfilled in the birth of Christ, and the Fathers saw the going forth ‘from of old’ as pointing to his eternal origin.\n\nOpen the Micah study edition →\n\nIntroduction by Saints.Bible · CC BY-SA 4.0[1] · Suggest a correction\n\nChapters\n\n1 2 3 4 5 6 7\n\nEditorial guide\n\nRead the editorial guide for Micah →\n\nCurrent Bespoke editorial guide\n\nAll 7 chapters, comprising 105 existing verse units, have received the Bespoke English editorial pass: 59 revised and 46 retained. Source-specific numbering, names, repetitions and verse anchors are preserved. The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.\n\nRahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending. All English verse units were individually reviewed, and the full displayed Greek running text was read chapter by chapter with focused comparison of the recorded features. This does not constitute exhaustive critical-text verification.\n\nThe newer Bespoke PDF governs this reading edition. Saints Translation literal-smooth and all comparison/study streams remain separate and unchanged. Notes are separated from Scripture. Earlier source and wording notes are historical records and may quote superseded wording or pronouns; the dated current Bespoke notes explain this revision. The earlier editorial guide remains linked as a historical reference and does not override the newer PDF.\n\nThe existing Greek-based numbering and verse gaps remain intact. Difficult readings, source-specific dates, figures, names and repetitions have not been harmonized to familiar English versions. The seven chapters retain 16, 13, 12, 14, 14, 16 and 20 verse units. Source 4:14 corresponds to common English 5:1, and source 5:1–14 to common English 5:2–15. The conditional at 3:8, eight bites at 5:4 and readiness at 6:8 remain distinct from other witnesses. Unresolved syntax, imagery and speaker/addressee questions are separately queued for specialist review. Historical lexical and comparative notes, footnote anchors, images and navigation are preserved.\n\nMicah — Disparate Study\n\nRead all 29 classified Disparate entries with complete Hebrew–English and Greek–English readings, Jewish and Christian interpretation, and qualified explanations of their differences.\n\nExplore the Providence study guide →\n\nExplore links from this page\nScripture\nFootnotes\n↑CC BY-SA 4.0 — creativecommons.org",
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/",
+      "all_7_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "Whitespace and WordPress apostrophe typography only; visible verse numbers and preserved trailing footnote callouts excluded.",
+    "chapter_navigation": [
+      {
+        "text": "Micah 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-1/"
+      },
+      {
+        "text": "Micah 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-2/"
+      },
+      {
+        "text": "Micah 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-3/"
+      },
+      {
+        "text": "Micah 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-4/"
+      },
+      {
+        "text": "Micah 5",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-5/"
+      },
+      {
+        "text": "Micah 6",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-6/"
+      },
+      {
+        "text": "Micah 7",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-7/"
+      }
+    ],
+    "visual_capture": "Every saved reading page received rendered DOM text and navigation checks. Screenshot capture was unavailable because the browser reported a zero-width viewport; no visual screenshot inspection is claimed for this book."
+  },
+  "comparison_checks": [
+    {
+      "id": 23758,
+      "title": "Micah — Study Edition",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/study/",
+      "before_content_hash": "6d5e65c2b4560d7eec907a80ded8f5538153195c",
+      "after_content_hash": "6d5e65c2b4560d7eec907a80ded8f5538153195c",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20742,
+      "title": "Micah — King James Bible and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/kjv-comparison/",
+      "before_content_hash": "a08268d945f0176e65b33d68b840964906822dde",
+      "after_content_hash": "a08268d945f0176e65b33d68b840964906822dde",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20741,
+      "title": "Micah — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/vulgate-comparison/",
+      "before_content_hash": "5f7952f0a4d7fba8eac3c4c8fe97f1c87afacb58",
+      "after_content_hash": "5f7952f0a4d7fba8eac3c4c8fe97f1c87afacb58",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 18663,
+      "title": "Micah — Disparate Study",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/disparate-study/",
+      "before_content_hash": "8c761cfc04d5aa79b5743adc40e55e05c52fc58f",
+      "after_content_hash": "8c761cfc04d5aa79b5743adc40e55e05c52fc58f",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3831,
+      "title": "Micah — Hebrew and Greek compared",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/comparison-edition/",
+      "before_content_hash": "830e9d6bd5703a3f0385cde70ae78a7f2a4d1bf1",
+      "after_content_hash": "830e9d6bd5703a3f0385cde70ae78a7f2a4d1bf1",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3041,
+      "title": "Micah — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/editorial-guide/",
+      "before_content_hash": "ce8ba0469f3ff7447bc965447e90ccc7ffb86f73",
+      "after_content_hash": "ce8ba0469f3ff7447bc965447e90ccc7ffb86f73",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 105,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 8 edited pages and all 6 reference pages, plus 6 reference hash snapshots. This is a book archive, not a full-site backup."
+}

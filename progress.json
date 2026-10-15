@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 36,
-  "pending_book_revisions": 34,
-  "next_book": "Micah",
+  "completed_book_records": 37,
+  "pending_book_revisions": 33,
+  "next_book": "Nahum",
   "full_bible_complete": false,
   "books": [
     {
@@ -381,8 +381,12 @@
       "order": 37,
       "book": "Micah",
       "staging_path": "/bible/providence/micah/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "micah/",
+      "chapters": 7,
+      "reading_sections": 7,
+      "verse_units": 105,
+      "wording_changes": 59
     },
     {
       "order": 38,
@@ -628,11 +632,12 @@
       "Joel",
       "Amos",
       "Obadiah",
-      "Jonah"
+      "Jonah",
+      "Micah"
     ],
-    "pending_books": 7,
-    "next_book": "Micah",
-    "status": "In progress; Isaiah, Jeremiah, Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah and Jonah English editorial and staging complete, specialist review pending"
+    "pending_books": 6,
+    "next_book": "Nahum",
+    "status": "In progress; Isaiah, Jeremiah, Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah, Jonah and Micah English editorial and staging complete, specialist review pending"
   },
   "completed_divisions": [
     "Law",
@@ -640,7 +645,7 @@
     "Wisdom"
   ],
   "current_priority": "Finish the remaining Old Testament after Job: all Wisdom books and all Prophets, one book at a time, with staging verification and GitHub main uploads.",
-  "old_testament_completed_book_records": 36,
-  "old_testament_pending_book_revisions": 7,
+  "old_testament_completed_book_records": 37,
+  "old_testament_pending_book_revisions": 6,
   "next_division": "Providence"
 }
