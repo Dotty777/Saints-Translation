@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 26,
-  "pending_book_revisions": 44,
-  "next_book": "Sirach",
+  "completed_book_records": 27,
+  "pending_book_revisions": 43,
+  "next_book": "Isaiah",
   "full_bible_complete": false,
   "books": [
     {
@@ -265,8 +265,12 @@
       "order": 27,
       "book": "Sirach",
       "staging_path": "/bible/wisdom/sirach/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "sirach/",
+      "chapters": 51,
+      "reading_sections": 52,
+      "verse_units": 1374,
+      "wording_changes": 669
     },
     {
       "order": 28,
@@ -579,17 +583,20 @@
       "Ecclesiastes",
       "Song of Songs",
       "Lamentations",
-      "Wisdom of Solomon"
+      "Wisdom of Solomon",
+      "Sirach"
     ],
-    "pending_books": 1,
-    "next_book": "Sirach",
-    "status": "In progress; specialist review pending"
+    "pending_books": 0,
+    "next_book": "Isaiah",
+    "status": "English editorial and staging complete; specialist review pending"
   },
   "completed_divisions": [
     "Law",
-    "Judgement"
+    "Judgement",
+    "Wisdom"
   ],
   "current_priority": "Finish the remaining Old Testament after Job: all Wisdom books and all Prophets, one book at a time, with staging verification and GitHub main uploads.",
-  "old_testament_completed_book_records": 26,
-  "old_testament_pending_book_revisions": 17
+  "old_testament_completed_book_records": 27,
+  "old_testament_pending_book_revisions": 16,
+  "next_division": "Providence"
 }

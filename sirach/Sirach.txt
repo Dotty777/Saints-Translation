@@ -1,0 +1,1535 @@
+SIRACH — BESPOKE SAINTS ENGLISH TRANSLATION
+15 October 2026
+Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.
+Plain text Scripture only. Separated editorial notes and unresolved readings are in editorial-notes.json, source-checks.json and the HTML reader.
+
+
+SIRACH — TRANSLATOR’S PROLOGUE
+
+Prologue 1 Since many great things have been given to us through the law, the prophets, and the others who followed after them, for which Israel ought to be praised for instruction and wisdom, and since the readers themselves ought not only to become knowledgeable,
+Prologue 1a but lovers of learning should also be able to benefit those outside, both by speaking and by writing, my grandfather Jesus, having devoted himself extensively to reading the law and the prophets
+Prologue 1b and the other ancestral books, and having acquired considerable familiarity with them, was himself moved to write something concerning instruction and wisdom, so that lovers of learning, by becoming engaged with these things too, might advance much further through a life according to the law.
+Prologue 1c You are therefore urged to read with goodwill and attention, and to be forgiving wherever we may seem
+Prologue 1d to fall short in some expressions despite the labor devoted to translation. For things expressed in Hebrew in their own form do not have equal force when transferred into another language. Not only these things, but even the law itself, the prophecies,
+Prologue 1e and the remaining books show no small difference when expressed in their own form. For in the thirty-eighth year, under King Euergetes, I arrived in Egypt and stayed for some time; finding a likeness of no small learning,
+Prologue 1f I myself considered it most necessary to contribute some diligence and hard work toward translating this book. During that time I devoted many wakeful hours and much skill to completing the book and publishing it also for those living abroad who wish to learn,
+Prologue 1g preparing their character to live according to the law.
+
+SIRACH — CHAPTER 1
+
+1:1 All wisdom is from the Lord and is with Him for ever.
+1:2 Who can count the sand of the seas, the drops of rain, and the days of eternity?
+1:3 Who can trace the height of heaven, the breadth of the earth, the abyss, and wisdom?
+1:4 Wisdom was created before all things, and discerning understanding from eternity.
+1:6 To whom was the root of wisdom revealed? Who knew her skillful works?
+1:8 There is One who is wise, greatly to be feared, seated upon His throne,
+1:9 the Lord Himself. He created her, saw her, counted her out, and poured her upon all His works,
+1:10 with all flesh according to His giving; He supplied her to those who love Him.
+1:11 The fear of the Lord is glory and a boast, gladness and a crown of rejoicing.
+1:12 The fear of the Lord will delight the heart and give gladness, joy, and length of days.
+1:13 It will go well at the end with the one who fears the Lord, and on the day of his death he will be blessed.
+1:14 To fear the Lord is the beginning of wisdom; she was created together with the faithful in the womb.
+1:15 Among human beings she nested on an eternal foundation, and among their offspring she will be trusted.
+1:16 To fear the Lord is the fullness of wisdom, and she intoxicates them with her fruits.
+1:17 She will fill their whole house with desirable things and their storehouses with her produce.
+1:18 The fear of the Lord is the crown of wisdom, making peace and the health of healing flourish.
+1:19 He saw her and counted her out; He rained down skill and discerning knowledge and raised high the glory of those who hold her fast.
+1:20 To fear the Lord is the root of wisdom, and her branches are length of days.
+1:22 Unjust anger cannot be justified, for the weight of a man’s anger brings about his fall.
+1:23 A patient person will hold out until the right time, and afterward gladness will spring up for him.
+1:24 Until the right time he will conceal his words, and the lips of many will recount his understanding.
+1:25 In wisdom’s treasuries are sayings of knowledge, but reverence for God is an abomination to a sinner.
+1:26 If you desire wisdom, keep the commandments, and the Lord will supply her to you.
+1:27 For wisdom and instruction are the fear of the Lord, and faithfulness and gentleness are His good pleasure.
+1:28 Do not disobey the fear of the Lord, and do not approach Him with a divided heart.
+1:29 Do not play the hypocrite in people’s talk, and keep watch over your lips.
+1:30 Do not exalt yourself, lest you fall and bring dishonor upon your soul. The Lord will uncover your hidden things and cast you down in the midst of the assembly, because you did not approach the fear of the Lord and your heart is full of deceit.
+
+SIRACH — CHAPTER 2
+
+2:1 Child, if you come to serve the Lord, prepare your soul for testing.
+2:2 Set your heart straight and endure; do not rush in a time of calamity.
+2:3 Cling to Him and do not withdraw, so that you may grow in your last days.
+2:4 Accept whatever is brought upon you, and be patient amid the changes of your humiliation.
+2:5 For gold is tested in fire, and acceptable people in the furnace of humiliation.
+2:6 Trust Him, and He will support you. Set your ways straight and hope in Him.
+2:7 You who fear the Lord, wait for His mercy, and do not turn aside, lest you fall.
+2:8 You who fear the Lord, trust Him, and your reward will certainly not fail.
+2:9 You who fear the Lord, hope for good things, for eternal gladness and mercy.
+2:10 Look at the generations of old and see: Who trusted in the Lord and was put to shame? Who remained in His fear and was abandoned? Who called upon Him and was disregarded by Him?
+2:11 For the Lord is compassionate and merciful; He forgives sins and saves in a time of affliction.
+2:12 Woe to cowardly hearts and slack hands, and to the sinner who walks on two paths!
+2:13 Woe to the slack heart, because it does not trust; therefore it will not be sheltered.
+2:14 Woe to you who have lost endurance! What will you do when the Lord visits?
+2:15 Those who fear the Lord will not disobey His words, and those who love Him will keep His ways.
+2:16 Those who fear the Lord will seek His good pleasure, and those who love Him will be filled with the law.
+2:17 Those who fear the Lord will prepare their hearts and humble their souls before Him.
+2:18 Let us fall into the hands of the Lord and not into human hands, for as His greatness is, so also is His mercy.
+
+SIRACH — CHAPTER 3
+
+3:1 Listen to me, your father, children, and act accordingly, so that you may be saved.
+3:2 For the Lord has honored a father over his children and confirmed a mother’s authority over her sons.
+3:3 The one who honors a father atones for sins,
+3:4 and the one who glorifies his mother is like someone storing up treasure.
+3:5 The one who honors a father will be gladdened by children, and on the day of his prayer he will be heard.
+3:6 The one who glorifies a father will have length of days, and the one who obeys the Lord will give his mother rest;
+3:7 he will serve those who brought him into being as masters.
+3:8 Honor your father in deed and word, so that a blessing may come upon you from him.
+3:9 For a father’s blessing establishes the houses of children, but a mother’s curse uproots foundations.
+3:10 Do not glory in your father’s dishonor, for a father’s dishonor is no glory to you.
+3:11 For a person’s glory comes from his father’s honor, and a mother in disrepute is a reproach to her children.
+3:12 Child, support your father in old age, and do not grieve him during his life.
+3:13 Even if he loses understanding, bear with him, and do not dishonor him in all your strength.
+3:14 For mercy toward a father will not be forgotten; in place of sins it will be built up for you.
+3:15 In the day of your affliction you will be remembered; as fair weather upon frost, so your sins will dissolve.
+3:16 The one who abandons a father is like a blasphemer, and the one who provokes his mother is cursed by the Lord.
+3:17 Child, carry out your works with gentleness, and you will be loved by an acceptable person.
+3:18 The greater you are, the more you must humble yourself, and you will find favor before the Lord,
+3:20 because the Lord’s dominion is great, and He is glorified by the humble.
+3:21 Do not seek things too difficult for you, and do not investigate things beyond your strength.
+3:22 Consider the things commanded you, for you have no need of hidden things.
+3:23 Do not busy yourself with matters beyond your tasks, for more than human understanding has been shown to you.
+3:24 For their assumption has misled many, and an evil suspicion has caused their thoughts to slip.
+3:26 A hard heart will suffer harm at the end, and the one who loves danger will perish in it.
+3:27 A hard heart will be weighed down with troubles, and the sinner will add sin upon sins.
+3:28 There is no healing for a proud person’s calamity, for a plant of wickedness has taken root in him.
+3:29 An understanding heart will consider a proverb, and a listening ear is the desire of a wise person.
+3:30 Water will extinguish a blazing fire, and almsgiving will atone for sins.
+3:31 The one who repays favors takes thought for what comes afterward, and at the time of his fall he will find support.
+
+SIRACH — CHAPTER 4
+
+4:1 Child, do not deprive the poor person of his livelihood, and do not keep needy eyes waiting.
+4:2 Do not grieve a hungry soul, and do not provoke a man in his helplessness.
+4:3 Do not add trouble to an embittered heart, and do not delay a gift to someone in need.
+4:4 Do not reject an afflicted supplicant, and do not turn your face away from a poor person.
+4:5 Do not turn your eye away from someone in need, and do not give anyone occasion to curse you.
+4:6 For if he curses you in the bitterness of his soul, his Maker will listen to his petition.
+4:7 Make yourself welcome to the assembly, and bow your head to a person of high rank.
+4:8 Incline your ear to the poor person, and answer him peaceably with gentleness.
+4:9 Rescue the one being wronged from the hand of the wrongdoer, and do not lose courage when you judge.
+4:10 Be like a father to orphans and in place of a husband to their mother. Then you will be like a son of the Most High, and He will love you more than your mother does.
+4:11 Wisdom has raised her sons high and takes hold of those who seek her.
+4:12 The one who loves her loves life, and those who rise early to seek her will be filled with gladness.
+4:13 The one who holds her fast will inherit glory; wherever he enters, the Lord blesses.
+4:14 Those who serve her will minister to the Holy One, and the Lord loves those who love her.
+4:15 The one who obeys her will judge nations, and the one who attends to her will dwell confidently.
+4:16 If he trusts, he will possess her as an inheritance, and his descendants will hold her in possession.
+4:17 For at first she will walk with him on winding paths; she will bring fear and dread upon him and torment him with her discipline until she trusts his soul, and she will test him by her ordinances.
+4:18 Then she will return straight to him, gladden him, and reveal her hidden things to him.
+4:19 If he goes astray, she will abandon him and hand him over into the grip of his downfall.
+4:20 Watch for the right time and guard against evil, and do not be ashamed concerning your soul.
+4:21 For there is shame that brings sin, and there is shame that is glory and favor.
+4:22 Do not show partiality against your own soul, and do not defer to someone to your own downfall.
+4:23 Do not withhold a word at a time of need,
+4:24 for wisdom will be known through speech, and instruction through the tongue’s utterance.
+4:25 Do not speak against the truth, and be ashamed of your lack of instruction.
+4:26 Do not be ashamed to confess your sins, and do not force your way against a river’s current.
+4:27 Do not lay yourself down beneath a foolish person, and do not show partiality to someone powerful.
+4:28 Struggle for the truth until death, and the Lord God will fight for you.
+4:29 Do not be rash with your tongue and sluggish and slack in your deeds.
+4:30 Do not be like a lion in your house, indulging vain fancies among your household slaves.
+4:31 Do not let your hand be stretched out to receive, but drawn back when repaying.
+
+SIRACH — CHAPTER 5
+
+5:1 Do not rely on your possessions, and do not say, “They are sufficient for me.”
+5:2 Do not follow your soul and your strength in walking according to the desires of your heart.
+5:3 Do not say, “Who will have power over me?” For the Lord will certainly exact retribution.
+5:4 Do not say, “I sinned, and what happened to me?” For the Lord is patient.
+5:5 Do not become fearless about atonement, adding sin upon sins.
+5:6 Do not say, “His compassion is great; He will atone for the multitude of my sins.” For mercy and wrath are with Him, and His anger will settle upon sinners.
+5:7 Do not delay turning to the Lord, and do not put it off from day to day. For the Lord’s wrath will go out suddenly, and at the time of retribution you will perish.
+5:8 Do not rely on unjust possessions, for they will be of no benefit to you on the day of calamity.
+5:9 Do not winnow in every wind or walk on every path; that is how the double-tongued sinner acts.
+5:10 Be firm in your understanding, and let your word be one.
+5:11 Be quick in listening, and give your answer with patience.
+5:12 If you have understanding, answer your neighbor; if not, let your hand be over your mouth.
+5:13 Glory and dishonor are in speech, and a person’s tongue can bring about his fall.
+5:14 Do not be called a whisperer, and do not set an ambush with your tongue. For shame rests upon a thief, and harsh condemnation upon someone double-tongued.
+5:15 In great and small matters do not act ignorantly, and do not become an enemy in place of a friend. For a bad name will inherit shame and reproach; that is how it is with the double-tongued sinner.
+
+SIRACH — CHAPTER 6
+
+6:2 Do not lift yourself up in the counsel of your soul, lest your soul be torn apart like a bull.
+6:3 You will devour your leaves and destroy your fruits, and leave yourself like a dry tree.
+6:4 An evil soul will destroy its possessor and make him an object of his enemies’ gloating.
+6:5 A sweet voice will multiply its friends, and a well-spoken tongue will multiply friendly greetings.
+6:6 Let those at peace with you be many, but your counselors one out of a thousand.
+6:7 If you acquire a friend, acquire him through testing, and do not trust him quickly.
+6:8 For there is a friend for his own occasion who will certainly not remain on the day of your affliction.
+6:9 There is also a friend who turns to enmity and will expose a quarrel to your reproach.
+6:10 There is also a friend who shares your tables but will certainly not remain on the day of your affliction.
+6:11 In your prosperity he will be like you, and he will speak freely to your household slaves;
+6:12 if you are brought low, he will be against you and hide from your face.
+6:13 Separate yourself from your enemies, and be cautious with your friends.
+6:14 A faithful friend is a strong shelter; and whoever has found him has found a treasure.
+6:15 There is no exchange for a faithful friend, and no weight to measure his excellence.
+6:16 A faithful friend is medicine for life, and those who fear the Lord will find him.
+6:17 The one who fears the Lord will guide his friendship rightly, for as he is, so also is his neighbor.
+6:18 Child, choose instruction from your youth, and until your hair is gray you will find wisdom.
+6:19 Approach her like one who plows and sows, and wait for her good fruits. For you will labor a little in her cultivation and soon eat from her produce.
+6:20 How very harsh she is to the uninstructed! The fainthearted will not remain with her.
+6:21 She will be upon him like a heavy testing stone, and he will not delay throwing her away.
+6:22 For wisdom is according to her name, and she is not manifest to many.
+6:23 Listen, child, and receive my judgment; do not reject my counsel.
+6:24 Put your feet into her fetters and your neck into her collar.
+6:25 Place your shoulder beneath her and carry her, and do not resent her bonds.
+6:26 Approach her with all your soul, and keep her ways with your whole strength.
+6:27 Trace her out and seek her, and she will become known to you; when you have gained hold of her, do not let her go.
+6:28 For in the end you will find her rest, and she will turn to gladness for you.
+6:29 Her fetters will become a strong shelter for you, and her collars a robe of glory.
+6:30 For there is a golden ornament upon her, and her bonds are a blue thread.
+6:31 You will put her on as a robe of glory and place a crown of rejoicing upon yourself.
+6:32 If you are willing, child, you will be instructed; if you give your soul to it, you will become skillful.
+6:33 If you love to listen, you will receive; if you incline your ear, you will become wise.
+6:34 Stand among a multitude of elders, and if anyone is wise, cling to him.
+6:35 Be willing to listen to every godly discourse, and do not let proverbs of understanding escape you.
+6:36 If you see someone understanding, rise early to go to him, and let your foot wear down the steps of his doors.
+6:37 Consider the Lord’s ordinances and meditate continually on His commandments. He Himself will establish your heart, and the wisdom you desire will be given to you.
+
+SIRACH — CHAPTER 7
+
+7:1 Do not do evil things, and evil will certainly not overtake you.
+7:2 Withdraw from injustice, and it will turn aside from you.
+7:3 Son, do not sow in the furrows of injustice, and you will certainly not reap them sevenfold.
+7:4 Do not seek leadership from the Lord or a seat of glory from a king.
+7:5 Do not justify yourself before the Lord, and do not make yourself out to be wise before a king.
+7:6 Do not seek to become a judge, lest you prove unable to remove injustices, lest you be afraid before someone powerful and place a stumbling block in your uprightness.
+7:7 Do not sin against the population of a city, and do not cast yourself down among the crowd.
+7:8 Do not bind a sin twice, for even with one you will not be innocent.
+7:9 Do not say, “He will look upon the multitude of my gifts, and when I present an offering to God Most High, He will accept it.”
+7:10 Do not lose heart in your prayer, and do not neglect to give alms.
+7:11 Do not laugh at someone in bitterness of soul, for there is One who brings low and raises high.
+7:12 Do not plow a lie against your brother, or do the same to a friend.
+7:13 Do not be willing to tell any lie, for persisting in it leads to no good.
+7:14 Do not chatter among a multitude of elders, and do not repeat a word in your prayer.
+7:15 Do not hate laborious work or farming, which the Most High created.
+7:16 Do not count yourself among the multitude of sinners; remember that wrath will not delay.
+7:17 Humble your soul greatly, for the retribution of the ungodly is fire and the worm.
+7:18 Do not exchange a friend for profit or a true brother for gold of Souphir.
+7:19 Do not disregard a wise and good wife, for her grace is beyond gold.
+7:20 Do not mistreat a household slave who works faithfully, or a hired worker who gives his soul to the task.
+7:21 Let your soul love an understanding household slave; do not deprive him of freedom.
+7:22 Do you have livestock? Look after them, and if they are useful to you, let them remain with you.
+7:23 Do you have children? Discipline them, and bend their neck from youth.
+7:24 Do you have daughters? Attend to their bodies, and do not make your face cheerful toward them.
+7:25 Give a daughter in marriage, and you will have completed a great task; give her to an understanding man.
+7:26 Do you have a wife after your heart? Do not put her away; and do not entrust yourself to an unloved woman.
+7:27 Glorify your father with your whole heart, and do not forget your mother’s labor pains.
+7:28 Remember that through them you were born; what will you repay them to match what they have given you?
+7:29 Revere the Lord with your whole soul, and honor His priests.
+7:30 Love your Maker with your whole strength, and do not abandon His ministers.
+7:31 Fear the Lord and glorify the priest; give him his portion, as you have been commanded: firstfruits, the guilt offering, the gift of shoulders, the sacrifice of sanctification, and the firstfruits of holy things.
+7:32 Stretch out your hand also to the poor person, so that your blessing may be complete.
+7:33 Let the favor of a gift extend to every living person, and do not withhold kindness from the dead.
+7:34 Do not hold back from those who weep, and mourn with those who mourn.
+7:35 Do not hesitate to visit a sick person, for through such deeds you will be loved.
+7:36 In all your words remember your last things, and you will never sin.
+
+SIRACH — CHAPTER 8
+
+8:1 Do not fight with a powerful person, lest you fall into his hands.
+8:2 Do not quarrel with a rich person, lest he set his weight against yours; for gold has destroyed many and turned aside the hearts of kings.
+8:3 Do not fight with a talkative person, and do not pile wood upon his fire.
+8:4 Do not jest with someone uninstructed, lest your ancestors be dishonored.
+8:5 Do not reproach someone turning away from sin; remember that we are all under penalties.
+8:6 Do not dishonor a person in his old age, for some of us too grow old.
+8:7 Do not rejoice over a dead person; remember that we all die.
+8:8 Do not disregard the discourse of the wise; dwell among their proverbs, for from them you will learn instruction and how to serve people of high rank.
+8:9 Do not neglect the discourse of the old, for they themselves learned from their fathers; from them you will learn understanding and how to give an answer at a time of need.
+8:10 Do not kindle a sinner’s coals, lest you be burned in his blazing fire.
+8:11 Do not rise up against an insolent person, lest he sit in ambush against your mouth.
+8:12 Do not lend to someone stronger than you; if you do lend, regard it as lost.
+8:13 Do not stand surety beyond your means; if you do stand surety, take thought as someone who will have to pay.
+8:14 Do not litigate with a judge, for they will decide in his favor in keeping with his prestige.
+8:15 Do not travel on a road with a reckless person, lest he become a burden against you. For he will act according to his own will, and you will perish along with him through his folly.
+8:16 Do not fight with a hot-tempered person or cross the wilderness with him. For blood is as nothing in his eyes, and where there is no help, he will strike you down.
+8:17 Do not take counsel with a fool, for he will not be able to keep a word concealed.
+8:18 Do not do something secret before a stranger, for you do not know what it will bring forth.
+8:19 Do not reveal your heart to every person, and do not let him return you a favor.
+
+SIRACH — CHAPTER 9
+
+9:1 Do not be jealous of the wife at your bosom, and do not teach her an evil lesson against yourself.
+9:2 Do not give your soul to a woman so that she steps upon your strength.
+9:3 Do not encounter a woman who acts as a courtesan, lest you fall into her traps.
+9:4 Do not spend your time with a female musician, lest you be caught by her undertakings.
+9:5 Do not study a virgin closely, lest you stumble into penalties on her account.
+9:6 Do not give your soul to prostitutes, so that you do not lose your inheritance.
+9:7 Do not look around in the streets of a city, or wander in its deserted places.
+9:8 Turn your eye away from a shapely woman, and do not study another’s beauty closely. Many have been led astray by a woman’s beauty, and from it affection is kindled like fire.
+9:9 Do not sit at all with a married woman or share a wine feast with her, lest your soul turn toward her and you slip in your spirit into destruction.
+9:10 Do not abandon an old friend, for a recent one is not his equal. A new friend is new wine; when it has aged, you will drink it with gladness.
+9:11 Do not envy a sinner’s glory, for you do not know what his downfall will be.
+9:12 Do not take pleasure in the prosperity of the ungodly; remember that even down to Hades they will certainly not be acquitted.
+9:13 Keep far away from a person who has authority to kill, and you will certainly not suspect the fear of death. If you do approach him, do not offend, so that he does not take away your life. Recognize that you are crossing among traps and walking upon a city’s battlements.
+9:14 To the best of your strength, take the measure of your neighbors, and seek counsel with the wise.
+9:15 Let your deliberation be with people of understanding, and let all your discourse be in the law of the Most High.
+9:16 Let righteous men be your table companions, and let your boast be in the fear of the Lord.
+9:17 A work will be praised through the hand of craftsmen, and a leader of the people is wise through his speech.
+9:18 A talkative man is feared in his city, and one who is rash in his speech will be hated.
+
+SIRACH — CHAPTER 10
+
+10:1 A wise judge will instruct his people, and the government of an understanding person will be orderly.
+10:2 As the judge of a people is, so are his ministers; as the ruler of a city is, so are all who inhabit it.
+10:3 An uninstructed king will destroy his people, but a city will be settled through the understanding of its rulers.
+10:4 Authority over the earth is in the Lord’s hand, and at the right time He will raise up the fitting person over it.
+10:5 A man’s prosperity is in the Lord’s hand, and He will place His glory upon the face of a scribe.
+10:6 Do not bear anger toward your neighbor over every wrong, and do nothing by acts of insolence.
+10:7 Pride is hateful before the Lord and human beings, and injustice is offensive to both.
+10:8 Sovereignty passes from nation to nation because of injustices, acts of insolence, and money.
+10:9 Why are earth and ashes proud? For even in life I have cast out his entrails.
+10:10 A long illness—the physician mocks it. A king today, and tomorrow he will die.
+10:11 For when a person dies, he will inherit creeping things, beasts, and worms.
+10:12 The beginning of a person’s pride is to withdraw from the Lord; his heart has departed from his Maker.
+10:13 For the beginning of pride is sin, and the one who holds it fast will rain down abomination. Therefore the Lord made the calamities extraordinary and overthrew them completely.
+10:14 The Lord pulled down the thrones of rulers and seated the gentle in their place.
+10:15 The Lord plucked out the roots of nations and planted the humble in their place.
+10:16 The Lord overthrew the lands of nations and destroyed them down to the foundations of the earth.
+10:17 He removed some from among them and destroyed them, and made their memory cease from the earth.
+10:18 Pride was not created for human beings, nor furious anger for those born of women.
+10:19 What offspring is honorable? Human offspring. What offspring is honorable? Those who fear the Lord. What offspring is dishonorable? Human offspring. What offspring is dishonorable? Those who transgress commandments.
+10:20 Among brothers their leader is honored, and those who fear the Lord are honored in His eyes.
+10:22 Rich, renowned, and poor alike—their boast is the fear of the Lord.
+10:23 It is not right to dishonor an understanding poor person, and it is not fitting to glorify a sinful man.
+10:24 A dignitary, judge, and ruler will be glorified, but none of them is greater than the one who fears the Lord.
+10:25 Free people will serve a wise household slave, and a knowledgeable man will not grumble.
+10:26 Do not be clever about doing your work, and do not glorify yourself in a time of distress.
+10:27 Better someone who works and has abundance in everything than someone who walks about enjoying glory but lacks bread.
+10:28 Child, glorify your soul with gentleness, and give it honor according to its worth.
+10:29 Who will justify the one who sins against his own soul? Who will glorify the one who dishonors his own life?
+10:30 A poor person is glorified for his knowledge, and a rich person is glorified for his wealth.
+10:31 If someone is honored in poverty, how much more in wealth? If someone is without honor in wealth, how much more in poverty?
+
+SIRACH — CHAPTER 11
+
+11:1 The wisdom of a humble person will raise his head and seat him among dignitaries.
+11:2 Do not praise a man for his beauty or loathe a person for his appearance.
+11:3 The bee is small among winged creatures, but her product is foremost among sweet things.
+11:4 Do not boast in the clothing you wear or exalt yourself on a day of glory. For the Lord’s works are wonderful, and His works are hidden from human beings.
+11:5 Many rulers have sat upon the ground, while someone unsuspected wore a diadem.
+11:6 Many powerful people have been greatly dishonored, and the renowned were handed into others’ hands.
+11:7 Do not find fault before investigating; understand first, and then rebuke.
+11:8 Do not answer before hearing, and do not interrupt in the middle of someone’s words.
+11:9 Do not quarrel about a matter that is no concern of yours, and do not sit together in the judgment of sinners.
+11:10 Child, do not let your activities concern too many things. If you multiply them, you will not escape blame; even if you pursue, you will certainly not catch up, and even by running away you will certainly not escape.
+11:11 There is someone who toils, labors, and hurries, yet is all the more in want.
+11:12 There is someone slow who needs support, lacking strength and abounding in poverty. Yet the Lord’s eyes looked upon him for good, and He raised him from his low estate
+11:13 and lifted his head, and many marveled at him.
+11:14 Good things and bad, life and death, poverty and wealth are from the Lord.
+11:17 The Lord’s gift remains with the godly, and His good pleasure will prosper for ever.
+11:18 There is someone who grows rich through his attention and frugality, and this is his allotted reward:
+11:19 when he says, “I have found rest, and now I will eat from my good things,” he does not know how much time will pass before he leaves them to others and dies.
+11:20 Stand firm in your covenant, occupy yourself with it, and grow old in your work.
+11:21 Do not marvel at a sinner’s works, but trust the Lord and remain at your labor. For it is easy in the Lord’s eyes to make a poor person rich quickly and suddenly.
+11:22 The Lord’s blessing is in the godly person’s reward, and in a swift moment He makes His blessing flourish.
+11:23 Do not say, “What need do I have, and what good things will be mine from now on?”
+11:24 Do not say, “I have enough; what harm can come to me from now on?”
+11:25 On a day of good things, bad things are forgotten; on a day of bad things, good things will not be remembered.
+11:26 For it is easy before the Lord, on the day of death, to repay a person according to his ways.
+11:27 An hour’s suffering makes one forget luxury, and at a person’s end his works are revealed.
+11:28 Call no one happy before his death, and a man will be known in his children.
+11:29 Do not bring every person into your house, for the deceitful person has many ambushes.
+11:30 Like a decoy partridge in a basket is the heart of a proud person; like a spy, he watches for a fall.
+11:31 For he lies in wait, turning good things into bad, and will attach blame to what is choice.
+11:32 From a spark of fire a bed of coals grows, and a sinful person lies in ambush for blood.
+11:33 Beware of an evildoer, for he devises evil, lest he give you lasting blame.
+11:34 Settle a stranger in your house, and he will throw you into disorder with troubles and estrange you from your own people.
+
+SIRACH — CHAPTER 12
+
+12:1 If you do good, know to whom you do it, and there will be gratitude for your good deeds.
+12:2 Do good to a godly person, and you will find repayment; if not from him, then from the Most High.
+12:3 There will be no good things for the one who persists in evil and the one who gives no alms.
+12:4 Give to the godly person, and do not support the sinner.
+12:5 Do good to the humble person, and do not give to the ungodly. Hold back his loaves and do not give them to him, so that he does not use them to overpower you. For you will receive double evils for all the good things you do to him.
+12:6 For the Most High Himself has hated sinners and will repay the ungodly with retribution.
+12:7 Give to the good person, and do not support the sinner.
+12:8 A friend will not be vindicated in prosperity, and an enemy will not remain hidden in adversity.
+12:9 When a man prospers, his enemies are in grief; when he suffers adversity, even his friend will separate himself.
+12:10 Never trust your enemy, for as copper corrodes, so does his wickedness.
+12:11 Even if he humbles himself and walks bowed down, keep your soul alert and guard against him. You will be toward him like someone who has wiped a mirror, and you will know that it has not completely corroded.
+12:12 Do not station him beside yourself, lest he overthrow you and stand in your place. Do not seat him at your right hand, lest he seek your seat; then in the end you will recognize my words and be pierced by my sayings.
+12:13 Who will pity a snake-charmer bitten by a serpent, or all those who approach wild beasts?
+12:14 So it is with the one who approaches a sinful man and becomes entangled in his sins.
+12:15 He will stay with you for an hour, but if you turn aside, he will certainly not hold firm.
+12:16 An enemy will make his lips sweet, but in his heart he will plan to throw you into a pit. An enemy will weep with his eyes, but if he finds the occasion, he will not be satisfied with blood.
+12:17 If evil things meet you, you will find him there before you; as though helping, he will undermine your heel.
+12:18 He will shake his head and clap his hands, whisper many things, and change his expression.
+
+SIRACH — CHAPTER 13
+
+13:1 The one who touches pitch will be stained, and the one who associates with a proud person will become like him.
+13:2 Do not lift a burden beyond you, and do not associate with someone stronger and richer than you. What fellowship can an earthen pot have with a cauldron? One will strike, and the other will be shattered.
+13:3 A rich person has done wrong, yet he has added threats; a poor person has been wronged, yet he will add entreaties.
+13:4 If you are useful, he makes use of you; if you are in want, he will abandon you.
+13:5 If you have something, he will live with you and empty you out, while he himself takes no trouble.
+13:6 He needs you, and he will mislead you, smile at you, and give you hope. He will say pleasant things to you and ask, “What do you need?”
+13:7 He will shame you with his food until he has emptied you out twice or three times, and in the end he will mock you. After this he will see you and abandon you and shake his head at you.
+13:8 Take care not to be misled or brought low through your folly.
+13:9 When a powerful person summons you, be retiring, and he will summon you all the more.
+13:10 Do not thrust yourself forward, lest you be pushed away; do not stand too far off, so that you are not forgotten.
+13:11 Do not insist on speaking with him as an equal, and do not trust his many words. For through much talk he will test you and examine you as though smiling.
+13:12 Merciless is the one who does not keep words to himself, and he will certainly not spare you harm and bonds.
+13:13 Keep watch and take very great care, because you are walking alongside your downfall.
+13:15 Every living creature loves its like, and every person his neighbor.
+13:16 All flesh gathers according to kind, and a man will cling to someone like himself.
+13:17 What fellowship can a wolf have with a lamb? So it is with a sinner and a godly person.
+13:18 What peace can a hyena have with a dog? What peace can a rich person have with a poor one?
+13:19 Wild asses in the wilderness are prey for lions; so the poor are feeding grounds for the rich.
+13:20 Lowliness is an abomination to the proud; so a poor person is an abomination to the rich.
+13:21 A rich person who is shaken is supported by friends; a lowly person who falls is pushed away still further by friends.
+13:22 When a rich person stumbles, many support him. He spoke things that should not be spoken, and they justified him. A lowly person stumbled, and they added rebuke; he spoke with understanding, and no place was given him.
+13:23 A rich person spoke, and everyone fell silent; they raised his word to the clouds. A poor person spoke, and they said, “Who is this?” If he stumbles, they will throw him down all the more.
+13:24 Wealth is good when no sin accompanies it, and poverty is evil in the mouth of the ungodly.
+13:25 A person’s heart changes his face, whether for good or for evil.
+13:26 A cheerful face is the trace of a heart in good circumstances, and finding proverbs requires laborious deliberations.
+
+SIRACH — CHAPTER 14
+
+14:1 Happy is the man who has not slipped with his mouth and has not been pierced by grief over sins.
+14:2 Happy is the one whose soul has not condemned him and who has not fallen away from his hope.
+14:3 Wealth is not good for a miserly man; what are possessions for a grudging person?
+14:4 The one who gathers by depriving his own soul gathers for others, and strangers will enjoy his good things.
+14:5 To whom will the one who is bad to himself be good? He will certainly not rejoice in his possessions.
+14:6 No one is worse than the one who begrudges himself, and this is the repayment of his evil:
+14:7 even if he does good, he does it forgetfully, and in the end he reveals his evil.
+14:8 Evil is the one who begrudges with his eye, turning his face away and disregarding souls.
+14:9 A greedy person’s eye is not satisfied with its portion, and evil injustice dries up the soul.
+14:10 An evil eye begrudges bread, and his own table is lacking.
+14:11 Child, do yourself good according to what you have, and bring offerings worthily to the Lord.
+14:12 Remember that death will not delay, and the covenant of Hades has not been shown to you.
+14:13 Before you die, do good to a friend; according to your strength, reach out and give to him.
+14:14 Do not miss a good day, and do not let your share of a good desire pass you by.
+14:15 Will you not leave your labors to another, and your toils to the division of an inheritance?
+14:16 Give and receive, and beguile your soul, for in Hades there is no seeking luxury.
+14:17 All flesh grows old like a garment, for the covenant from eternity is, “You will surely die.”
+14:18 Like flourishing foliage on a leafy tree—some it casts down, while other leaves it grows—so is a generation of flesh and blood: one dies, and another is born.
+14:19 Every decaying work comes to an end, and its maker will depart with it.
+14:20 Happy is the man who will meditate on wisdom and speak with his understanding,
+14:21 who considers her ways in his heart and will reflect upon her hidden things.
+14:22 Go out after her like a tracker, and lie in wait on her paths.
+14:23 The one who peers through her windows will also listen at her doorways;
+14:24 the one who lodges near her house will fix a tent peg in her walls.
+14:25 He will pitch his tent beside her and lodge in a lodging of good things.
+14:26 He will place his children in her shelter and spend the night beneath her branches.
+14:27 He will be sheltered by her from the heat and lodge in her glory.
+
+SIRACH — CHAPTER 15
+
+15:1 The one who fears the Lord will do this, and the one who holds fast to the law will gain her.
+15:2 She will meet him like a mother and welcome him like a wife of his youth.
+15:3 She will feed him bread of understanding and give him water of wisdom to drink.
+15:4 He will lean upon her and certainly not be shaken; he will hold to her and certainly not be put to shame.
+15:5 She will raise him above his neighbors and open his mouth in the midst of the assembly.
+15:6 He will find gladness and a crown of rejoicing, and inherit an everlasting name.
+15:7 People without understanding will certainly not gain her, and sinful men will certainly not see her.
+15:8 She is far from pride, and lying men will certainly not remember her.
+15:9 Praise is not fitting in a sinner’s mouth, because it was not sent from the Lord.
+15:10 For praise will be spoken in wisdom, and the Lord will cause it to prosper.
+15:11 Do not say, “Because of the Lord I fell away,” for He will not do the things He hates.
+15:12 Do not say, “He Himself led me astray,” for He has no need of a sinful man.
+15:13 The Lord has hated every abomination, and it is not loved by those who fear Him.
+15:14 He Himself made the human being from the beginning and left him in the hand of his own deliberation.
+15:15 If you are willing, you will keep the commandments; to act faithfully is a matter of good will.
+15:16 He has placed fire and water before you; toward whichever you wish, you will stretch out your hand.
+15:17 Before human beings are life and death, and whichever a person chooses will be given to him.
+15:18 For the Lord’s wisdom is great; He is strong in dominion and sees all things.
+15:19 His eyes are upon those who fear Him, and He Himself will know every human deed.
+15:20 He commanded no one to act ungodly, and He gave no one license to sin.
+
+SIRACH — CHAPTER 16
+
+16:1 Do not desire a multitude of useless children, or rejoice in ungodly sons.
+16:2 Even if they multiply, do not rejoice in them unless the fear of the Lord is with them.
+16:3 Do not trust in their life or rely on their multitude. For one is better than a thousand, and it is better to die childless than to have ungodly children.
+16:4 For through one understanding person a city will be settled, but a tribe of lawless people will become desolate.
+16:5 My eye has seen many such things, and my ear has heard things stronger than these.
+16:6 In an assembly of sinners fire will be kindled, and in a disobedient nation wrath was kindled.
+16:7 He did not make atonement for the ancient giants, who rebelled in their strength.
+16:8 He did not spare Lot’s neighbors, whom He loathed because of their pride.
+16:9 He did not have mercy on the nation of destruction, those carried away in their sins,
+16:10 and likewise on the six hundred thousand foot soldiers gathered together in their hardness of heart.
+16:11 Even if there is one stiff-necked person, it is a wonder if he will be acquitted. For mercy and wrath are with Him; He is mighty in atonements and pours out wrath.
+16:12 As His mercy is great, so also His rebuke is great; He will judge a man according to his deeds.
+16:13 A sinner will not escape with his plunder, and a godly person’s endurance will certainly not be left behind.
+16:14 He will make room for every act of almsgiving; each person will receive according to his deeds.
+16:17 Do not say, “I will be hidden from the Lord; who will remember me from on high? Among a numerous people I will certainly not be known, for what is my soul in the immeasurable creation?”
+16:18 Behold, heaven and the heaven of heaven, the abyss and the earth will be shaken at His visitation.
+16:19 Together the mountains and the foundations of the earth are shaken with trembling when He looks upon them.
+16:20 Yet no heart will consider these things, and who will ponder His ways?
+16:21 There is also a tempest that a person will not see, and most of His works are hidden.
+16:22 Who will announce works of righteousness? Who will wait? For the covenant is far away.
+16:23 Someone deficient in heart thinks these things; a foolish and wandering man thinks foolish things.
+16:24 Listen to me, child, and learn knowledge; attend to my words with your heart.
+16:25 I will disclose instruction by measure and declare knowledge with precision.
+16:26 By the Lord’s judgment His works have existed from the beginning; from their making He distinguished their portions.
+16:27 He ordered His works for ever and their dominions through their generations. They neither hungered nor grew weary, and they did not cease from their tasks.
+16:28 None crowded out its neighbor, and for ever they will not disobey His word.
+16:29 After these things the Lord looked upon the earth and filled it with His good things.
+16:30 He covered its face with the life of every living creature, and to it they return.
+
+SIRACH — CHAPTER 17
+
+17:1 The Lord created a human being from earth and returned him to it again.
+17:2 He gave them numbered days and an appointed time, and He gave them authority over the things upon it.
+17:3 He clothed them with strength like His own and made them according to His image.
+17:4 He placed the fear of the human being upon all flesh and granted dominion over beasts and winged creatures.
+17:6 He gave them deliberation, a tongue and eyes, ears and a heart for understanding.
+17:7 He filled them with discerning knowledge and showed them good things and evil things.
+17:8 He set His eye upon their hearts to show them the greatness of His works,
+17:10 and they will praise the holy name, so that they may recount the greatness of His works.
+17:11 He added knowledge to them and gave them the law of life as an inheritance.
+17:12 He established an everlasting covenant with them and showed them His judgments.
+17:13 Their eyes saw the greatness of glory, and their ear heard the glory of His voice.
+17:14 He said to them, “Beware of every injustice,” and commanded each of them concerning the neighbor.
+17:15 Their ways are continually before Him; they will not be hidden from His eyes.
+17:17 He appointed a ruler for each nation, but Israel is the Lord’s portion.
+17:19 All their works are like the sun before Him, and His eyes are continually upon their ways.
+17:20 Their injustices were not hidden from Him, and all their sins are before the Lord.
+17:22 A man’s almsgiving is like a seal with Him, and He will guard human kindness like the pupil of an eye.
+17:23 After these things He will rise and repay them; He will return their recompense upon their head.
+17:24 Yet He gave a way back to those who repent and encouraged those whose endurance was failing.
+17:25 Return to the Lord and leave sins behind; petition Him face to face and lessen your stumbling.
+17:26 Come back to the Most High, turn away from injustice, and hate abomination intensely.
+17:27 Who in Hades will praise the Most High in place of the living who give acknowledgment?
+17:28 From the dead, as from one who does not exist, thanksgiving perishes; the living and healthy will praise the Lord.
+17:29 How great is the Lord’s mercy and His atonement for those who return to Him!
+17:30 For human beings cannot have everything, because a son of man is not immortal.
+17:31 What is brighter than the sun? Yet even it fails; and flesh and blood will conceive evil.
+17:32 He Himself surveys the power of the height of heaven, but all human beings are earth and ashes.
+
+SIRACH — CHAPTER 18
+
+18:1 He who lives for ever created all things together.
+18:2 The Lord alone will be justified.
+18:4 He has empowered no one to declare His works fully; who will trace out His mighty deeds?
+18:5 Who will count the might of His greatness? Who will go on to recount His mercies?
+18:6 It is impossible to diminish or to add, and impossible to trace out the Lord’s wonders.
+18:7 When a person finishes, then he begins; when he stops, then he will be at a loss.
+18:8 What is a human being, and what is his use? What is his good, and what is his evil?
+18:9 The number of a person’s days, in many years, is a hundred.
+18:10 Like a drop of water from the sea or a grain of sand, so are a few years in a day of eternity.
+18:11 Therefore the Lord was patient with them and poured His mercy upon them.
+18:12 He saw and knew that their end was grievous; therefore He multiplied His atonement.
+18:13 A person’s mercy is toward his neighbor, but the Lord’s mercy is upon all flesh: rebuking, disciplining, teaching, and bringing back like a shepherd his flock.
+18:14 He has mercy on those who receive discipline and those who hasten eagerly toward His judgments.
+18:15 Child, do not add reproach to good deeds, or the grief of words to any gift.
+18:16 Will not dew bring relief from scorching heat? So a word is better than a gift.
+18:17 Behold, is not a word beyond a good gift? Yet both are found with a gracious man.
+18:18 A fool will reproach gracelessly, and a grudging person’s gift makes eyes waste away.
+18:19 Learn before speaking, and attend to your health before illness.
+18:20 Examine yourself before judgment, and at the hour of visitation you will find atonement.
+18:21 Humble yourself before you fall ill, and show repentance at the time of sins.
+18:22 Do not be held back from repaying a vow at the right time, and do not wait until death to be justified.
+18:23 Prepare yourself before making a vow, and do not become like a person testing the Lord.
+18:24 Remember wrath in the days of death, and the time of retribution when the face is turned away.
+18:25 Remember a time of famine in a time of fullness, poverty and need in days of wealth.
+18:26 From morning until evening the time changes, and all things are swift before the Lord.
+18:27 A wise person will be cautious in everything, and in days of sins will guard against wrongdoing.
+18:28 Every understanding person has known wisdom and will give acknowledgment to the one who finds her.
+18:29 Those understanding in words have themselves become wise and rained down precise proverbs.
+18:30 Do not walk after your desires, and restrain your appetites.
+18:31 If you supply your soul with the satisfaction of desire, it will make you an object of your enemies’ gloating.
+18:32 Do not rejoice in great luxury, lest you be bound to contribute to it.
+18:33 Do not become poor by feasting on borrowed money when you have nothing in your purse.
+
+SIRACH — CHAPTER 19
+
+19:1 A drunken worker will not become rich; the one who despises small things will fall little by little.
+19:2 Wine and women will lead understanding men astray, and the one who clings to prostitutes will become more reckless.
+19:3 Rot and worms will inherit him, and a reckless soul will be taken away.
+19:4 The one who trusts quickly is lighthearted, and the one who sins will wrong his own soul.
+19:5 The one who rejoices in heart will be condemned,
+19:6 but the one who hates chatter diminishes evil.
+19:7 Never repeat a word, and you will certainly lose nothing.
+19:8 Do not tell it to friend or enemy, and unless silence is a sin for you, do not reveal it.
+19:9 For someone has heard you and kept watch on you, and in time he will hate you.
+19:10 Have you heard a word? Let it die with you. Take courage; it will certainly not make you burst.
+19:11 A fool will suffer labor pains over a word, like a woman giving birth over her baby.
+19:12 An arrow fixed in the flesh of a thigh—so is a word in a fool’s belly.
+19:13 Question a friend; perhaps he did not do it, and if he did, question him so that he may not repeat it.
+19:14 Question your neighbor; perhaps he did not say it, and if he has said it, question him so that he may not say it again.
+19:15 Question a friend, for slander often occurs; do not trust every report.
+19:16 There is someone who slips without intending it in his soul; who has not sinned with his tongue?
+19:17 Question your neighbor before threatening him, and give place to the law of the Most High.
+19:20 All wisdom is fear of the Lord, and in all wisdom there is doing the law.
+19:22 Knowledge of wickedness is not wisdom, and where sinners take counsel there is no prudence.
+19:23 There is shrewdness that is an abomination, and there is a foolish person deficient in wisdom.
+19:24 Better someone lacking understanding but full of fear than someone abounding in prudence who transgresses the law.
+19:25 There is precise shrewdness that is unjust, and there is someone who twists matters in order to bring a judgment to light.
+19:26 There is someone who acts wickedly while bowed down in gloom, with his inward parts full of deceit.
+19:27 Hiding his face and pretending to be deaf, where he has not been recognized he will get ahead of you.
+19:28 If lack of strength prevents him from sinning, he will do evil when he finds an opportunity.
+19:29 A man will be recognized from his appearance, and an understanding person from the look of his face.
+19:30 A man’s clothing, the grin of his teeth, and a person’s steps will declare what he is like.
+
+SIRACH — CHAPTER 20
+
+20:1 There is a rebuke that is not fitting, and there is a silent person who is prudent.
+20:2 How much better to rebuke than to be angry,
+20:3 and the one who acknowledges his fault will be kept from loss.
+20:4 A eunuch’s desire to take a young woman’s virginity—so is the one who carries out judgments by force.
+20:5 There is a silent person who is found wise, and there is someone hated for much chatter.
+20:6 There is someone silent because he has no answer, and someone silent because he knows the right time.
+20:7 A wise person will keep silent until the right time, but a babbler and a fool will miss the right time.
+20:8 The one who multiplies words will be loathed, and the one who assumes authority will be hated.
+20:9 There is success for a man amid adversity, and there is a gain that brings loss.
+20:10 There is a gift that will not benefit you, and a gift whose repayment is double.
+20:11 There is loss for the sake of glory, and there is someone who has lifted his head from lowliness.
+20:12 There is someone who buys much for little and pays for it sevenfold.
+20:13 A wise person will make himself welcome by his words, but fools’ favors will be wasted.
+20:14 An unthinking person’s gift will not benefit you, for his eyes seek many things in exchange for one.
+20:15 He will give little and reproach much, and open his mouth like a herald. Today he will lend, and tomorrow he will demand repayment; such a person is hateful.
+20:16 A fool will say, “I have no friend, and there is no gratitude for my good deeds.”
+20:17 Those who eat his bread are base in speech. How often, and how many, will laugh at him?
+20:18 Better a slip on the ground than a slip of the tongue; so the fall of the wicked will come swiftly.
+20:19 A graceless person is an untimely tale; it will be continually in the mouth of the uninstructed.
+20:20 A proverb will be rejected from a fool’s mouth, for he will certainly not say it at its proper time.
+20:21 There is someone prevented from sinning by need; in his rest he will not be pierced with remorse.
+20:22 There is someone who destroys his soul through shame, and through regard for a foolish face he will lose it.
+20:23 There is someone who makes a promise to a friend because of shame, and has acquired him as an enemy for nothing.
+20:24 A lie is an evil blemish in a person; it will be continually in the mouth of the uninstructed.
+20:25 A thief is preferable to someone who persists in lying, but both will inherit destruction.
+20:26 A lying person’s character is dishonor, and his shame is continually with him.
+20:27 A wise person will advance himself through his words, and a prudent man will please dignitaries.
+20:28 The one who works the land will raise his heap of grain, and the one who pleases dignitaries will atone for injustice.
+20:29 Presents and gifts blind the eyes of the wise and turn aside rebukes like a muzzle in the mouth.
+20:30 Hidden wisdom and an unseen treasure—what benefit is there in either?
+20:31 Better a person who hides his foolishness than a person who hides his wisdom.
+
+SIRACH — CHAPTER 21
+
+21:1 Child, have you sinned? Do not add to it any more, and pray concerning your earlier sins.
+21:2 Flee from sin as from the presence of a snake, for if you approach it, it will bite you. Its teeth are lions’ teeth, destroying human lives.
+21:3 All lawlessness is like a two-edged sword; there is no healing for its wound.
+21:4 Intimidation and insolence will lay wealth waste; so the house of a proud person will be laid waste.
+21:5 A poor person’s petition goes from his mouth to His ears, and His judgment comes swiftly.
+21:6 The one who hates rebuke is in a sinner’s tracks, but the one who fears the Lord will turn back in heart.
+21:7 One who is powerful with the tongue is known from far away, but an understanding person knows when he slips.
+21:8 The one who builds his house with others’ money is like someone gathering its stones for a storm.
+21:9 An assembly of the lawless is gathered tow, and their end is a flame of fire.
+21:10 The sinners’ road is smoothed with stones, but at its end is the pit of Hades.
+21:11 The one who keeps the law masters his thoughts, and wisdom is the fulfillment of the fear of the Lord.
+21:12 The one who is not shrewd will not be instructed, yet there is a shrewdness that multiplies bitterness.
+21:13 A wise person’s knowledge will increase like a flood, and his counsel is like a spring of life.
+21:14 A fool’s inward parts are like a broken vessel; he will retain no knowledge.
+21:15 If a knowledgeable person hears a wise word, he will praise it and add to it. A self-indulgent person heard it, and it displeased him; he cast it behind his back.
+21:16 A fool’s explanation is like a burden on a journey, but grace will be found on an understanding person’s lip.
+21:17 The mouth of a prudent person will be sought in the assembly, and they will consider his words in their heart.
+21:18 Wisdom is like a ruined house to a fool, and an uncomprehending person’s knowledge is unexamined words.
+21:19 Instruction is fetters on the feet of the senseless, and like handcuffs on his right hand.
+21:20 A fool raises his voice in laughter, but a shrewd man will barely smile quietly.
+21:21 Instruction is like a golden ornament to the prudent, and like a bracelet on his right arm.
+21:22 A fool’s foot is quick to enter a house, but an experienced person will feel shame before it.
+21:23 A foolish person peers into a house from its door, but an instructed man will stand outside.
+21:24 It is a person’s lack of instruction to listen at a door, but the prudent will feel weighed down by the dishonor.
+21:25 Strangers’ lips will talk about these things, but the words of the prudent will be weighed in a balance.
+21:26 Fools have their heart in their mouth, but the heart of the wise is their mouth.
+21:27 When an ungodly person curses Satan, he curses his own soul.
+21:28 The whisperer stains his own soul and will be hated where he dwells.
+
+SIRACH — CHAPTER 22
+
+22:1 A lazy person has been compared to a filthy stone, and everyone will hiss at his dishonor.
+22:2 A lazy person has been compared to a lump of dung; everyone who picks it up will shake his hand.
+22:3 A father’s shame is in begetting an uninstructed child, and a daughter brings about loss.
+22:4 A prudent daughter will inherit her husband, but one who brings shame brings grief to her parent.
+22:5 A shameless woman shames both father and husband and will be dishonored by both.
+22:6 An untimely discourse is music in mourning, but lashes and discipline are wisdom at every time.
+22:9 The one teaching a fool is gluing a potsherd together, waking a sleeper from deep sleep.
+22:10 The one speaking to a fool is speaking to someone drowsy; at the end he will say, “What is it?”
+22:11 Weep over a dead person, for he has lost the light; weep also over a fool, for he has lost understanding. Weep more gently over the dead, because he has found rest, but the fool’s life is worse than death.
+22:12 Mourning for the dead lasts seven days; for a fool and an ungodly person, all the days of his life.
+22:13 Do not multiply words with a fool or go to someone without understanding. Guard against him so that you do not have trouble, and you will certainly not be stained by what he shakes off. Turn away from him, and you will find rest and will certainly not grow weary of his madness.
+22:14 What is heavier than lead? What is its name except a fool?
+22:15 Sand, salt, and a lump of iron are easier to bear than a person without understanding.
+22:16 A wooden bond fitted into a building will not be loosened in a shaking; so a heart established on thoughtful counsel will not be cowardly when the time comes.
+22:17 A heart made firm upon an understanding thought is like a sanded ornament on a polished wall.
+22:18 Stakes set on a height will certainly not endure before the wind; so a cowardly heart resting on a foolish thought will certainly not endure before any fear.
+22:19 The one who pricks an eye will bring down tears; the one who pricks a heart reveals feeling.
+22:20 Throwing a stone at birds drives them away, and the one who reproaches a friend will break up friendship.
+22:21 If you draw a sword against a friend, do not despair, for there is a way back.
+22:22 If you open your mouth against a friend, do not be afraid, for there is reconciliation—except for reproach, pride, disclosure of a secret, and a treacherous blow; at these things every friend will flee.
+22:23 Establish trust with your neighbor in poverty, so that you may be filled together with him in his good circumstances. Stay with him in a time of affliction, so that you may share his inheritance.
+22:24 Before fire come a furnace’s vapor and smoke; so before bloodshed come insults.
+22:25 I will not be ashamed to shelter a friend, and I will certainly not hide from his face.
+22:26 If evil things happen to me because of him, everyone who hears will guard against him.
+22:27 Who will place a guard upon my mouth and a skillful seal upon my lips, so that I do not fall because of it and my tongue destroy me?
+
+SIRACH — CHAPTER 23
+
+23:1 Lord, Father and Master of my life, do not abandon me to their counsel; do not let me fall through them.
+23:2 Who will set lashes over my thought and wisdom’s discipline over my heart, so that they may not spare my errors of ignorance, and He may certainly not pass over their sins,
+23:3 so that my errors of ignorance do not multiply and my sins increase, and I fall before my adversaries and my enemy gloat over me?
+23:4 Lord, Father and God of my life, do not give me haughty eyes,
+23:5 and turn desire away from me.
+23:6 Do not let the appetite of the belly and sexual intercourse overtake me, and do not hand me over to a shameless soul.
+23:7 Listen, children, to discipline of the mouth; the one who keeps it will certainly not be caught.
+23:8 A sinner will be caught by his lips, and an abusive person and a proud person will stumble through them.
+23:9 Do not accustom your mouth to an oath, and do not make a habit of naming the Holy One.
+23:10 For just as a household slave under continual examination will not be free of bruises, so the one who continually swears and invokes the name will certainly not be cleansed from sin.
+23:11 A man of many oaths will be filled with lawlessness, and a scourge will not depart from his house. If he offends, his sin is upon him; if he disregards it, he has sinned twice. If he swore in vain, he will not be justified, for his house will be filled with calamities.
+23:12 There is an expression comparable to death; let it not be found in Jacob’s inheritance. For all these things will depart from the godly, and they will not wallow in sins.
+23:13 Do not accustom your mouth to crude ignorance, for sinful speech is in it.
+23:14 Remember your father and mother, for you sit among dignitaries, lest you forget yourself before them and become foolish through your habit; then you will wish you had not been born and curse the day of your birth.
+23:15 A person accustomed to words of reproach will certainly not be instructed throughout all his days.
+23:16 Two kinds multiply sins, and the third will bring wrath:
+23:17 a heated soul, like a burning fire, will certainly not be quenched until it is consumed; a sexually immoral man in his fleshly body will certainly not stop until he kindles a fire. Every loaf is sweet to a sexually immoral man; he will certainly not cease until he dies.
+23:18 A man who transgresses from his marriage bed says in his soul, “Who sees me? Darkness is around me, and the walls cover me; no one sees me. What should I fear? The Most High will certainly not remember my sins.”
+23:19 Human eyes are what he fears; he does not know that the Lord’s eyes are ten thousand times brighter than the sun, surveying every human way and observing hidden places.
+23:20 Before all things were created, they were known to Him, and likewise after they were completed.
+23:21 This man will receive retribution in the city’s squares and be seized where he did not suspect it.
+23:22 So also a woman who leaves her husband and presents an heir from another man.
+23:23 For first she disobeyed the law of the Most High; second she wronged her husband; and third she committed adultery in sexual immorality and presented children from another man.
+23:24 She will be brought before the assembly, and there will be a visitation upon her children.
+23:25 Her children will not spread out into a root, and her branches will not bear fruit.
+23:26 She will leave her memory as a curse, and her reproach will not be erased.
+23:27 Those left behind will know that nothing is better than the fear of the Lord, and nothing sweeter than attending to the Lord’s commandments.
+
+SIRACH — CHAPTER 24
+
+24:1 Wisdom will praise her own soul and boast in the midst of her people.
+24:2 She will open her mouth in the assembly of the Most High and boast before His host:
+24:3 “I came forth from the mouth of the Most High and covered the earth like mist.
+24:4 I dwelt in the heights, and my throne was in a pillar of cloud.
+24:5 Alone I encircled heaven’s circuit and walked in the depth of the abysses.
+24:6 In the waves of the sea, in all the earth, and in every people and nation I gained possession.
+24:7 Among all these I sought rest, and in whose inheritance I might lodge.
+24:8 Then the Creator of all commanded me; my Creator settled my tent and said, ‘Dwell in Jacob, and receive your inheritance in Israel.’
+24:9 Before the age, from the beginning, He created me, and for ever I will certainly not cease.
+24:10 I ministered before Him in the holy tent, and thus I was established in Zion.
+24:11 Likewise He settled me in the beloved city, and my authority was in Jerusalem.
+24:12 I took root in a glorified people, in the Lord’s portion, His inheritance.
+24:13 I rose high like a cedar in Lebanon, like a cypress in the mountains of Hermon.
+24:14 I rose high like a palm in En-gedi, like rose plants in Jericho, like a stately olive in the plain; I rose high like a plane tree.
+24:15 Like cinnamon and aromatic aspalathus I gave a scent; like choice myrrh I spread fragrance, like galbanum, onycha, and stacte, and like a cloud of frankincense in a tent.
+24:16 Like a terebinth I spread out my branches, and my branches were branches of glory and grace.
+24:17 Like a vine I sprouted grace, and my blossoms were fruit of glory and wealth.
+24:19 Come to me, you who desire me, and be filled from my produce.
+24:20 For my memory is sweeter than honey, and my inheritance than a honeycomb.
+24:21 Those who eat me will still hunger, and those who drink me will still thirst.
+24:22 The one who obeys me will not be ashamed, and those who work in me will not sin.”
+24:23 All these things are the book of the covenant of God Most High, the law which Moses commanded us as an inheritance for the assemblies of Jacob,
+24:25 which fills with wisdom like the Pishon, like the Tigris in the days of new crops,
+24:26 which fills with understanding like the Euphrates, like the Jordan in the days of harvest,
+24:27 which makes instruction appear like light, like the Gihon in the days of vintage.
+24:28 The first did not come to know her fully, and likewise the last did not trace her out.
+24:29 For her thought grew abundant from the sea, and her counsel from a great abyss.
+24:30 I too came out like a channel from a river, like a watercourse into a garden.
+24:31 I said, “I will water my garden and drench my garden bed.” Then behold, my channel became a river, and my river became a sea.
+24:32 I will again make instruction shine like the dawn and reveal these things far away.
+24:33 I will again pour out teaching like prophecy and leave it for generations of ages.
+24:34 See that I have labored not for myself alone, but for all who seek her.
+
+SIRACH — CHAPTER 25
+
+25:1 In three things I was adorned and stood beautiful before the Lord and human beings: harmony among brothers, friendship among neighbors, and a wife and husband living agreeably with one another.
+25:2 But my soul hated three kinds, and I was greatly offended at their life: a proud poor person, a rich liar, and an old adulterer deficient in understanding.
+25:3 You have not gathered in youth; how could you find anything in your old age?
+25:4 How fitting is judgment for gray hair, and knowledge of counsel for elders!
+25:5 How fitting is wisdom for the old, and thought and counsel for the honored!
+25:6 Long experience is the crown of the old, and their boast is the fear of the Lord.
+25:7 Nine things I considered happy in my heart, and the tenth I will speak with my tongue: a person rejoicing in children, one who lives to see his enemies’ fall;
+25:8 happy is the one who lives with an understanding wife, who has not slipped with his tongue, and who has not served someone unworthy of him;
+25:9 happy is the one who has found prudence and the one who speaks into listening ears.
+25:10 How great is the one who has found wisdom! Yet he is not above the one who fears the Lord.
+25:11 The fear of the Lord has surpassed everything; to whom will the one who holds it fast be compared?
+25:13 Any wound, but not a wound of the heart; any evil, but not a woman’s evil;
+25:14 any calamity, but not a calamity from those who hate; any retribution, but not the retribution of enemies.
+25:15 There is no head beyond a snake’s head, and no anger beyond an enemy’s anger.
+25:16 I would choose to live with a lion and a dragon rather than live with an evil woman.
+25:17 A woman’s evil changes her appearance and darkens her face like a bear.
+25:18 Her husband will recline among his neighbors and involuntarily groan bitterly.
+25:19 Every evil is small beside a woman’s evil; may a sinner’s lot fall upon her.
+25:20 A sandy ascent under an old person’s feet—so is a talkative wife to a quiet husband.
+25:21 Do not fall for a woman’s beauty, and do not long for a woman.
+25:22 Wrath, shamelessness, and great shame result if a wife supplies her husband.
+25:23 An evil wife is a humbled heart, a gloomy face, and a wound of the heart; one who will not make her husband happy is slack hands and paralyzed knees.
+25:24 From a woman came the beginning of sin, and because of her we all die.
+25:25 Do not give water an outlet, or an evil wife freedom of speech.
+25:26 If she does not walk according to your direction, cut her off from your flesh.
+
+SIRACH — CHAPTER 26
+
+26:1 Happy is the husband of a good wife, and the number of his days is doubled.
+26:2 A courageous wife gladdens her husband, and he will complete his years in peace.
+26:3 A good wife is a good portion; she will be given among the portion of those who fear the Lord.
+26:4 Whether rich or poor, his heart is good, and at every time his face is cheerful.
+26:5 My heart feared three things, and before a fourth presence I made supplication: a city’s slander, an assembled mob, and a false accusation—all more grievous than death.
+26:6 A wife jealous of another wife is heartache and mourning, and a scourge of the tongue that reaches everyone.
+26:7 An evil wife is a shifting ox-yoke; the one who takes hold of her is like someone grasping a scorpion.
+26:8 A drunken wife is great wrath, and she will not conceal her shame.
+26:9 A woman’s sexual immorality will be known in the lifting of her eyes and in her eyelids.
+26:10 Keep a firm watch over a headstrong daughter, so that she does not find freedom and use it for herself.
+26:11 Be on guard after a shameless eye, and do not marvel if she offends against you.
+26:12 Like a thirsty traveler she will open her mouth and drink from every nearby water; she will sit before every tent peg and open her quiver before an arrow.
+26:13 A wife’s grace will delight her husband, and her knowledge will fatten his bones.
+26:14 A silent wife is a gift of the Lord, and there is no exchange for a disciplined soul.
+26:15 A modest wife is grace upon grace, and no weight is worth a self-controlled soul.
+26:16 The sun rising in the Lord’s heights—so is a good wife’s beauty in the order of her house.
+26:17 A lamp shining upon a holy lampstand—so is a beautiful face upon a firmly established stature.
+26:18 Golden pillars upon a silver base—so are beautiful feet upon the breast of one who stands firm.
+26:28 At two things my heart has grieved, and at the third anger came upon me: a warrior in want through need, understanding men when they are treated as refuse, and someone turning back from righteousness to sin. The Lord will prepare him for the sword.
+26:29 A merchant will hardly be delivered from wrongdoing, and a retailer will not be acquitted of sin.
+
+SIRACH — CHAPTER 27
+
+27:1 Many have sinned for profit, and the one who seeks to increase his gains will turn his eye away.
+27:2 A peg will be fixed between the joints of stones, and sin will be squeezed between selling and buying.
+27:3 Unless a person holds fast diligently in the fear of the Lord, his house will quickly be overthrown.
+27:4 When a sieve is shaken, refuse remains; so a person’s rubbish remains in his reasoning.
+27:5 A furnace tests a potter’s vessels, and a person’s testing is in his deliberation.
+27:6 A tree’s fruit reveals its cultivation; so a word reveals the thought of a person’s heart.
+27:7 Do not praise a man before he reasons, for this is the testing of human beings.
+27:8 If you pursue what is right, you will attain it and put it on like a glorious robe reaching to the feet.
+27:9 Birds will lodge with their like, and truth will return to those who practice it.
+27:10 A lion lies in wait for prey; so sin lies in wait for those who do unjust things.
+27:11 A godly person’s discourse is always wisdom, but a fool changes like the moon.
+27:12 Among people without understanding, watch the time; among thoughtful people, linger.
+27:13 Fools’ discourse is offensive, and their laughter is in sinful indulgence.
+27:14 The talk of someone who swears many oaths will make hair stand up, and their quarrel makes one stop the ears.
+27:15 The quarrel of the proud is bloodshed, and their mutual abuse is grievous to hear.
+27:16 The one who reveals secrets has destroyed trust and will certainly not find a friend close to his soul.
+27:17 Love a friend and keep faith with him; but if you reveal his secrets, do not pursue him afterward.
+27:18 For as a person has lost his dead, so you have lost your neighbor’s friendship.
+27:19 As you have released a bird from your hand, so you have let your neighbor go, and you will not catch him.
+27:20 Do not pursue him, because he has gone far away and escaped like a gazelle from a trap.
+27:21 For a wound can be bound up, and there is reconciliation after abuse, but the one who revealed secrets has lost hope.
+27:22 The one who winks with his eye devises evil things, and no one will remove them from him.
+27:23 Before your eyes he will make his mouth sweet and marvel at your words, but afterward he will twist his mouth and put a stumbling block in your words.
+27:24 I have hated many things, but compared none to him; the Lord will hate him too.
+27:25 The one who throws a stone upward throws it upon his own head, and a treacherous blow will open wounds.
+27:26 The one who digs a pit will fall into it, and the one who sets a trap will be caught in it.
+27:27 The one who does evil things will have them roll back upon him, and he will certainly not know where they have come to him from.
+27:28 Mockery and reproach await the proud, and retribution will lie in wait for him like a lion.
+27:29 Those who rejoice at the fall of the godly will be caught in a trap, and pain will consume them before their death.
+27:30 Resentment and wrath—these too are abominations, and a sinful man will hold them fast.
+
+SIRACH — CHAPTER 28
+
+28:1 The one who takes revenge will find revenge from the Lord, and He will certainly keep his sins in view.
+28:2 Forgive your neighbor’s wrong, and then when you pray, your sins will be released.
+28:3 Does a person keep wrath against another person and seek healing from the Lord?
+28:4 Does he have no mercy on a person like himself and pray concerning his own sins?
+28:5 If he himself, being flesh, keeps resentment, who will atone for his sins?
+28:6 Remember the last things and stop being hostile; remember decay and death, and remain in the commandments.
+28:7 Remember the commandments and do not be resentful toward your neighbor; remember the covenant of the Most High and overlook ignorance.
+28:8 Keep away from quarrelling, and you will lessen sins, for a hot-tempered person will kindle a quarrel.
+28:9 A sinful man will disturb friends and cast slander among those at peace.
+28:10 As the fuel for a fire is, so it will burn; as a quarrel grows firm, so it will burn. A person’s anger will match his strength, and he will raise his wrath according to his wealth.
+28:11 A hurried dispute kindles fire, and a rushing quarrel pours out blood.
+28:12 If you blow on a spark, it will burn; if you spit on it, it will be quenched. Both come out of your mouth.
+28:13 Curse a whisperer and someone double-tongued, for he has destroyed many who were at peace.
+28:14 A third tongue has shaken many and scattered them from nation to nation; it has pulled down fortified cities and overthrown dignitaries’ houses.
+28:15 A third tongue has driven out courageous women and deprived them of their labors.
+28:16 The one who attends to it will certainly not find rest or dwell in quiet.
+28:17 A lash’s blow makes a bruise, but a tongue’s blow will shatter bones.
+28:18 Many have fallen by the edge of a sword, yet not as many as those who have fallen through a tongue.
+28:19 Happy is the one sheltered from it, who has not passed through its anger, who has not pulled its yoke or been bound in its bonds.
+28:20 For its yoke is an iron yoke, and its bonds are bronze bonds.
+28:21 The death it brings is an evil death, and Hades is preferable to it.
+28:22 It will certainly not master the godly, and they will not be burned in its flame.
+28:23 Those who abandon the Lord will fall into it; among them it will burn and certainly not be quenched. It will be sent against them like a lion and ravage them like a leopard.
+28:24 Behold, fence your property with thorns; bind up your silver and gold.
+28:25 Make a balance and a weight for your words, and make a door and a bar for your mouth.
+28:26 Take care lest you slip through it, lest you fall before someone lying in ambush.
+
+SIRACH — CHAPTER 29
+
+29:1 The one who shows mercy will lend to his neighbor, and the one who strengthens his hand keeps commandments.
+29:2 Lend to your neighbor at his time of need, and in turn repay your neighbor at the appointed time.
+29:3 Confirm your word and keep faith with him, and at every time you will find what you need.
+29:4 Many regarded a loan as a windfall and brought trouble upon those who helped them.
+29:5 Until he receives it, he will kiss the lender’s hands and lower his voice over his neighbor’s money; when repayment is due, he will drag out the time, return words of indifference, and blame the season.
+29:6 If the lender succeeds, he will scarcely recover half and regard it as a windfall. If not, the borrower has deprived him of his money and made him an enemy for nothing. He will repay him with curses and insults, and repay dishonor in place of honor.
+29:7 Many have turned away, not from wickedness, but because they feared being deprived for nothing.
+29:8 Nevertheless, be patient with the lowly person and do not keep him waiting for alms.
+29:9 For the commandment’s sake, support the poor person; in his need do not turn him away empty.
+29:10 Lose silver for a brother and a friend, and do not let it corrode under a stone to destruction.
+29:11 Place your treasure according to the Most High’s commandments, and it will benefit you more than gold.
+29:12 Store up almsgiving in your chambers, and it will rescue you from every affliction.
+29:13 More than a strong shield and more than a weighty spear, it will fight for you against an enemy.
+29:14 A good man will stand surety for his neighbor, but someone who has lost shame will abandon him.
+29:15 Do not forget a guarantor’s favors, for he has given his life on your behalf.
+29:16 A sinner will overthrow a guarantor’s good circumstances, and someone ungrateful in thought will abandon his rescuer.
+29:17 Surety has destroyed many who were prospering and shaken them like a wave of the sea.
+29:18 It has driven powerful men from home, and they wandered among foreign nations.
+29:19 A sinner who falls into surety and pursues profitable undertakings will fall into lawsuits.
+29:20 Support your neighbor according to your ability, and take care of yourself so that you do not fall.
+29:21 The first necessities of life are water, bread, clothing, and a house that covers nakedness.
+29:22 Better a poor person’s life beneath a shelter of beams than splendid dishes in other people’s homes.
+29:23 Be content with little or much, and you will certainly not hear the reproach of living as a guest.
+29:24 A life from house to house is grievous; where you live as a guest, you will not open your mouth.
+29:25 You will entertain and provide drink without thanks, and besides these things you will hear bitter words:
+29:26 “Come along, guest, arrange the table, and if you have anything in your hand, feed me.
+29:27 Go out, guest, before a more honored person; my brother has come as my guest, and I need the house.”
+29:28 These things are burdensome to a person with prudence: rebuke about lodging and a creditor’s reproach.
+
+SIRACH — CHAPTER 30
+
+30:1 The one who loves his son will continually give him lashes, so that he may rejoice at his last days.
+30:2 The one who disciplines his son will benefit from him and boast about him among acquaintances.
+30:3 The one who teaches his son will make his enemy envious and rejoice over him before friends.
+30:4 His father died, yet it is as though he did not die, for he left someone like himself after him.
+30:5 During his life he saw him and rejoiced, and at his death he was not grieved.
+30:6 He left an avenger against enemies and one who would repay kindness to friends.
+30:7 The one who pampers a son will bind up his wounds, and at every cry his inward parts will be troubled.
+30:8 An untamed horse turns out stubborn, and an unrestrained son turns out headstrong.
+30:9 Pamper a child, and he will terrify you; play with him, and he will grieve you.
+30:10 Do not laugh together with him, so that you do not suffer together and in the end gnash your teeth.
+30:11 Do not give him authority in youth.
+30:12 Bruise his sides while he is little, lest he become hardened and disobey you.
+30:13 Discipline your son and work upon him, so that you do not stumble through his shamelessness.
+30:14 Better a poor person who is healthy and strong in constitution than a rich person scourged in his body.
+30:15 Health and soundness are better than all gold, and a robust body than immeasurable wealth.
+30:16 There is no wealth better than bodily health, and no gladness beyond joy of heart.
+30:17 Death is better than a bitter life, and eternal rest than persistent illness.
+30:18 Good things poured out before a closed mouth are like offerings of food set beside a tomb.
+30:19 What benefit is an offering to an idol? For it neither eats nor smells; so is the one pursued by the Lord.
+30:20 He sees with his eyes and groans, like a eunuch embracing a virgin and groaning.
+30:21 Do not give your soul over to grief, and do not afflict yourself with your deliberation.
+30:22 Gladness of heart is a person’s life, and a man’s rejoicing is length of days.
+30:23 Beguile your soul, comfort your heart, and put grief far from you; for grief has destroyed many, and there is no benefit in it.
+30:24 Jealousy and anger shorten days, and anxiety brings old age before its time.
+30:25 A bright and good heart will take care over the dishes it eats.
+
+SIRACH — CHAPTER 31
+
+31:1 Wakefulness over wealth wastes the flesh, and anxiety about it drives away sleep.
+31:2 The anxiety of wakefulness will drive away drowsiness, and a severe illness will rouse a person from sleep.
+31:3 A rich person toiled in gathering money, and at rest he is filled with his luxuries.
+31:4 A poor person toiled with a diminished livelihood, and at rest he becomes needy.
+31:5 The one who loves gold will not be justified, and the one who pursues profits will go astray in them.
+31:6 Many were given over to ruin for gold, and their destruction happened before their face.
+31:7 It is a stumbling block for those infatuated with it, and every fool will be caught by it.
+31:8 Happy is the rich person who was found blameless and did not go after gold.
+31:9 Who is he? We will call him happy, for he has done wonderful things among his people.
+31:10 Who was tested by it and brought to completion? It will be a boast for him. Who could have transgressed and did not transgress, could have done evil things and did not do them?
+31:11 His good circumstances will be established, and the assembly will recount his almsgiving.
+31:12 Have you sat at a great table? Do not open your throat over it or say, “How much there is upon it!”
+31:13 Remember that an evil eye is bad. What has been created worse than an eye? Therefore it weeps for every reason.
+31:14 Do not stretch your hand toward whatever it looks at, and do not crowd together with it in the dish.
+31:15 Understand your neighbor’s concerns from yourself, and consider every matter.
+31:16 Eat what is set before you like a human being, and do not chew greedily, lest you be hated.
+31:17 Be the first to stop for the sake of good discipline; do not be insatiable, lest you stumble.
+31:18 If you have sat among many, do not stretch out your hand before them.
+31:19 How sufficient a little is for an instructed person! He does not pant upon his bed.
+31:20 Healthy sleep comes with a moderate stomach. He rose early, and his soul was with him. The pain of sleeplessness, bilious vomiting, and cramp accompany an insatiable man.
+31:21 If you have been forced to eat too much, rise, vomit at a distance, and you will find rest.
+31:22 Listen to me, child, and do not despise me; in the end you will find my words true. In all your works be skillful, and no illness at all will meet you.
+31:23 Lips will bless the generous provider of bread, and testimony to his excellence is trustworthy.
+31:24 A city will grumble against someone stingy with bread, and testimony to his meanness is precise.
+31:25 Do not show your manliness with wine, for wine has destroyed many.
+31:26 A furnace tests hardened metal in quenching; so wine tests hearts in the quarrel of the proud.
+31:27 Wine is like life for human beings if you drink it in its measure. What is life for someone lacking wine? It too was created for human gladness.
+31:28 Wine drunk at the proper time in sufficient measure is rejoicing of heart and gladness of soul.
+31:29 Wine drunk in quantity amid provocation and conflict is bitterness of soul.
+31:30 Drunkenness multiplies a fool’s anger to his stumbling, diminishing strength and adding wounds.
+31:31 At a wine banquet do not rebuke your neighbor or despise him in his gladness. Do not speak a reproachful word to him or distress him with a demand for repayment.
+
+SIRACH — CHAPTER 32
+
+32:1 Have they appointed you leader? Do not exalt yourself. Be among them as one of them; take care of them, and then sit down.
+32:2 After attending to every duty, recline, so that you may rejoice because of them and receive a crown for good order.
+32:3 Speak, elder, for it is fitting for you, with exact knowledge, but do not hinder the music.
+32:4 Where there is a performance, do not pour out chatter or display wisdom at an unsuitable time.
+32:5 A carbuncle signet upon a golden ornament—so is an ensemble of musicians at a wine banquet.
+32:6 An emerald signet in a gold setting—so is musicians’ melody with pleasant wine.
+32:7 Speak, young man, if you are needed; scarcely twice, if you are asked.
+32:8 Sum up your speech, much in few words; be like someone who knows and at the same time keeps silent.
+32:9 Among dignitaries do not make yourself their equal, and while another speaks do not chatter much.
+32:10 Lightning hastens before thunder, and grace will go ahead of a modest person.
+32:11 Rise at the right hour and do not linger at the rear; hurry home and do not be slack.
+32:12 There enjoy yourself and carry out your thoughts, but do not sin by a proud word.
+32:13 For these things bless your Maker, who intoxicates you with His good things.
+32:14 The one who fears the Lord will receive instruction, and those who rise early will find favor.
+32:15 The one who seeks the law will be filled with it, but the hypocrite will stumble in it.
+32:16 Those who fear the Lord will find judgment and kindle ordinances like light.
+32:17 A sinful person will turn aside a rebuke and find an interpretation according to his own will.
+32:18 A man of counsel will certainly not disregard a thought; an alien and proud person will not shrink from fear.
+32:19 Do nothing without counsel, and after doing it, do not regret it.
+32:20 Do not walk on a road of obstacles, and do not stumble among stones.
+32:21 Do not trust a road free of stumbling blocks,
+32:22 and guard yourself even against your children.
+32:23 In every undertaking trust your soul, for this too is keeping commandments.
+32:24 The one who trusts the law attends to commandments, and the one who trusts the Lord will not be diminished.
+
+SIRACH — CHAPTER 33
+
+33:1 Evil will not meet the one who fears the Lord; even in testing he will be rescued again.
+33:2 A wise man will not hate the law, but the one who acts hypocritically in it is like a ship in a storm.
+33:3 An understanding person will trust the law, and the law is trustworthy for him, like an answer from the sacred tokens.
+33:4 Prepare your speech, and so you will be heard; bind instruction together and answer.
+33:5 A fool’s inward parts are a cartwheel, and his deliberation is like a turning axle.
+33:6 A breeding horse is like a mocking friend; he neighs beneath everyone who mounts him.
+33:7 Why does one day surpass another when all the light of the year’s days comes from the sun?
+33:8 By the Lord’s knowledge they were distinguished, and He differentiated seasons and festivals.
+33:9 Some He raised high and sanctified, and some He placed among the ordinary numbered days.
+33:10 All human beings are from the ground, and Adam was created from earth.
+33:11 In abundant knowledge the Lord distinguished them and differentiated their ways.
+33:12 Some He blessed and raised high, some He sanctified and brought near Himself; some He cursed and brought low, and overturned them from their position.
+33:13 Like a potter’s clay in his hand—all its ways are according to his pleasure—so are human beings in the hand of their Maker, for Him to repay them according to His judgment.
+33:14 Good stands opposite evil, and life opposite death; so a sinner stands opposite a godly person.
+33:15 Look in this way at all the Most High’s works: two by two, one opposite the other.
+33:16 I too, the last, kept watch like someone gleaning behind grape-gatherers.
+33:17 By the Lord’s blessing I came in time, and like a grape-gatherer I filled a winepress.
+33:18 Consider that I have labored not for myself alone, but for all who seek instruction.
+33:19 Listen to me, dignitaries of the people; give ear, leaders of the assembly.
+33:20 Do not give son or wife, brother or friend authority over you during your life. Do not give your money to another, lest afterward you regret it and beg for it.
+33:21 As long as you still live and breath is in you, do not exchange yourself for any flesh.
+33:22 For it is better that your children ask you than that you look toward your sons’ hands.
+33:23 In all your works be preeminent; do not put a blemish upon your glory.
+33:24 On the day when your life’s days are completed, at the time of death, distribute your inheritance.
+33:25 Fodder, a rod, and burdens for a donkey; bread, discipline, and work for a household slave.
+33:26 Make a servant work, and you will find rest; release his hands, and he will seek freedom.
+33:27 A yoke and strap will bend a neck, and racks and tortures are for a wrongdoing household slave.
+33:28 Put him to work so that he is not idle, for idleness has taught much evil.
+33:29 Assign him tasks as befits him, and if he does not obey, make his fetters heavy.
+33:30 Do not go to excess against any flesh, and do nothing without judgment.
+33:31 If you have a household slave, let him be as yourself, because you acquired him with blood.
+33:32 If you have a household slave, treat him as a brother, because you will need him as your own soul.
+33:33 If you mistreat him and he leaves and runs away, on what road will you look for him?
+
+SIRACH — CHAPTER 34
+
+34:1 Empty and false hopes belong to a man without understanding, and dreams give wings to fools.
+34:2 Like someone grasping a shadow and chasing wind is the one who relies on dreams.
+34:3 A dream vision is this set against that, a likeness of a face opposite a face.
+34:4 What will be cleansed from something unclean? What will prove true from something false?
+34:5 Divinations, omens, and dreams are vain, and the heart imagines like a woman in labor.
+34:6 Unless they are sent from the Most High in a visitation, do not give your heart to them.
+34:7 For dreams have led many astray, and those who hoped in them fell away.
+34:8 The law will be fulfilled without falsehood, and wisdom is fulfillment in a faithful mouth.
+34:9 A man who has wandered has learned much, and one with much experience will recount understanding.
+34:10 The one who has not been tested knows little, but the one who has wandered will increase in skill.
+34:11 I have seen many things in my wandering, and my understanding exceeds my words.
+34:12 Often I was in danger to the point of death, and because of these things I was preserved.
+34:13 The spirit of those who fear the Lord will live, for their hope rests upon the One who saves them.
+34:14 The one who fears the Lord will fear nothing and certainly not be cowardly, because He Himself is his hope.
+34:15 Happy is the soul of the one who fears the Lord! On whom does he rely? Who is his support?
+34:16 The Lord’s eyes are upon those who love Him: a mighty shield and strong support, shelter from scorching heat and shelter from midday, protection from stumbling and help against falling,
+34:17 raising the soul and brightening the eyes, giving healing, life, and blessing.
+34:18 One who sacrifices from unjust gain makes a blemished offering, and the gifts of the lawless bring no acceptance.
+34:19 The Most High takes no pleasure in the offerings of the ungodly, nor does He atone for sins through a multitude of sacrifices.
+34:20 The one who presents a sacrifice from the property of the poor is slaughtering a son before his father.
+34:21 The bread of the needy is the life of the poor; the one who deprives them of it is a man of blood.
+34:22 The one who takes away a livelihood murders his neighbor, and the one who withholds a hired worker’s wage sheds blood.
+34:23 One builds and another tears down; what have they gained beyond toil?
+34:24 One prays and another curses; whose voice will the Master hear?
+34:25 Someone washes after contact with a corpse and then touches it again; what has he gained by his washing?
+34:26 So is a person who fasts over his sins and goes again to do the same things. Who will hear his prayer, and what has he gained by humbling himself?
+
+SIRACH — CHAPTER 35
+
+35:1 The one who keeps the law multiplies offerings; the one who attends to commandments sacrifices a peace offering.
+35:2 The one who repays kindness offers fine flour, and the one who gives alms sacrifices a praise offering.
+35:3 To withdraw from wickedness is the Lord’s good pleasure, and to withdraw from injustice is atonement.
+35:4 Do not appear empty before the Lord, for all these things are for the commandment’s sake.
+35:5 A righteous person’s offering fattens the altar, and its fragrance is before the Most High.
+35:6 A righteous man’s sacrifice is acceptable, and its memorial will not be forgotten.
+35:7 Glorify the Lord with a generous eye, and do not diminish the firstfruits of your hands.
+35:8 With every gift make your face cheerful, and consecrate a tenth with gladness.
+35:9 Give to the Most High according to His gift, with a generous eye according to what your hand has found.
+35:10 For the Lord repays, and He will repay you sevenfold.
+35:11 Do not bribe, for He will not accept it, and do not rely on an unjust sacrifice.
+35:12 For the Lord is judge, and with Him there is no prestige of persons.
+35:13 He will not show partiality against the poor, and He will hear the petition of the wronged.
+35:14 He will certainly not disregard an orphan’s supplication or a widow when she pours out her words.
+35:15 Do not a widow’s tears run down her cheek, and her cry rise against the one who brought them down?
+35:16 The one who serves acceptably will be received, and his petition will reach as far as the clouds.
+35:17 A humble person’s prayer has passed through the clouds, and until it draws near, he will certainly not be comforted.
+35:18 He will certainly not withdraw until the Most High visits, judges in favor of the righteous, and executes judgment.
+35:19 The Lord will certainly not delay or be patient with them,
+35:20 until He crushes the loins of the merciless and repays the nations with retribution,
+35:21 until He removes the multitude of the insolent and crushes the scepters of the unjust,
+35:22 until He repays a person according to his actions and judges human works according to their thoughts,
+35:23 until He judges His people’s case and gladdens them with His mercy.
+35:24 Mercy is timely in the season of His people’s affliction, like rain clouds in a season without rain.
+
+SIRACH — CHAPTER 36
+
+36:1 Have mercy on us, Master, God of all; look upon us and cast Thy fear upon all the nations.
+36:2 Raise Thy hand against foreign nations, and let them see Thy dominion.
+36:3 Just as Thou wast sanctified in us before them, so mayest Thou be magnified in them before us.
+36:4 Let them know Thee, as we also have known that there is no God except Thee, Lord.
+36:5 Renew signs and make wonders different; glorify Thy hand and right arm.
+36:6 Rouse anger and pour out wrath; remove the adversary and destroy the enemy.
+36:7 Hasten the time and remember the oath, and let them recount Thy mighty deeds.
+36:8 Let the survivor be consumed in fiery wrath, and let those who harm Thy people find destruction.
+36:9 Crush the heads of enemy rulers who say, “There is no one except us.”
+36:10 Gather all the tribes of Jacob, and give them their inheritance as from the beginning.
+36:11 Have mercy, Lord, on the people called by Thy name, and on Israel, whom Thou didst liken to a firstborn.
+36:12 Have compassion on the city of Thy sanctuary, Jerusalem, the place of Thy rest.
+36:13 Fill Zion with the recounting of Thine excellence, and Thy people with Thy glory.
+36:14 Give testimony to those Thou didst create in the beginning, and raise up the prophecies spoken in Thy name.
+36:15 Give a reward to those who wait for Thee, and let Thy prophets be found trustworthy.
+36:16 Hear, Lord, the petition of Thy supplicants, according to Aaron’s blessing concerning Thy people,
+36:17 and all those upon the earth will know that Thou art Lord, the God of the ages.
+36:18 The belly will eat every food, yet one food is better than another.
+36:19 The throat tastes food from the hunt; so an understanding heart tastes false words.
+36:20 A twisted heart will give grief, and a person of much experience will repay it.
+36:21 A woman will accept any male, yet one daughter is better than another.
+36:22 A woman’s beauty gladdens the face and surpasses every human desire.
+36:23 If mercy and gentleness are upon her tongue, her husband is unlike ordinary human sons.
+36:24 The one who acquires a wife begins a possession: a helper corresponding to him and a pillar of rest.
+36:25 Where there is no fence, property will be plundered; where there is no wife, a wanderer will groan.
+36:26 For who will trust a well-girded robber springing from city to city?
+36:27 So it is with a person who has no nest and lodges wherever evening overtakes him.
+
+SIRACH — CHAPTER 37
+
+37:1 Every friend will say, “I too have shown friendship,” but there is a friend who is a friend in name alone.
+37:2 Is there not grief to the point of death when a companion and friend turns to enmity?
+37:3 O evil thought, from where did you roll in to cover the dry land with deceit?
+37:4 A companion enjoys his friend’s gladness but will stand against him in a time of affliction.
+37:5 A companion labors with a friend for his belly’s sake; before battle he will take up a shield.
+37:6 Do not forget a friend in your soul or be unmindful of him in your wealth.
+37:7 Every counselor exalts counsel, but there is someone who counsels for himself.
+37:8 Guard your soul against a counselor, and know beforehand what he needs—for he too will counsel for himself—lest he cast a lot against you
+37:9 and say to you, “Your road is good,” then stand opposite to see what happens to you.
+37:10 Do not take counsel with someone who looks suspiciously at you, and hide your counsel from those who envy you.
+37:11 Do not consult a woman about her rival, a coward about war, a merchant about exchange, a buyer about selling, a grudging person about gratitude, a merciless person about kindness, a lazy person about any work, a yearly hired worker about completing it, or an idle household slave about much labor. Do not rely on these for any counsel.
+37:12 Instead, remain with a godly man whom you know to keep commandments, whose soul is in accord with your soul, and who will share your pain if you stumble.
+37:13 Establish the counsel of your heart, for you have nothing more trustworthy than it.
+37:14 For a man’s soul is sometimes accustomed to report more than seven watchmen seated high upon a watchtower.
+37:15 Besides all these things, petition the Most High to make your road straight in truth.
+37:16 A word is the beginning of every work, and counsel precedes every action.
+37:17 The trace of a heart’s change brings forth four parts:
+37:18 good and evil, life and death; the tongue continually rules them.
+37:19 There is a skillful man who instructs many, yet is useless to his own soul.
+37:20 There is someone who displays wisdom in words but is hated; this person will lack all food,
+37:21 for grace was not given him from the Lord, because he was deprived of all wisdom.
+37:22 There is someone wise for his own soul, and the fruits of his understanding are trustworthy upon his mouth.
+37:23 A wise man will instruct his own people, and the fruits of his understanding are trustworthy.
+37:24 A wise man will be filled with blessing, and all who see him will call him happy.
+37:25 A man’s life is a number of days, but Israel’s days are beyond numbering.
+37:26 The wise person will inherit trust among his people, and his name will live for ever.
+37:27 Child, in your life test your soul; see what is bad for it and do not give it that.
+37:28 For not everything benefits everyone, and not every soul takes pleasure in everything.
+37:29 Do not be insatiable in every luxury, and do not abandon yourself to dishes of food.
+37:30 For with much food there will be illness, and insatiability will approach the point of bilious vomiting.
+37:31 Many have died through insatiability, but the one who takes care will add life.
+
+SIRACH — CHAPTER 38
+
+38:1 Honor a physician with his due honors, according to the need for him; for the Lord created him also.
+38:2 For healing is from the Most High, and the physician will receive a gift from a king.
+38:3 A physician’s knowledge will raise his head, and he will be admired before dignitaries.
+38:4 The Lord created medicines from the earth, and a prudent man will not reject them.
+38:5 Was not water sweetened by wood, so that its strength might be known?
+38:6 He Himself gave human beings knowledge, to be glorified in His wonderful works.
+38:7 By these He healed and removed the sufferer’s pain; with these a perfumer will make a mixture,
+38:8 and His works will certainly not come to an end; from Him there is peace upon the face of the earth.
+38:9 Child, do not be negligent in your illness, but pray to the Lord, and He Himself will heal you.
+38:10 Put wrongdoing away, straighten your hands, and cleanse your heart from every sin.
+38:11 Give a fragrant offering and a memorial of fine flour, and make your offering rich, as one who is no more.
+38:12 Give the physician a place too, for the Lord created him; do not let him leave you, for you need him.
+38:13 There is a time when success is also in their hands,
+38:14 for they themselves will petition the Lord to grant them success in relief and healing for the sake of preserving life.
+38:15 May the one who sins before his Maker fall into a physician’s hands.
+38:16 Child, shed tears over the dead and begin a lament as one suffering terribly. Lay out his body according to his due, and do not neglect his burial.
+38:17 Make your weeping bitter and your lament fervent; mourn according to his worth for one day or two because of slander, and be comforted because of grief.
+38:18 For death comes from grief, and grief of heart will bend strength.
+38:19 In calamity grief also remains, and the poor person’s life weighs upon the heart.
+38:20 Do not give your heart over to grief; put it away, remembering the last things.
+38:21 Do not forget: there is no return. You will not benefit this person, and you will harm yourself.
+38:22 “Remember my judgment, for yours is likewise: yesterday for me, today for you.”
+38:23 When the dead person rests, bring his remembrance to rest, and be comforted concerning him when his spirit departs.
+38:24 A scribe’s wisdom comes through the opportunity of leisure; the one whose activity is reduced will become wise.
+38:25 How will someone become wise who holds a plow, boasts in a goad’s shaft, drives oxen, is occupied with their work, and whose talk is about the offspring of bulls?
+38:26 He will give his heart to making furrows, and his wakefulness to fodder for heifers.
+38:27 So also every craftsman and master-builder who spends the night like the day, those who engrave signet engravings: his persistence is in varying the design. He will give his heart to making the depiction lifelike, and his wakefulness to finishing the work.
+38:28 So also a smith sitting near an anvil and studying works of iron: the fire’s vapor will melt his flesh, and he will struggle in the furnace’s heat. He will incline his ear to the hammer’s sound, and his eyes are upon the pattern of the vessel. He will give his heart to completing works, and his wakefulness to finishing their adornment.
+38:29 So also a potter sitting at his work and turning a wheel with his feet, who is continually anxious over his work, and whose whole labor is measured by number.
+38:30 With his arm he will shape clay, and before his feet he will bend his strength. He will give his heart to completing the coating, and his wakefulness to cleaning the kiln.
+38:31 All these trusted in their hands, and each shows skill in his own work.
+38:32 Without them a city will not be settled, and people will neither sojourn nor walk about.
+38:33 Yet they will not be sought for the people’s council or rise high in the assembly; they will not sit on a judge’s chair or consider a covenant of judgment.
+38:34 They will certainly not make instruction and judgment known or be found among proverbs, but they will sustain the fabric of the world, and their petition is in the work of their craft.
+
+SIRACH — CHAPTER 39
+
+39:1 Different is the one who gives his soul to considering the law of the Most High: he will seek out the wisdom of all the ancients and occupy himself with prophecies.
+39:2 He will preserve the discourse of renowned men and enter into the turns of parables.
+39:3 He will seek out the hidden meanings of proverbs and dwell among the riddles of parables.
+39:4 He will serve among dignitaries and appear before rulers. He will pass through the land of foreign nations, for he has experienced good and evil among human beings.
+39:5 He will give his heart to rising early before the Lord his Maker and petition the Most High. He will open his mouth in prayer and petition concerning his sins.
+39:6 If the great Lord is willing, he will be filled with a spirit of understanding. He himself will rain down words of his wisdom and give thanks to the Lord in prayer.
+39:7 He will direct his counsel and knowledge rightly and consider His hidden things.
+39:8 He will reveal the instruction of his teaching and boast in the law of the Lord’s covenant.
+39:9 Many will praise his understanding, and it will not be erased for ever. His memory will not depart, and his name will live for generations of generations.
+39:10 Nations will recount his wisdom, and the assembly will proclaim his praise.
+39:11 If he remains, he will leave a name greater than a thousand; if he rests, it suffices for him.
+39:12 Having reflected further, I will recount more, for I have become full like the moon at midmonth.
+39:13 Listen to me, holy sons, and sprout like a rose growing beside a flowing stream.
+39:14 Give a fragrant scent like frankincense, and blossom like a lily. Spread a scent and offer a song of praise; bless the Lord for all His works.
+39:15 Ascribe greatness to His name and give thanks with His praise, with songs of lips and lyres; and thus you will say in thanksgiving:
+39:16 “All the Lord’s works are very good, and every command will come to pass at its time. One cannot say, ‘What is this? What is this for?’ For everything will be sought at its time.
+39:17 At His word water stood like a heap, and at the utterance of His mouth came reservoirs of water.
+39:18 In His command is all His good pleasure, and no one can diminish His salvation.
+39:19 The works of all flesh are before Him, and nothing can be hidden from His eyes.
+39:20 From age to age He has looked upon everything, and nothing is astonishing before Him.
+39:21 One cannot say, ‘What is this? What is this for?’ For all things have been created for their uses.
+39:22 His blessing covered like a river and drenched dry land like a flood.
+39:23 So nations will inherit His wrath, as when He turned waters into brine.
+39:24 His ways are straight for the holy, but likewise stumbling blocks for the lawless.
+39:25 Good things were created for the good from the beginning, and likewise evil things for sinners.
+39:26 The first necessities for human life are water, fire, iron, salt, fine wheat flour, milk, honey, the blood of the grape, oil, and clothing.
+39:27 All these are good for the godly, but likewise will turn into evils for sinners.
+39:28 There are spirits created for retribution; in His anger He made their scourges firm. At the time of completion they will pour out strength and assuage their Maker’s anger.
+39:29 Fire, hail, famine, and death—all these were created for retribution;
+39:30 the teeth of beasts, scorpions, vipers, and a sword exacting retribution upon the ungodly to their destruction.
+39:31 They will rejoice in His command and be prepared upon the earth for their uses; at their times they will not transgress His word.”
+39:32 Therefore from the beginning I stood firm, reflected, and left this in writing:
+39:33 “All the Lord’s works are good, and He will supply every need at its proper hour.
+39:34 One cannot say, ‘This is worse than that,’ for everything will prove good at its time.”
+39:35 And now sing hymns with all your heart and mouth, and bless the Lord’s name.
+
+SIRACH — CHAPTER 40
+
+40:1 Great occupation was created for every person, and a heavy yoke lies upon Adam’s sons, from the day they leave their mother’s womb until the day they return to the mother of all:
+40:2 their thoughts and fear of heart, anxious expectation, the day of death.
+40:3 From the one seated upon a glorious throne to the one brought low in earth and ashes,
+40:4 from the one wearing blue and a crown to the one clothed in raw linen, there are anger, jealousy, trouble, upheaval, fear of death, resentment, and strife.
+40:5 Even at the time of rest upon a bed, night’s sleep alters his awareness.
+40:6 He rests a little, almost nothing; then in sleep, as on a day of keeping watch, he is troubled by his heart’s vision, like someone who escaped from battle.
+40:7 At his time of need he woke, marveling that there was nothing to fear.
+40:8 This is with all flesh, from human being to beast, and for sinners sevenfold beyond these things:
+40:9 death, blood, strife, sword, calamities, famine, crushing, and scourge.
+40:10 All these things were created against the lawless, and because of them the flood occurred.
+40:11 Everything from earth returns to earth, and what comes from waters returns to the sea.
+40:12 Every bribe and injustice will be erased, but faithfulness will stand for ever.
+40:13 The wealth of the unjust will dry up like a river and resound like great thunder in rain.
+40:14 When he opens his hands, he will rejoice; so transgressors will cease completely.
+40:15 The offspring of the ungodly will not multiply branches, and unclean roots rest upon sheer rock.
+40:16 Reed grass beside every water and riverbank will be plucked out before all other grass.
+40:17 Kindness is like a garden amid blessings, and almsgiving will remain for ever.
+40:18 The life of a self-sufficient person and a worker will be sweet, but above both is the one who finds treasure.
+40:19 Children and the building of a city establish a name, but a blameless wife is reckoned above both.
+40:20 Wine and music gladden the heart, but love of wisdom is above both.
+40:21 Flute and harp sweeten melodies, but a pleasant tongue is above both.
+40:22 An eye will desire grace and beauty, but above both the green growth of a crop.
+40:23 Friend and companion meet at the right time, but above both is a wife with her husband.
+40:24 Brothers and help are for a time of affliction, but almsgiving will rescue beyond both.
+40:25 Gold and silver will make the foot firm, but counsel proves better than both.
+40:26 Money and strength will lift the heart, but fear of the Lord is above both. There is no lack in the fear of the Lord, and in it there is no need to seek help.
+40:27 The fear of the Lord is like a garden of blessing, and it has sheltered a person beyond all glory.
+40:28 Child, do not live a life of begging; it is better to die than to beg.
+40:29 A man who looks toward another’s table has no livelihood reckoned as life; he will defile his soul with others’ dishes. But a knowledgeable and instructed man will guard himself.
+40:30 Begging will be sweet in a shameless person’s mouth, but fire will burn in his belly.
+
+SIRACH — CHAPTER 41
+
+41:1 O death, how bitter is your remembrance to a person at peace among his possessions, to a man free from distraction and prospering in everything, who still has strength to take food!
+41:2 O death, how good is your sentence to a person in need and declining in strength, extremely old and distracted about everything, resistant and having lost endurance!
+41:3 Do not fear death’s sentence; remember those before you and those who come afterward.
+41:4 This is the sentence from the Lord upon all flesh. Why do you refuse what pleases the Most High? Whether ten or a hundred or a thousand years, in Hades there is no reproach concerning one’s life.
+41:5 The children of sinners become loathsome children, those who associate with the dwellings of the ungodly.
+41:6 The inheritance of sinners’ children will perish, and reproach will remain continually with their offspring.
+41:7 Children will blame an ungodly father, because they will be reproached on his account.
+41:8 Woe to you, ungodly men, who have abandoned the law of God Most High!
+41:9 If you are born, you will be born for a curse; if you die, you will be allotted to a curse.
+41:10 Everything that comes from earth will depart into earth; so the ungodly go from a curse to destruction.
+41:11 People’s mourning concerns their bodies, but the name of sinners, being no good, will be blotted out.
+41:12 Take care of your name, for it will remain with you longer than a thousand great treasures of gold.
+41:13 A good life has a numbered span of days, but a good name will remain for ever.
+41:14 Children, preserve instruction in peace. But hidden wisdom and an unseen treasure—what benefit is there in either?
+41:15 A person who hides his foolishness is better than a person who hides his wisdom.
+41:16 Therefore, be ashamed in accordance with my word. For it is not good to preserve every kind of shame, and not everything finds approval with everyone in good faith.
+41:17 Be ashamed before father and mother concerning sexual immorality, and before a leader and ruler concerning a lie;
+41:18 before a judge and magistrate concerning an offense, and before an assembly and people concerning lawlessness;
+41:19 before a partner and friend concerning injustice, and before the place where you reside concerning theft;
+41:20 before the truth of God and His covenant, and of planting your elbow upon bread;
+41:21 of contempt in receiving and giving, and of silence toward those who greet you;
+41:22 of looking at a courtesan, and of turning your face away from a relative;
+41:23 of taking away a portion and a gift, and of scrutinizing a married woman;
+41:24 of meddling with his maidservant—and do not stand over her bed;
+41:25 before friends concerning words of reproach—and after giving, do not reproach;
+41:26 of repeating a report you have heard, and of concealing secret words.
+41:27 Then you will be truly modest and find favor before every person.
+
+SIRACH — CHAPTER 42
+
+42:1 Do not be ashamed of these things, and do not show partiality so as to sin:
+42:2 of the law of the Most High and His covenant, and of a judgment that acquits the ungodly;
+42:3 of an accounting with a partner and fellow travelers, and of giving an inheritance to companions;
+42:4 of accuracy in scales and weights, and of acquiring much or little;
+42:5 of profit from merchants’ sales, of much discipline for children, and of making an evil household slave’s side bleed.
+42:6 With an evil woman, a seal is good; where there are many hands, lock things up.
+42:7 Whatever you hand over, do so by number and weight; every giving and receiving should be in writing.
+42:8 Do not be ashamed of disciplining the senseless and foolish, or an extremely old man who contends with young people. Then you will be truly instructed and approved before everyone living.
+42:9 A daughter is a secret cause of sleeplessness to her father, and anxiety about her drives sleep away: in her youth, lest she pass her prime; when married, lest she be hated;
+42:10 in her virginity, lest she be defiled and become pregnant in her father’s home; while with a husband, lest she transgress; and when married, lest she be barren.
+42:11 Keep a firm watch over a headstrong daughter, lest she make you a delight to enemies, a subject of talk in the city, and an outcast of the people, and put you to shame among a great multitude.
+42:12 Do not gaze at any person’s beauty, and do not sit among women.
+42:13 For from clothes comes a moth, and from a woman comes a woman’s wickedness.
+42:14 A man’s wickedness is better than a woman who does good—and a woman who brings shame leads to reproach.
+42:15 I will now remember the Lord’s works and recount what I have seen. By the Lord’s words are His works.
+42:16 The shining sun has looked upon everything, and His work is full of the Lord’s glory.
+42:17 He has not enabled the Lord’s holy ones to recount all His wonders, which the Lord Almighty established so that everything might stand firm in His glory.
+42:18 He has traced out the abyss and the heart and considered their intricate workings. For the Most High knows all knowledge and has looked upon the sign of the age,
+42:19 announcing what has passed and what will be, and uncovering the traces of hidden things.
+42:20 No thought has escaped Him; not even one word has been hidden from Him.
+42:21 He has set in order the great things of His wisdom, as He exists before the age and into the age. Nothing has been added or diminished, and He has had no need of any counselor.
+42:22 How desirable all His works are! They are there to behold like a spark.
+42:23 All these live and remain for ever for every need, and all obey.
+42:24 All things are paired, one opposite another, and He has made nothing deficient.
+42:25 One has confirmed the good things of another. Who will be filled with beholding His glory?
+
+SIRACH — CHAPTER 43
+
+43:1 The pride of the heights is the clear firmament, the appearance of heaven in a vision of glory.
+43:2 The sun, appearing, announces as it rises: a wondrous instrument, a work of the Most High.
+43:3 At its noon it dries out the land; who will withstand its burning heat?
+43:4 One blows a furnace for works requiring heat, but the sun burns mountains three times as fiercely. Breathing out fiery vapors and flashing rays, it dims the eyes.
+43:5 Great is the Lord who made it, and by His words it hastened on its course.
+43:6 The moon too is always there at its appointed time, a display of seasons and a sign of the age.
+43:7 From the moon comes the sign of a festival, a luminary that diminishes as it completes its course.
+43:8 The month takes its name from it. It grows wondrously in its changes, an instrument of the encampments on high, shining in the firmament of heaven.
+43:9 The beauty of heaven is the glory of the stars, an ornament shining in the Lord’s heights.
+43:10 At the Holy One’s words they will stand according to His judgment and will never grow slack in their watches.
+43:11 Look at the rainbow and bless the One who made it, exceedingly beautiful in its radiance.
+43:12 It encircled heaven with a ring of glory; the hands of the Most High stretched it out.
+43:13 By His command He hastened the snow and speeds the lightning of His judgment.
+43:14 Therefore the storehouses were opened, and clouds flew out like birds.
+43:15 By His greatness He strengthened the clouds, and hailstones were broken into pieces.
+43:16 At His appearing the mountains will be shaken; at His will the south wind will blow.
+43:17 The sound of His thunder rebuked the earth, as did the north wind’s storm and the whirling of wind.
+43:18 Like birds flying down, He sprinkles snow; like a settling locust is its descent. The eye will marvel at the beauty of its whiteness, and the heart will be astounded by its falling shower.
+43:19 He pours frost upon the earth like salt, and when frozen it becomes points of thorns.
+43:20 A cold north wind will blow, and ice will freeze upon water. It will settle upon every gathering of water, and the water will put it on like a breastplate.
+43:21 It will consume mountains and burn the wilderness, and extinguish green growth like fire.
+43:22 A mist quickly brings healing to everything; dew arriving from the scorching heat will bring gladness.
+43:23 By His purpose He stilled the abyss and planted islands in it.
+43:24 Those who sail the sea recount its danger, and we marvel at what our ears hear.
+43:25 There too are strange things and wondrous works, the variety of every living creature, the creation of sea monsters.
+43:26 Because of Him His messenger succeeds, and by His word all things hold together.
+43:27 We will say much and still never reach the end. The conclusion of our words is this: He is everything.
+43:28 When glorifying Him, where will we find strength? For He is greater than all His works.
+43:29 The Lord is fearsome and exceedingly great, and His power is wondrous.
+43:30 As you glorify the Lord, exalt Him as much as you can, for He will surpass even that. As you exalt Him, increase your strength; do not grow weary, for you will never reach the end.
+43:31 Who has seen Him and will recount Him? Who will magnify Him as He is?
+43:32 Many hidden things are greater than these, for we have seen few of His works.
+43:33 For the Lord made all things, and He gave wisdom to the godly.
+
+SIRACH — CHAPTER 44
+
+44:1 Let us now praise glorious men, our fathers according to their generations.
+44:2 The Lord created great glory, His majesty from of old.
+44:3 There were those who ruled in their kingdoms, men renowned for power; those who counseled with their understanding, who made declarations in prophecies;
+44:4 leaders of the people in deliberations and in understanding the people’s writings, wise words being part of their instruction;
+44:5 those who sought out musical melodies and related verses in writing;
+44:6 wealthy men furnished with strength, living peacefully in their dwellings.
+44:7 All these were honored in their generations and were a source of boasting in their days.
+44:8 Some of them left a name, so that their praises might be recounted.
+44:9 But there are some of whom there is no remembrance, who perished as though they had never existed, becoming as though they had never been born, and their children after them.
+44:10 Yet these were men of mercy, whose righteous deeds have not been forgotten.
+44:11 It will remain with their offspring; their descendants are a good inheritance.
+44:12 Their offspring stood within the covenants, and their children did so because of them.
+44:13 Their offspring will remain for ever, and their glory will not be blotted out.
+44:14 Their bodies were buried in peace, and their name lives through generations.
+44:15 Peoples will recount their wisdom, and the assembly proclaims their praise.
+44:16 Enoch pleased the Lord and was taken away, an example of repentance to the generations.
+44:17 Noah was found perfect and righteous; in a time of wrath he became an exchange. Through him a remnant was left to the earth when the flood came.
+44:18 Everlasting covenants were established with him, so that all flesh might not be wiped out by a flood.
+44:19 Abraham was a great father of a multitude of nations, and no one like him was found in glory.
+44:20 He kept the law of the Most High and entered a covenant with Him. He established a covenant in his flesh, and under testing he was found faithful.
+44:21 Therefore He assured him by an oath that nations would be blessed in his offspring, that He would multiply him like the dust of the earth, raise his offspring like the stars, and give them an inheritance from sea to sea and from the River to the end of the earth.
+44:22 In Isaac He established it in the same way, because of Abraham his father.
+44:23 He caused the blessing of all people and the covenant to rest upon Jacob’s head. He acknowledged him with His blessings and gave him an inheritance. He distinguished his portions and divided them among twelve tribes.
+
+SIRACH — CHAPTER 45
+
+45:1 From him He brought forth a man of mercy who found favor in the eyes of all flesh, beloved by God and people: Moses, whose remembrance is among blessings.
+45:2 He made him like the holy ones in glory and magnified him through the fears of his enemies.
+45:3 By his words He caused signs to cease; He glorified him before kings. He gave him commandments for His people and showed him something of His glory.
+45:4 In faithfulness and gentleness He sanctified him; He chose him out of all flesh.
+45:5 He let him hear His voice, brought him into the darkness, and gave him commandments face to face, a law of life and knowledge, to teach Jacob the covenant and Israel His judgments.
+45:6 He exalted Aaron, a holy man like him, his brother from the tribe of Levi.
+45:7 He established him as an everlasting covenant and gave him the priesthood of the people. He blessed him with beautiful attire and girded him with a robe of glory.
+45:8 He clothed him with the fullness of splendor and equipped him with mighty garments: breeches, a robe reaching to the feet, and a shoulder piece.
+45:9 He surrounded him with little pomegranates, with many golden bells all around, to sound with his footsteps and make an audible ringing in the sanctuary as a remembrance for the sons of His people;
+45:10 with a holy robe of gold, blue, and purple, the work of an embroiderer; with an oracle-piece of judgment, tokens of truth, twisted scarlet, a craftsman’s work;
+45:11 with costly stones bearing engraved seals in settings of gold, a stoneworker’s work, as a remembrance in carved writing according to the number of Israel’s tribes;
+45:12 with a golden crown upon the turban, the impression of a seal of holiness, an honor to boast of, a mighty work, beautifully adorned things desired by the eyes.
+45:13 Before him there had never been such beautiful things. No outsider has ever worn them, but only his sons and his descendants continually.
+45:14 His sacrifices will be wholly offered twice every day, continually.
+45:15 Moses filled his hands and anointed him with holy oil. It became an everlasting covenant for him and his offspring, throughout the days of heaven, to minister to Him, serve as priests, and bless His people in the Name.
+45:16 He chose him from every living person to present an offering to the Lord, incense and a pleasing fragrance as a remembrance, to make atonement for your people.
+45:17 In His commandments He gave him authority concerning covenants of judgments, to teach Jacob the testimonies and enlighten Israel through His law.
+45:18 Outsiders banded together against him and envied him in the wilderness: the men around Dathan and Abiram, and Korah’s assembly in anger and wrath.
+45:19 The Lord saw and was not pleased, and they were brought to their end in furious wrath. He worked portents upon them, consuming them in His flaming fire.
+45:20 He added glory to Aaron and gave him an inheritance. He allotted him the firstfruits of the first produce; He prepared bread in abundance first for them.
+45:21 For they will eat the Lord’s sacrifices, which He gave both to him and to his offspring.
+45:22 But he will inherit nothing in the people’s land, and he has no portion among the people, for He Himself is your portion and inheritance.
+45:23 Phinehas son of Eleazar was third in glory, because he was zealous in the fear of the Lord and stood firm when the people turned away, with the goodness of his soul’s eagerness. He made atonement for Israel.
+45:24 Therefore a covenant of peace was established for him, to preside over holy things and His people, so that the majesty of the priesthood might belong to him and his offspring for ever.
+45:25 There was also a covenant for David son of Jesse, of the tribe of Judah: the inheritance of a king passes from son to son alone; Aaron’s inheritance belongs also to his offspring.
+45:26 May He give you wisdom in your heart to judge His people in righteousness, so that their good things may not disappear, and their glory may last through their generations.
+
+SIRACH — CHAPTER 46
+
+46:1 Mighty in war was Joshua son of Nun, Moses’ successor in prophecies. In keeping with his name he became great in the salvation of His chosen ones, taking vengeance on enemies who rose against them, so that he might give Israel its inheritance.
+46:2 How glorious he was when he raised his hands and stretched out his sword against cities!
+46:3 Who before him stood so firm? For he himself brought on the Lord’s wars.
+46:4 Was not the sun held back by his hand, and did not one day become as two?
+46:5 He called upon the Most High Ruler when enemies pressed him on every side, and the great Lord answered him with hailstones of mighty power.
+46:6 He hurled war down upon a nation and destroyed those who resisted on the descent, so that the nations might know his full armament, because his war was before the Lord.
+46:7 For he followed the Ruler, and in Moses’ days he showed mercy, he and Caleb son of Jephunneh, by standing against the assembly, restraining the people from sin, and stilling wicked grumbling.
+46:8 They alone, being two, were preserved from six hundred thousand foot soldiers, to bring them into an inheritance, into a land flowing with milk and honey.
+46:9 The Lord gave Caleb strength, and it remained with him until old age, so that he might mount the high places of the land; his offspring possessed an inheritance,
+46:10 so that all the sons of Israel might see that it is good to walk after the Lord.
+46:11 The judges too, each by his own name, whose hearts did not prostitute themselves and who did not turn away from the Lord—may their remembrance be among blessings!
+46:12 May their bones flourish again from their place, and may their name pass onward to their honored sons.
+46:13 Beloved by his Lord, Samuel, the Lord’s prophet, established a kingdom and anointed rulers over His people.
+46:14 By the Lord’s law he judged the assembly, and the Lord visited Jacob.
+46:15 By his faithfulness he was proved a prophet, and through his words he was known to be trustworthy in vision.
+46:16 He called upon the Lord, the Ruler, when his enemies pressed him on every side, with an offering of a suckling lamb.
+46:17 The Lord thundered from heaven and made His voice heard with a great sound.
+46:18 He destroyed the leaders of the Tyrians and all the rulers of the Philistines.
+46:19 Before the time of his everlasting sleep, he testified before the Lord and His anointed: “I have taken no property—not even sandals—from any human being.” And no person brought an accusation against him.
+46:20 Even after he fell asleep, he prophesied and showed the king his end. He raised his voice from the earth in prophecy to wipe out the people’s lawlessness.
+
+SIRACH — CHAPTER 47
+
+47:1 After him Nathan arose to prophesy in David’s days.
+47:2 As fat is set apart from a peace offering, so David was set apart from the sons of Israel.
+47:3 He played with lions as with young goats, and with bears as with lambs of the flock.
+47:4 In his youth did he not kill a giant and remove reproach from the people, when he raised his hand with a sling stone and brought down Goliath’s pride?
+47:5 For he called upon the Lord Most High, and He put strength in his right hand to remove a mighty warrior and raise the horn of His people.
+47:6 Thus they glorified him with tens of thousands and praised him with blessings of the Lord when a crown of glory was brought to him.
+47:7 For he destroyed enemies all around and reduced his Philistine adversaries to nothing; he shattered their horn to this day.
+47:8 In every deed he gave thanks to the Holy Most High with a word of glory. With his whole heart he sang hymns and loved the One who made him.
+47:9 He stationed psalm singers before the altar, to sweeten the melodies with their sound.
+47:10 He gave festivals splendor and adorned the appointed seasons to their completion, while they praised His holy name and made the sanctuary resound from early morning.
+47:11 The Lord took away his sins, raised his horn for ever, and gave him a covenant of kings and a throne of glory in Israel.
+47:12 After him arose a knowledgeable son, who because of him rested in spacious prosperity.
+47:13 Solomon reigned in days of peace; God gave him rest all around, so that he might establish a house for His name and prepare a sanctuary for ever.
+47:14 How wise you became in your youth! You were filled with understanding like a river.
+47:15 Your soul covered the earth, and you filled it with comparisons containing riddles.
+47:16 Your name reached distant islands, and you were loved for your peace.
+47:17 Countries marveled at you for songs, proverbs, comparisons, and interpretations.
+47:18 In the name of the Lord God, who is called the God of Israel, you gathered gold like tin and multiplied silver like lead.
+47:19 You bent your loins toward women and were brought under power in your body.
+47:20 You put a blemish upon your glory and profaned your offspring, bringing wrath upon your children and anguish because of your folly,
+47:21 so that the dominion became divided and a disobedient kingdom began from Ephraim.
+47:22 But the Lord will never abandon His mercy or let any of His words fail. He will never wipe out His chosen one’s descendants or remove the offspring of the one who loved Him. He gave Jacob a remnant, and David a root from him.
+47:23 Solomon rested with his fathers and left after him, from his offspring, the people’s foolishness: Rehoboam, deficient in understanding, who made the people revolt through his counsel.
+47:24 There was also Jeroboam son of Nebat, who made Israel sin and gave Ephraim a path of sin. Their sins multiplied exceedingly, so that they were removed from their land.
+47:25 They sought out every kind of wickedness, until vengeance came upon them.
+
+SIRACH — CHAPTER 48
+
+48:1 Then Elijah arose, a prophet like fire, and his word burned like a torch.
+48:2 He brought famine upon them and made them few through his zeal.
+48:3 By the Lord’s word he held back heaven; in the same way he brought down fire three times.
+48:4 How glorious you became, Elijah, through your wonders! Who can boast of being like you?
+48:5 You raised a dead man from death and from Hades by the word of the Most High.
+48:6 You brought kings down to destruction and glorious men from their bed.
+48:7 You heard rebuke at Sinai and judgments of vengeance at Horeb.
+48:8 You anointed kings for retribution, and prophets as successors after him.
+48:9 You were taken up in a whirlwind of fire, in a chariot with fiery horses.
+48:10 You were recorded in rebukes for appointed times: to still anger before wrath, to turn a father’s heart toward a son, and to restore the tribes of Jacob.
+48:11 Blessed are those who saw you and those who have fallen asleep in love; for we too will surely live.
+48:12 Elijah was covered by a whirlwind, and Elisha was filled with his spirit. In his days he was not shaken by a ruler, and no one overpowered him.
+48:13 No word surpassed him, and even in sleep his body prophesied.
+48:14 In his life he performed portents, and at his end his works were wondrous.
+48:15 Through all these things the people did not repent or turn away from their sins, until they were plundered from their land and scattered throughout all the earth.
+48:16 The people were left few in number, with a ruler in David’s house. Some of them did what was pleasing, but others multiplied sins.
+48:17 Hezekiah fortified his city and brought water into its midst. With iron he dug through a steep rock and built reservoirs for water.
+48:18 In his days Sennacherib came up and sent Rabshakeh, and he departed. He raised his hand against Zion and boasted greatly in his arrogance.
+48:19 Then their hearts and hands were shaken, and they suffered pangs like women giving birth.
+48:20 They called upon the merciful Lord, spreading their hands toward Him. The Holy One quickly heard them from heaven and redeemed them by Isaiah’s hand.
+48:21 He struck the Assyrians’ camp, and His angel destroyed them.
+48:22 For Hezekiah did what was pleasing to the Lord and stood strong in the ways of his father David, which Isaiah the prophet commanded, great and faithful in his vision.
+48:23 In his days the sun went backward, and He added life to the king.
+48:24 With a great spirit he saw the last things and comforted those mourning in Zion.
+48:25 He showed what would happen to the end of the age, and hidden things before they came to pass.
+
+SIRACH — CHAPTER 49
+
+49:1 The remembrance of Josiah is like a blend of incense prepared by a perfumer’s skill. In every mouth it will be sweet as honey, and like music at a wine banquet.
+49:2 He was rightly directed in bringing the people back, and he removed the abominations of lawlessness.
+49:3 He directed his heart toward the Lord; in days of lawless people he strengthened godliness.
+49:4 Except for David, Hezekiah, and Josiah, they all committed offenses. For they abandoned the law of the Most High; the kings of Judah came to an end.
+49:5 For they gave their horn to others and their glory to a foreign nation.
+49:6 They burned the chosen city of the sanctuary and made its streets desolate,
+49:7 by Jeremiah’s hand. For they mistreated him, though he was sanctified in the womb as a prophet to uproot, afflict, and destroy, and likewise to build and plant.
+49:8 Ezekiel saw a vision of glory, which He showed him upon a chariot of cherubim.
+49:9 For He remembered the enemies in a rainstorm, and remembered to do good to those who make their ways straight.
+49:10 May the bones of the twelve prophets flourish again from their place! For they comforted Jacob and redeemed them with the faithfulness of hope.
+49:11 How shall we magnify Zerubbabel? He too was like a seal upon the right hand.
+49:12 So was Joshua son of Jozadak. In their days they built a house and raised up a holy sanctuary for the Lord, prepared for everlasting glory.
+49:13 Great also is the remembrance of Nehemiah, who raised our fallen walls, set up gates and bars, and rebuilt our home sites.
+49:14 No one was created on earth like Enoch, for he was taken up from the earth.
+49:15 Nor was a man born like Joseph, a leader of his brothers, a support for the people; and his bones were cared for.
+49:16 Shem and Seth were glorified among people, and Adam above every living creature in creation.
+
+SIRACH — CHAPTER 50
+
+50:1 Simon son of Onias, the high priest, repaired the house in his lifetime and strengthened the sanctuary in his days.
+50:2 By him the height of the double wall was founded, a high retaining wall around the sacred precinct.
+50:3 In his days a water reservoir was hewn out, a cistern whose circumference was like a sea.
+50:4 He cared for his people against a fall and strengthened the city against a siege.
+50:5 How glorious he was with the people surrounding him, when he came out from the house of the veil!
+50:6 He was like the morning star among clouds, like the full moon in its days,
+50:7 like the sun shining upon the sanctuary of the Most High, and like the rainbow gleaming in clouds of glory,
+50:8 like a rose blossom in the days of new growth, like lilies beside an outflow of water, like a shoot of Lebanon in summer days,
+50:9 like fire and frankincense upon a firepan, like a vessel of beaten gold adorned with every costly stone,
+50:10 like an olive tree flourishing with fruit, and like a cypress rising into the clouds.
+50:11 When he took up the robe of glory and clothed himself with the fullness of splendor, as he ascended the holy altar he glorified the sanctuary’s enclosure.
+50:12 When he received portions from the priests’ hands, standing himself beside the altar hearth, a crown of brothers surrounded him, like a growth of cedars in Lebanon; they encircled him like palm trunks,
+50:13 all the sons of Aaron in their glory, with the Lord’s offering in their hands before the whole assembly of Israel.
+50:14 As he completed his ministry at the altars, adorning the offering of the Most High Almighty,
+50:15 he stretched his hand over the libation vessel and poured a drink offering from the blood of the grape. He poured it at the altar’s foundations, a pleasing fragrance to the Most High, King of all.
+50:16 Then the sons of Aaron cried out and sounded their hammered trumpets. They made a great sound heard as a remembrance before the Most High.
+50:17 Then all the people together hurried and fell facedown upon the earth to worship their Lord, the Almighty God Most High.
+50:18 The psalm singers praised with their voices; amid a very great sound the melody grew sweet.
+50:19 The people entreated the Lord Most High in prayer before the Merciful One, until the Lord’s ceremony was completed and they finished His service.
+50:20 Then he came down and raised his hands over the whole assembly of the sons of Israel, to give the Lord’s blessing from his lips and to glory in His name.
+50:21 They bowed down a second time to receive the blessing from the Most High.
+50:22 And now bless the God of all, who does great things everywhere, who exalts our days from the womb and deals with us according to His mercy.
+50:23 May He give us gladness of heart, and may there be peace in Israel in our days, throughout the days of eternity.
+50:24 May He entrust His mercy to us, and in our days may He redeem us.
+50:25 My soul is disgusted with two nations, and the third is no nation:
+50:26 those who sit on Mount Samaria, the Philistines, and the foolish people who dwell in Shechem.
+50:27 Jesus son of Sirach Eleazar, the Jerusalemite, inscribed instruction in understanding and knowledge in this book; he poured wisdom like rain from his heart.
+50:28 Blessed is the one who will occupy himself with these things; by setting them upon his heart he will become wise.
+50:29 For if he does them, he will be strong for everything, because the Lord’s light is his path.
+
+SIRACH — CHAPTER 51
+
+51:1 I will give thanks to Thee, Lord and King, and praise Thee, God my Savior. I give thanks to Thy name,
+51:2 because Thou didst become my shelter and helper. Thou didst redeem my body from destruction and from the snare of a slanderous tongue, from lips that work falsehood. Before those standing around, Thou didst become my helper and redeem me,
+51:3 according to the abundance of Thy mercy and Thy name, from gnashing teeth when I was ready to be devoured, from the hand of those seeking my life, from the many afflictions I had,
+51:4 from the choking of a fire all around, and from the midst of a fire that I did not kindle,
+51:5 from the depth of Hades’ belly, from an unclean tongue and a false word—
+51:6 slander to a king from an unjust tongue. My soul drew near to death, and my life was close to Hades below.
+51:7 They surrounded me on every side, and there was no helper. I looked for support from people, but there was none.
+51:8 I remembered Thy mercy, Lord, and Thy work from of old: Thou rescuest those who wait for Thee and savest them from the hand of enemies.
+51:9 I lifted my supplication from the earth and pleaded for deliverance from death.
+51:10 I called upon the Lord, the Father of my Lord, not to abandon me in days of affliction, in a time of arrogance when there was no help. I will praise Thy name continually and sing hymns with thanksgiving.
+51:11 My petition was heard, for Thou didst save me from destruction and rescue me from an evil time.
+51:12 Therefore I will give thanks to Thee and praise Thee and bless the Lord’s name.
+51:13 While I was still young, before I wandered, I openly sought wisdom in my prayer.
+51:14 Before the sanctuary I asked for her, and until the end I will seek her out.
+51:15 From her blossom, as from a ripening grape, my heart rejoiced in her. My foot stepped in uprightness; from my youth I traced her path.
+51:16 I inclined my ear a little and received, and found much instruction for myself.
+51:17 I made progress in her; I will give glory to the One who gives me wisdom.
+51:18 For I resolved to practice her and was zealous for the good, and I will never be put to shame.
+51:19 My soul has struggled for her, and I was exact in practicing the law. I spread my hands toward the height and mourned my soul’s unwitting faults.
+51:20 I directed my soul toward her and found her in purity. From the beginning I gained a heart together with her; therefore I will never be abandoned.
+51:21 My inward parts were stirred to seek her out; therefore I acquired a good possession.
+51:22 The Lord gave me a tongue as my reward, and with it I will praise Him.
+51:23 Draw near to me, you who are uninstructed, and lodge in a house of instruction.
+51:24 Why do you say you are lacking in these things, while your souls thirst exceedingly?
+51:25 I opened my mouth and said, “Acquire for yourselves without silver.
+51:26 “Put your neck beneath the yoke, and let your soul receive instruction. She is near at hand to be found.
+51:27 “See with your own eyes that I labored a little and found much rest for myself.
+51:28 “Take part in instruction at the cost of much silver, and acquire much gold through her.
+51:29 “May your soul rejoice in His mercy, and may you not be ashamed in His praise.
+51:30 “Do your work before the appointed time, and He will give you your reward in His time.”
