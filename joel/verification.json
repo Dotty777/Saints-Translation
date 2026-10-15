@@ -1,0 +1,880 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 73 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 4,
+    "reading_sections": 4,
+    "changed_verse_units": 29,
+    "source_scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "e93d7bc604cc3b7f1578d4070f05232a7ce326e1f021324d2ce5033606d6d643"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 20,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 27,
+      "changed": 13,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 5,
+      "changed": 2,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 21,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 2968,
+      "chapter": 1,
+      "modified": "2026-10-15T04:27:56",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "8248a6fc44a34fe29301b924f53963806698f86a9cee2c7c68be5305b8082195"
+    },
+    {
+      "id": 2972,
+      "chapter": 2,
+      "modified": "2026-10-15T04:28:02",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "8965c4e519107c9703808b3bd849f6cb75072ff02eb5b79011dd2841f59d53a1"
+    },
+    {
+      "id": 2969,
+      "chapter": 3,
+      "modified": "2026-10-15T04:28:08",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "ca02a1ad72edd05045269ea0bf170ff0caccc14a4d7c774ce118afc9beb57b5b"
+    },
+    {
+      "id": 2970,
+      "chapter": 4,
+      "modified": "2026-10-15T04:28:14",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "2fdf10c8bde64907c61973a3135e03e35b547227b9afe91fdd4f29d250fc9f1f"
+    },
+    {
+      "id": 2967,
+      "chapter": null,
+      "modified": "2026-10-15T04:28:21",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "631ce4d7d3f551aa764215a6e098aa3aa4113ddfca312120abc594d856c380f7"
+    }
+  ],
+  "browser_checks": {
+    "chapters": [
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-14/",
+            "label": "Previous chapter, Hosea 14",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-2/",
+            "label": "Next chapter, Joel 2",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-14/",
+            "text": "← Hosea 14"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/",
+            "text": "Joel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-2/",
+            "text": "Joel 2 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/joel/1/",
+            "text": "All 217 cross-references for Joel 1, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v1-1",
+            "text": "1:1The word of the Lord that came to Joel, the son of Bathuel."
+          },
+          {
+            "id": "v1-2",
+            "text": "1:2Hear these things, elders, and give ear, all who inhabit the land! Have such things happened in your days or in your fathers’ days?"
+          },
+          {
+            "id": "v1-3",
+            "text": "1:3Tell your children about these things, and let your children tell their children, and their children a further generation."
+          },
+          {
+            "id": "v1-4",
+            "text": "1:4What the caterpillar left, the locust devoured; what the locust left, the bruchus locust devoured; what the bruchus locust left, the blight devoured."
+          },
+          {
+            "id": "v1-5",
+            "text": "1:5Sober up, you drunkards, from their wine, and weep! Lament, all who drink wine to intoxication, because gladness and joy have been removed from your mouths."
+          },
+          {
+            "id": "v1-6",
+            "text": "1:6For a nation has come up against My land, strong and uncountable. Its teeth are a lion’s teeth, and its grinding teeth a young lion’s."
+          },
+          {
+            "id": "v1-7",
+            "text": "1:7It laid My vine waste and shattered My fig trees; searching, it searched it out and cast it away; it whitened its branches."
+          },
+          {
+            "id": "v1-8",
+            "text": "1:8Lament to Me more than a bride wrapped in sackcloth for her first husband."
+          },
+          {
+            "id": "v1-9",
+            "text": "1:9Sacrifice and drink offering have been removed from the Lord’s house. Mourn, priests who minister at the altar,"
+          },
+          {
+            "id": "v1-10",
+            "text": "1:10because the plains have suffered. Let the earth mourn, because grain has suffered, wine has dried up, and oil has diminished."
+          },
+          {
+            "id": "v1-11",
+            "text": "1:11The farmers have dried up. Lament, estates, over wheat and barley, because the harvest from the field has perished."
+          },
+          {
+            "id": "v1-12",
+            "text": "1:12The vine has dried up and the fig trees have diminished; pomegranate, palm, apple tree and all the field’s trees have dried up, because human beings have put joy to shame."
+          },
+          {
+            "id": "v1-13",
+            "text": "1:13Wrap yourselves and beat your breasts, priests; lament, ministers of the altar! Enter and sleep in sackcloth, ministers of God, because sacrifice and drink offering have been kept away from your God’s house."
+          },
+          {
+            "id": "v1-14",
+            "text": "1:14Consecrate a fast; proclaim a service. Gather elders, all who inhabit the land, into your God’s house, and cry earnestly to the Lord,"
+          },
+          {
+            "id": "v1-15",
+            "text": "1:15“Alas, alas, alas for the day! For the Lord’s day is near, and it will come like suffering from suffering.”"
+          },
+          {
+            "id": "v1-16",
+            "text": "1:16Before your eyes food was destroyed, and gladness and joy from your God’s house."
+          },
+          {
+            "id": "v1-17",
+            "text": "1:17Heifers leaped at their feeding troughs; storehouses disappeared, winepresses were demolished, because grain dried up."
+          },
+          {
+            "id": "v1-18",
+            "text": "1:18What shall we store up for ourselves? Herds of cattle wept because they had no pasture, and flocks of sheep disappeared."
+          },
+          {
+            "id": "v1-19",
+            "text": "1:19To Thee, Lord, I will cry, because fire consumed the beautiful places of the wilderness, and flame kindled all the field’s trees."
+          },
+          {
+            "id": "v1-20",
+            "text": "1:20Even the animals of the plain looked up toward Thee, because outlets of water dried up, and fire devoured the beautiful places of the wilderness."
+          }
+        ],
+        "chapter": 1,
+        "section": 1,
+        "page_id": 2968,
+        "title": "Joel 1",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-1/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 4,
+        "selected_chapter": "Joel 1"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-1/",
+            "label": "Previous chapter, Joel 1",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-3/",
+            "label": "Next chapter, Joel 3",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-1/",
+            "text": "← Joel 1"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/",
+            "text": "Joel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-3/",
+            "text": "Joel 3 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/joel/2/",
+            "text": "All 473 cross-references for Joel 2, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v2-1",
+            "text": "2:1Blow a trumpet in Zion! Proclaim on My holy mountain, and let all who inhabit the land be thrown into turmoil, because the Lord’s day is present; it is near,"
+          },
+          {
+            "id": "v2-2",
+            "text": "2:2a day of darkness and gloom, a day of cloud and mist. Like dawn a numerous and strong people will be poured over the mountains. Its like has never existed, nor will another follow it through the years, for generations upon generations."
+          },
+          {
+            "id": "v2-3",
+            "text": "2:3Before it is consuming fire, and behind it a kindled flame. The land before its face is like a garden of delight, and behind it a desolate plain; no one will escape it."
+          },
+          {
+            "id": "v2-4",
+            "text": "2:4Their appearance is like the sight of horses; like riders they will pursue."
+          },
+          {
+            "id": "v2-5",
+            "text": "2:5With a sound like chariots they will leap upon mountain peaks, like the sound of a fiery flame devouring stubble, like a numerous and strong people arrayed for war."
+          },
+          {
+            "id": "v2-6",
+            "text": "2:6Before it peoples will be crushed; every face is like the scorching of a pot."
+          },
+          {
+            "id": "v2-7",
+            "text": "2:7Like fighters they will run, and like soldiers they will climb the walls. Each will go on his own road, and they certainly will not turn aside from their paths,"
+          },
+          {
+            "id": "v2-8",
+            "text": "2:8and no one will hold back from his brother. Burdened with their weapons they will go, and among their missiles they will fall, yet they will certainly not be destroyed."
+          },
+          {
+            "id": "v2-9",
+            "text": "2:9They will seize the city and run upon the walls; they will climb upon the houses and enter through windows like thieves."
+          },
+          {
+            "id": "v2-10",
+            "text": "2:10Before them the earth will be thrown into turmoil and heaven shaken; the sun and moon will grow dark, and the stars will sink their brightness."
+          },
+          {
+            "id": "v2-11",
+            "text": "2:11The Lord will give His voice before His force, because His camp is very large, because the works of His words are strong. For the Lord’s day is great, great and very manifest; who will be sufficient for it?"
+          },
+          {
+            "id": "v2-12",
+            "text": "2:12“And now,” says the Lord your God, “turn to Me with your whole heart, with fasting, weeping and mourning.”"
+          },
+          {
+            "id": "v2-13",
+            "text": "2:13Tear your hearts, not your garments, and turn to the Lord your God, because He is merciful and compassionate, patient and abundant in mercy, and relents concerning calamities."
+          },
+          {
+            "id": "v2-14",
+            "text": "2:14Who knows whether He will turn and relent and leave a blessing behind Him, a sacrifice and drink offering for the Lord our God?"
+          },
+          {
+            "id": "v2-15",
+            "text": "2:15Blow a trumpet in Zion! Consecrate a fast; proclaim a service."
+          },
+          {
+            "id": "v2-16",
+            "text": "2:16Gather the people; consecrate the congregation. Choose elders; gather infants nursing at breasts. Let the bridegroom leave his bedroom and the bride her bridal chamber."
+          },
+          {
+            "id": "v2-17",
+            "text": "2:17In the midst of the altar’s platform the priests who minister to the Lord will weep and say, “Spare Thy people, Lord, and do not give Thine inheritance to reproach, for nations to rule over them, so that they do not say among the nations, ‘Where is their God?’”"
+          },
+          {
+            "id": "v2-18",
+            "text": "2:18Then the Lord became jealous for His land and spared His people."
+          },
+          {
+            "id": "v2-19",
+            "text": "2:19The Lord answered His people: “Look, I am sending out to you grain, wine and oil, and you will be filled with them. I will no longer give you over to reproach among the nations,"
+          },
+          {
+            "id": "v2-20",
+            "text": "2:20and I will drive away from you the one from the north and thrust it into a waterless land. I will make its front disappear into the first sea and its rear into the last sea; its decay will rise, and its stench will rise, because it magnified its deeds.”"
+          },
+          {
+            "id": "v2-21",
+            "text": "2:21Take courage, land! Rejoice and be glad, because the Lord has done great things."
+          },
+          {
+            "id": "v2-22",
+            "text": "2:22Take courage, animals of the plain, because the wilderness plains have sprouted, because a tree bore its fruit; vine and fig tree have given their strength."
+          },
+          {
+            "id": "v2-23",
+            "text": "2:23Children of Zion, rejoice and be glad in the Lord your God, because He gave you food for righteousness, and He will rain upon you early and late rainfall as before."
+          },
+          {
+            "id": "v2-24",
+            "text": "2:24Threshing floors will be filled with grain, and winepresses will overflow with wine and oil."
+          },
+          {
+            "id": "v2-25",
+            "text": "2:25“I will repay you for the years the locust devoured, the bruchus locust, the blight and the caterpillar—My great force that I sent among you."
+          },
+          {
+            "id": "v2-26",
+            "text": "2:26You will eat abundantly and be filled, and praise the name of the Lord your God for the wonders He has done with you. My people will certainly never be put to shame,"
+          },
+          {
+            "id": "v2-27",
+            "text": "2:27and you will recognize that I am in Israel’s midst, that I am the Lord your God and there is no other besides Me. All My people will certainly never again be put to shame.”"
+          }
+        ],
+        "chapter": 2,
+        "section": 2,
+        "page_id": 2972,
+        "title": "Joel 2",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-2/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 4,
+        "selected_chapter": "Joel 2"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-2/",
+            "label": "Previous chapter, Joel 2",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-4/",
+            "label": "Next chapter, Joel 4",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-2/",
+            "text": "← Joel 2"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/",
+            "text": "Joel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-4/",
+            "text": "Joel 4 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/joel/3/",
+            "text": "All 81 cross-references for Joel 3, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v3-1",
+            "text": "3:1“And it shall be after these things, that I will pour out of My Spirit upon all flesh; and your sons and your daughters shall prophesy, your elders shall dream dreams, and your young men shall see visions."
+          },
+          {
+            "id": "v3-2",
+            "text": "3:2Even upon male slaves and female slaves in those days I will pour out of My Spirit."
+          },
+          {
+            "id": "v3-3",
+            "text": "3:3I will give wonders in heaven and upon the earth: blood, fire and a vapor of smoke."
+          },
+          {
+            "id": "v3-4",
+            "text": "3:4The sun will turn to darkness and the moon to blood before the coming of the Lord’s great and manifest day."
+          },
+          {
+            "id": "v3-5",
+            "text": "3:5Everyone who calls upon the Lord’s name will be saved, for on Mount Zion and in Jerusalem there will be one who escapes, as the Lord said, and bearers of good news whom the Lord has called.”"
+          }
+        ],
+        "chapter": 3,
+        "section": 3,
+        "page_id": 2969,
+        "title": "Joel 3",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-3/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 4,
+        "selected_chapter": "Joel 3"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-3/",
+            "label": "Previous chapter, Joel 3",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-1/",
+            "label": "Next chapter, Amos 1",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-3/",
+            "text": "← Joel 3"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/",
+            "text": "Joel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-1/",
+            "text": "Amos 1 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/joel/4/",
+            "text": "All 273 cross-references for Joel 4, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v4-1",
+            "text": "4:1“For look, in those days and at that time, when I turn back the captivity of Judah and Jerusalem,"
+          },
+          {
+            "id": "v4-2",
+            "text": "4:2I will gather all the nations and bring them down to the Valley of Jehoshaphat. There I will enter into judgment with them over My people and My inheritance Israel, who were scattered among the nations; and they divided up My land"
+          },
+          {
+            "id": "v4-3",
+            "text": "4:3and cast lots over My people; they gave the boys to prostitutes and sold the girls for wine, which they drank."
+          },
+          {
+            "id": "v4-4",
+            "text": "4:4What have you to do with Me, Tyre and Sidon and all Galilee of foreigners? Are you repaying Me a recompense? Or do you bear a sharp grudge against Me? I will speedily repay your recompense upon your heads,"
+          },
+          {
+            "id": "v4-5",
+            "text": "4:5because you took My silver and gold and brought My chosen and beautiful things into your temples,"
+          },
+          {
+            "id": "v4-6",
+            "text": "4:6and sold the sons of Judah and the sons of Jerusalem to the sons of the Greeks, so as to thrust them out of their own borders."
+          },
+          {
+            "id": "v4-7",
+            "text": "4:7Look, I am rousing them from the place to which you sold them, and I will repay your recompense upon your heads,"
+          },
+          {
+            "id": "v4-8",
+            "text": "4:8and I will sell your sons and daughters into the hands of the sons of Judah, and they will sell them into captivity to a nation far away, because the Lord has spoken.”"
+          },
+          {
+            "id": "v4-9",
+            "text": "4:9Proclaim these things among the nations: Consecrate war! Rouse the fighters! Draw near and come up, all soldiers!"
+          },
+          {
+            "id": "v4-10",
+            "text": "4:10Beat your plows into swords and your sickles into lances; let the powerless say, “I am strong!”"
+          },
+          {
+            "id": "v4-11",
+            "text": "4:11Assemble and enter, all surrounding nations, and gather there! Let the meek become a fighter!"
+          },
+          {
+            "id": "v4-12",
+            "text": "4:12Let all the nations be roused and come up to the Valley of Jehoshaphat, because there I will sit to judge all the surrounding nations."
+          },
+          {
+            "id": "v4-13",
+            "text": "4:13Send out sickles, because the vintage is at hand! Enter and tread, because the winepress is full; the vats overflow, because their evils have multiplied."
+          },
+          {
+            "id": "v4-14",
+            "text": "4:14Sounds rang out in the Valley of Judgment, because the Lord’s day is near in the Valley of Judgment."
+          },
+          {
+            "id": "v4-15",
+            "text": "4:15The sun and moon will grow dark, and the stars will sink their brightness."
+          },
+          {
+            "id": "v4-16",
+            "text": "4:16The Lord will cry out from Zion and give His voice from Jerusalem; heaven and earth will shake. But the Lord will spare His people, and the Lord will strengthen the sons of Israel."
+          },
+          {
+            "id": "v4-17",
+            "text": "4:17You will recognize that I am the Lord your God, dwelling in Zion on My holy mountain. Jerusalem will be a holy city, and foreigners will no longer pass through her."
+          },
+          {
+            "id": "v4-18",
+            "text": "4:18On that day mountains will drip sweetness, hills will flow with milk, and all Judah’s water outlets will flow with water. A spring will come out of the Lord’s house and water the Wadi of Rushes."
+          },
+          {
+            "id": "v4-19",
+            "text": "4:19Egypt will become desolate, and Idumea a desolate plain, because of injustices concerning the sons of Judah, because they poured out righteous blood in their land."
+          },
+          {
+            "id": "v4-20",
+            "text": "4:20But Judea will be inhabited forever, and Jerusalem for generations upon generations."
+          },
+          {
+            "id": "v4-21",
+            "text": "4:21“I will avenge their blood, and I will certainly not acquit.” And the Lord will dwell in Zion."
+          }
+        ],
+        "chapter": 4,
+        "section": 4,
+        "page_id": 2970,
+        "title": "Joel 4",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-4/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 4,
+        "selected_chapter": "Joel 4"
+      }
+    ],
+    "index": {
+      "links": [
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-1/",
+          "text": "Chapter 1The locust plague"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-2/",
+          "text": "Chapter 2Call to return; God’s mercy"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-3/",
+          "text": "Chapter 3The Spirit poured out"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-4/",
+          "text": "Chapter 4Judgement of the nations"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-2/#v2-13",
+          "text": "Joel 2:13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-3/#v3-1",
+          "text": "Joel 3:1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-4/#v4-18",
+          "text": "Joel 4:18"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/study/",
+          "text": "Open the Joel study edition →"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/#saints-ref-1-1",
+          "text": "[1]"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/#",
+          "text": "Suggest a correction"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-1/",
+          "text": "Begin reading →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-1/",
+          "text": "1Joel 1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-2/",
+          "text": "2Joel 2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-3/",
+          "text": "3Joel 3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-4/",
+          "text": "4Joel 4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/comparison-edition/2/",
+          "text": "Begin comparing →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/comparison-edition/2/",
+          "text": "1Chapter 1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/comparison-edition/3/",
+          "text": "2Chapter 2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/comparison-edition/4/",
+          "text": "3Chapter 3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/comparison-edition/5/",
+          "text": "4Chapter 4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/comparison-edition/",
+          "text": "Jewish–Hebrew Masoretic TextCompared with the Saints TranslationOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/vulgate-comparison/",
+          "text": "Catholic Latin VulgateCompared with the Saints TranslationOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/kjv-comparison/",
+          "text": "Protestant King James BibleCompared with the Saints TranslationOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/kjv-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/kjv-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/kjv-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/comparison-edition/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/comparison-edition/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/comparison-edition/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/comparison-edition/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/vulgate-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/vulgate-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/vulgate-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-1/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-2/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-3/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-4/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/editorial-guide/",
+          "text": "Read the editorial guide for Joel →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/disparate-study/",
+          "text": "Joel — Disparate Study"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-1/",
+          "text": "Chapter 1The locust plague"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-2/",
+          "text": "Chapter 2Call to return; God’s mercy"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-3/",
+          "text": "Chapter 3The Spirit poured out"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-4/",
+          "text": "Chapter 4Judgement of the nations"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-2/#v2-13",
+          "text": "Joel 2:13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-3/#v3-1",
+          "text": "Joel 3:1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-4/#v4-18",
+          "text": "Joel 4:18"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/study/",
+          "text": "Open the Joel study edition →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/editorial-guide/",
+          "text": "Read the editorial guide for Joel →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/disparate-study/",
+          "text": "Joel — Disparate Study"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/#saints-ref-1-cite-1",
+          "text": "↑"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        }
+      ],
+      "text": "Joel\n\nBespoke Saints English Translation · 4 chapters · Provisional editorial edition · 15 October 2026\n\nDraft for review. Only editors can see this introduction. Approve all introductions under Settings → Saints Study.\n\nINTRODUCTION\n\nIntroducing Joel\n\nJoel interprets a devastating locust plague as a call to repentance before the Day of the Lord. It promises restoration and the outpouring of God’s Spirit on all people.\n\nSETTING\nJoel addresses Judah and Jerusalem, with the temple and its priests at the centre of the call to fast and pray.\nAUTHOR\nAttributed to Joel son of Pethuel, about whom nothing else is known.\nDATE\nUncertain; proposals range from the 9th century BC to the post-exilic period (5th–4th century BC).\nOutline\nChapter 1\nThe locust plague\nChapter 2\nCall to return; God’s mercy\nChapter 3\nThe Spirit poured out\nChapter 4\nJudgement of the nations\nKey passages\nJoel 2:13 — Rend your hearts\nJoel 3:1 — I will pour out my Spirit\nJoel 4:18 — Mountains drip new wine\nThemes\nThe Day of the Lord\nRepentance and fasting\nGift of the Spirit\nRestoration of Zion\nRead in the light of Christ\n\nPeter proclaimed Joel’s promise of the Spirit fulfilled at Pentecost (Acts 2), and the call to rend hearts became a Lenten reading in the Church.\n\nOpen the Joel study edition →\n\nIntroduction by Saints.Bible · CC BY-SA 4.0[1] · Suggest a correction\n\nFind a chapter\n\n8 links. Choose a section to browse.\n\nREAD\nJoel · Reading\n4 chapters\nBegin reading →\n1\nJoel 1\n2\nJoel 2\n3\nJoel 3\n4\nJoel 4\nSTUDY\nJoel · Comparisons\n4 chapters and study sections\n\nCompare Joel with the Saints Translation\n\nJewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison\nCatholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison\nProtestant King James Bible\nCompared with the Saints Translation\nOpen comparison\n\nGO STRAIGHT TO A CHAPTER\n\nKJV & Greek\n1\n2\n3\nHebrew & Greek\n1\n2\n3\n4\nLatin Vulgate\n1\n2\n3\nSaints Translation: sources and study approach\nEditorial guide\n\nRead the editorial guide for Joel →\n\nCurrent Bespoke editorial guide\n\nAll 4 chapters, comprising 73 existing verse units, have received the Bespoke English editorial pass: 29 revised and 44 retained. Source-specific numbering, names, repetitions and verse anchors are preserved. The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.\n\nRahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending. All English verse units were individually reviewed, and the full displayed Greek running text was read chapter by chapter with focused comparison of the recorded features. This does not constitute exhaustive critical-text verification.\n\nThe newer Bespoke PDF governs this reading edition. Saints Translation literal-smooth and all comparison/study streams remain separate and unchanged. Notes are separated from Scripture. Earlier source and wording notes are historical records and may quote superseded wording or pronouns; the dated current Bespoke notes explain this revision. The earlier editorial guide remains linked as a historical reference and does not override the newer PDF.\n\nThe existing Greek-based numbering and verse gaps remain intact. Difficult readings, source-specific dates, figures, names and repetitions have not been harmonized to familiar English versions. The four Greek-numbered chapters retain 20, 27, 5 and 21 verse units. The outpouring passage remains at 3:1–5, and the final Zion sentence appears once at 4:21. Unresolved syntax, imagery and speaker/addressee questions are separately queued for specialist review. Historical lexical and comparative notes, footnote anchors, images and navigation are preserved.\n\nJoel — Disparate Study\n\nRead both complete source readings before five commentary paragraphs for every Disparate entry in this book.\n\nExplore links from this page\nScripture\nFootnotes\n↑CC BY-SA 4.0 — creativecommons.org",
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/",
+      "all_4_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "Whitespace and WordPress apostrophe typography only; visible verse numbers and preserved trailing footnote callouts excluded.",
+    "chapter_navigation": [
+      {
+        "text": "Joel 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-1/"
+      },
+      {
+        "text": "Joel 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-2/"
+      },
+      {
+        "text": "Joel 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-3/"
+      },
+      {
+        "text": "Joel 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-4/"
+      }
+    ],
+    "visual_capture": "Screenshots of saved Joel chapters 2 and 3 were captured and visually inspected. Every reading page received rendered DOM text and navigation checks; visual inspection of all 4 chapters is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 23751,
+      "title": "Joel — Study Edition",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/study/",
+      "before_content_hash": "14440b34ed481eb7d6f124a47d9759eaf56ef704",
+      "after_content_hash": "14440b34ed481eb7d6f124a47d9759eaf56ef704",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20734,
+      "title": "Joel — King James Bible and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/kjv-comparison/",
+      "before_content_hash": "52f8dcd0873c0c907ee55439fe4daa07e3b2ccac",
+      "after_content_hash": "52f8dcd0873c0c907ee55439fe4daa07e3b2ccac",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20733,
+      "title": "Joel — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/vulgate-comparison/",
+      "before_content_hash": "c6d6d40bb50cf433b417c84c934d10028fcdf215",
+      "after_content_hash": "c6d6d40bb50cf433b417c84c934d10028fcdf215",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 18641,
+      "title": "Joel — Disparate Study",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/disparate-study/",
+      "before_content_hash": "c1a90200da36b7b419acb0e75886e6180777233e",
+      "after_content_hash": "c1a90200da36b7b419acb0e75886e6180777233e",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3787,
+      "title": "Joel — Hebrew and Greek compared",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/comparison-edition/",
+      "before_content_hash": "e6a601699397e6b8c438b3f94381746cc85db3d0",
+      "after_content_hash": "e6a601699397e6b8c438b3f94381746cc85db3d0",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 2971,
+      "title": "Joel — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/editorial-guide/",
+      "before_content_hash": "d602034b20744b83ba2a6160bdd06f5bdb82ce8a",
+      "after_content_hash": "d602034b20744b83ba2a6160bdd06f5bdb82ce8a",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 73,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 5 edited pages and all 6 reference pages, plus 6 reference hash snapshots. This is a book archive, not a full-site backup."
+}
