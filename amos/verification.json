@@ -1,0 +1,1635 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 146 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 9,
+    "reading_sections": 9,
+    "changed_verse_units": 91,
+    "source_scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "9ec5ccf480c869a113d6730e836d2d888a8d08ac63cc71bc8aafd692e772c910"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 15,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 16,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 15,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 13,
+      "changed": 10,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 5,
+      "chapter": 5,
+      "verse_units": 27,
+      "changed": 18,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 6,
+      "chapter": 6,
+      "verse_units": 14,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 7,
+      "chapter": 7,
+      "verse_units": 17,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 8,
+      "chapter": 8,
+      "verse_units": 14,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 9,
+      "chapter": 9,
+      "verse_units": 15,
+      "changed": 11,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 3004,
+      "chapter": 1,
+      "modified": "2026-10-15T04:41:40",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "19b1423395529daf68e1df0a643e23fd00418f2103442610602a77daff8da252"
+    },
+    {
+      "id": 3005,
+      "chapter": 2,
+      "modified": "2026-10-15T04:41:46",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "4c4e4cb25b95c6e37e1b21a3973c387b48510f1093bb6cdfeefc28f8ff2a0404"
+    },
+    {
+      "id": 3006,
+      "chapter": 3,
+      "modified": "2026-10-15T04:41:52",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "51d223f98c835ac04bc2920a6a60ebc80dc797a12ccc0ad798e9599710db5aec"
+    },
+    {
+      "id": 3007,
+      "chapter": 4,
+      "modified": "2026-10-15T04:41:57",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "ec7efa79c6e12bec38f81cd5764a5734ebb4457f1b41e0414abc1ce983a98c81"
+    },
+    {
+      "id": 3008,
+      "chapter": 5,
+      "modified": "2026-10-15T04:42:04",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "eab776ec2e10bb6f23c1ac11288e1f96c6e0312ce64b3f37c36210e646fcb1be"
+    },
+    {
+      "id": 3009,
+      "chapter": 6,
+      "modified": "2026-10-15T04:43:18",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "b9a9700e3b7906dcdf7213818d3d2875b6f11ceb891c7e25ed6eda74eeccaff1"
+    },
+    {
+      "id": 3010,
+      "chapter": 7,
+      "modified": "2026-10-15T04:43:24",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "9aae95a0b9b5aa5ff68e6c2ceea0b8789222dfb193e066ce111f45d0971f652a"
+    },
+    {
+      "id": 3011,
+      "chapter": 8,
+      "modified": "2026-10-15T04:43:29",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "7174a27d9941d489562ec5f7bfcd683f1a035e80331e6f2ddb235ba1b718934f"
+    },
+    {
+      "id": 3012,
+      "chapter": 9,
+      "modified": "2026-10-15T04:43:36",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "cdb2be1079d0e8d78bb3510870ccb024c57bcbea8f31ff509253938d28cbb948"
+    },
+    {
+      "id": 3003,
+      "chapter": null,
+      "modified": "2026-10-15T04:43:41",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "8c53fc1fb99bb006575095e541e099b3aa38d251e2f5595ccc3aa45ff4bfc9b9"
+    }
+  ],
+  "browser_checks": {
+    "chapters": [
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-4/",
+            "label": "Previous chapter, Joel 4",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-2/",
+            "label": "Next chapter, Amos 2",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-4/",
+            "text": "← Joel 4"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/",
+            "text": "Amos: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-2/",
+            "text": "Amos 2 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/amos/1/",
+            "text": "All 207 cross-references for Amos 1, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v1-1",
+            "text": "1:1The words of Amos that came among nakkarim from Tekoa, which he saw concerning Jerusalem in the days of Uzziah king of Judah and Jeroboam son of Joash king of Israel, two years before the earthquake."
+          },
+          {
+            "id": "v1-2",
+            "text": "1:2He said: “The Lord spoke from Zion and gave His voice from Jerusalem; the shepherds’ pastures mourned, and Carmel’s summit dried up.”"
+          },
+          {
+            "id": "v1-3",
+            "text": "1:3The Lord said: “For three impieties of Damascus, and for four, I will not turn away from him, because they sawed the pregnant women of those in Gilead with iron saws."
+          },
+          {
+            "id": "v1-4",
+            "text": "1:4I will send fire into Hazael’s house, and it will devour the foundations of the son of Ader,"
+          },
+          {
+            "id": "v1-5",
+            "text": "1:5and I will shatter Damascus’s bars and destroy inhabitants from the Plain of On. I will cut down a tribe from the men of Harran, and the people of Syria, called by name, will be taken captive,” says the Lord."
+          },
+          {
+            "id": "v1-6",
+            "text": "1:6Thus says the Lord: “For three impieties of Gaza, and for four, I will not turn away from them, because they took Solomon’s captives into captivity, to shut them up in Idumea."
+          },
+          {
+            "id": "v1-7",
+            "text": "1:7I will send fire upon Gaza’s walls, and it will devour her foundations."
+          },
+          {
+            "id": "v1-8",
+            "text": "1:8I will destroy inhabitants from Azotus, and a tribe will be removed from Ascalon. I will bring My hand against Accaron, and the remaining foreigners will perish,” says the Lord."
+          },
+          {
+            "id": "v1-9",
+            "text": "1:9Thus says the Lord: “For three impieties of Tyre, and for four, I will not turn away from her, because they shut Solomon’s captives up in Idumea and did not remember a covenant of brothers."
+          },
+          {
+            "id": "v1-10",
+            "text": "1:10I will send fire upon Tyre’s walls, and it will devour her foundations.”"
+          },
+          {
+            "id": "v1-11",
+            "text": "1:11Thus says the Lord: “For three impieties of Idumea, and for four, I will not turn away from them, because they pursued his brother with a sword; he ravaged a womb upon the earth, seized his shuddering as testimony, and kept his onrush for victory."
+          },
+          {
+            "id": "v1-12",
+            "text": "1:12I will send fire into Teman, and it will devour the foundations of her walls.”"
+          },
+          {
+            "id": "v1-13",
+            "text": "1:13Thus says the Lord: “For three impieties of the sons of Ammon, and for four, I will not turn away from him, because they ripped open the pregnant women of the Gileadites in order to enlarge their borders."
+          },
+          {
+            "id": "v1-14",
+            "text": "1:14I will kindle fire upon Rabbah’s walls, and it will devour her foundations with shouting on the day of war; she will be shaken on the day of her end."
+          },
+          {
+            "id": "v1-15",
+            "text": "1:15Her kings will go into captivity, their priests and their rulers together,” says the Lord."
+          }
+        ],
+        "chapter": 1,
+        "section": 1,
+        "page_id": 3004,
+        "title": "Amos 1",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-1/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 9,
+        "selected_chapter": "Amos 1"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-1/",
+            "label": "Previous chapter, Amos 1",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-3/",
+            "label": "Next chapter, Amos 3",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-1/",
+            "text": "← Amos 1"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/",
+            "text": "Amos: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-3/",
+            "text": "Amos 3 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/amos/2/",
+            "text": "All 234 cross-references for Amos 2, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v2-1",
+            "text": "2:1Thus says the Lord: “For three impieties of Moab, and for four, I will not turn away from him, because they burned the bones of Idumea’s king into lime."
+          },
+          {
+            "id": "v2-2",
+            "text": "2:2I will send fire upon Moab, and it will devour the foundations of her cities. Moab will die in weakness, with shouting and the sound of a trumpet."
+          },
+          {
+            "id": "v2-3",
+            "text": "2:3I will destroy the judge from her, and kill all her rulers with him,” says the Lord."
+          },
+          {
+            "id": "v2-4",
+            "text": "2:4Thus says the Lord: “For three impieties of the sons of Judah, and for four, I will not turn away from him, because they rejected the Lord’s law and did not keep His ordinances. Their vain things, which they made, led them astray—the things their fathers followed."
+          },
+          {
+            "id": "v2-5",
+            "text": "2:5I will send fire upon Judah, and it will devour Jerusalem’s foundations.”"
+          },
+          {
+            "id": "v2-6",
+            "text": "2:6Thus says the Lord: “For three impieties of Israel, and for four, I will not turn away from him, because they sold a righteous person for silver and a poor person for sandals,"
+          },
+          {
+            "id": "v2-7",
+            "text": "2:7which tread upon the earth’s dust. They struck the heads of the poor with their fists and turned aside the way of the humble; a son and his father went in to the same young slave woman, to profane the name of their God,"
+          },
+          {
+            "id": "v2-8",
+            "text": "2:8and, tying their garments with cords, they made hangings next to the altar, and drank wine from extortions in their God’s house."
+          },
+          {
+            "id": "v2-9",
+            "text": "2:9But I removed the Amorite from before them, whose height was like a cedar and who was strong as an oak. I removed his fruit above and his roots below."
+          },
+          {
+            "id": "v2-10",
+            "text": "2:10I brought you up from Egypt’s land and led you around in the wilderness forty years, to inherit the Amorites’ land."
+          },
+          {
+            "id": "v2-11",
+            "text": "2:11I took some of your sons as prophets and some of your young men for consecration. Are these things not so, sons of Israel?” says the Lord."
+          },
+          {
+            "id": "v2-12",
+            "text": "2:12“But you gave the consecrated ones wine to drink and commanded the prophets, saying, ‘You must not prophesy!’"
+          },
+          {
+            "id": "v2-13",
+            "text": "2:13Therefore look, I roll beneath you as a wagon full of straw rolls,"
+          },
+          {
+            "id": "v2-14",
+            "text": "2:14and flight will perish from the runner, the mighty one will certainly not maintain his strength, and the fighter will certainly not save his life,"
+          },
+          {
+            "id": "v2-15",
+            "text": "2:15and the archer will certainly not stand, the swift of foot will certainly not be saved, nor will the horseman save his life,"
+          },
+          {
+            "id": "v2-16",
+            "text": "2:16and he will find his heart among powers; the naked one will pursue on that day,” says the Lord."
+          }
+        ],
+        "chapter": 2,
+        "section": 2,
+        "page_id": 3005,
+        "title": "Amos 2",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-2/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 9,
+        "selected_chapter": "Amos 2"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-2/",
+            "label": "Previous chapter, Amos 2",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-4/",
+            "label": "Next chapter, Amos 4",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-2/",
+            "text": "← Amos 2"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/",
+            "text": "Amos: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-4/",
+            "text": "Amos 4 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/amos/3/",
+            "text": "All 177 cross-references for Amos 3, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v3-1",
+            "text": "3:1Hear this word that the Lord spoke against you, house of Israel, and against every tribe I brought up from Egypt’s land, saying:"
+          },
+          {
+            "id": "v3-2",
+            "text": "3:2“You alone have I known among all the earth’s tribes; therefore I will exact judgment upon you for all your sins.”"
+          },
+          {
+            "id": "v3-3",
+            "text": "3:3Will two go together at all unless they make themselves known to one another?"
+          },
+          {
+            "id": "v3-4",
+            "text": "3:4Will a lion roar from its thicket without prey? Will a young lion give its voice from its enclosure at all unless it has seized something?"
+          },
+          {
+            "id": "v3-5",
+            "text": "3:5Will a bird fall upon the ground without a fowler? Will a trap be sprung upon the ground without catching something?"
+          },
+          {
+            "id": "v3-6",
+            "text": "3:6Will a trumpet sound in a city and the people not be alarmed? Will there be calamity in a city that the Lord has not done?"
+          },
+          {
+            "id": "v3-7",
+            "text": "3:7For the Lord God will certainly do no deed unless He reveals His discipline to His servants the prophets."
+          },
+          {
+            "id": "v3-8",
+            "text": "3:8A lion will roar—and who will not fear? The Lord God has spoken—and who will not prophesy?"
+          },
+          {
+            "id": "v3-9",
+            "text": "3:9Announce to the regions among the Assyrians and to Egypt’s regions: “Gather upon Samaria’s mountain and see the many astonishing things in her midst and the oppression within her!”"
+          },
+          {
+            "id": "v3-10",
+            "text": "3:10“She did not know what would be against her,” says the Lord—those storing injustice and suffering in their regions."
+          },
+          {
+            "id": "v3-11",
+            "text": "3:11Therefore thus says the Lord God: “Tyre, your land will be desolated all around; he will bring down your strength from you, and your regions will be plundered.”"
+          },
+          {
+            "id": "v3-12",
+            "text": "3:12Thus says the Lord: “As when a shepherd snatches two legs or an earlobe from a lion’s mouth, so the sons of Israel who dwell in Samaria will be snatched out, opposite a tribe, and priests in Damascus.”"
+          },
+          {
+            "id": "v3-13",
+            "text": "3:13“Hear and bear witness to Jacob’s house,” says the Lord God Almighty,"
+          },
+          {
+            "id": "v3-14",
+            "text": "3:14“because on the day I exact judgment upon Israel for its impieties, I will also exact judgment upon Bethel’s altars. The altar’s horns will be demolished and fall upon the ground,"
+          },
+          {
+            "id": "v3-15",
+            "text": "3:15and I will confound and strike the colonnaded house along with the summer house. Ivory houses will perish, and many other houses will be added,” says the Lord."
+          }
+        ],
+        "chapter": 3,
+        "section": 3,
+        "page_id": 3006,
+        "title": "Amos 3",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-3/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 9,
+        "selected_chapter": "Amos 3"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-3/",
+            "label": "Previous chapter, Amos 3",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-5/",
+            "label": "Next chapter, Amos 5",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-3/",
+            "text": "← Amos 3"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/",
+            "text": "Amos: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-5/",
+            "text": "Amos 5 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/amos/4/",
+            "text": "All 250 cross-references for Amos 4, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v4-1",
+            "text": "4:1Hear this word, heifers of Bashan on Samaria’s mountain, who oppress the poor and trample the needy, who say to their masters, “Give to us so that we may drink!”"
+          },
+          {
+            "id": "v4-2",
+            "text": "4:2The Lord swears by His holy things: “Look, days are coming upon you, and they will take you with weapons; fiery pestilences will throw those with you into cauldrons burning underneath,"
+          },
+          {
+            "id": "v4-3",
+            "text": "4:3and you will be carried out naked opposite one another and thrown onto Mount Remman,” says the Lord God."
+          },
+          {
+            "id": "v4-4",
+            "text": "4:4“You entered Bethel and acted lawlessly; at Gilgal you multiplied impiety. You brought your sacrifices for the morning and your tithes for the three-day period,"
+          },
+          {
+            "id": "v4-5",
+            "text": "4:5and they read a law outside and invoked acknowledgments. Announce that the sons of Israel loved these things,” says the Lord God."
+          },
+          {
+            "id": "v4-6",
+            "text": "4:6“I will give you aching teeth in all your cities and shortage of bread in all your places; yet you did not turn to Me,” says the Lord."
+          },
+          {
+            "id": "v4-7",
+            "text": "4:7“I withheld rainfall from you three months before the vintage. I will rain on one city but not on another; one portion will be watered, and the portion on which I do not rain will dry up,"
+          },
+          {
+            "id": "v4-8",
+            "text": "4:8and two or three cities will assemble at one city to drink water, yet they certainly will not be filled; and you did not turn to Me,” says the Lord."
+          },
+          {
+            "id": "v4-9",
+            "text": "4:9“I struck you with burning and jaundice. You multiplied your gardens; the caterpillar devoured your vineyards, fig orchards and olive groves, yet not even so did you turn to Me,” says the Lord."
+          },
+          {
+            "id": "v4-10",
+            "text": "4:10“I sent death among you on Egypt’s road and killed your young men with the sword, along with the captivity of your horses. I brought your camps up in fire in My anger; yet not even so did you turn to Me,” says the Lord."
+          },
+          {
+            "id": "v4-11",
+            "text": "4:11“I overthrew you as God overthrew Sodom and Gomorrah, and you became like a firebrand snatched from fire. Yet not even so did you turn to Me,” says the Lord."
+          },
+          {
+            "id": "v4-12",
+            "text": "4:12“Therefore this is what I will do to you, Israel. Since I will do this to you, prepare to call upon your God, Israel!”"
+          },
+          {
+            "id": "v4-13",
+            "text": "4:13For look, I am the One establishing thunder and creating wind, announcing His anointed to human beings, making dawn and mist, and stepping upon the earth’s heights. The Lord God Almighty is His name."
+          }
+        ],
+        "chapter": 4,
+        "section": 4,
+        "page_id": 3007,
+        "title": "Amos 4",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-4/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 9,
+        "selected_chapter": "Amos 4"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-4/",
+            "label": "Previous chapter, Amos 4",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-6/",
+            "label": "Next chapter, Amos 6",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-4/",
+            "text": "← Amos 4"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/",
+            "text": "Amos: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-6/",
+            "text": "Amos 6 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/amos/5/",
+            "text": "All 392 cross-references for Amos 5, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v5-1",
+            "text": "5:1Hear this word of the Lord that I take up over you as a lament, house of Israel:"
+          },
+          {
+            "id": "v5-2",
+            "text": "5:2“Virgin Israel has fallen; she will certainly not rise again. She stumbled upon her land; no one will raise her.”"
+          },
+          {
+            "id": "v5-3",
+            "text": "5:3For thus says the Lord, the Lord: “From the city out of which a thousand went, a hundred will remain, and from the one out of which a hundred went, ten will remain for Israel’s house.”"
+          },
+          {
+            "id": "v5-4",
+            "text": "5:4For thus says the Lord to Israel’s house: “Seek Me and you will live!"
+          },
+          {
+            "id": "v5-5",
+            "text": "5:5Do not seek Bethel, do not enter Gilgal, and do not cross over to the Well of the Oath; for Gilgal will certainly be taken captive, and Bethel will be as though it did not exist.”"
+          },
+          {
+            "id": "v5-6",
+            "text": "5:6Seek the Lord and live, so that Joseph’s house does not flare up like fire; it will devour him, and there will be no one to quench it for Israel’s house."
+          },
+          {
+            "id": "v5-7",
+            "text": "5:7The Lord makes judgment on high and has placed righteousness upon the earth,"
+          },
+          {
+            "id": "v5-8",
+            "text": "5:8making all things and refashioning them, turning death’s shadow into morning and darkening day into night; He calls for the sea’s water and pours it upon the earth’s surface. The Lord God Almighty is His name,"
+          },
+          {
+            "id": "v5-9",
+            "text": "5:9the One distributing shattering against strength and bringing suffering upon a fortress."
+          },
+          {
+            "id": "v5-10",
+            "text": "5:10They hated one who reproved at the gates and abhorred a holy word."
+          },
+          {
+            "id": "v5-11",
+            "text": "5:11Therefore, because you struck the poor with fists and accepted choice gifts from them, you built houses of polished stone but certainly will not inhabit them; you planted desirable vineyards but certainly will not drink their wine."
+          },
+          {
+            "id": "v5-12",
+            "text": "5:12For I knew your many impieties, and your sins are strong: trampling the righteous, taking payments and turning aside the poor at the gates."
+          },
+          {
+            "id": "v5-13",
+            "text": "5:13Therefore the understanding person will be silent at that time, because it is an evil time."
+          },
+          {
+            "id": "v5-14",
+            "text": "5:14Seek the good and not the evil, so that you may live; then the Lord God Almighty will be with you, just as you said,"
+          },
+          {
+            "id": "v5-15",
+            "text": "5:15“We have hated evil things and loved good things.” Restore judgment at the gates, so that the Lord God Almighty may have mercy on Joseph’s remaining ones."
+          },
+          {
+            "id": "v5-16",
+            "text": "5:16Therefore thus says the Lord God Almighty: “In every square there will be mourning, and in every road it will be said, ‘Alas, alas!’ A farmer will be called to mourning and lamentation and to those skilled in wailing,"
+          },
+          {
+            "id": "v5-17",
+            "text": "5:17and in every road there will be mourning, because I will pass through your midst,” said the Lord."
+          },
+          {
+            "id": "v5-18",
+            "text": "5:18Woe to those desiring the Lord’s day! Why is this Lord’s day for you? It is darkness, not light,"
+          },
+          {
+            "id": "v5-19",
+            "text": "5:19as when someone flees from a lion and a bear falls upon him, then leaps into his house, braces his hands upon the wall, and a snake bites him."
+          },
+          {
+            "id": "v5-20",
+            "text": "5:20Is not the Lord’s day darkness rather than light, gloom that has no brightness in it?"
+          },
+          {
+            "id": "v5-21",
+            "text": "5:21“I have hated and rejected your festivals, and I certainly will not smell a pleasing scent in your festal gatherings,"
+          },
+          {
+            "id": "v5-22",
+            "text": "5:22because even if you bring Me whole burnt offerings and your sacrifices, I will not receive them, and I will not look upon the salvation offering of your display."
+          },
+          {
+            "id": "v5-23",
+            "text": "5:23Remove from Me the sound of your songs; I will not listen to the music of your instruments,"
+          },
+          {
+            "id": "v5-24",
+            "text": "5:24and judgment shall roll as water, and righteousness as an impassable torrent."
+          },
+          {
+            "id": "v5-25",
+            "text": "5:25Did you offer Me slaughtered offerings and sacrifices in the wilderness for forty years, house of Israel?"
+          },
+          {
+            "id": "v5-26",
+            "text": "5:26You took up the tent of Moloch and the star of your god Raiphan, their figures that you made for yourselves."
+          },
+          {
+            "id": "v5-27",
+            "text": "5:27I will deport you beyond Damascus,” says the Lord; God Almighty is His name."
+          }
+        ],
+        "chapter": 5,
+        "section": 5,
+        "page_id": 3008,
+        "title": "Amos 5",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-5/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 9,
+        "selected_chapter": "Amos 5"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-5/",
+            "label": "Previous chapter, Amos 5",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-7/",
+            "label": "Next chapter, Amos 7",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-5/",
+            "text": "← Amos 5"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/",
+            "text": "Amos: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-7/",
+            "text": "Amos 7 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/amos/6/",
+            "text": "All 205 cross-references for Amos 6, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v6-1",
+            "text": "6:1Woe to those who despise Zion and trust in Samaria’s mountain! They harvested the firstfruits of nations and entered themselves. House of Israel,"
+          },
+          {
+            "id": "v6-2",
+            "text": "6:2all of you cross over and see; pass from there to Emath Rabba, and go down from there to Geth of foreigners, the strongest of all these kingdoms, to see whether their borders are greater than your borders."
+          },
+          {
+            "id": "v6-3",
+            "text": "6:3You come toward an evil day, drawing near and touching false sabbaths,"
+          },
+          {
+            "id": "v6-4",
+            "text": "6:4sleeping upon ivory beds and indulging upon your couches, eating young goats from the flocks and milk-fed calves from the herds,"
+          },
+          {
+            "id": "v6-5",
+            "text": "6:5clapping to the sound of instruments; they reckoned them as lasting, not passing away,"
+          },
+          {
+            "id": "v6-6",
+            "text": "6:6drinking strained wine and anointing yourselves with the finest perfumes, yet suffering nothing over Joseph’s shattering."
+          },
+          {
+            "id": "v6-7",
+            "text": "6:7Therefore now they will be captives from the foremost of the powerful, and horses’ neighing will be removed from Ephraim."
+          },
+          {
+            "id": "v6-8",
+            "text": "6:8For the Lord swore by Himself: “I abhor all Jacob’s arrogance and have hated his regions; I will remove the city with all who inhabit it.”"
+          },
+          {
+            "id": "v6-9",
+            "text": "6:9If ten men remain in one house, they will die, and those left over will remain."
+          },
+          {
+            "id": "v6-10",
+            "text": "6:10Their relatives will take them and force their way to bring their bones out of the house. He will say to those in charge of the house, “Is there anyone else with you?” He will say, “No more.” Then he will say, “Be silent, so as not to name the Lord’s name.”"
+          },
+          {
+            "id": "v6-11",
+            "text": "6:11For look, the Lord commands, and He will strike the great house with fractures and the small house with cracks."
+          },
+          {
+            "id": "v6-12",
+            "text": "6:12Will horses pursue upon rocks? Will they remain silent among females? For you turned judgment into anger and the fruit of righteousness into bitterness,"
+          },
+          {
+            "id": "v6-13",
+            "text": "6:13rejoicing over nothing, saying, “Did we not acquire horns by our own strength?”"
+          },
+          {
+            "id": "v6-14",
+            "text": "6:14“For look, I am raising a nation against you, house of Israel, and they will crush you so that you cannot enter Emath, as far as the Wadi of the West.”"
+          }
+        ],
+        "chapter": 6,
+        "section": 6,
+        "page_id": 3009,
+        "title": "Amos 6",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-6/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 9,
+        "selected_chapter": "Amos 6"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-6/",
+            "label": "Previous chapter, Amos 6",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-8/",
+            "label": "Next chapter, Amos 8",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-6/",
+            "text": "← Amos 6"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/",
+            "text": "Amos: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-8/",
+            "text": "Amos 8 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/amos/7/",
+            "text": "All 196 cross-references for Amos 7, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v7-1",
+            "text": "7:1The Lord showed me this: Look, a brood of locusts was coming at dawn, and look, one bruchus locust, Gog the king."
+          },
+          {
+            "id": "v7-2",
+            "text": "7:2When it finishes devouring the land’s grass, I said, “Lord, Lord, be merciful! Who will raise Jacob? He is so few!"
+          },
+          {
+            "id": "v7-3",
+            "text": "7:3Relent, Lord, concerning this.” “This will not happen,” says the Lord."
+          },
+          {
+            "id": "v7-4",
+            "text": "7:4The Lord showed me this: Look, the Lord called for judgment by fire; it devoured the great abyss and devoured the portion."
+          },
+          {
+            "id": "v7-5",
+            "text": "7:5I said, “Lord, Lord, cease, please! Who will raise Jacob? He is so few!"
+          },
+          {
+            "id": "v7-6",
+            "text": "7:6Relent, Lord, concerning this.” “This certainly will not happen,” says the Lord."
+          },
+          {
+            "id": "v7-7",
+            "text": "7:7The Lord showed me this: Look, a man was standing upon an adamant wall, with adamant in his hand."
+          },
+          {
+            "id": "v7-8",
+            "text": "7:8The Lord said to me, “What do you see, Amos?” I said, “Adamant.” The Lord said to me, “Look, I am setting adamant in the midst of My people Israel. I will certainly no longer pass them by,"
+          },
+          {
+            "id": "v7-9",
+            "text": "7:9and the altars of laughter will disappear, and Israel’s rites will be laid waste. I will rise against Jeroboam’s house with a sword.”"
+          },
+          {
+            "id": "v7-10",
+            "text": "7:10Amaziah, priest of Bethel, sent to Jeroboam king of Israel, saying, “Amos is forming conspiracies against you in the midst of Israel’s house. The land certainly cannot endure all his words,"
+          },
+          {
+            "id": "v7-11",
+            "text": "7:11because Amos says, ‘Jeroboam will die by a sword, and Israel will be led captive away from its land.’”"
+          },
+          {
+            "id": "v7-12",
+            "text": "7:12Amaziah said to Amos, “Seer, go! Withdraw to Judah’s land; make your living there, and there you will prophesy."
+          },
+          {
+            "id": "v7-13",
+            "text": "7:13But you must never again prophesy at Bethel, because it is a king’s sanctuary and a house of kingship.”"
+          },
+          {
+            "id": "v7-14",
+            "text": "7:14Amos answered Amaziah, “I was no prophet or prophet’s son, but a goat herder and one who scratches sycamore figs,"
+          },
+          {
+            "id": "v7-15",
+            "text": "7:15and the Lord took me from the sheep, and the Lord said to me, ‘Go, prophesy to My people Israel.’"
+          },
+          {
+            "id": "v7-16",
+            "text": "7:16Now hear the Lord’s word: You say, ‘Do not prophesy against Israel, and you must not stir up a crowd against Jacob’s house.’"
+          },
+          {
+            "id": "v7-17",
+            "text": "7:17Therefore thus says the Lord: ‘Your wife will practice prostitution in the city, your sons and daughters will fall by a sword, and your land will be measured out with a cord. You will die in an unclean land, and Israel will be led captive away from its land.’”"
+          }
+        ],
+        "chapter": 7,
+        "section": 7,
+        "page_id": 3010,
+        "title": "Amos 7",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-7/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 9,
+        "selected_chapter": "Amos 7"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-7/",
+            "label": "Previous chapter, Amos 7",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-9/",
+            "label": "Next chapter, Amos 9",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-7/",
+            "text": "← Amos 7"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/",
+            "text": "Amos: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-9/",
+            "text": "Amos 9 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/amos/8/",
+            "text": "All 211 cross-references for Amos 8, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v8-1",
+            "text": "8:1The Lord showed me this: Look, a fowler’s vessel."
+          },
+          {
+            "id": "v8-2",
+            "text": "8:2He said, “What do you see, Amos?” I said, “A fowler’s vessel.” The Lord said to me, “The end has arrived upon My people Israel. I will certainly no longer pass them by."
+          },
+          {
+            "id": "v8-3",
+            "text": "8:3The temple’s coffered ceilings will wail. On that day,” says the Lord, “many have fallen in every place. I will cast silence upon them.”"
+          },
+          {
+            "id": "v8-4",
+            "text": "8:4Hear these things now, you who wear out the needy until morning and oppress the poor out of the land,"
+          },
+          {
+            "id": "v8-5",
+            "text": "8:5saying, “When will the month pass, so we may trade, and the sabbaths, so we may open storehouses, making the measure small and the weights great and making an unjust balance,"
+          },
+          {
+            "id": "v8-6",
+            "text": "8:6to acquire the poor with silver and a lowly person in exchange for sandals? And we will trade from every kind of produce.”"
+          },
+          {
+            "id": "v8-7",
+            "text": "8:7The Lord swears by Jacob’s arrogance: “He will never forget all your works.”"
+          },
+          {
+            "id": "v8-8",
+            "text": "8:8Will the earth not be disturbed over these things, and everyone dwelling in it mourn? A consummation will rise like a river and descend like Egypt’s river."
+          },
+          {
+            "id": "v8-9",
+            "text": "8:9“On that day,” says the Lord God, “the sun will set at midday, and the light will grow dark upon the earth in daytime."
+          },
+          {
+            "id": "v8-10",
+            "text": "8:10I will turn your festivals to mourning and all your songs to lamentation. I will put sackcloth on every waist and baldness on every head; I will make him like mourning for a beloved one, and those with him like a day of pain."
+          },
+          {
+            "id": "v8-11",
+            "text": "8:11Look, days are coming,” says the Lord, “when I will send famine upon the earth: not famine for bread or thirst for water, but famine for hearing the Lord’s word."
+          },
+          {
+            "id": "v8-12",
+            "text": "8:12Waters will be shaken as far as the sea, and from north to east they will run about seeking the Lord’s word, but certainly will not find it."
+          },
+          {
+            "id": "v8-13",
+            "text": "8:13On that day the beautiful virgins and the young men will faint from thirst,"
+          },
+          {
+            "id": "v8-14",
+            "text": "8:14those who swear by Samaria’s propitiation and say, ‘Your god lives, Dan!’ and ‘Your god lives, Beersheba!’ They will fall and certainly never rise again.”"
+          }
+        ],
+        "chapter": 8,
+        "section": 8,
+        "page_id": 3011,
+        "title": "Amos 8",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-8/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 9,
+        "selected_chapter": "Amos 8"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-8/",
+            "label": "Previous chapter, Amos 8",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/obadiah/chapter-1/",
+            "label": "Next chapter, Obadiah 1",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-8/",
+            "text": "← Amos 8"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/",
+            "text": "Amos: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/obadiah/chapter-1/",
+            "text": "Obadiah 1 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/amos/9/",
+            "text": "All 205 cross-references for Amos 9, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v9-1",
+            "text": "9:1I saw the Lord standing upon the altar. He said, “Strike the atonement cover, and the foregates will shake; cut through the heads of all. I will kill their survivors with a sword. No one fleeing from among them will escape, and no one seeking safety will be saved."
+          },
+          {
+            "id": "v9-2",
+            "text": "9:2If they burrow into Hades, My hand will pull them up from there; if they climb to heaven, I will bring them down from there."
+          },
+          {
+            "id": "v9-3",
+            "text": "9:3If they hide on Carmel’s summit, I will search them out and take them from there. If they plunge from My eyes into the sea’s depths, I will command the dragon there, and it will bite them."
+          },
+          {
+            "id": "v9-4",
+            "text": "9:4If they go into captivity before their enemies, I will command the sword there, and it will kill them. I will fix My eyes upon them for evils and not for good things.”"
+          },
+          {
+            "id": "v9-5",
+            "text": "9:5The Lord, Lord God Almighty, touches the earth and shakes it; all who dwell in it will mourn. Its consummation will rise like a river and descend like Egypt’s river."
+          },
+          {
+            "id": "v9-6",
+            "text": "9:6He builds His ascent into heaven and establishes His promise upon the earth; He calls for the sea’s water and pours it upon the earth’s surface. The Lord God Almighty is His name."
+          },
+          {
+            "id": "v9-7",
+            "text": "9:7“Are you not like the children of Ethiopians to Me, children of Israel?” says the Lord. “Did I not bring Israel up from Egypt’s land, the foreigners from Cappadocia and the Syrians from a pit?"
+          },
+          {
+            "id": "v9-8",
+            "text": "9:8Look, the Lord God’s eyes are upon the kingdom of sinners, and I will remove it from the earth’s surface. Yet I will not completely remove Jacob’s house,” says the Lord."
+          },
+          {
+            "id": "v9-9",
+            "text": "9:9“For look, I am giving a command: I will winnow Israel’s house among all the nations as one winnows in a winnowing basket, and no fragment will fall to the ground."
+          },
+          {
+            "id": "v9-10",
+            "text": "9:10All the sinners of My people will die by a sword, those who say, ‘Evils certainly will not draw near or come upon us.’"
+          },
+          {
+            "id": "v9-11",
+            "text": "9:11On that day I will raise David’s fallen tent; I will rebuild its fallen parts, raise its demolished parts and rebuild it as in days of old,"
+          },
+          {
+            "id": "v9-12",
+            "text": "9:12so that the remaining human beings and all the nations over whom My name is called may seek,” says the Lord God, who does these things."
+          },
+          {
+            "id": "v9-13",
+            "text": "9:13“Look, days are coming,” says the Lord, “when threshing will overtake the vintage and grapes will darken to ripeness at seedtime. The mountains will drip sweetness, and all the hills will be planted together."
+          },
+          {
+            "id": "v9-14",
+            "text": "9:14I will reverse the captivity of My people Israel. They will build ruined cities and inhabit them, plant vineyards and drink their wine, plant gardens and eat their fruit."
+          },
+          {
+            "id": "v9-15",
+            "text": "9:15I will plant them upon their land, and they will certainly never again be uprooted from the land I have given them,” says the Lord God Almighty."
+          }
+        ],
+        "chapter": 9,
+        "section": 9,
+        "page_id": 3012,
+        "title": "Amos 9",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-9/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 9,
+        "selected_chapter": "Amos 9"
+      }
+    ],
+    "index": {
+      "links": [
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-1/",
+          "text": "Chapters 1–2\nJudgement on the nations and Israel"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-3/",
+          "text": "Chapters 3–6\nWords against Israel"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-7/",
+          "text": "Chapters 7–9\nVisions and restoration"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-3/#v3-2",
+          "text": "Amos 3:2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-5/#v5-24",
+          "text": "Amos 5:24"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-9/#v9-11",
+          "text": "Amos 9:11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/study/",
+          "text": "Open the Amos study edition →"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/#saints-ref-1-1",
+          "text": "[1]"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/#",
+          "text": "Suggest a correction"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-1/",
+          "text": "Begin reading →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-1/",
+          "text": "1\nAmos 1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-2/",
+          "text": "2\nAmos 2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-3/",
+          "text": "3\nAmos 3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-4/",
+          "text": "4\nAmos 4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-5/",
+          "text": "5\nAmos 5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-6/",
+          "text": "6\nAmos 6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-7/",
+          "text": "7\nAmos 7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-8/",
+          "text": "8\nAmos 8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-9/",
+          "text": "9\nAmos 9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/2/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/2/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/3/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/4/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/5/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/6/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/7/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/8/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/9/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/10/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/",
+          "text": "Jewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/vulgate-comparison/",
+          "text": "Catholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/kjv-comparison/",
+          "text": "Protestant King James Bible\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/kjv-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/kjv-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/kjv-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/kjv-comparison/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/kjv-comparison/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/kjv-comparison/7/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/kjv-comparison/8/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/kjv-comparison/9/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/kjv-comparison/10/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/7/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/8/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/9/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/10/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/vulgate-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/vulgate-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/vulgate-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/vulgate-comparison/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/vulgate-comparison/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/vulgate-comparison/7/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/vulgate-comparison/8/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/vulgate-comparison/9/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/vulgate-comparison/10/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-1/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-2/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-3/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-4/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-5/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-6/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-7/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-8/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-9/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/editorial-guide/",
+          "text": "Read the editorial guide for Amos →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/disparate-study/",
+          "text": "Amos — Disparate Study"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/disparate-studies/",
+          "text": "Explore the Providence study guide →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-1/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-3/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-7/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-3/#v3-2",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-5/#v5-24",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-9/#v9-11",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/study/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/editorial-guide/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/disparate-study/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/disparate-studies/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/#saints-ref-1-cite-1",
+          "text": "↑"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        }
+      ],
+      "text": "Amos\n\nBespoke Saints English Translation · 9 chapters · Provisional editorial edition · 15 October 2026\n\nDraft for review. Only editors can see this introduction. Approve all introductions under Settings → Saints Study.\n\nINTRODUCTION\n\nIntroducing Amos\n\nAmos, a shepherd from Judah, confronts the prosperous northern kingdom with God’s demand for justice. Its denunciation of empty worship and exploitation of the poor still speaks powerfully.\n\nSETTING\nAmos preached at Bethel and Samaria during the prosperous reign of Jeroboam II, when wealth and religious festivals masked injustice.\nAUTHOR\nAttributed to Amos of Tekoa; scholars generally accept most of the book as his, with some later additions, possibly including the closing hope.\nDATE\nAmos’s ministry c. 760–750 BC.\nOutline\nChapters 1–2\nJudgement on the nations and Israel\nChapters 3–6\nWords against Israel\nChapters 7–9\nVisions and restoration\nKey passages\nAmos 3:2 — Chosen and accountable\nAmos 5:24 — Let justice roll down\nAmos 9:11 — Raising David’s fallen tent\nThemes\nJustice and righteousness\nCare for the poor\nWorship without obedience\nGod’s universal rule\nRestoration of David’s house\nRead in the light of Christ\n\nJames cited the restored tent of David (Acts 15) as fulfilled in the gathering of the Gentiles into the Church of Christ.\n\nOpen the Amos study edition →\n\nIntroduction by Saints.Bible · CC BY-SA 4.0[1] · Suggest a correction\n\nFind a chapter\n\n18 links. Choose a section to browse.\n\nREAD\nAmos · Reading\n9 chapters\nBegin reading →\n1\nAmos 1\n2\nAmos 2\n3\nAmos 3\n4\nAmos 4\n5\nAmos 5\n6\nAmos 6\n7\nAmos 7\n8\nAmos 8\n9\nAmos 9\nSTUDY\nAmos · Comparisons\n9 chapters and study sections\n\nCompare Amos with the Saints Translation\n\nJewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison\nCatholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison\nProtestant King James Bible\nCompared with the Saints Translation\nOpen comparison\n\nGO STRAIGHT TO A CHAPTER\n\nKJV & Greek\n1\n2\n3\n4\n5\n6\n7\n8\n9\nHebrew & Greek\n1\n2\n3\n4\n5\n6\n7\n8\n9\nLatin Vulgate\n1\n2\n3\n4\n5\n6\n7\n8\n9\nSaints Translation: sources and study approach\nEditorial guide\n\nRead the editorial guide for Amos →\n\nCurrent Bespoke editorial guide\n\nAll 9 chapters, comprising 146 existing verse units, have received the Bespoke English editorial pass: 91 revised and 55 retained. Source-specific numbering, names, repetitions and verse anchors are preserved. The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.\n\nRahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending. All English verse units were individually reviewed, and the full displayed Greek running text was read chapter by chapter with focused comparison of the recorded features. This does not constitute exhaustive critical-text verification.\n\nThe newer Bespoke PDF governs this reading edition. Saints Translation literal-smooth and all comparison/study streams remain separate and unchanged. Notes are separated from Scripture. Earlier source and wording notes are historical records and may quote superseded wording or pronouns; the dated current Bespoke notes explain this revision. The earlier editorial guide remains linked as a historical reference and does not override the newer PDF.\n\nThe existing Greek-based numbering and verse gaps remain intact. Difficult readings, source-specific dates, figures, names and repetitions have not been harmonized to familiar English versions. The nine chapters retain all 146 verse units. Adamant, the fowler’s vessel, the established promise and the unexpressed object of seek at 9:12 remain distinct from comparison or reception readings. Unresolved syntax, imagery and speaker/addressee questions are separately queued for specialist review. Historical lexical and comparative notes, footnote anchors, images and navigation are preserved.\n\nAmos — Disparate Study\n\nRead all 33 classified Disparate entries with complete Hebrew–English and Greek–English readings, Jewish and Christian interpretation, and qualified explanations of their differences.\n\nExplore the Providence study guide →\n\nExplore links from this page\nScripture\nFootnotes\n↑CC BY-SA 4.0 — creativecommons.org",
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/",
+      "all_9_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "Whitespace and WordPress apostrophe typography only; visible verse numbers and preserved trailing footnote callouts excluded.",
+    "chapter_navigation": [
+      {
+        "text": "Amos 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-1/"
+      },
+      {
+        "text": "Amos 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-2/"
+      },
+      {
+        "text": "Amos 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-3/"
+      },
+      {
+        "text": "Amos 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-4/"
+      },
+      {
+        "text": "Amos 5",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-5/"
+      },
+      {
+        "text": "Amos 6",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-6/"
+      },
+      {
+        "text": "Amos 7",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-7/"
+      },
+      {
+        "text": "Amos 8",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-8/"
+      },
+      {
+        "text": "Amos 9",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/chapter-9/"
+      }
+    ],
+    "visual_capture": "Screenshots of saved Amos chapters 5 and 9 were captured and visually inspected. Every reading page received rendered DOM text and navigation checks; visual inspection of all 9 chapters is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 23754,
+      "title": "Amos — Study Edition",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/study/",
+      "before_content_hash": "14079237c6dc5bc06a1f3822960d5c15235317b9",
+      "after_content_hash": "14079237c6dc5bc06a1f3822960d5c15235317b9",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20736,
+      "title": "Amos — King James Bible and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/kjv-comparison/",
+      "before_content_hash": "965ea995381c6b55934ab20c34ead040575f905e",
+      "after_content_hash": "965ea995381c6b55934ab20c34ead040575f905e",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20735,
+      "title": "Amos — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/vulgate-comparison/",
+      "before_content_hash": "2b6939ece35b0f2d4f96a027b70eb476eb222096",
+      "after_content_hash": "2b6939ece35b0f2d4f96a027b70eb476eb222096",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 18659,
+      "title": "Amos — Disparate Study",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/disparate-study/",
+      "before_content_hash": "67e6b979d5a265386670bf7e692a93c4ff1e39e0",
+      "after_content_hash": "67e6b979d5a265386670bf7e692a93c4ff1e39e0",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3788,
+      "title": "Amos — Hebrew and Greek compared",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/comparison-edition/",
+      "before_content_hash": "4007a1d25a2fea5a68861cbf721c0929521bd722",
+      "after_content_hash": "4007a1d25a2fea5a68861cbf721c0929521bd722",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3013,
+      "title": "Amos — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/amos/editorial-guide/",
+      "before_content_hash": "13531a1073935162f9d53f57b5a401aa22543567",
+      "after_content_hash": "13531a1073935162f9d53f57b5a401aa22543567",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 146,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 10 edited pages and all 6 reference pages, plus 6 reference hash snapshots. This is a book archive, not a full-site backup."
+}

@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 33,
-  "pending_book_revisions": 37,
-  "next_book": "Amos",
+  "completed_book_records": 34,
+  "pending_book_revisions": 36,
+  "next_book": "Obadiah",
   "full_bible_complete": false,
   "books": [
     {
@@ -348,8 +348,12 @@
       "order": 34,
       "book": "Amos",
       "staging_path": "/bible/providence/amos/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "amos/",
+      "chapters": 9,
+      "reading_sections": 9,
+      "verse_units": 146,
+      "wording_changes": 91
     },
     {
       "order": 35,
@@ -613,11 +617,12 @@
       "Ezekiel",
       "Daniel",
       "Hosea",
-      "Joel"
+      "Joel",
+      "Amos"
     ],
-    "pending_books": 10,
-    "next_book": "Amos",
-    "status": "In progress; Isaiah, Jeremiah, Ezekiel, Daniel, Hosea and Joel English editorial and staging complete, specialist review pending"
+    "pending_books": 9,
+    "next_book": "Obadiah",
+    "status": "In progress; Isaiah, Jeremiah, Ezekiel, Daniel, Hosea, Joel and Amos English editorial and staging complete, specialist review pending"
   },
   "completed_divisions": [
     "Law",
@@ -625,7 +630,7 @@
     "Wisdom"
   ],
   "current_priority": "Finish the remaining Old Testament after Job: all Wisdom books and all Prophets, one book at a time, with staging verification and GitHub main uploads.",
-  "old_testament_completed_book_records": 33,
-  "old_testament_pending_book_revisions": 10,
+  "old_testament_completed_book_records": 34,
+  "old_testament_pending_book_revisions": 9,
   "next_division": "Providence"
 }
