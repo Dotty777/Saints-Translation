@@ -1,0 +1,1428 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 117 existing English verse units individually read and editorially reviewed; approved as a provisional staging revision.",
+    "chapters": 8,
+    "reading_sections": 8,
+    "changed_verse_units": 69,
+    "source_scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "970ee01bdf10dcd610e76dfe935e7fae993e88165f72c6fed68823ffbaa643f7"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 17,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 17,
+      "changed": 10,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 11,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 16,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 5,
+      "chapter": 5,
+      "verse_units": 16,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 6,
+      "chapter": 6,
+      "verse_units": 12,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 7,
+      "chapter": 7,
+      "verse_units": 14,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 8,
+      "chapter": 8,
+      "verse_units": 14,
+      "changed": 10,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 2678,
+      "chapter": 1,
+      "modified": "2026-10-14T22:24:34",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "be3ab163675cd3ba0319cf67317be3f848fd368f4e5388dfd310f523551a51a8"
+    },
+    {
+      "id": 2681,
+      "chapter": 2,
+      "modified": "2026-10-14T22:24:40",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "aae633e8c642b57ed5f5345e26644fc46c571ecc2bc3b18663c0d721dad3a175"
+    },
+    {
+      "id": 2684,
+      "chapter": 3,
+      "modified": "2026-10-14T22:24:45",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "d8fa8477b43d167f7d370baad07c730f8030e1baad0e6529f5500f7ce64a94a4"
+    },
+    {
+      "id": 2682,
+      "chapter": 4,
+      "modified": "2026-10-14T22:24:51",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "eb29eb6d184cee273b10c89f6dbd341cc62522da6e660423d41449ac2a88eb6c"
+    },
+    {
+      "id": 2689,
+      "chapter": 5,
+      "modified": "2026-10-14T22:24:56",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "310b71bf37fc1030545ab468d4f3d7db61d59751b9ef6af7ce136eaf5fc6e037"
+    },
+    {
+      "id": 2687,
+      "chapter": 6,
+      "modified": "2026-10-14T22:25:41",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "20e2208afca6fd43766575ba5af373859196d649555611b6a4d7c2016fac9260"
+    },
+    {
+      "id": 2697,
+      "chapter": 7,
+      "modified": "2026-10-14T22:25:46",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "5356fd9ee7713de67e3dfd19efa6e2d832cc4fd9625b391fb742d5e3d6471b7c"
+    },
+    {
+      "id": 2692,
+      "chapter": 8,
+      "modified": "2026-10-14T22:25:51",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "c9d311d077000a388df2ca92de61a21badd75491a8bca4a0ee5f14d76a88224e"
+    },
+    {
+      "id": 2673,
+      "chapter": 0,
+      "modified": "2026-10-14T22:25:57",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "88979953517a9ec2018ffbe70c9ce2dccd1e478f1ae66ddd401a23a1a2950725"
+    }
+  ],
+  "browser_checks": {
+    "chapters": [
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-12/",
+            "label": "Previous chapter, Ecclesiastes 12",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-2/",
+            "label": "Next chapter, Song of Songs 2",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-12/",
+            "text": "← Ecclesiastes 12"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/",
+            "text": "Song of Songs: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-2/",
+            "text": "Song of Songs 2 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/song-of-songs/1/",
+            "text": "All 270 cross-references for Song of Songs 1, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v1-1",
+            "text": "1:1The Song of Songs, which belongs to Solomon."
+          },
+          {
+            "id": "v1-2",
+            "text": "1:2Let him kiss me with the kisses of his mouth, for your breasts are better than wine."
+          },
+          {
+            "id": "v1-3",
+            "text": "1:3The fragrance of your perfumes surpasses all spices; your name is perfume poured out. That is why young women loved you."
+          },
+          {
+            "id": "v1-4",
+            "text": "1:4They drew you; we will run after you into the fragrance of your perfumes. The king brought me into his chamber. Let us exult and rejoice in you; we will love your breasts more than wine. Uprightness loved you."
+          },
+          {
+            "id": "v1-5",
+            "text": "1:5 I am black and beautiful, daughters of Jerusalem, as the tents of Kedar, as the tent coverings of Solomon."
+          },
+          {
+            "id": "v1-6",
+            "text": "1:6Do not look at me because I have been darkened, because the sun looked upon me. My mother’s sons fought against me; they made me a keeper in vineyards. My own vineyard I did not keep."
+          },
+          {
+            "id": "v1-7",
+            "text": "1:7Tell me, you whom my soul loved, where you pasture, where you rest at noon, lest I become like a woman covering herself beside your companions’ herds."
+          },
+          {
+            "id": "v1-8",
+            "text": "1:8If you do not know yourself, beautiful among women, go out along the heels of the flocks and pasture your young goats beside the shepherds’ tents."
+          },
+          {
+            "id": "v1-9",
+            "text": "1:9I have compared you, my companion, to my mare among Pharaoh’s chariots."
+          },
+          {
+            "id": "v1-10",
+            "text": "1:10How beautiful your cheeks have become, like turtledoves, and your neck like necklaces!"
+          },
+          {
+            "id": "v1-11",
+            "text": "1:11We will make you likenesses of gold with dots of silver."
+          },
+          {
+            "id": "v1-12",
+            "text": "1:12 While the king was reclining, my nard gave its fragrance."
+          },
+          {
+            "id": "v1-13",
+            "text": "1:13 My kinsman is to me a bundle of liquid myrrh; he will lodge between my breasts."
+          },
+          {
+            "id": "v1-14",
+            "text": "1:14 My kinsman is to me a cluster of henna in the vineyards of En-gedi."
+          },
+          {
+            "id": "v1-15",
+            "text": "1:15Behold, you are beautiful, my companion! Behold, you are beautiful; your eyes are doves."
+          },
+          {
+            "id": "v1-16",
+            "text": "1:16Behold, you are beautiful, my kinsman, and indeed lovely! Moreover, our bed is shaded."
+          },
+          {
+            "id": "v1-17",
+            "text": "1:17 The beams of our houses are cedars; our ceiling panels are cypresses."
+          }
+        ],
+        "chapter": 1,
+        "section": 1,
+        "page_id": 2678,
+        "title": "Song of Songs 1",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-1/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 8,
+        "selected_chapter": "Song of Songs 1"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-1/",
+            "label": "Previous chapter, Song of Songs 1",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-3/",
+            "label": "Next chapter, Song of Songs 3",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-1/",
+            "text": "← Song of Songs 1"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/",
+            "text": "Song of Songs: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-3/",
+            "text": "Song of Songs 3 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/song-of-songs/2/",
+            "text": "All 242 cross-references for Song of Songs 2, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v2-1",
+            "text": "2:1 I am a flower of the plain, a lily of the valleys."
+          },
+          {
+            "id": "v2-2",
+            "text": "2:2 Like a lily among thorns, so is my companion among the daughters."
+          },
+          {
+            "id": "v2-3",
+            "text": "2:3 Like an apple tree among the trees of the woodland, so is my kinsman among the sons. I desired his shade and sat there; his fruit was sweet in my throat."
+          },
+          {
+            "id": "v2-4",
+            "text": "2:4 Bring me into the house of wine; arrange love over me."
+          },
+          {
+            "id": "v2-5",
+            "text": "2:5 Strengthen me with sweet cakes, heap apples about me, for I am wounded by love."
+          },
+          {
+            "id": "v2-6",
+            "text": "2:6 His left hand is beneath my head, and his right hand will embrace me."
+          },
+          {
+            "id": "v2-7",
+            "text": "2:7I have adjured you, daughters of Jerusalem, by the powers and by the strengths of the field: do not awaken or stir up love until it wishes."
+          },
+          {
+            "id": "v2-8",
+            "text": "2:8The voice of my kinsman! Behold, he comes, leaping over the mountains, bounding over the hills."
+          },
+          {
+            "id": "v2-9",
+            "text": "2:9My kinsman is like a gazelle or a young stag upon the mountains of Bethel. Behold, he stands behind our wall, peering through the windows, looking out through the lattice."
+          },
+          {
+            "id": "v2-10",
+            "text": "2:10My kinsman answers and says to me: Rise, come, my companion, my beautiful one, my dove,"
+          },
+          {
+            "id": "v2-11",
+            "text": "2:11for behold, winter has passed; the rain has gone, departed,"
+          },
+          {
+            "id": "v2-12",
+            "text": "2:12the blossoms have appeared in the land; the time of pruning has arrived; the voice of the turtledove has been heard in our land."
+          },
+          {
+            "id": "v2-13",
+            "text": "2:13The fig tree has brought forth its early figs; the vines are flowering and have given fragrance. Rise, come, my companion, my beautiful one, my dove,"
+          },
+          {
+            "id": "v2-14",
+            "text": "2:14and come, my dove, in the shelter of the rock, close to the outer wall. Show me your face and let me hear your voice, for your voice is sweet and your face lovely."
+          },
+          {
+            "id": "v2-15",
+            "text": "2:15 Catch for us the little foxes that destroy vineyards, for our vines are flowering."
+          },
+          {
+            "id": "v2-16",
+            "text": "2:16My kinsman is mine, and I am his, he who pastures among the lilies,"
+          },
+          {
+            "id": "v2-17",
+            "text": "2:17until the day breathes and the shadows move. Turn back, my kinsman; be like a gazelle or a young stag upon mountains of hollows."
+          }
+        ],
+        "chapter": 2,
+        "section": 2,
+        "page_id": 2681,
+        "title": "Song of Songs 2",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-2/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 8,
+        "selected_chapter": "Song of Songs 2"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-2/",
+            "label": "Previous chapter, Song of Songs 2",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-4/",
+            "label": "Next chapter, Song of Songs 4",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-2/",
+            "text": "← Song of Songs 2"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/",
+            "text": "Song of Songs: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-4/",
+            "text": "Song of Songs 4 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/song-of-songs/3/",
+            "text": "All 139 cross-references for Song of Songs 3, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v3-1",
+            "text": "3:1 On my bed at night I sought the one my soul loved; I sought him but did not find him. I called him, but he did not answer me."
+          },
+          {
+            "id": "v3-2",
+            "text": "3:2 I will rise now and go around the city, through the marketplaces and squares, and seek the one my soul loved. I sought him but did not find him."
+          },
+          {
+            "id": "v3-3",
+            "text": "3:3The watchmen going around the city found me. “Have you perhaps seen the one my soul loved?”"
+          },
+          {
+            "id": "v3-4",
+            "text": "3:4 Scarcely had I passed them when I found the one my soul loved. I held him and will not let him go until I have brought him into my mother’s house, into the chamber of the one who conceived me."
+          },
+          {
+            "id": "v3-5",
+            "text": "3:5I have adjured you, daughters of Jerusalem, by the powers and by the strengths of the field: do not awaken or stir up love until it wishes."
+          },
+          {
+            "id": "v3-6",
+            "text": "3:6 Who is this coming up from the wilderness like columns of smoke, perfumed with myrrh and frankincense, with every powder of the perfumer?"
+          },
+          {
+            "id": "v3-7",
+            "text": "3:7 Behold, Solomon’s couch! Sixty mighty men surround it, from the mighty men of Israel,"
+          },
+          {
+            "id": "v3-8",
+            "text": "3:8all holding a sword, trained for war, each with his sword upon his thigh, against terror in the night."
+          },
+          {
+            "id": "v3-9",
+            "text": "3:9 King Solomon made himself a carrying chair from the timber of Lebanon."
+          },
+          {
+            "id": "v3-10",
+            "text": "3:10 He made its pillars silver and its reclining support gold; its step was purple, its interior paved with stone—love from the daughters of Jerusalem."
+          },
+          {
+            "id": "v3-11",
+            "text": "3:11 Go out and look at King Solomon wearing the crown with which his mother crowned him on his wedding day, on the day his heart rejoiced."
+          }
+        ],
+        "chapter": 3,
+        "section": 3,
+        "page_id": 2684,
+        "title": "Song of Songs 3",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-3/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 8,
+        "selected_chapter": "Song of Songs 3"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-3/",
+            "label": "Previous chapter, Song of Songs 3",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-5/",
+            "label": "Next chapter, Song of Songs 5",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-3/",
+            "text": "← Song of Songs 3"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/",
+            "text": "Song of Songs: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-5/",
+            "text": "Song of Songs 5 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/song-of-songs/4/",
+            "text": "All 254 cross-references for Song of Songs 4, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v4-1",
+            "text": "4:1Behold, you are beautiful, my companion! Behold, you are beautiful; your eyes are doves apart from your silence. Your hair is like herds of goats that have appeared from Gilead."
+          },
+          {
+            "id": "v4-2",
+            "text": "4:2Your teeth are like herds of shorn sheep that came up from bathing, all bearing twins, with none childless among them."
+          },
+          {
+            "id": "v4-3",
+            "text": "4:3Your lips are like a scarlet cord, and your speech is lovely. Your cheek is like a pomegranate rind apart from your silence."
+          },
+          {
+            "id": "v4-4",
+            "text": "4:4Your neck is like David’s tower, built for thalpioth; a thousand shields hang upon it, all the missiles of mighty men."
+          },
+          {
+            "id": "v4-5",
+            "text": "4:5Your two breasts are like two fawns, twins of a gazelle, grazing among lilies."
+          },
+          {
+            "id": "v4-6",
+            "text": "4:6Until the day breathes and the shadows move, I will go to the mountain of myrrh and the hill of Lebanon."
+          },
+          {
+            "id": "v4-7",
+            "text": "4:7You are altogether beautiful, my companion, and there is no blemish in you."
+          },
+          {
+            "id": "v4-8",
+            "text": "4:8Come from Lebanon, bride, come from Lebanon. You will come and pass through from the beginning of faith, from the summit of Senir and Hermon, from lions’ enclosures, from leopards’ mountains."
+          },
+          {
+            "id": "v4-9",
+            "text": "4:9You have stirred our hearts, my sister, bride; you have stirred our hearts with one of your eyes, with one ornament of your neck."
+          },
+          {
+            "id": "v4-10",
+            "text": "4:10How beautiful your breasts have become, my sister, bride! How much more beautiful your breasts than wine, and the fragrance of your garments than all spices!"
+          },
+          {
+            "id": "v4-11",
+            "text": "4:11Your lips drip honeycomb sweetness, bride; honey and milk are beneath your tongue, and the fragrance of your garments is like the fragrance of Lebanon."
+          },
+          {
+            "id": "v4-12",
+            "text": "4:12 A garden enclosed is my sister, my bride; a garden enclosed, a fountain sealed."
+          },
+          {
+            "id": "v4-13",
+            "text": "4:13Your outgrowths are an orchard of pomegranates with tree fruits, henna with nard,"
+          },
+          {
+            "id": "v4-14",
+            "text": "4:14 nard and saffron, aromatic reed and cinnamon, with all the trees of Lebanon, myrrh, aloth, with all the finest perfumes,"
+          },
+          {
+            "id": "v4-15",
+            "text": "4:15 a fountain of gardens, a well of living water rushing from Lebanon."
+          },
+          {
+            "id": "v4-16",
+            "text": "4:16 Awake, north wind, and come, south wind! Blow through my garden, and let my spices flow. Let my kinsman come down into his garden and eat its tree fruits."
+          }
+        ],
+        "chapter": 4,
+        "section": 4,
+        "page_id": 2682,
+        "title": "Song of Songs 4",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-4/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 8,
+        "selected_chapter": "Song of Songs 4"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-4/",
+            "label": "Previous chapter, Song of Songs 4",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-6/",
+            "label": "Next chapter, Song of Songs 6",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-4/",
+            "text": "← Song of Songs 4"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/",
+            "text": "Song of Songs: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-6/",
+            "text": "Song of Songs 6 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/song-of-songs/5/",
+            "text": "All 255 cross-references for Song of Songs 5, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v5-1",
+            "text": "5:1 I entered my garden, my sister, bride; I gathered my myrrh with my spices. I ate my bread with my honey; I drank my wine with my milk. Eat, companions, and drink and become drunk, brothers!"
+          },
+          {
+            "id": "v5-2",
+            "text": "5:2I sleep, but my heart keeps watch. The voice of my kinsman—he knocks upon the door! Open to me, my sister, my companion, my dove, my perfect one, for my head is filled with dew and my curls with the drops of night."
+          },
+          {
+            "id": "v5-3",
+            "text": "5:3 I took off my tunic; how could I put it on? I washed my feet; how could I soil them?"
+          },
+          {
+            "id": "v5-4",
+            "text": "5:4 My kinsman extended his hand from the opening, and my belly was stirred for him."
+          },
+          {
+            "id": "v5-5",
+            "text": "5:5 I rose to open to my kinsman; my hands dripped myrrh, my fingers rich myrrh, upon the handles of the bolt."
+          },
+          {
+            "id": "v5-6",
+            "text": "5:6 I opened to my kinsman; my kinsman had gone. My soul went out at his word. I sought him but did not find him; I called him, but he did not answer me."
+          },
+          {
+            "id": "v5-7",
+            "text": "5:7 The guards going around the city found me; they struck me, they wounded me. The guards of the walls took my light covering from me."
+          },
+          {
+            "id": "v5-8",
+            "text": "5:8I have adjured you, daughters of Jerusalem, by the powers and by the strengths of the field: if you find my kinsman, what will you tell him? That I am wounded by love."
+          },
+          {
+            "id": "v5-9",
+            "text": "5:9What makes your kinsman more than another kinsman, beautiful among women? What makes your kinsman more than another kinsman, that you have adjured us this way?"
+          },
+          {
+            "id": "v5-10",
+            "text": "5:10 My kinsman is white and ruddy, selected from myriads."
+          },
+          {
+            "id": "v5-11",
+            "text": "5:11 His head is gold and phaz; his curls are fir trees, black as a raven,"
+          },
+          {
+            "id": "v5-12",
+            "text": "5:12 his eyes are like doves beside full waters, bathed in milk, seated beside full waters,"
+          },
+          {
+            "id": "v5-13",
+            "text": "5:13 his cheeks are like bowls of spice growing fragrant substances; his lips are lilies dripping rich myrrh,"
+          },
+          {
+            "id": "v5-14",
+            "text": "5:14 his hands are sculpted gold filled with tharsis; his belly is an ivory tablet upon sapphire stone,"
+          },
+          {
+            "id": "v5-15",
+            "text": "5:15 his legs are marble pillars founded upon golden bases; his appearance is like Lebanon, choice as cedars,"
+          },
+          {
+            "id": "v5-16",
+            "text": "5:16 his throat is sweetness, and all of him is desire. This is my kinsman, and this is my companion, daughters of Jerusalem."
+          }
+        ],
+        "chapter": 5,
+        "section": 5,
+        "page_id": 2689,
+        "title": "Song of Songs 5",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-5/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 8,
+        "selected_chapter": "Song of Songs 5"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-5/",
+            "label": "Previous chapter, Song of Songs 5",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-7/",
+            "label": "Next chapter, Song of Songs 7",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-5/",
+            "text": "← Song of Songs 5"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/",
+            "text": "Song of Songs: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-7/",
+            "text": "Song of Songs 7 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/song-of-songs/6/",
+            "text": "All 121 cross-references for Song of Songs 6, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v6-1",
+            "text": "6:1Where has your kinsman gone, beautiful among women? Where has your kinsman looked away? We will seek him with you."
+          },
+          {
+            "id": "v6-2",
+            "text": "6:2 My kinsman went down to his garden, to the bowls of spice, to pasture in gardens and gather lilies."
+          },
+          {
+            "id": "v6-3",
+            "text": "6:3I am my kinsman’s, and my kinsman is mine; he pastures among the lilies."
+          },
+          {
+            "id": "v6-4",
+            "text": "6:4You are beautiful, my companion, like goodwill, lovely like Jerusalem, a terror like troops drawn up."
+          },
+          {
+            "id": "v6-5",
+            "text": "6:5Turn your eyes away from me, for they have given me wings. Your hair is like herds of goats that have appeared from Gilead."
+          },
+          {
+            "id": "v6-6",
+            "text": "6:6Your teeth are like herds of shorn sheep that came up from bathing, all bearing twins, with none childless among them."
+          },
+          {
+            "id": "v6-7",
+            "text": "6:7Your lips are like a scarlet cord, and your speech is lovely. Your cheek is like a pomegranate rind apart from your silence."
+          },
+          {
+            "id": "v6-8",
+            "text": "6:8 There are sixty queens and eighty concubines, and young women without number."
+          },
+          {
+            "id": "v6-9",
+            "text": "6:9 My dove, my perfect one, is the only one; she is the only one of her mother, the chosen one of the woman who bore her. Daughters saw her and will call her blessed; queens and concubines will praise her."
+          },
+          {
+            "id": "v6-10",
+            "text": "6:10 Who is this looking out like dawn, beautiful like the moon, chosen like the sun, a terror like troops drawn up?"
+          },
+          {
+            "id": "v6-11",
+            "text": "6:11I went down to the walnut garden to look at the produce of the wadi, to see whether the vine had blossomed, whether the pomegranates had flowered. There I will give you my breasts."
+          },
+          {
+            "id": "v6-12",
+            "text": "6:12 My soul did not know; it set me among Amminadab’s chariots."
+          }
+        ],
+        "chapter": 6,
+        "section": 6,
+        "page_id": 2687,
+        "title": "Song of Songs 6",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-6/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 8,
+        "selected_chapter": "Song of Songs 6"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-6/",
+            "label": "Previous chapter, Song of Songs 6",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-8/",
+            "label": "Next chapter, Song of Songs 8",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-6/",
+            "text": "← Song of Songs 6"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/",
+            "text": "Song of Songs: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-8/",
+            "text": "Song of Songs 8 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/song-of-songs/7/",
+            "text": "All 175 cross-references for Song of Songs 7, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v7-1",
+            "text": "7:1Return, return, Shulammite! Return, return, and we will look at you. What will you see in the Shulammite? She comes like dances of the camps."
+          },
+          {
+            "id": "v7-2",
+            "text": "7:2How beautiful your steps in sandals have become, daughter of Nadab! The rhythms of your thighs are like necklaces, the work of a craftsman’s hands."
+          },
+          {
+            "id": "v7-3",
+            "text": "7:3Your navel is a sculpted mixing bowl, not lacking mixed wine; your belly is a heap of grain fenced about with lilies."
+          },
+          {
+            "id": "v7-4",
+            "text": "7:4Your two breasts are like two fawns, twins of a gazelle."
+          },
+          {
+            "id": "v7-5",
+            "text": "7:5Your neck is like an ivory tower; your eyes are like pools in Heshbon at the gates of the daughter of many. Your nose is like Lebanon’s tower looking toward Damascus."
+          },
+          {
+            "id": "v7-6",
+            "text": "7:6Your head upon you is like Carmel, and the braid of your head is like purple; a king is bound in passageways."
+          },
+          {
+            "id": "v7-7",
+            "text": "7:7How beautiful and how delightful you have become, love, in your delights!"
+          },
+          {
+            "id": "v7-8",
+            "text": "7:8This stature of yours has been compared to a palm tree, and your breasts to clusters."
+          },
+          {
+            "id": "v7-9",
+            "text": "7:9I said: I will climb the palm tree; I will grasp its heights. Then your breasts will be like clusters of the vine, and the fragrance of your nose like apples,"
+          },
+          {
+            "id": "v7-10",
+            "text": "7:10and your throat like good wine, going straight to my kinsman, suited to my lips and teeth."
+          },
+          {
+            "id": "v7-11",
+            "text": "7:11 I am my kinsman’s, and his turning is toward me."
+          },
+          {
+            "id": "v7-12",
+            "text": "7:12 Come, my kinsman, let us go out into the field; let us lodge in the villages."
+          },
+          {
+            "id": "v7-13",
+            "text": "7:13Let us rise early for the vineyards; let us see whether the vine has blossomed, whether the bloom has flowered, whether the pomegranates have flowered. There I will give you my breasts."
+          },
+          {
+            "id": "v7-14",
+            "text": "7:14The mandrakes have given fragrance, and at our doors are all tree fruits, new together with old, which I have kept for you, my kinsman."
+          }
+        ],
+        "chapter": 7,
+        "section": 7,
+        "page_id": 2697,
+        "title": "Song of Songs 7",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-7/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 8,
+        "selected_chapter": "Song of Songs 7"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-7/",
+            "label": "Previous chapter, Song of Songs 7",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-1/",
+            "label": "Next chapter, Lamentations 1",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-7/",
+            "text": "← Song of Songs 7"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/",
+            "text": "Song of Songs: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/lamentations/chapter-1/",
+            "text": "Lamentations 1 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/song-of-songs/8/",
+            "text": "All 215 cross-references for Song of Songs 8, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v8-1",
+            "text": "8:1Who might make you my kinsman, nursing at my mother’s breasts? Finding you outside, I will kiss you, and indeed they will not despise me."
+          },
+          {
+            "id": "v8-2",
+            "text": "8:2I will take you, bring you into my mother’s house and into the chamber of the one who conceived me. I will give you spiced wine to drink, the juice of my pomegranates."
+          },
+          {
+            "id": "v8-3",
+            "text": "8:3 His left hand is beneath my head, and his right hand will embrace me."
+          },
+          {
+            "id": "v8-4",
+            "text": "8:4I have adjured you, daughters of Jerusalem, by the powers and by the strengths of the field: why awaken or stir up love before it wishes?"
+          },
+          {
+            "id": "v8-5",
+            "text": "8:5Who is this coming up, made white, leaning upon her kinsman? Beneath the apple tree I awakened you. There your mother labored with you; there she who bore you labored."
+          },
+          {
+            "id": "v8-6",
+            "text": "8:6Set me as a seal upon your heart, as a seal upon your arm, for love is strong as death, jealousy harsh as Hades. Its wings are wings of fire, its flames."
+          },
+          {
+            "id": "v8-7",
+            "text": "8:7Much water will not be able to quench love, nor will rivers flood it. If a man gives all his livelihood for love, they will utterly despise him."
+          },
+          {
+            "id": "v8-8",
+            "text": "8:8We have a little sister, and she has no breasts. What shall we do for our sister on the day someone speaks concerning her?"
+          },
+          {
+            "id": "v8-9",
+            "text": "8:9 If she is a wall, let us build silver battlements upon her; and if she is a door, let us mark out a cedar plank upon her."
+          },
+          {
+            "id": "v8-10",
+            "text": "8:10I am a wall, and my breasts are like towers. I was in his eyes like one who finds peace."
+          },
+          {
+            "id": "v8-11",
+            "text": "8:11 Solomon had a vineyard at Baal-hamon; he gave his vineyard to keepers. Each will bring a thousand pieces of silver for its fruit."
+          },
+          {
+            "id": "v8-12",
+            "text": "8:12My own vineyard is before me. The thousand are yours, Solomon, and the two hundred belong to those who keep its fruit."
+          },
+          {
+            "id": "v8-13",
+            "text": "8:13You who sit in gardens, companions are attending to your voice; let me hear it."
+          },
+          {
+            "id": "v8-14",
+            "text": "8:14 Flee, my kinsman, and be like a gazelle or a young stag upon mountains of spices."
+          }
+        ],
+        "chapter": 8,
+        "section": 8,
+        "page_id": 2692,
+        "title": "Song of Songs 8",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-8/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 8,
+        "selected_chapter": "Song of Songs 8"
+      }
+    ],
+    "index": {
+      "links": [
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-1/",
+          "text": "Chapters 1–2Longing and first meeting"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-3/",
+          "text": "Chapters 3–5Seeking, finding and the wedding"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-6/",
+          "text": "Chapters 6–8Love renewed and sealed"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-2/#v2-16",
+          "text": "Song of Songs 2:16"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-4/#v4-7",
+          "text": "Song of Songs 4:7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-8/#v8-6",
+          "text": "Song of Songs 8:6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/study/",
+          "text": "Open the Song of Songs study edition →"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/#saints-ref-1-1",
+          "text": "[1]"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/#",
+          "text": "Suggest a correction"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-1/",
+          "text": "Begin reading →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-1/",
+          "text": "1Song of Songs 1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-2/",
+          "text": "2Song of Songs 2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-3/",
+          "text": "3Song of Songs 3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-4/",
+          "text": "4Song of Songs 4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-5/",
+          "text": "5Song of Songs 5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-6/",
+          "text": "6Song of Songs 6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-7/",
+          "text": "7Song of Songs 7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-8/",
+          "text": "8Song of Songs 8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/comparison-edition/2/",
+          "text": "Begin comparing →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/comparison-edition/2/",
+          "text": "1Chapter 1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/comparison-edition/3/",
+          "text": "2Chapter 2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/comparison-edition/4/",
+          "text": "3Chapter 3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/comparison-edition/5/",
+          "text": "4Chapter 4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/comparison-edition/6/",
+          "text": "5Chapter 5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/comparison-edition/7/",
+          "text": "6Chapter 6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/comparison-edition/8/",
+          "text": "7Chapter 7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/comparison-edition/9/",
+          "text": "8Chapter 8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/comparison-edition/",
+          "text": "Jewish–Hebrew Masoretic TextCompared with the Saints TranslationOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/vulgate-comparison/",
+          "text": "Catholic Latin VulgateCompared with the Saints TranslationOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/kjv-comparison/",
+          "text": "Protestant King James BibleCompared with the Saints TranslationOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/kjv-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/kjv-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/kjv-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/kjv-comparison/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/kjv-comparison/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/kjv-comparison/7/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/kjv-comparison/8/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/kjv-comparison/9/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/comparison-edition/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/comparison-edition/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/comparison-edition/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/comparison-edition/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/comparison-edition/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/comparison-edition/7/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/comparison-edition/8/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/comparison-edition/9/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/vulgate-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/vulgate-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/vulgate-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/vulgate-comparison/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/vulgate-comparison/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/vulgate-comparison/7/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/vulgate-comparison/8/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-1/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-2/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-3/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-4/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-5/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-6/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-7/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-8/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/editorial-guide/",
+          "text": "Read the editorial guide"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/disparate-study/",
+          "text": "Open the study guide →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/#saints-ref-1-cite-1",
+          "text": "↑"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/#saints-ref-1-heading",
+          "text": "Footnotes"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/the-mysteries/#research-system",
+          "text": "How to use the references"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/the-mysteries/#external-resources",
+          "text": "External research resources"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-1/",
+          "text": "Chapters 1–2Longing and first meeting"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-3/",
+          "text": "Chapters 3–5Seeking, finding and the wedding"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-6/",
+          "text": "Chapters 6–8Love renewed and sealed"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-2/#v2-16",
+          "text": "Song of Songs 2:16"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-4/#v4-7",
+          "text": "Song of Songs 4:7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-8/#v8-6",
+          "text": "Song of Songs 8:6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/study/",
+          "text": "Open the Song of Songs study edition →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/editorial-guide/",
+          "text": "Read the editorial guide"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/disparate-study/",
+          "text": "Open the study guide →"
+        }
+      ],
+      "text": "Song of Songs\n\nBespoke Saints English Translation · 8 chapters · Provisional editorial edition · 15 October 2026\n\nDraft for review. Only editors can see this introduction. Approve all introductions under Settings → Saints Study.\n\nINTRODUCTION\n\nIntroducing Song of Songs\n\nThe Song of Songs is a lyrical poem celebrating the love between a bride and her beloved. Jewish and Christian readers alike have treasured it as an image of the love between God and his people.\n\nSETTING\nSet amid the gardens, vineyards and city of ancient Israel, the poems draw on royal and pastoral imagery familiar to their first hearers.\nAUTHOR\nTraditionally attributed to Solomon, named in its title. Many modern scholars regard it as a collection of love poetry from various hands, gathered under Solomon’s name.\nDATE\nTraditionally 10th century BC; many scholars date its final form to the post-exilic period.\nOutline\nChapters 1–2\nLonging and first meeting\nChapters 3–5\nSeeking, finding and the wedding\nChapters 6–8\nLove renewed and sealed\nKey passages\nSong of Songs 2:16 — My beloved is mine\nSong of Songs 4:7 — All fair, without blemish\nSong of Songs 8:6 — Love strong as death\nThemes\nFaithful, exclusive love\nLonging and union\nGod and his people\nThe soul’s love for God\nRead in the light of Christ\n\nOrigen, Gregory of Nyssa and later Bernard of Clairvaux read the Song as the love of Christ for the Church and for the individual soul, making it a central text of Christian mystical theology.\n\nOpen the Song of Songs study edition →\n\nIntroduction by Saints.Bible · CC BY-SA 4.0[1] · Suggest a correction\n\nFind a chapter\n\n16 links. Choose a section to browse.\n\nREAD\nSong of Songs · Reading\n8 chapters\nBegin reading →\n1\nSong of Songs 1\n2\nSong of Songs 2\n3\nSong of Songs 3\n4\nSong of Songs 4\n5\nSong of Songs 5\n6\nSong of Songs 6\n7\nSong of Songs 7\n8\nSong of Songs 8\nSTUDY\nSong of Songs · Comparisons\n8 chapters and study sections\n\nCompare Song of Songs with the Saints Translation\n\nJewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison\nCatholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison\nProtestant King James Bible\nCompared with the Saints Translation\nOpen comparison\n\nGO STRAIGHT TO A CHAPTER\n\nKJV & Greek\n1\n2\n3\n4\n5\n6\n7\n8\nHebrew & Greek\n1\n2\n3\n4\n5\n6\n7\n8\nLatin Vulgate\n1\n2\n3\n4\n5\n6\n8\nSaints Translation: sources and study approach\nBespoke Saints English editorial guide\n\nAll 8 numbered chapters and 117 existing reading units have received the Bespoke English editorial pass: 69 revised and 48 retained. Source-specific numbering, additions, gaps, names, repetitions and verse anchors are preserved. The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy address God directly; ordinary address uses you/your.\n\nRahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending. All English reading units were individually reviewed. Earlier source-checking statements and retrieval limitations are retained in the original backup and historical reference pages; they are not claims of fresh complete verification in this revision.\n\nThe newer Bespoke PDF governs this reading edition. Saints Translation literal-smooth and all comparison/study streams remain separate and unchanged. Notes are separated from Scripture. Earlier wording notes are historical records and may quote superseded pronouns or wording; the dated current Bespoke notes explain the changes. The Greek numbering is preserved: 7:1 corresponds to common English 6:13, and 7:2–14 corresponds to common English 7:1–13. The poem’s human voices are not replaced by allegorical names; current address uses you/your. An older study claim concerning daughters of Zion at 3:11 conflicts with the accessed publisher running text; that question remains for printed-edition and apparatus review. Historical comparison pages may contain older English drafts and unresolved alignment issues; they are preserved as separate records.\n\nRead the editorial guide\n\nThis Bespoke reading edition follows the newer translation policy: ordinary address uses you/your, and direct address to God retains Thou/Thee/Thy. The existing Greek-based reading stream and separately dated comparison editions remain distinct.\n\nSong of Songs — Disparate Study\n\nRead all 14 Disparate entries with complete source readings, Jewish and Christian reception, biblical connections, and qualified explanations.\n\nOpen the study guide →\n\nFootnotes\n↑CC BY-SA 4.0 — creativecommons.org\nFootnotes\nHow to use the references\nExternal research resources\nExplore links from this page\nScripture",
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/",
+      "all_8_chapter_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "Whitespace and WordPress apostrophe typography only; visible verse numbers excluded.",
+    "chapter_navigation": [
+      {
+        "text": "Song of Songs 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-1/"
+      },
+      {
+        "text": "Song of Songs 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-2/"
+      },
+      {
+        "text": "Song of Songs 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-3/"
+      },
+      {
+        "text": "Song of Songs 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-4/"
+      },
+      {
+        "text": "Song of Songs 5",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-5/"
+      },
+      {
+        "text": "Song of Songs 6",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-6/"
+      },
+      {
+        "text": "Song of Songs 7",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-7/"
+      },
+      {
+        "text": "Song of Songs 8",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-8/"
+      }
+    ],
+    "visual_capture": "A screenshot of saved Song of Songs 8 was captured and visually inspected. Every reading page received rendered DOM text and navigation checks; visual inspection of all 8 pages is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 2696,
+      "title": "Song of Songs — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/editorial-guide/",
+      "before_content_hash": "1e56b1b8fa37d581d6548aea1f80f3810d00cc8b",
+      "after_content_hash": "1e56b1b8fa37d581d6548aea1f80f3810d00cc8b",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3842,
+      "title": "Song of Songs — Hebrew and Greek compared",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/comparison-edition/",
+      "before_content_hash": "9a0ff6af780765e1eff1618b9e33619b76fdbe0e",
+      "after_content_hash": "9a0ff6af780765e1eff1618b9e33619b76fdbe0e",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 18635,
+      "title": "Song of Songs — Disparate Study",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/disparate-study/",
+      "before_content_hash": "c0dbb89979b8c349430adde3d3a60135e5a5a3f2",
+      "after_content_hash": "c0dbb89979b8c349430adde3d3a60135e5a5a3f2",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20719,
+      "title": "Song of Songs — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/vulgate-comparison/",
+      "before_content_hash": "caa3f6b553f9ab30862e7e54b759ab6a599571f5",
+      "after_content_hash": "caa3f6b553f9ab30862e7e54b759ab6a599571f5",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20720,
+      "title": "Song of Songs — King James Bible and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/kjv-comparison/",
+      "before_content_hash": "b0ece31150f4cdec6243a3a6e5e0ac0939d1d194",
+      "after_content_hash": "b0ece31150f4cdec6243a3a6e5e0ac0939d1d194",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 23874,
+      "title": "Song of Songs — Study Edition",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/study/",
+      "before_content_hash": "c3d2a30569c752c88a76994a089a4cbc1192c123",
+      "after_content_hash": "c3d2a30569c752c88a76994a089a4cbc1192c123",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 117,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 9 edited pages and all 6 reference pages, plus 6 reference hash snapshots. This is a book archive, not a full-site backup."
+}

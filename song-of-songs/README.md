@@ -1,0 +1,60 @@
+# Song of Songs — Bespoke Saints English Translation
+
+All 8 chapters across 8 reading sections and the book index were saved and read back on the WordPress staging site on 15 October 2026. All 117 verse units received an English editorial review: 69 changed and 48 retained their wording. This is a provisional editorial edition; independent specialist approval remains pending.
+
+The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy address God directly; ordinary address uses you/your.
+
+Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending. The [German Bible Society running text](https://www.die-bibel.de/en/bible/LXX/SNG.1) was consulted in the scopes specified in source-checks.json. The full displayed Greek running text was read for all 8 chapters, with focused comparison of the features named in the chapter records. Exhaustive critical-text, printed-apparatus and manuscript verification is not claimed. Existing textual and reception records are historical evidence, not a fresh verification claim. No manuscript-image inspection or independent scholarly approval is claimed.
+
+## Read and review
+
+- [Song-of-Songs.html](Song-of-Songs.html): complete reader with chapter navigation, verse anchors, preserved poetry, chapter emblems, preserved historical wording notes and separated current notes. The emblems load from their original staging URLs. Download and open for the styled reading view.
+- [Song-of-Songs.txt](Song-of-Songs.txt) and [verses.json](verses.json): text and structured verse records.
+- [changes.json](changes.json): before/after wording and editorial decisions for every verse, including retained wording.
+- [editorial-notes.json](editorial-notes.json) and [source-checks.json](source-checks.json): chapter decisions, exact source consultation scopes and pending questions.
+- [verification.json](verification.json): structural checks, 9 exact saved-page readbacks, all 117 rendered verse comparisons, working chapter navigation, and unchanged-content checks for all 6 reference pages.
+- [original-staging-backup.zip](original-staging-backup.zip): original page records, reference hash snapshots, inventory and integrity manifest.
+- [verified-staging-content.zip](verified-staging-content.zip): actual saved-page records for every updated page.
+- [RESTORE.md](RESTORE.md): restoration guidance.
+
+Every original verse ID, link, navigation destination, image and existing textual/reception record is preserved. Notes remain separate from Scripture. The revision does not harmonize the selected Greek text with Hebrew or familiar English versions.
+
+Complete original content for all 9 edited pages and all 6 reference pages, plus 6 reference hash snapshots. This is a book archive, not a full-site backup.
+
+## Chapter decisions and review queue
+
+**Chapter 1.** Modernize ordinary human address and verbs without assigning allegorical identities. Preserve the shift from him to you, breasts, they drew you, uprightness as the subject of loved, black and beautiful, the singular personal vineyard, my mare, turtledoves and kinsman. The feminine self-reference and changes of addressee remain; plural commands address the daughters in 6. Give 3 a sentence stop and put the future running clause of 4 into natural English order. Kinsman is retained provisionally for the lover’s kinship term and does not establish a biological relationship.
+
+Pending: Review speaker transitions, the sense of looked upon in 6, the self-covering woman in 7, likenesses in 11 and the kinship terminology. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 2.** Keep the flower of the plain, plural commands in 4–5 and 15, arranging love without an added banner, wounded by love, the powers/strengths oath, Bethel, the repeated my dove, pruning, and mountains of hollows. I have adjured makes the past oath explicit; adjure means to put someone under a solemn charge. The unspecified closing subject remains it, referring to love without a fixed personal identity. Face in 14 is an idiomatic rendering of the repeated appearance term in this direct visual request. Keep the pastoral verb without supplying an animal object.
+
+Pending: Priority lexical review of sweet cakes in 5; also the oath and its unstated subject, face in 14 and flowering vines. No modern botanical identity is asserted. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 3.** Retain all repetitions of seeking and the unanswered call in 1, the tense shift in held/will not let go in 4, the powers/strengths refrain, sixty warriors and the stone-paved interior with its difficult love clause. Make the ordinary plural question in 3 clear with speech punctuation and use trained for war in 8. Greek plural nights is represented by English at night/in the night as an iterative setting. The publisher’s displayed Rahlfs–Hanhart 3:11 has no daughters of Zion address; retain the existing absence despite the historical study page’s claim about printed editions. That conflict is recorded for apparatus review.
+
+Pending: Check 3:11 in the printed edition and apparatus; the historical study assertion is not sufficient evidence to insert words absent from the accessed running text. Also review the temporal clause in 4 and stone/love syntax in 10. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 4.** Ordinary lovers’ address uses you/your. Preserve silence, thalpioth, missiles, the hill/trees/fragrance of Lebanon, beginning of faith, the plural our hearts, breasts, garments, repeated garden enclosed, living water, aloth and all botanical images. Came up in 2 makes the past ascent explicit. Temporal until the day breathes retains ordinary English present form. No veil, mountain Amana, frankincense or modern plant identity is substituted for a difficult Greek reading.
+
+Pending: Review apart from your silence in 1 and 3; thalpioth and missiles in 4; beginning of faith in 8; our hearts in 9; and outgrowths, aloth and other plant terms in 13–15. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 5.** Keep bread with honey, the brothers invited to drink, sleep and the wakeful heart, the body and door images, the repeated unanswered call, the guards’ violence and the full oath in 8. Modernize human address, make the past adjuration explicit and recast the repeated question in 9 as What makes your kinsman more than another kinsman. Preserve white and ruddy (reddish), myriads, phaz, fir-tree curls, repeated full waters, tharsis, the ivory tablet and throat. No identity for an uncertain stone is supplied.
+
+Pending: Review phaz, fir trees, full waters, bowls of spice, tharsis and ivory tablet; these inherited lexical decisions remain provisional. Review the comparison question in 9 and the scene’s speakers. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 6.** Keep the two questions, reciprocity of belonging, pasturing without a supplied object, goodwill, wings, silence and every repeated image. Match 4:2 with came up in 6. Preserve sixty queens, eighty concubines, the repeated only one and the shift from daughters saw to will call/will praise. Retain the promise of breasts at 11, also found in 7:13, and Amminadab’s chariots at 12. Ordinary address uses you without assigning an allegorical addressee.
+
+Pending: Priority review of the syntax and supplied among in 12. Also review goodwill, troops drawn up, the chosen one, walnut/wadi terminology and the repetition in 11. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 7.** Preserve all four Return commands, the Shulammite, daughter of Nadab, rhythms of thighs, the sculpted mixing bowl, daughter of many, the nose and tower image, the king bound in passageways, the palm’s heights, my lips and teeth, his turning and the repeated promise of breasts. Modernize only individually reviewed address and verb forms. You in the question of 1 is plural; the calls to the Shulammite are singular. Greek 7:1 corresponds to common English 6:13, and Greek 7:2–14 to common English 7:1–13; retain this site’s Greek numbering.
+
+Pending: Review speaker transitions, rhythms in 2, daughter of many in 5, head upon you and passageways in 6, the nose/fragrance in 9 and suited to my lips and teeth in 10. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 8.** Keep the desired kinship, the chamber of the one who conceived me, the future embrace, and the last oath as a question rather than harmonizing it with earlier commands. Retain made white without adding from the wilderness, both labor clauses, seal/heart/arm, jealousy and Hades, repeated wings of fire, water/rivers, livelihood and the person despised. Gives/will despise in 7 makes the prospective conditional explicit. Keep the little sister, wall/door options, figures of one thousand and two hundred and the final flight. The person addressed in 13 is grammatically masculine in the consulted Greek; no divine addressee is asserted.
+
+Pending: Review the precise force of the refrain’s question in 4, the labor imagery in 5, wings/flames in 6 and mark out a cedar plank in 9. Allegorical and reception claims remain separately attributed in the historical records. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+Saints Translation literal-smooth and all 6 study/comparison pages were left unchanged and passed content-hash checks. No live-site update was made. [Repository progress](../progress.json) supersedes next-book statements in earlier snapshots.
+
+[Read Song of Songs on staging](https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/)

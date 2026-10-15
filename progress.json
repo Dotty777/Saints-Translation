@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 23,
-  "pending_book_revisions": 47,
-  "next_book": "Song of Songs",
+  "completed_book_records": 24,
+  "pending_book_revisions": 46,
+  "next_book": "Lamentations",
   "full_bible_complete": false,
   "books": [
     {
@@ -232,8 +232,12 @@
       "order": 24,
       "book": "Song of Songs",
       "staging_path": "/bible/wisdom/song-of-songs/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "song-of-songs/",
+      "chapters": 8,
+      "reading_sections": 8,
+      "verse_units": 117,
+      "wording_changes": 69
     },
     {
       "order": 25,
@@ -564,10 +568,11 @@
     "completed_books": [
       "Psalms",
       "Proverbs",
-      "Ecclesiastes"
+      "Ecclesiastes",
+      "Song of Songs"
     ],
-    "pending_books": 4,
-    "next_book": "Song of Songs",
+    "pending_books": 3,
+    "next_book": "Lamentations",
     "status": "In progress; specialist review pending"
   },
   "completed_divisions": [
@@ -575,6 +580,6 @@
     "Judgement"
   ],
   "current_priority": "Finish the remaining Old Testament after Job: all Wisdom books and all Prophets, one book at a time, with staging verification and GitHub main uploads.",
-  "old_testament_completed_book_records": 23,
-  "old_testament_pending_book_revisions": 20
+  "old_testament_completed_book_records": 24,
+  "old_testament_pending_book_revisions": 19
 }
