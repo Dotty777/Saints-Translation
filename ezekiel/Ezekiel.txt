@@ -1,0 +1,1416 @@
+EZEKIEL — BESPOKE SAINTS ENGLISH TRANSLATION
+15 October 2026
+Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.
+Plain text Scripture only. Separated editorial notes and unresolved readings are in editorial-notes.json, source-checks.json and the HTML reader.
+
+
+EZEKIEL 1
+
+1:1 And it happened in the thirtieth year, in the fourth month, on the fifth of the month, while I was among the captives by the River Chebar: the heavens opened, and I saw visions of God.
+1:2 On the fifth of the month—this was the fifth year of King Jehoiakim’s captivity—
+1:3 the Lord’s word came to Ezekiel son of Buzi, the priest, in the land of the Chaldeans by the River Chebar; and the Lord’s hand came upon me,
+1:4 and I looked, and behold, a sweeping wind was coming from the north, and a great cloud was within it, with brightness around it and fire flashing like lightning; within it was something like the appearance of electrum, within the fire, and brightness within it.
+1:5 And within it was something like a likeness of four living creatures. This was their appearance: a human likeness was upon them,
+1:6 and each had four faces, and each had four wings.
+1:7 Their legs were straight, and their feet were winged, with sparks like flashing bronze; and their wings were light.
+1:8 A human hand was beneath their wings on their four sides; and the faces of all four of them
+1:9 did not turn as they walked; each went straight ahead.
+1:10 The likeness of their faces was a human face and a lion’s face on the right for all four, and a calf’s face on the left for all four, and an eagle’s face for all four.
+1:11 The wings of all four were stretched out above; each had two joined to one another, and two covered the top of their bodies.
+1:12 Each went straight ahead. Wherever the spirit was going, they went and did not turn.
+1:13 And amid the living creatures was an appearance like burning coals of fire, like the sight of torches whirling among the living creatures, and brightness of the fire; lightning came out of the fire.
+1:15 I looked, and behold, one wheel was on the earth adjoining the four living creatures;
+1:16 the appearance of the wheels was like the appearance of tharsis, and all four had one likeness; their workmanship was as though a wheel were within a wheel.
+1:17 They went toward their four sides; they did not turn as they went,
+1:18 nor did their backs; they were tall, and I saw them. The backs of all four were full of eyes all around.
+1:19 When the living creatures went, the wheels moved beside them; when the living creatures rose from the earth, the wheels rose.
+1:20 Wherever the cloud was, there was the spirit for movement; the living creatures and the wheels went and rose together with them, because a spirit of life was in the wheels.
+1:21 When they went, these went; when they stood, these stood; when they rose from the earth, these rose together with them, because a spirit of life was in the wheels.
+1:22 Above the living creatures’ heads was a likeness as of a firmament, like the appearance of crystal, stretched out above their wings;
+1:23 and beneath the firmament their wings were stretched out, fluttering one toward another; each had two joined together, covering their bodies.
+1:24 As they went, I heard the sound of their wings like the sound of much water; when they stood, their wings came to rest.
+1:25 And behold, a voice came from above the firmament that was over their heads.
+1:26 Like the appearance of a sapphire stone was the likeness of a throne upon it; and above the likeness of the throne was a likeness like the form of a human being.
+1:27 I saw something like the sight of electrum from the appearance of a waist upward; and from the appearance of a waist down below I saw something like the appearance of fire, with its brightness all around.
+1:28 Like the appearance of a bow when it is in the cloud on a rainy day, so was the arrangement of the brightness all around. This was the appearance of the likeness of the Lord’s glory. I saw it, and I fall upon my face, and I heard the voice of One speaking.
+
+EZEKIEL 2
+
+2:1 He said to me, “Son of man, stand on your feet, and I will speak to you.”
+2:2 A spirit came upon me, took me up, raised me, and set me on my feet; I heard Him speaking to me,
+2:3 and He said to me, “Son of man, I am sending you out to the house of Israel, those who embitter Me, who have embittered Me, they and their fathers, until this present day,
+2:4 and you will say to them, ‘Thus says the Lord.’
+2:5 If indeed they listen or are terrified—for it is an embittering house—they will know that you are a prophet among them.
+2:6 And you, son of man, do not fear them or be shaken before their faces, because they will rage and gather against you all around, and you dwell among scorpions. Do not fear their words or be shaken before their faces, for it is an embittering house.
+2:7 You will speak My words to them, if indeed they listen or are terrified, for it is an embittering house.
+2:8 And you, son of man, hear the One speaking to you. Do not become embittering like the embittering house. Open your mouth wide and eat what I give you.”
+2:9 I looked, and behold, a hand was stretched toward me, and in it was a scroll of a book;
+2:10 and He unrolled it before me. It had writing on the back and the front, and upon it were written a lament, a song and woe.
+
+EZEKIEL 3
+
+3:1 He said to me, “Son of man, eat this scroll, then go and speak to the sons of Israel.”
+3:2 I opened my mouth wide, and He fed me the scroll.
+3:3 He said to me, “Son of man, your mouth will eat, and your belly will be filled with this scroll that has been given to you.” I ate it, and in my mouth it became like sweet honey.
+3:4 He said to me, “Son of man, go, enter the house of Israel, and speak My words to them;
+3:5 for you are not sent out to a people of deep speech and heavy tongue, but to the house of Israel,
+3:6 nor to many peoples of foreign speech or foreign tongues, nor those strong in tongue whose words you will not understand. If I had sent you to such people, they would have listened to you.
+3:7 But the house of Israel certainly will not be willing to listen to you, because they do not wish to listen to Me; the entire house of Israel is contentious and hard-hearted.
+3:8 Behold, I have made your face strong against their faces, and I will strengthen your contention against their contention,
+3:9 and it will always be stronger than rock. Do not fear them or be terrified before their faces, for it is an embittering house.”
+3:10 He said to me, “Son of man, take into your heart all the words that I have spoken with you, and hear with your ears,
+3:11 and go, enter the captivity, to the sons of your people; you will speak to them and say to them, ‘Thus says the Lord,’ if indeed they listen, if indeed they yield.”
+3:12 A spirit took me up, and I heard behind me the sound of a great shaking: “Blessed be the Lord’s glory from His place!”
+3:13 I saw the sound of the living creatures’ wings fluttering one toward another, and the sound of the wheels adjoining them, and the sound of the shaking.
+3:14 The spirit raised me and took me up. I went, impelled by my spirit, and the Lord’s hand came strongly upon me.
+3:15 I entered the captivity aloft and went around those dwelling by the River Chebar, those who were there; I sat there seven days, living among them.
+3:16 After the seven days, the Lord’s word came to me, saying,
+3:17 “Son of man, I have appointed you a watchman for the house of Israel. You will hear a word from My mouth and convey My warning to them.
+3:18 When I say to the lawless person, ‘You will surely be put to death,’ and you do not warn him or speak to warn the lawless person to turn from his ways so that he may live, that lawless person will die in his injustice; but I will require his blood from your hand.
+3:19 But if you warn the lawless person and he does not turn from his lawlessness and his way, that lawless person will die in his injustice, while you will rescue your life.
+3:20 When a righteous person turns from his righteous deeds and commits a transgression, and I place torment before his face, he will die because you did not warn him. He will die in his sins, because the righteous deeds he did certainly will not be remembered, and I will require his blood from your hand.
+3:21 But if you warn the righteous person not to sin, and he does not sin, the righteous person will surely live because you warned him; and you will rescue your own life.”
+3:22 The Lord’s hand came upon me, and He said to me, “Rise and go out to the plain, and you will be spoken to there.”
+3:23 I rose and went out to the plain, and behold, the Lord’s glory stood there, like the vision and like the glory I had seen by the River Chebar; and I fall upon my face.
+3:24 A spirit came upon me and set me on my feet. He spoke to me and said to me, “Go, be shut inside your house.
+3:25 And you, son of man, behold, bonds have been placed upon you, and they will bind you with them; you certainly will not go out from among them.
+3:26 I will bind your tongue, and you will become mute; you will not be a man rebuking them, for it is an embittering house.
+3:27 But when I speak to you, I will open your mouth, and you will say to them, ‘Thus says the Lord: Let the one who hears hear, and let the one who disobeys disobey,’ for it is an embittering house.”
+
+EZEKIEL 4
+
+4:1 “And you, son of man, take a brick, set it before your face, and draw upon it a city—Jerusalem;
+4:2 lay siege to it, build forward defenses against it, throw up a palisade against it, set camps against it, and arrange missile positions all around.
+4:3 Take an iron pan and place it as an iron wall between you and the city. Prepare your face against it; it will be besieged, and you will besiege it. This is a sign for the sons of Israel.
+4:4 Lie on your left side and place the injustices of the house of Israel upon it, according to the number of days—one hundred fifty—that you lie upon it; bear their injustices.
+4:5 I have assigned you their two injustices as a number of days, one hundred ninety days; bear the injustices of the house of Israel
+4:6 and complete all these things. Lie on your right side and bear the injustices of the house of Judah forty days. I have appointed you a day for a year.
+4:7 Prepare your face against Jerusalem’s siege, strengthen your arm, and prophesy against it.
+4:8 Behold, I have placed bonds upon you; do not turn from side to side until the days of your confinement are completed.
+4:9 Take wheat, barley, beans, lentils, millet and spelt; put them in one earthen vessel and make loaves from them for yourself. According to the number of days you sleep on your side, you will eat them one hundred ninety days.
+4:10 The food you are to eat will be weighed out: twenty shekels a day; eat it from time to time.
+4:11 Drink water by measure, the sixth part of a hin; drink it from time to time.
+4:12 Eat it as a barley cake baked in embers; bake it in pellets of human dung before their eyes,
+4:13 and say, ‘Thus says the Lord, the God of Israel: So the sons of Israel will eat unclean things among the nations.’”
+4:14 I said, “By no means, Lord, God of Israel! Behold, my life has not been defiled with uncleanness. From my birth until now I have eaten neither what died of itself nor what a wild animal killed, nor has any stale meat entered my mouth.”
+4:15 He said to me, “Behold, I have given you cattle dung instead of human dung; prepare your loaves over it.”
+4:16 He said to me, “Son of man, behold, I am breaking the support of bread in Jerusalem. They will eat bread by weight and in need, and drink water by measure and in devastation,
+4:17 so that they become needy for bread and water. A man and his brother will disappear, and they will waste away in their injustices.
+
+EZEKIEL 5
+
+5:1 “And you, son of man, take a sword sharper than a barber’s razor. Obtain it for yourself and pass it over your head and your beard. Take a balance with weights and divide the hairs;
+5:2 burn a quarter with fire inside the city when the days of siege are complete. Take a quarter and burn it up in its midst; cut down a quarter with the sword around it, and scatter a quarter to the wind. I will draw a sword after them.
+5:3 Take a few of them in number and gather them into your cloak.
+5:4 Take some of these again, cast them into the fire, and burn them in the fire. From it fire will go out. And you will say to the entire house of Israel,
+5:5 ‘Thus says the Lord: This is Jerusalem. I have placed her amid the nations, and the lands around her.
+5:6 And you will speak My ordinances to the lawless one among the nations, and My laws among the lands around her; for they rejected My ordinances and did not walk in My laws.
+5:7 Therefore thus says the Lord: Because your impulse comes from the nations around you, and you have not walked in My laws or performed My ordinances—nor have you even acted according to the ordinances of the nations around you—
+5:8 therefore thus says the Lord: Behold, I am against you, and I will execute judgment in your midst before the nations,
+5:9 and I will do among you what I have not done and the like of which I will not do again, according to all your abominations.
+5:10 Therefore fathers will eat children in your midst, and children will eat fathers. I will execute judgments against you and scatter all your survivors to every wind.
+5:11 Therefore, as I live, says the Lord, surely, because you defiled My holy places with all your abominations, I too will reject you. My eye will not spare, and I too will have no mercy.
+5:12 A quarter of you will be consumed by death; a quarter of you will perish by famine within you; a quarter of you I will scatter to every wind; and a quarter of you will fall by the sword around you, and I will draw a sword after them.
+5:13 My wrath and My anger against them will be completed, and you will know that I, the Lord, have spoken in My jealousy when I complete My anger against them.
+5:14 I will make you a wilderness, and your daughters around you, before every passerby;
+5:15 you will be mourned and ravaged among the nations around you when I execute judgments against you in the vengeance of My wrath. I, the Lord, have spoken.
+5:16 When I send My arrows of famine against them, they will bring exhaustion, and I will break your support of bread.
+5:17 I will send famine and harmful wild animals against you, and I will punish you. Death and blood will pass over you, and I will bring a sword upon you all around. I, the Lord, have spoken.’”
+
+EZEKIEL 6
+
+6:1 The Lord’s word came to me, saying,
+6:2 “Son of man, set your face firmly against the mountains of Israel and prophesy against them,
+6:3 and say, ‘Mountains of Israel, hear the Lord’s word. Thus says the Lord to the mountains, hills, ravines and wooded valleys: Behold, I am bringing a sword against you, and your high places will be destroyed,
+6:4 and your altars and your sacred precincts will be shattered; I will cast down your wounded before your idols,
+6:5 and I will scatter your bones around your altars.
+6:6 In all your dwelling territory the cities will be made desolate and the high places will disappear, so that your altars are destroyed, your idols shattered, and your sacred precincts removed;
+6:7 wounded people will fall in your midst, and you will recognize that I am the Lord.
+6:8 When there are among you survivors of the sword among the nations, and in your scattering in the lands,
+6:9 the survivors from among you will remember Me among the nations where they were taken captive. I have sworn against their heart that whores away from Me and their eyes that whore after their pursuits; they will beat their faces over all their abominations.
+6:10 They will recognize that I, the Lord, have spoken.
+6:11 Thus says the Lord: Clap your hand, stamp your foot, and say, “Aha! Aha!” over all the abominations of the house of Israel; they will fall by sword, death and famine.
+6:12 The one near will fall by the sword, the one far away will die by death, and the one enclosed will perish by famine; I will complete My anger against them.
+6:13 You will know that I am the Lord when your wounded lie among your idols, around your altars, on every high hill and beneath a shady tree, where they offered a fragrant aroma to all their idols.
+6:14 I will stretch out My hand against them and reduce the land to ruin and destruction, from the wilderness of Deblatha, from every dwelling place; you will recognize that I am the Lord.’”
+
+EZEKIEL 7
+
+7:1 The Lord’s word came to me, saying,
+7:2 “And you, son of man, say, ‘Thus says the Lord to the land of Israel: An end has come; the end has come upon the four wings of the land.
+7:3 The end has come
+7:4 upon you, inhabitant of the land. The time has come; the day has drawn near, neither with tumult nor with birth pangs.
+7:5 Now soon I will pour My anger upon you and complete My wrath in you; I will judge you in your ways and bring all your abominations upon you.
+7:6 My eye will not spare, nor will I have mercy; I will bring your ways upon you, and your abominations will be in your midst. You will recognize that I am the Lord who strikes.
+7:7 Now the end is upon you. I Myself will send against you and exact retribution upon you in your ways; I will bring all your abominations upon you.
+7:8 My eye will not spare you, nor will I have mercy; I will bring your way upon you, and your abominations will be in your midst. You will recognize that I am the Lord.
+7:9 For thus says the Lord:
+7:10 Behold, the end has come; behold, the Lord’s day! Even if the rod has blossomed, insolence has risen.
+7:11 It will shatter the support of a lawless person, neither with tumult nor with haste.
+7:12 The time has come; behold, the day! Let the buyer not rejoice, nor the seller lament;
+7:13 for the buyer certainly will no longer return to the seller, and a person will not prevail in the eye of his life.
+7:14 Sound the trumpet and judge everything.
+7:15 War by the sword is outside, and famine and death inside. The one in the plain will die by the sword, while famine and death will consume those in the city.
+7:16 Their survivors will be saved and be on the mountains; I will kill them all, each in his injustices.
+7:17 All hands will weaken, and all thighs will be defiled with moisture,
+7:18 and they will gird on sackcloth; amazement will cover them, shame will be upon every face among them, and baldness upon every head.
+7:19 Their silver will be thrown into the broad streets, and their gold will be disregarded. Their lives certainly will not be satisfied, nor their bellies filled, because it became torment for their injustices.
+7:20 They made choice ornaments a source of arrogance and made images of their abominations from them. Therefore I have given them over to them as uncleanness.
+7:21 I will hand them into foreigners’ hands to plunder them, and to the pestilent people of the earth as spoils; they will profane them.
+7:22 I will turn My face away from them, and they will defile My oversight; they will enter them unguarded and profane them,
+7:23 and they will make a confused mixture, because the land is full of peoples and the city full of lawlessness.
+7:24 I will turn back the arrogance of their strength, and their holy places will be defiled.
+7:25 Propitiation will come and will seek peace, and there will be none.
+7:26 Woe upon woe will come, and message upon message; a vision will be sought from a prophet, but law will perish from a priest and counsel from elders.
+7:27 A ruler will clothe himself in devastation, and the hands of the people of the land will be paralyzed. According to their ways I will deal with them, and by their judgments I will exact retribution upon them; they will know that I am the Lord.’”
+
+EZEKIEL 8
+
+8:1 In the sixth year, in the fifth month, on the fifth of the month, I was sitting in the house, and Judah’s elders were sitting before me. The Lord’s hand came upon me,
+8:2 and I saw, and behold, the likeness of a man: from His waist downward, fire, and from His waist upward, like the appearance of electrum.
+8:3 He stretched out the likeness of a hand and lifted me by the crown of my head. A spirit lifted me between earth and heaven and brought me to Jerusalem in a vision of God, to the entrance of the inner gate facing north, where the pillar of the one acquiring stood.
+8:4 And behold, the glory of the Lord God of Israel was there, in accordance with the vision I had seen in the plain.
+8:5 He said to me, “Son of man, look up with your eyes toward the north.” I looked up with my eyes toward the north, and behold, from the north to the gate toward the east.
+8:6 He said to me, “Son of man, have you seen what these people do? They commit great lawlessness here, to keep away from My holy places. You will yet see greater lawlessness.”
+8:7 He brought me to the courtyard entrance
+8:8 and said to me, “Son of man, dig.” I dug, and behold, there was a door.
+8:9 He said to me, “Go in and see the lawlessness these people are committing here.”
+8:10 I went in and saw, and behold, vain abominations and all the idols of the house of Israel were drawn upon it all around,
+8:11 and there were seventy men from the elders of the house of Israel. Jaazaniah son of Shaphan stood among them before their faces; each had his censer in his hand, and the vapor of incense rose.
+8:12 He said to me, “Son of man, have you seen what the elders of the house of Israel do, each in their hidden bedchamber? For they said, ‘The Lord does not see; the Lord has abandoned the land.’”
+8:13 He said to me, “You will yet see greater lawlessness that these people are committing.”
+8:14 He brought me to the entrance of the gate of the Lord’s house facing north, and behold, women were sitting there lamenting Tammuz,
+8:15 and He said to me, “Son of man, have you seen? You will yet see practices greater than these.”
+8:16 He brought me into the inner court of the Lord’s house, and behold, at the entrance of the Lord’s temple, between the porches and the altar, were about twenty men, their backs toward the Lord’s temple and their faces opposite. These were bowing to the sun.
+8:17 He said to me, “Have you seen, son of man? Is it a small thing for the house of Judah to commit the lawlessness they have committed here? For they have filled the land with lawlessness, and behold, they are as though sneering.
+8:18 I too will act toward them in wrath. My eye will not spare, nor will I have mercy.”
+
+EZEKIEL 9
+
+9:1 He cried into my ears with a loud voice, saying, “The city’s retribution has drawn near.” Each had the implements of destruction in his hand.
+9:2 And behold, six men came from the direction of the high gate facing north, each with an axe in his hand. One man among them wore a full-length robe, with a sapphire belt at his waist. They entered and stood beside the bronze altar.
+9:3 The glory of the God of Israel, which had been upon the cherubim, rose from them to the forecourt of the house. He called the man wearing the full-length robe, who had the belt at his waist,
+9:4 and said to him, “Pass through the midst of Jerusalem and put the sign upon the foreheads of the men who sigh deeply and grieve over all the lawlessness being committed within her.”
+9:5 To these others He said while I listened, “Go behind him into the city and strike. Do not spare with your eyes, and have no mercy.
+9:6 Old man, young man, maiden, infants and women—kill them to obliteration. But do not approach anyone upon whom the sign is. Begin at My holy places.” They began with the elderly men who were inside the house.
+9:7 He said to them, “Defile the house and fill the roads with the dead as you go out, and strike.”
+9:8 As they struck, I fall upon my face and cried aloud and said, “Alas, Lord! Art Thou obliterating the survivors of Israel as Thou pourest out Thy wrath upon Jerusalem?”
+9:9 He said to me, “The injustice of the house of Israel and Judah has grown very, very great, because the land is full of many peoples, and the city full of injustice and uncleanness. For they said, ‘The Lord has abandoned the land; the Lord does not look upon it.’
+9:10 My eye will not spare, nor will I have mercy. I have brought their ways upon their heads.”
+9:11 And behold, the man wearing the full-length robe, with the belt fastened at his waist, answered, saying, “I have done as Thou didst command me.”
+
+EZEKIEL 10
+
+10:1 I saw, and behold, above the firmament over the cherubim’s head was something like sapphire stone, a throne’s likeness above them.
+10:2 He said to the man wearing the robe, “Go in among the wheels beneath the cherubim, fill your hands with burning coals from among the cherubim, and scatter them over the city.” He went in before me.
+10:3 The cherubim stood to the right of the house as the man entered, and the cloud filled the inner court.
+10:4 The Lord’s glory departed from the cherubim to the forecourt of the house. The cloud filled the house, and the court filled with the radiance of the Lord’s glory.
+10:5 The sound of the cherubim’s wings was heard as far as the outer court, like the voice of God Shaddai speaking.
+10:6 When He commanded the man wearing the holy robe, saying, “Take fire from among the wheels, from among the cherubim,” he entered and stood beside the wheels,
+10:7 and he stretched out his hand into the midst of the fire among the cherubim, took it and gave it into the hands of the man wearing the holy robe. He took it and went out.
+10:8 I saw the cherubim, the likeness of human hands beneath their wings.
+10:9 I saw, and behold, four wheels stood beside the cherubim, one wheel beside one cherub. The wheels’ appearance was like the appearance of a carbuncle stone.
+10:10 Their appearance was one likeness for all four, as when a wheel is within a wheel.
+10:11 As they went, they went toward their four directions; they did not turn as they went. For wherever the one leading part looked, they went, and they did not turn as they went.
+10:12 Their backs, their hands, their wings, and the wheels were full of eyes all around, upon their four wheels.
+10:13 These wheels were called “Gelgel” in my hearing.
+10:15 The cherubim lifted themselves. This was the living creature I had seen at the river Chebar.
+10:16 When the cherubim went, the wheels went beside them. When the cherubim raised their wings to rise from the earth, their wheels did not turn.
+10:17 When they stood, these stood; when they rose, these rose with them, because a spirit of life was in them.
+10:18 The Lord’s glory went out from the house and mounted upon the cherubim,
+10:19 and the cherubim lifted their wings and rose from the earth before me as they went out, with the wheels beside them. They stood at the entrance of the opposite gate of the Lord’s house, and the glory of the God of Israel was above them.
+10:20 This is the living creature I had seen beneath the God of Israel at the river Chebar, and I knew that it was cherubim.
+10:21 Each had four faces, each had eight wings, and the likeness of human hands was beneath their wings.
+10:22 As for the likeness of their faces, these are the faces I had seen beneath the glory of the God of Israel at the river Chebar; each of them went straight ahead.
+
+EZEKIEL 11
+
+11:1 A spirit lifted me and brought me to the opposite gate of the Lord’s house, facing east. And behold, at the gate entrance were about twenty-five men. Among them I saw Jaazaniah son of Ezer and Pelatiah son of Benaiah, leaders of the people.
+11:2 The Lord said to me, “Son of man, these are the men who devise vain things and counsel wicked counsel in this city,
+11:3 who say, ‘Have the houses not been built recently? She is the cauldron, and we are the meat.’
+11:4 Therefore prophesy against them; prophesy, son of man.”
+11:5 The Lord’s spirit fell upon me, and He said to me, “Say, ‘Thus says the Lord: You have said this, house of Israel, and I understand the deliberations of your spirit.
+11:6 You have multiplied your dead in this city and filled her roads with the wounded.
+11:7 Therefore thus says the Lord: Your dead whom you struck within her are the meat, and she is the cauldron; but I will bring you out of her.
+11:8 You fear the sword, and I will bring a sword upon you, says the Lord.
+11:9 I will bring you out of her midst, hand you into foreigners’ hands, and execute judgments among you.
+11:10 You will fall by the sword. At Israel’s borders I will judge you, and you will recognize that I am the Lord.
+11:11 She will not be a cauldron for you, and you certainly will not become meat within her. At Israel’s borders I will judge you,
+11:12 and you will recognize that I am the Lord.’”
+11:13 As I prophesied, Pelatiah son of Benaiah died. I fall upon my face and cried aloud with a loud voice and said, “Alas, alas, Lord! Thou art bringing Israel’s survivors to a complete end!”
+11:14 The Lord’s word came to me, saying,
+11:15 “Son of man, your brothers and the men of your captivity and the whole house of Israel have been brought to an end. To them Jerusalem’s inhabitants said, ‘Keep far from the Lord; the land has been given to us as an inheritance.’
+11:16 Therefore say, ‘Thus says the Lord: I will thrust them away into the nations and scatter them through all the earth, and I will be a little sanctuary for them in the countries where they may enter.’
+11:17 Therefore say, ‘Thus says the Lord: I will receive them from the nations and gather them from the countries where I scattered them, and I will give them the land of Israel.
+11:18 They will enter there and remove all her abominations and all her lawlessness from her.
+11:19 I will give them another heart and put a new spirit within them. I will tear the stone heart from their flesh and give them a heart of flesh,
+11:20 so that they may walk in My commands, keep My ordinances and carry them out. They will be My people, and I will be their God.
+11:21 As their heart went toward the heart of their abominations and their lawlessness, I have brought their ways upon their heads, says the Lord.’”
+11:22 The cherubim raised their wings, with the wheels beside them, and the glory of the God of Israel was upon them, above them.
+11:23 The Lord’s glory rose from the midst of the city and stood upon the mountain opposite the city.
+11:24 A spirit lifted me and brought me into the Chaldeans’ land, to the captives, in a vision by God’s spirit. I rose out of the vision I had seen,
+11:25 and I spoke to the captives all the Lord’s words that He had shown me.
+
+EZEKIEL 12
+
+12:1 The Lord’s word came to me, saying,
+12:2 “Son of man, you dwell in the midst of their injustices. They have eyes to see and do not see, and ears to hear and do not hear, because they are an embittering house.
+12:3 And you, son of man, get your belongings ready for captivity by day before them. You will be taken captive from your place to another place before them, so that they may see, because they are an embittering house.
+12:4 You will bring your belongings out like belongings for captivity by day before their eyes, and you yourself will go out in the evening as a captive goes out.
+12:5 Before them, dig for yourself through the wall, and you will pass out through it.
+12:6 Before them you will be lifted upon shoulders and go out concealed. Cover your face, and you certainly will not see the land, for I have made you a portent to the house of Israel.”
+12:7 I did so according to all that He commanded me. I brought belongings out like belongings for captivity by day; in the evening I dug through the wall for myself and went out concealed. I was lifted upon shoulders before them.
+12:8 In the morning the Lord’s word came to me, saying,
+12:9 “Son of man, has not the house of Israel, the embittering house, said to you, ‘What are you doing?’
+12:10 Say to them, ‘Thus says the Lord, the Lord: The ruler and the leader in Jerusalem and in the whole house of Israel, who are among them—’
+12:11 Say, ‘I perform portents in her midst. As I have done, so it will be for them; in deportation and captivity they will go.’
+12:12 The ruler among them will be lifted upon shoulders and go out concealed through the wall. He will dig through it to go out through it. He will cover his face so that he may not be seen by an eye, and he himself will not see the land.
+12:13 I will spread My net over him, and he will be caught in My enclosure. I will bring him to Babylon, to the Chaldeans’ land, and he will not see it, and there he will die.
+12:14 All those around him, his helpers and all who support him, I will scatter to every wind; I will draw a sword after them.
+12:15 They will know that I am the Lord when I scatter them among the nations, and I will disperse them among the countries.
+12:16 I will spare a few men among them from sword, famine and death, so that they may recount all their lawlessness among the nations where they entered, and they will know that I am the Lord.”
+12:17 The Lord’s word came to me, saying,
+12:18 “Son of man, eat your bread with pain, and drink your water with torment and distress,
+12:19 and say to the people of the land, ‘Thus says the Lord to Jerusalem’s inhabitants upon Israel’s land: They will eat their bread with want and drink their water with devastation, so that the land may be destroyed with its fullness, for all who dwell in it are in impiety.
+12:20 Their inhabited cities will be made desolate, and the land will be laid waste. You will recognize that I am the Lord.’”
+12:21 The Lord’s word came to me, saying,
+12:22 “Son of man, what is this proverb you have concerning Israel’s land, saying, ‘The days are far off; vision has perished’?
+12:23 Therefore say to them, ‘Thus says the Lord: I will turn back this proverb, and the house of Israel certainly will no longer say this proverb.’ For you will speak to them: ‘The days have drawn near, and the word of every vision,
+12:24 because there will no longer be any false vision or anyone divining pleasing things among the sons of Israel,
+12:25 because I, the Lord, will speak My words; I will speak and act, and I certainly will delay no longer. For in your days, embittering house, I will speak a word and act, says the Lord.’”
+12:26 The Lord’s word came to me, saying,
+12:27 “Son of man, behold, the embittering house of Israel keeps saying, ‘The vision this man sees is for many days ahead; this man prophesies of times far ahead.’
+12:28 Therefore say to them, ‘Thus says the Lord: None of My words that I may speak will be prolonged any longer. I will speak and act, says the Lord.’”
+
+EZEKIEL 13
+
+13:1 The Lord’s word came to me, saying,
+13:2 “Son of man, prophesy against Israel’s prophets; you will prophesy and say to them, ‘Hear the Lord’s word!
+13:3 Thus says the Lord: Woe to those who prophesy from their own heart and see nothing at all!
+13:4 Your prophets, Israel, are like foxes in the wildernesses.
+13:5 They did not stand in a firm position, and they gathered flocks against the house of Israel. Those saying, ‘On the Lord’s day,’ did not rise.
+13:6 They see false things and divine vain things, those who say, ‘The Lord says,’ although the Lord has not sent them; and they began to establish a word.
+13:7 Have you not seen a false vision and spoken vain divinations?
+13:8 Therefore say, ‘Thus says the Lord: Because your words are false and your divinations vain, therefore behold, I am against you, says the Lord,
+13:9 and I will stretch out My hand against the prophets who see false things and utter vain things. They will not belong to My people’s instruction, nor be written in the register of the house of Israel, nor enter Israel’s land. They will know that I am the Lord.
+13:10 Because they misled My people, saying, ‘Peace, peace,’ when there was no peace, and this one builds a wall, and they coat it—if it is going to fall,
+13:11 say to those coating it, ‘It will fall.’ There will be a flooding downpour, and I will put stones for hurling into their bonds, and they will fall; there will be an upending wind, and it will be split.
+13:12 And behold, the wall has fallen! Will they not say to you, ‘Where is your coating with which you coated it?’
+13:13 Therefore thus says the Lord: I will unleash an upending blast with wrath; a flooding downpour will come in My anger, and I will bring the projectile stones in wrath for complete destruction,
+13:14 and I will tear down the wall you coated, and it will fall. I will lay it upon the ground; its foundations will be uncovered, and it will fall, and you will be brought to an end with rebukes. You will recognize that I am the Lord.
+13:15 I will complete My wrath upon the wall and those coating it, and it will fall. I said to you, ‘There is no wall, nor those coating it—
+13:16 the prophets of Israel who prophesy concerning Jerusalem and see peace for her, when there is no peace,’ says the Lord.’
+13:17 And you, son of man, set your face firmly against the daughters of your people who prophesy from their own heart, and prophesy against them,
+13:18 and say, ‘Thus says the Lord: Woe to the women sewing cushions upon every elbow of an arm and making coverings upon every head of every age, to distort lives! The lives of My people were distorted, and they were preserving lives.
+13:19 They were profaning Me among My people for a handful of barley and scraps of bread, putting to death lives that ought not die and preserving lives that ought not live, as you uttered things to a people listening to vain pronouncements.
+13:20 Therefore thus says the Lord, the Lord: Behold, I am against your cushions, on which you entangle lives. I will tear them from your arms and send the lives out—their lives that you twist away—into dispersion.
+13:21 I will tear your coverings and rescue My people from your hand. They will no longer be in your hands for entanglement, and you will recognize that I am the Lord.
+13:22 Because you distorted the righteous person’s heart unjustly, though I was not distorting him, and strengthened the lawless person’s hands so that he does not turn at all from his evil way and live,
+13:23 therefore you certainly will no longer see false things or divine divinations. I will rescue My people from your hand, and you will know that I am the Lord.’”
+
+EZEKIEL 14
+
+14:1 Men from Israel’s elders came to me and sat before me.
+14:2 The Lord’s word came to me, saying,
+14:3 “Son of man, these men have set their thoughts upon their hearts and set the punishment of their injustices before their faces. Shall I indeed answer them?
+14:4 Therefore speak to them and say to them, ‘Thus says the Lord: Anyone of the house of Israel who sets his thoughts upon his heart, places the punishment of his injustice before his face, and comes to the prophet—I, the Lord, will answer him in the things in which his mind is entangled,
+14:5 so that it may turn the house of Israel aside in accordance with their hearts, alienated from Me through their reflections.’
+14:6 Therefore say to the house of Israel, ‘Thus says the Lord, the Lord: Turn back and turn away from your practices and all your impieties, and turn your faces.
+14:7 For anyone of the house of Israel or of the sojourners living among Israel who becomes alienated from Me, sets his reflections upon his heart, places the punishment of his injustice before his face, and comes to the prophet to question him concerning Me—I, the Lord, will answer him in that in which he is entangled.
+14:8 I will set My face firmly against that person, make him a wilderness and a devastation, and remove him from the midst of My people. You will recognize that I am the Lord.
+14:9 If the prophet is led astray and speaks, I, the Lord, have led that prophet astray. I will stretch out My hand against him and destroy him from the midst of My people Israel.
+14:10 They will receive their injustice; according to the inquirer’s offense and according to the offense, it will likewise be for the prophet,
+14:11 so that the house of Israel may no longer wander from Me or be defiled by any of their transgressions. They will be My people, and I will be their God, says the Lord.’”
+14:12 The Lord’s word came to me, saying,
+14:13 “Son of man, if a land sins against Me by committing a transgression, and I stretch My hand against it, shatter its support of bread, send famine upon it, and remove human and livestock from it,
+14:14 even if these three men—Noah, Daniel and Job—were within it, they themselves would be saved by their righteousness, says the Lord.
+14:15 Even if I bring evil beasts upon the land and punish it, so that it becomes a devastation and no one passes through because of the beasts,
+14:16 and these three men were within it, as I live, says the Lord, neither sons nor daughters would be saved; only they themselves would be saved, and the land would be destroyed.
+14:17 Or even if I bring a sword upon that land and say, ‘Let a sword pass through the land,’ and remove human and livestock from it,
+14:18 and these three men were within it, as I live, says the Lord, they certainly would not rescue sons or daughters; they alone would be saved.
+14:19 Or even if I send death upon that land and pour My wrath upon it in blood, to destroy human and livestock from it,
+14:20 and Noah, Daniel and Job were within it, as I live, says the Lord, neither sons nor daughters would be left; they would rescue their own lives by their righteousness.
+14:21 Thus says the Lord: Even if I send My four evil retributions—sword, famine, evil beasts and death—against Jerusalem, to destroy human and livestock from her,
+14:22 and behold, her rescued survivors are left in her, bringing sons and daughters out of her. Behold, they are coming out to you. You will see their ways and their reflections and feel regret over the evils I brought upon Jerusalem—all the evils I brought upon her,
+14:23 and they will comfort you, because you will see their ways and their reflections, and recognize that I have not done in vain all that I did in her, says the Lord.”
+
+EZEKIEL 15
+
+15:1 The Lord’s word came to me, saying,
+15:2 “And you, son of man, what could vinewood be among all the branch wood found among the forest trees?
+15:3 Will they take wood from it to make anything useful? Will they take a peg from it to hang any vessel upon it?
+15:4 It has only been given to the fire to be consumed. Fire consumes its yearly prunings, and it is utterly spent. Surely it will not be useful for work?
+15:5 Even when it is whole, it will not serve for work. How much less if fire consumes it completely—will it still serve for work?
+15:6 Therefore say, ‘Thus says the Lord: As with the vinewood among the forest trees, which I have given to the fire to be consumed, so I have given Jerusalem’s inhabitants.
+15:7 I will set My face against them. They will come out of the fire, and fire will devour them. They will recognize that I am the Lord when I set My face firmly against them.
+15:8 I will lay the land waste, because they have fallen into transgression, says the Lord.’”
+
+EZEKIEL 16
+
+16:1 The Lord’s word came to me, saying,
+16:2 “Son of man, solemnly testify to Jerusalem about her lawlessness,
+16:3 and say, ‘Thus says the Lord to Jerusalem: Your root and your birth are from the land of Canaan; your father was an Amorite and your mother a Hittite.
+16:4 As for your birth, on the day you were born they did not bind your breasts; you were not washed with water, not salted with salt, and not wrapped in swaddling cloths.
+16:5 Nor did My eye spare you to do any of all these things for you, to feel anything for you. You were cast upon the face of the plain because of your life’s crookedness, on the day you were born.
+16:6 I passed by you and saw you befouled in your blood, and said to you, ‘From your blood, life!
+16:7 Multiply!’ I have made you like the growth of the field. You multiplied, grew great and entered cities of cities. Your breasts stood firm and your hair grew, but you were naked and exposed.
+16:8 I passed through you and saw you; behold, your season was the season of those lodging. I spread My wings over you and covered your exposure. I swore to you and entered a covenant with you, says the Lord, and you became Mine.
+16:9 I washed you with water, washed your blood off you, and anointed you with oil,
+16:10 and clothed you in patterned garments, gave you blue-purple footwear, girded you with fine linen, and wrapped you in hair-woven cloth,
+16:11 and adorned you with ornaments, placed bracelets around your hands and a necklace around your neck,
+16:12 and put a ring around your nostril, little hoops upon your ears and a crown of boasting upon your head.
+16:13 You were adorned with gold and silver; your coverings were fine linen, hair-woven and patterned. You ate fine flour, oil and honey, and became very beautiful.
+16:14 Your fame went out among the nations because of your beauty, for it was made complete in splendor, in the loveliness I placed upon you, says the Lord.
+16:15 You trusted in your beauty and prostituted yourself because of your fame. You poured out your prostitution upon every passerby—which will not be.
+16:16 You took some of your garments, made sewn idols for yourself and prostituted yourself upon them. You certainly will not enter, nor will it come to be.
+16:17 You took your vessels of boasting from My gold and My silver, from what I had given you, made male images for yourself and prostituted yourself among them.
+16:18 You took your patterned clothing and clothed them; you set My oil and My incense before them.
+16:19 My loaves that I gave you—fine flour, oil and honey with which I fed you—you set before them as a fragrant aroma. So it happened, says the Lord.
+16:20 You took your sons and daughters whom you had borne and sacrificed them to them for consumption, as though you had prostituted yourself only a little,
+16:21 and slaughtered your children and gave them over as you used them for averting rites.
+16:22 This was in addition to all your prostitution, and you did not remember the days of your infancy, when you were naked and exposed and lived befouled in your blood.
+16:23 After all your evils, says the Lord,
+16:24 you built yourself a prostitution chamber and made yourself a display place in every broad street,
+16:25 and at the head of every road you built your brothels, ruined your beauty, spread your legs to every passerby, and multiplied your prostitution.
+16:26 You prostituted yourself with the sons of Egypt, your neighbors great in flesh, and prostituted yourself in many ways to anger Me.
+16:27 But if I stretch My hand against you, I will remove your ordinances and hand you over to the desires of those who hate you, daughters of foreigners who turn you aside from your way in which you acted impiously.
+16:28 You prostituted yourself with the daughters of Assyria, and not even so were you filled; you prostituted yourself, and were not filled.
+16:29 You multiplied your covenants toward the Chaldeans’ land, and not even with these were you filled.
+16:30 What shall I do to your daughter, says the Lord, when you do all these things, the works of a prostitute? And you prostituted yourself threefold
+16:31 among your daughters. You built your brothel at every road head and made your platform in every broad street, and became like a prostitute gathering payments.
+16:32 The adulterous wife is like you, receiving payments from her husband;
+16:33 she kept giving payments to all who prostituted her. You too gave payments to all your lovers and loaded them up to come to you from all around in your prostitution.
+16:34 With you it became distorted compared with other women in your prostitution. They have prostituted themselves with you as you paid extra payments, and no payments were given to you; with you things became distorted.
+16:35 Therefore, prostitute, hear the Lord’s word!
+16:36 Thus says the Lord: Because you poured out your copper, your shame will be exposed in your prostitution with your lovers, in all the reflections of your lawlessness, and in the blood of your children whom you gave to them.
+16:37 Therefore behold, I am gathering against you all your lovers with whom you mingled, all whom you loved together with all whom you hated. I will gather them against you from all around, reveal your evils to them, and they will see all your shame.
+16:38 I will exact retribution upon you with the retribution of an adulteress and a woman shedding blood, and place you in blood of wrath and jealousy.
+16:39 I will hand you into their hands. They will tear down your brothel, pull down your platform, strip your clothing from you, take your vessels of boasting, and leave you naked and exposed.
+16:40 They will bring crowds against you, stone you with stones, and slaughter you with their swords.
+16:41 They will burn your houses with fire and exact retributions upon you before many women. I will turn you away from your prostitution, and you certainly will give no more payments.
+16:42 I will release My wrath upon you; My jealousy will be removed from you. I will rest and certainly be concerned no longer.
+16:43 Because you did not remember the day of your infancy but grieved Me with all these things, behold, I have brought your ways upon your head, says the Lord. Thus you committed impiety in addition to all your lawlessness.
+16:44 These are all the things they said against you in a proverb, saying, ‘As the mother, so the daughter.’
+16:45 You are the daughter of your mother, who rejected her husband and her children, and the sister of your sisters, who rejected their husbands and children. Your mother was a Hittite, and your father an Amorite.
+16:46 Your elder sister is Samaria, she and her daughters, dwelling at your left; your sister younger than you, dwelling at your right, is Sodom and her daughters.
+16:47 Not even so did you walk in their ways or act according to their lawlessness. Before long, you surpass them in all your ways.
+16:48 As I live, says the Lord, your sister Sodom, she and her daughters, certainly did not do as you and your daughters have done.
+16:49 Yet this was the lawlessness of your sister Sodom: arrogance. In fullness of bread and abundance of wine she and her daughters lived luxuriously. This belonged to her and her daughters, but they did not support the hand of the poor and needy.
+16:50 They boasted greatly and committed acts of lawlessness before Me, and I removed them as I saw.
+16:51 Samaria did not sin half your sins. You multiplied your lawlessness beyond theirs and justified your sisters by all the lawlessness you committed.
+16:52 You too, receive your torment, in which you corrupted your sisters by your sins, in which you acted more lawlessly than they and justified them above yourself. You too, be ashamed and take your dishonor, in that you justified your sisters.
+16:53 I will reverse their reversals—the reversal of Sodom and her daughters; I will reverse the reversal of Samaria and her daughters; and I will reverse your reversal among them,
+16:54 so that you may receive your torment and be dishonored for all you did in provoking Me.
+16:55 Your sister Sodom and her daughters will be restored as they were from the beginning; Samaria and her daughters will be restored as they were from the beginning; and you and your daughters will be restored as you were from the beginning.
+16:56 And if your sister Sodom was not a report in your mouth in the days of your arrogance,
+16:57 before your evils were revealed—as now you are a reproach of Syria’s daughters and all around her, daughters of foreigners who surround you all around?
+16:58 Your impieties and your lawlessness—you have borne them, says the Lord.
+16:59 Thus says the Lord: I will deal with you as you have done, as you dishonored these things by transgressing My covenant.
+16:60 I Myself will remember My covenant with you in the days of your infancy and raise up for you an eternal covenant.
+16:61 You will remember your way and be dishonored when you take up your sisters, those older than you together with those younger than you. I will give them to you for building up, and not from your covenant.
+16:62 I Myself will raise up My covenant with you, and you will recognize that I am the Lord,
+16:63 so that you may remember and be ashamed, and no longer have occasion to open your mouth because of your dishonor, when I am propitious to you concerning all that you have done, says the Lord.’”
+
+EZEKIEL 17
+
+17:1 The Lord’s word came to me, saying,
+17:2 “Son of man, tell a story and speak a parable to the house of Israel,
+17:3 and say, ‘Thus says the Lord: The great eagle, with great wings and a broad span, full of talons, which has authority to enter Lebanon, took the cedar’s choice parts;
+17:4 he nipped off the tips of its tender growth, carried them to the land of Canaan, and set them in a fortified city.
+17:5 He took some of the land’s seed and put it in the plain, a plant beside abundant water; he appointed it to be watched over.
+17:6 It sprouted and became a weak vine, small in size so that it might appear. Its branches were upon it and its roots beneath it. It became a vine, produced offshoots and extended its climbing growth.
+17:7 There was another great eagle, with great wings and many talons. Behold, this vine was intertwined toward him, its roots toward him; it sent its branches to him to water it together with the clod of its planting.
+17:8 It grows fat in a good plain beside abundant water, to produce shoots, bear fruit and become a great vine.
+17:9 Therefore say, ‘Thus says the Lord: Will it prosper? Will not the roots of its tender growth and its fruit rot, and all its early shoots dry up? No great arm or numerous people will be needed to pull it from its roots.
+17:10 Behold, it grows fat—surely it will not prosper? Will it not dry up completely as soon as the scorching wind touches it? It will dry up together with the clod of its growth.’”
+17:11 The Lord’s word came to me, saying,
+17:12 “Son of man, say now to the embittering house, ‘Do you not understand what these things were?’ Say, ‘When Babylon’s king comes against Jerusalem, he will take her king and her rulers and bring them to himself in Babylon.
+17:13 He will take one of the royal seed, make a covenant with him, and bring him under a curse-oath. He will take the land’s leaders,
+17:14 so that it may become a weak kingdom, not exalt itself at all, and keep his covenant and establish it.
+17:15 He will revolt from him, sending his messengers to Egypt to give him horses and many people. Will he prosper? Will the one doing contrary things be rescued? Will one transgressing a covenant be saved?
+17:16 As I live, says the Lord, surely in the place of the king who made him king—he who dishonored My curse-oath and transgressed My covenant—with him in the midst of Babylon he will die.
+17:17 Pharaoh will not wage war against him with great power or a numerous crowd, amid siegeworks and the building of missile stations to remove lives.
+17:18 He dishonored a sworn oath by transgressing a covenant; behold, he has given his hand and did all these things to him. Surely he will not be saved?
+17:19 Therefore say, ‘Thus says the Lord: As I live, surely My covenant that he transgressed and My sworn oath that he dishonored—I will bring them upon his head.
+17:20 I will spread My net over him, and he will be caught in his enclosure.
+17:21 In all his battle array they will fall by the sword, and I will scatter the survivors to every wind. You will recognize that I, the Lord, have spoken.’
+17:22 For thus says the Lord: I Myself will take from the cedar’s choice parts, nip off from the top of their heart, and I Myself will plant it upon a high mountain. I will suspend it
+17:23 upon Israel’s lofty mountain and plant it. It will produce a shoot, bear fruit and become a great cedar. Every beast will rest beneath it, every bird will rest under its shade, and its branches will be restored.
+17:24 All the plain’s trees will know that I am the Lord who lowers a high tree, raises a low tree, dries a green tree and makes a dry tree flourish. I, the Lord, have spoken and will act.”
+
+EZEKIEL 18
+
+18:1 The Lord’s word came to me, saying,
+18:2 “Son of man, what is this proverb you have among Israel’s sons, saying, ‘The fathers ate unripe grapes, and the children’s teeth were set on edge’?
+18:3 As I live, says the Lord, this proverb will certainly no longer be spoken in Israel.
+18:4 For all souls are Mine. As the soul of the father, so also the soul of the son—they are Mine. The soul that sins will die.
+18:5 The person who is righteous, practicing judgment and righteousness,
+18:6 will not eat upon the mountains, certainly will not raise his eyes to the reflections of the house of Israel, certainly will not defile his neighbor’s wife, and will not approach a woman in her menstrual separation;
+18:7 he certainly will not oppress anyone, will return a debtor’s pledge, takes no plunder, will give his bread to the hungry, and will clothe the naked;
+18:8 he will not give his silver at interest or take increase, will turn his hand from injustice, and will render a righteous judgment between a man and his neighbor;
+18:9 he has walked in My commands and kept My ordinances to carry them out. This one is righteous; he will surely live, says the Lord.
+18:10 But if he fathers a pestilent son who sheds blood and commits sins,
+18:11 he did not walk in the way of his righteous father, but even ate upon the mountains and defiled his neighbor’s wife,
+18:12 oppressed the poor and needy, seized plunder, did not return a pledge, set his eyes upon idols, and has committed lawlessness,
+18:13 gave at interest and took increase—this one certainly will not live. He committed all this lawlessness; he will surely be put to death, and his blood will be upon him.
+18:14 But if he fathers a son who sees all the sins his father committed, becomes afraid, and does not act according to them,
+18:15 he has not eaten upon the mountains, not set his eyes upon the reflections of the house of Israel, and not defiled his neighbor’s wife,
+18:16 has not oppressed anyone, not taken a pledge, and not seized plunder; he gave his bread to the hungry and clothed the naked,
+18:17 and turned his hand from injustice, did not take interest or increase, practiced righteousness and walked in My commands. He will not die in his father’s injustices; he will surely live.
+18:18 But if his father practiced affliction and seized plunder, he did contrary things in the midst of My people and will die in his injustice.
+18:19 You will say, ‘Why did the son not receive his father’s injustice?’ Because the son practiced righteousness and mercy, preserved all My ordinances and carried them out; he will surely live.
+18:20 The soul that sins will die. The son will not receive his father’s injustice, nor the father his son’s injustice. The righteous person’s righteousness will be upon him, and the lawless person’s lawlessness upon him.
+18:21 If the lawless person turns from all the lawlessness he committed, keeps all My commandments, and practices righteousness and mercy, he will surely live; he certainly will not die.
+18:22 None of the transgressions he committed will be remembered. By the righteousness he practiced, he will live.
+18:23 Do I at all desire the death of the lawless, says the Lord, rather than his turning from his evil way and living?
+18:24 But when a righteous person turns from his righteousness and practices injustice according to all the lawlessness the lawless person committed, none of the righteous acts he did will be remembered. In the transgression he committed and the sins he sinned, in these he will die.
+18:25 You said, ‘The Lord’s way does not run straight.’ Hear now, the whole house of Israel: Surely My way does not fail to run straight? Is it not your way that fails to run straight?
+18:26 When the righteous person turns from his righteousness, commits a transgression and dies, in the transgression he committed—in it he will die.
+18:27 When a lawless person turns from the lawlessness he practiced and practices judgment and righteousness, this one has preserved his life
+18:28 and turned from all the impieties he committed; he will surely live, he certainly will not die.
+18:29 The house of Israel says, ‘The Lord’s way does not go right.’ Surely My way does not fail to go right, house of Israel? Is it not your way that fails to go right?
+18:30 I will judge you, each according to his way, house of Israel, says the Lord. Turn back and turn away from all your impieties, and they will not become a punishment of injustice for you.
+18:31 Cast away from yourselves all your impieties with which you acted impiously against Me, and make yourselves a new heart and a new spirit. Why are you dying, house of Israel?
+18:32 For I do not desire the death of the one who dies, says the Lord.”
+
+EZEKIEL 19
+
+19:1 “And you, take up a lament over Israel’s ruler,
+19:2 and say: What was your mother? A cub! She came to be among lions; among lions she multiplied her cubs.
+19:3 One of her cubs sprang away; he became a lion, learned to seize prey, and ate human beings.
+19:4 Nations heard against him; he was caught in their destruction, and they led him with a muzzle to Egypt’s land.
+19:5 She saw that he had been driven away from her and that her support had perished; she took another of her cubs and appointed him a lion.
+19:6 He moved among lions, became a lion, learned to seize prey, and ate human beings.
+19:7 He fed in his boldness, desolated their cities, and destroyed the land and its fullness by the sound of his roaring.
+19:8 Nations from the surrounding countries set themselves against him and spread their nets over him; he was caught in their destruction.
+19:9 They put him in a muzzle and a cage. He came to Babylon’s king, and he brought him into prison, so that his voice would not be heard upon Israel’s mountains.
+19:10 Your mother was like a vine, like a blossom on a pomegranate tree, planted by water; her fruit and her shoot came from abundant water.
+19:11 She had a rod of strength for a tribe of leaders; it rose in her size among the trunks, and it saw her size among the multitude of her branches.
+19:12 She was broken off in wrath and thrown to the ground. The scorching wind dried her choice parts; her rod of strength was punished and dried up. Fire consumed her.
+19:13 Now they have planted her in the wilderness, in a waterless land,
+19:14 and fire went out from a rod of her choice parts and devoured her, and there was no rod of strength in her. A tribe is for a parable of lament, and it will become a lament.”
+
+EZEKIEL 20
+
+20:1 In the seventh year, in the fifth month, on the tenth of the month, men from the elders of the house of Israel came to question the Lord and sat before me.
+20:2 The Lord’s word came to me, saying,
+20:3 “Son of man, speak to Israel’s elders and say to them, ‘Thus says the Lord: Have you come to question Me? As I live, I will certainly not answer you, says the Lord.’
+20:4 Shall I indeed exact retribution upon them? Son of man, solemnly testify to them about their fathers’ lawlessness,
+20:5 and say to them, ‘Thus says the Lord: From the day I chose the house of Israel, I became known to the seed of Jacob’s house and was known to them in Egypt’s land. I supported them with My hand, saying, “I am the Lord your God.”
+20:6 On that day I supported them with My hand to bring them out of Egypt’s land into the land I prepared for them, a land flowing with milk and honey; it is a honeycomb compared with all the earth.
+20:7 I said to them, “Let each cast away the abominations of his eyes, and do not be defiled by Egypt’s practices. I am the Lord your God.”
+20:8 They revolted from Me and would not listen to Me. They did not cast away the abominations of their eyes or abandon Egypt’s practices. I said I would pour My wrath upon them and complete My anger in them in the midst of Egypt’s land.
+20:9 I acted so that My name would not be profaned at all before the nations among whom they are, among whom I was known to them before their eyes by bringing them out of Egypt’s land.
+20:10 I brought them out of Egypt’s land and brought them into the wilderness,
+20:11 and gave them My commands and made My ordinances known to them, which a person will carry out and by which he will live.
+20:12 I gave them My sabbaths as a sign between Me and them, so that they might know that I am the Lord who sanctifies them.
+20:13 I said to the house of Israel in the wilderness, “Walk in My commands.” But they did not walk, and they rejected My ordinances, which a person will carry out and by which he will live; they greatly profaned My sabbaths. I said I would pour My wrath upon them in the wilderness to consume them utterly.
+20:14 I acted so that My name would not be profaned at all before the nations from whom I brought them out before their eyes.
+20:15 I too raised My hand against them in the wilderness, that I would not bring them at all into the land I gave them, a land flowing with milk and honey, a honeycomb compared with all the earth,
+20:16 because they rejected My ordinances, did not walk in My commands, and were profaning My sabbaths, and they followed the reflections of their hearts.
+20:17 My eye spared them from obliteration, and I did not make a complete end of them in the wilderness.
+20:18 I said to their children in the wilderness, “Do not walk in your fathers’ ordinances, do not keep their judgments, do not mix yourselves with their practices, and do not be defiled.
+20:19 I am the Lord your God. Walk in My commands, keep My ordinances and carry them out,
+20:20 and sanctify My sabbaths; let it be a sign between Me and you, so that you may know that I am the Lord your God.”
+20:21 Their children too embittered Me. They did not walk in My commands or keep My ordinances to carry them out, which a person will carry out and by which he will live; they were profaning My sabbaths. I said I would pour My wrath upon them in the wilderness and complete My anger upon them.
+20:22 I acted so that My name would not be profaned at all before the nations from whom I brought them out before their eyes.
+20:23 I raised My hand against them in the wilderness, to scatter them among the nations and disperse them among the countries,
+20:24 because they did not carry out My ordinances, rejected My commands and were profaning My sabbaths, while their eyes followed their fathers’ reflections.
+20:25 I too gave them commands that were not good, and ordinances in which they would not live.
+20:26 I will defile them through their gifts, when I pass through every one who opens the womb, so that I may destroy them.
+20:27 Therefore speak to the house of Israel, son of man, and say to them, ‘Thus says the Lord: To this extent your fathers angered Me in the transgressions they committed against Me.
+20:28 I brought them into the land I raised My hand to give them. They saw every high hill and every shady tree; there they sacrificed to their gods, there they set a fragrant aroma, and there they poured their libations.
+20:29 I said to them, “What is Abama, that you go in there?” They called its name Abama to this very day.’
+20:30 Therefore say to the house of Israel, ‘Thus says the Lord: Are you being defiled in your fathers’ lawlessness and prostituting yourselves after their abominations?
+20:31 In the firstfruits of your gifts, in your separations, you are being defiled with all your reflections to this very day. Shall I answer you, house of Israel? As I live, says the Lord, I will certainly not answer you, nor will this rise upon your spirit.
+20:32 It will not be as you say: “We will be like the nations and like the tribes of the earth, serving woods and stones.”
+20:33 Therefore, as I live, says the Lord, with a mighty hand, a high arm and outpoured wrath I will reign over you.
+20:34 I will bring you out from the peoples and receive you from the countries where you were scattered, with a mighty hand, a high arm and outpoured wrath.
+20:35 I will bring you into the wilderness of the peoples and contend with you there, face to face.
+20:36 As I contended with your fathers in the wilderness of Egypt’s land, so I will judge you, says the Lord.
+20:37 I will lead you beneath My rod and bring you in by number,
+20:38 and select from you the impious and those who have revolted, for I will bring them out of their sojourning, but they will not enter Israel’s land. You will recognize that I am the Lord.
+20:39 And you, house of Israel, thus says the Lord, the Lord: Each of you, remove his practices! After these things, if you are not listening to Me, you will no longer profane My holy name with your gifts and practices.
+20:40 For upon My holy mountain, upon a high mountain, says the Lord, the Lord, there the whole house of Israel will serve Me to the end. There I will accept, and there I will attend to your firstfruits and the firstfruits of your separations, with all your holy things.
+20:41 As a fragrant aroma I will accept you when I bring you out from the peoples and receive you from the countries where you were scattered. I will be sanctified among you before the eyes of the peoples.
+20:42 You will recognize that I am the Lord when I bring you into Israel’s land, into the land for which I raised My hand to give it to your fathers.
+20:43 There you will remember your ways and your practices by which you were being defiled; you will beat your faces over all your evils.
+20:44 You will recognize that I am the Lord when I deal thus with you so that My name may not be profaned according to your evil ways and corrupt practices, says the Lord.’”
+
+EZEKIEL 21
+
+21:1 The Lord’s word came to me, saying,
+21:2 “Son of man, set your face firmly toward Thaiman, look toward Darom, and prophesy against the leading forest, Nageb,
+21:3 and say to the Nageb forest, ‘Hear the Lord’s word! Thus says the Lord, the Lord: Behold, I am kindling a fire within you. It will devour every green tree and every dry tree in you. The kindled flame will not be quenched, and every face from east to north will be burned by it.
+21:4 All flesh will recognize that I, the Lord, have kindled it, and it will not be quenched.’”
+21:5 I said, “By no means, Lord, Lord! They say to me, ‘Is this not a parable being spoken?’”
+21:6 The Lord’s word came to me, saying,
+21:7 “Therefore prophesy, son of man; set your face firmly toward Jerusalem, look toward their holy places, and prophesy against Israel’s land,
+21:8 and say to Israel’s land, ‘Behold, I am against you. I will draw My dagger from its sheath and destroy from you the unjust and the lawless.
+21:9 Because I will destroy from you the unjust and the lawless, so My dagger will come out of its sheath against all flesh from east to north.
+21:10 All flesh will recognize that I, the Lord, have drawn My dagger from its sheath, and it will not return again.’
+21:11 And you, son of man, groan deeply with your loins broken; groan in pains before their eyes.
+21:12 If they say to you, ‘Why are you groaning?’ say, ‘Because of the message, for it is coming. Every heart will be shattered, all hands will be paralyzed, all flesh and every spirit will expire, and all thighs will be defiled with moisture. Behold, it is coming and will happen, says the Lord, the Lord.’”
+21:13 The Lord’s word came to me, saying,
+21:14 “Son of man, prophesy and say, ‘Thus says the Lord: Say: Sword, sword, be sharpened and enraged,
+21:15 so that you may slaughter victims. Be sharpened to become gleaming. Ready for paralysis, slaughter! Disdain; thrust away every tree.
+21:16 He gave it ready for his hand to grasp. The sword has been sharpened; it is ready to be put into the hand of one who pierces.
+21:17 Cry aloud and wail, son of man, for it has come among My people, among all Israel’s leaders. They will sojourn upon a sword; it has come among My people. Therefore strike upon your hand.
+21:18 For it has been justified. And what if even a tribe was rejected? It will not be, says the Lord, the Lord.
+21:19 And you, son of man, prophesy and strike hand upon hand, and double the sword. The third sword of the wounded is the great sword of the wounded, and it will terrify them,
+21:20 so that the heart is shattered and the weak multiply at every gate of theirs. They have been handed over as victims of a sword. It has been well prepared for slaughter, well prepared for gleaming.
+21:21 Pass through! Be sharpened on the right and on the left, wherever your face may be roused.
+21:22 I too will strike My hand against My hand and release My wrath. I, the Lord, have spoken.’”
+21:23 The Lord’s word came to me, saying,
+21:24 “And you, son of man, arrange two roads for Babylon’s king’s sword to enter. Both will come out from one country, and a hand at the beginning of a city road; at the beginning
+21:25 of a road you will arrange for the sword to enter against Rabbath of the sons of Ammon, against Judea, and against Jerusalem in her midst.
+21:26 For Babylon’s king will stand upon the ancient road, at the beginning of the two roads, to divine a divination, toss a rod, question the carved images and inspect a liver at his right.
+21:27 The oracle came against Jerusalem: to set a siege stake, open the mouth in a shout, raise the voice with a cry, set a siege stake against her gates, cast up a mound and build missile stations.
+21:28 He is to them like one divining a divination before them, and he himself recalls his injustices for remembrance.
+21:29 Therefore thus says the Lord: Because you recalled your injustices when your impieties were revealed, so that your sins were seen in all your impieties and practices—because you recalled them, in these you will be captured.
+21:30 And you, profane, lawless leader of Israel, whose day has arrived in a season of injustice—an end!—
+21:31 thus says the Lord: You removed the tiara and put on the crown. This will not be such. You lowered the high and raised the low.
+21:32 Injustice, injustice I will make it! Nor will this be such until the one comes to whom it belongs, and I will hand it over to him.
+21:33 And you, son of man, prophesy and say, ‘Thus says the Lord concerning the sons of Ammon and their reproach.’ Say, ‘Sword, sword, drawn for victims and drawn for complete destruction, arise so that you may gleam,
+21:34 in your vain vision and your divining false things, to hand you over upon the necks of the wounded lawless, whose day has arrived in a season of injustice—an end!
+21:35 Turn back; do not lodge in this place where you were born. In your own land I will judge you
+21:36 and pour My anger upon you. I will blow upon you with the fire of My anger and hand you into the hands of barbarian men devising destruction.
+21:37 You will be food in fire; your blood will be in the midst of your land. There certainly will be no remembrance of you, for I, the Lord, have spoken.’”
+
+EZEKIEL 22
+
+22:1 The Lord’s word came to me, saying,
+22:2 “And you, son of man, will you judge the city of bloodshed? Display all her lawless deeds to her,
+22:3 and say, ‘Thus says the Lord, the Lord: O city shedding blood within her so that her time may come, making reflections against herself to defile herself!
+22:4 Through their blood that you shed you have transgressed, and through your reflections that you made you were being defiled. You brought your days near and brought the season of your years. Therefore I have made you a reproach to the nations and a mockery to all the countries
+22:5 near you and far away from you. They will mock you: “Unclean, the famous one, abundant in lawless deeds!”
+22:6 Behold, the leaders of Israel’s house mingled themselves in you, each with his relatives, in order to shed blood.
+22:7 They reviled father and mother in you and dealt unjustly with the sojourner in you. They oppressed the orphan and widow in you.
+22:8 They despised My holy things and profaned My Sabbaths in you.
+22:9 Robbers are in you in order to shed blood in you. They ate upon the mountains in you; they committed unholy acts within you.
+22:10 They uncovered a father’s shame in you, and they violated a woman sitting apart in uncleanness in you.
+22:11 Each acted lawlessly with his neighbor’s wife; each defiled his daughter-in-law with impiety; each violated his sister, his father’s daughter, in you.
+22:12 They took gifts in you in order to shed blood; they took interest and increase in you. You brought your evil in oppression to its full completion, but you forgot Me, says the Lord.
+22:13 But if I strike My hand against My hand over what you have completed, what you did, and over your bloodshed that occurred within you,
+22:14 will your heart hold out? Will your hands prevail in the days when I act within you? I, the Lord, have spoken and will act.
+22:15 I will scatter you among the nations and disperse you among the countries, and your uncleanness will cease from you.
+22:16 I will take possession in you before the nations’ eyes, and you will know that I am the Lord.’”
+22:17 The Lord’s word came to me, saying,
+22:18 “Son of man, behold, Israel’s house has become mixed to Me, all of them with copper, iron, tin and lead; it is mixed amid silver.
+22:19 Therefore say, ‘Thus says the Lord: Because all of you became one mixture, therefore I am receiving you into Jerusalem.
+22:20 As silver, copper, iron, tin and lead are received into a furnace to blow fire into it to melt it, so I will receive you in My anger, gather you and melt you,
+22:21 and blow upon you with the fire of My anger, and you will be melted within her.
+22:22 As silver is melted within a furnace, so you will be melted within her. You will recognize that I, the Lord, have poured My wrath upon you.’”
+22:23 The Lord’s word came to me, saying,
+22:24 “Son of man, say to her, ‘You are a land not wetted, nor did rain come upon you on the day of wrath.
+22:25 Her leaders within her are like roaring lions seizing prey, devouring lives with power, taking payments unjustly, and your widows have multiplied within you.
+22:26 Her priests set aside My law and profaned My holy things. They did not distinguish between holy and profane, nor distinguish between unclean and clean. They covered their eyes from My Sabbaths, and I was profaned among them.
+22:27 Her rulers within her are like wolves seizing prey to shed blood, so that in greed they may gain more.
+22:28 Her prophets, coating them, will fall, seeing vain things, divining falsehoods, saying, “Thus says the Lord,” when the Lord has not spoken,
+22:29 oppressing the people of the land unjustly and seizing plunder, oppressing the poor and needy and not dealing justly with the sojourner.
+22:30 I sought among them a man conducting himself rightly and standing wholly before Me at the land’s time, so that I would not utterly wipe her out, but I found none.
+22:31 I poured My wrath upon her in the fire of My anger to bring an end. I brought their ways upon their own heads, says the Lord, the Lord.’”
+
+EZEKIEL 23
+
+23:1 The Lord’s word came to me, saying,
+23:2 “Son of man, there were two women, daughters of one mother,
+23:3 and they prostituted themselves in Egypt in their youth. There their breasts fell; there they were deflowered.
+23:4 Their names were Oholah the elder and Oholibah her sister. They became Mine and bore sons and daughters. Their names: Samaria is Oholah, and Jerusalem is Oholibah.
+23:5 Oholah prostituted herself away from Me and set her desire upon her lovers, the Assyrians approaching her,
+23:6 clothed in blue-purple, leaders and generals; all choice young men, horsemen riding horses.
+23:7 She bestowed her prostitution upon them, all choice sons of Assyrians; and with all upon whom she set her desire, in all her reflections she was defiled.
+23:8 She did not abandon her prostitution from Egypt, for they lay with her in her youth; they deflowered her and poured their prostitution upon her.
+23:9 Therefore I handed her into her lovers’ hands, into the hands of Assyrians’ sons, upon whom she had set her desire.
+23:10 They uncovered her shame, took her sons and daughters, and killed her with the sword. She became a subject of talk among women, and they inflicted punishments upon her, upon the daughters.
+23:11 Her sister Oholibah saw this and corrupted her desire beyond hers, and her prostitution beyond her sister’s prostitution.
+23:12 She set her desire upon Assyrians’ sons, leaders and generals near her, clothed in finely bordered garments, horsemen riding horses; all choice young men.
+23:13 I saw that she was defiled; one way for the two.
+23:14 She added to her prostitution and saw men depicted upon the wall, images of Chaldeans drawn with a stylus,
+23:15 girded with embroidered work at their waists, with dyed tiaras upon their heads, all with a threefold appearance, the likeness of Chaldeans’ sons from their native land.
+23:16 She set her desire upon them at the sight of her eyes and sent messengers to them in the Chaldeans’ land.
+23:17 Babylon’s sons came to her, to a bed of lodgers, and defiled her in her prostitution. She was defiled by them, and her soul withdrew from them.
+23:18 She uncovered her prostitution and uncovered her shame. My soul withdrew from her, as My soul had withdrawn from her sister.
+23:19 You multiplied your prostitution to recall the days of your youth, in which you prostituted yourself in Egypt,
+23:20 and you set your desire upon the Chaldeans, whose flesh was like donkeys’ and whose genitals were horses’ genitals.
+23:21 You revisited the lawlessness of your youth, what you did in Egypt at your lodging, where your youthful breasts were.
+23:22 Therefore, Oholibah, thus says the Lord: Behold, I am rousing your lovers against you, those from whom your soul withdrew. I will bring them against you all around:
+23:23 Babylon’s sons and all the Chaldeans, Phakoud, Soue and Koue, and all Assyrians’ sons with them, choice young men, all leaders and generals, threefold men and renowned men riding horses.
+23:24 All will come against you from the north: chariots and wheels with a multitude of peoples, large shields and small shields; they will set a guard against you all around. I will set judgment before them, and they will punish you by their judgments.
+23:25 I will set My jealousy within you, and they will deal with you in fierce anger. They will remove your nose and ears and strike down your remaining people with the sword. They will take your sons and daughters, and fire will consume your remaining people.
+23:26 They will strip you of your clothing and take the objects of your boasting.
+23:27 I will turn your impieties away from you and your prostitution from Egypt’s land. You certainly will not lift your eyes toward them, and you certainly will no longer remember Egypt.
+23:28 For thus says the Lord, the Lord: Behold, I am handing you into the hands of those you hate, those from whom your soul withdrew.
+23:29 They will deal with you in hatred and take all the fruit of your pain and toil. You will be naked and exposed to shame, and the shame of your prostitution and your impiety will be uncovered. Your prostitution
+23:30 did these things to you when you prostituted yourself after nations and were defiled in their reflections.
+23:31 You walked in your sister’s way; I will put her cup into your hands.
+23:32 Thus says the Lord: You will drink your sister’s cup, deep and wide, abounding to bring about
+23:33 drunkenness; you will be filled with collapse. And the cup of annihilation, your sister Samaria’s cup—
+23:34 you will drink it. I will turn away her festivals and her new moons, for I have spoken, says the Lord.
+23:35 Therefore thus says the Lord: Because you forgot Me and cast Me behind your body, you too must take your impiety and your prostitution.”
+23:36 The Lord said to me, “Son of man, will you not judge Oholah and Oholibah? Declare their lawless deeds to them,
+23:37 for they committed adultery, and blood is on their hands. They committed adultery with their reflections, and made their children whom they bore to Me pass through fire offerings for them.
+23:38 They even did these things to Me: they defiled My holy things and profaned My Sabbaths.
+23:39 When they slaughtered their children for their idols, they entered My holy places to profane them. Indeed, they acted this way within My house.
+23:40 Indeed, for the men coming from far away, to whom they sent messengers—as soon as they arrived, you immediately bathed, painted your eyes with antimony and adorned yourself with ornaments,
+23:41 and sat upon a spread couch with an adorned table before it. My incense and My oil—they delighted in them.
+23:42 They struck up a harmonious sound. With men arriving from the mass of people out of the wilderness, they gave bracelets for their hands and a crown of boasting upon their heads.
+23:43 I said, ‘Do they not commit adultery in these things? A prostitute’s deeds—and she herself prostituted herself!’
+23:44 They entered her as they enter a prostitute; so they entered Oholah and Oholibah to commit lawlessness.
+23:45 Righteous men will punish them with the punishment of an adulteress and the punishment of bloodshed, for they are adulteresses, and blood is on their hands.
+23:46 Thus says the Lord, the Lord: Bring a multitude against them and set turmoil and plunder among them,
+23:47 and stone them with the multitude’s stones and pierce them with their swords. They will kill their sons and daughters and burn their houses.
+23:48 I will turn impiety away from the land. All women will be disciplined and certainly will not act according to their impieties.
+23:49 Your impiety will be brought upon you, and you will receive the sins of your reflections. You will know that I am the Lord.”
+
+EZEKIEL 24
+
+24:1 The Lord’s word came to me in the ninth year, in the tenth month, on the tenth of the month, saying,
+24:2 “Son of man, write for yourself a record of the day, from this day on which Babylon’s king pressed against Jerusalem, from this present day,
+24:3 and speak a parable against the provoking house. Say to them, ‘Thus says the Lord: Set on the cauldron and pour water into it,
+24:4 and put the cut pieces into it, every good cut, leg and shoulder stripped from the bones,
+24:5 from choice animals taken. Burn the bones beneath them. It boiled, it boiled, and her bones have been cooked within her.
+24:6 Therefore thus says the Lord: O city of bloodshed! A cauldron with rust in it, whose rust has not come out of her! He brought it out limb by limb; no lot fell upon her.
+24:7 For her blood is within her. I have set it upon smooth rock; I have not poured it upon the earth to cover it with earth.
+24:8 To make wrath rise for vengeance to be exacted, I have set her blood upon smooth rock so that it will not be covered.
+24:9 Therefore thus says the Lord: I too will enlarge the firebrand
+24:10 and multiply the wood and kindle the fire, so that the flesh melts and the broth is reduced,
+24:11 and it stands upon the coals, so that its copper is scorched and heated and melts amid its uncleanness, and its rust ceases,
+24:12 yet her abundant rust certainly will not leave her; her rust will be put to shame,
+24:13 because you were being defiled. And what if you are not cleansed any more until I fill up My wrath?
+24:14 I, the Lord, have spoken, and it will come, and I will act. I will not draw back, nor will I show mercy. According to your ways and your reflections I will judge you, says the Lord. Therefore I will judge you according to your bloodshed, and according to your reflections I will judge you, the unclean one, the famous one, abundant in provoking.’”
+24:15 The Lord’s word came to me, saying,
+24:16 “Son of man, behold, I am taking the desires of your eyes from you in battle array. You certainly will not beat your breast, nor be wept over.
+24:17 It is a groaning of blood, of loins, of mourning. Your hair will not be plaited upon you, nor will your footwear be on your feet. You certainly will not be comforted by their lips or eat the bread of men.
+24:18 I spoke to the people in the morning as He commanded me, and my wife died in the evening. In the morning I did as I was ordered.
+24:19 The people said to me, “Will you not tell us what these things are that you are doing?”
+24:20 I said to them, “The Lord’s word came to me, saying,
+24:21 ‘Say to Israel’s house, Thus says the Lord: Behold, I am profaning My holy things, the boast of your strength, the desires of your eyes, those for whom your souls care. Your sons and daughters whom you left behind will fall by the sword.
+24:22 You will do as I have done: you will not be comforted from their mouth or eat the bread of men,
+24:23 with your hair upon your heads and your footwear on your feet. You certainly will neither beat your breasts nor weep; you will waste away in your injustices and each will comfort his brother.
+24:24 Ezekiel will be a portent for you; according to everything he has done, you will do when these things come. You will recognize that I am the Lord.
+24:25 And you, son of man, will it not be on the day when I take their strength from them, the exaltation of their boasting, the desires of their eyes, the exaltation of their soul, their sons and daughters—
+24:26 on that day the survivor will come to you to announce it into your ears?
+24:27 On that day your mouth will be opened toward the survivor; you will speak and certainly will no longer be struck mute. You will be a portent for them, and they will recognize that I am the Lord.’”
+
+EZEKIEL 25
+
+25:1 The Lord’s word came to me, saying,
+25:2 “Son of man, set your face firmly against the sons of Ammon and prophesy against them,
+25:3 and say to Ammon’s sons, ‘Hear the Lord’s word! Thus says the Lord: Because you rejoiced over My holy things when they were profaned, over Israel’s land when it was devastated, and over Judah’s house when they went into captivity,
+25:4 therefore behold, I am handing you to the sons of Kedem as an inheritance. They will camp with their equipment in you and set their dwellings in you. They will eat your fruits and drink your richness.
+25:5 I will make Ammon’s city pastures for camels, and Ammon’s sons a pasture for sheep. You will recognize that I am the Lord.
+25:6 For thus says the Lord: Because you clapped your hand and made noise with your foot, and rejoiced from your soul over Israel’s land,
+25:7 therefore I will stretch My hand against you, give you to plunder among the nations, utterly destroy you from the peoples and make you perish from the countries with destruction. You will recognize that I am the Lord.’
+25:8 Thus says the Lord: Because Moab said, ‘Behold, Israel’s and Judah’s house is like all the nations,’
+25:9 therefore behold, I am paralyzing Moab’s shoulder from its frontier cities, the choice land, the house of Asimouth above a spring of a coastal city.
+25:10 To Kedem’s sons, against Ammon’s sons, I have given them as an inheritance, so that no remembrance of Ammon’s sons may remain.
+25:11 I will exact vengeance upon Moab, and they will recognize that I am the Lord.
+25:12 Thus says the Lord: Because Idumea acted in vengeance against Judah’s house, and they bore a grudge and exacted punishment,
+25:13 therefore thus says the Lord: I will stretch My hand against Idumea and utterly destroy human and animal from her. I will make her a wilderness, and those pursued from Thaiman will fall by the sword.
+25:14 I will place My vengeance upon Idumea by the hand of My people Israel. They will act in Idumea according to My anger and My wrath, and they will recognize My vengeance, says the Lord.
+25:15 Therefore thus says the Lord: Because the foreigners acted in vengeance and stirred up vengeance, rejoicing from their soul to wipe out for ever,
+25:16 therefore thus says the Lord: Behold, I will stretch My hand against the foreigners, utterly destroy Cretans and make the remaining inhabitants of the coast perish.
+25:17 I will execute great acts of vengeance upon them. They will recognize that I am the Lord when I bring My vengeance upon them.”
+
+EZEKIEL 26
+
+26:1 In the eleventh year, on the first of the month, the Lord’s word came to me, saying,
+26:2 “Son of man, because Tyre said of Jerusalem, ‘Well done! She is shattered; the nations have perished. She has turned to me; the full one has been laid waste,’
+26:3 therefore thus says the Lord: I am against you, Tyre, and I will bring many nations against you, as the sea rises with its waves.
+26:4 They will throw down Tyre’s walls and throw down your towers. I will winnow her dust from her and make her a smooth rock.
+26:5 She will be a drying place for nets in the midst of the sea, for I have spoken, says the Lord. She will become plunder for the nations,
+26:6 and her daughters in the plain will be killed by the sword. They will know that I am the Lord.
+26:7 For thus says the Lord: I am bringing against you, Tyre, Nebuchadnezzar king of Babylon from the north—he is king of kings—with horses, chariots, horsemen, and an assembly of very many nations.
+26:8 He will kill your daughters in the plain with the sword, set an advance guard against you, build around you, and make a palisade and a ring of weapons around you; he will set his spears opposite you.
+26:9 He will throw down your walls and your towers with his swords.
+26:10 The dust of his multitude of horses will cover you, and your walls will shake at the sound of his horsemen and his chariots’ wheels when he enters your gates like someone entering a city from the plain.
+26:11 With his horses’ hoofs they will trample all your squares. He will kill your people with the sword and bring the support of your strength down to the ground.
+26:12 He will plunder your strength, strip your possessions, throw down your walls, and demolish your desirable houses. He will throw your stones, timber, and dust into the sea.
+26:13 He will put an end to the multitude of your musicians, and the sound of your psalteries will certainly no longer be heard.
+26:14 I will make you a smooth rock, a drying place for nets. You will certainly not be rebuilt, for I have spoken, says the Lord.
+26:15 For thus says the Lord, the Lord, to Tyre: Will not the islands shake at the sound of your fall, when the wounded groan and a sword is drawn within you?
+26:16 All the rulers from the nations of the sea will step down from their thrones, remove the turbans from their heads, and strip off their patterned clothing. They will be utterly astonished, sit on the ground, fear their own destruction, and groan over you.
+26:17 They will raise a lament over you and say to you: ‘How you were destroyed from the sea, praised city that spread her fear to all who live in her!
+26:18 The islands will be afraid from the day of your fall.’
+26:19 For thus says the Lord, the Lord: When I make you a desolated city like cities that will not be inhabited, when I bring the abyss up over you and much water covers you,
+26:20 I will bring you down to those descending into the pit, to the people of old. I will settle you in the depths of the earth like an everlasting wilderness, with those descending into the pit, so that you are not inhabited and do not rise in the land of life.
+26:21 I will bring you to ruin, and you will no longer exist for ever, says the Lord, the Lord.”
+
+EZEKIEL 27
+
+27:1 The Lord’s word came to me, saying,
+27:2 “Son of man, take up a lament over Tyre,
+27:3 and say to Tyre, who dwells at the entrance of the sea, the trading place of the peoples from many islands: Thus says the Lord to Tyre: You said, ‘I have clothed myself with my beauty.’
+27:4 In the heart of the sea, at Beelim, your sons clothed you with beauty.
+27:5 Cedar from Senir was built for you; strips of cypress planks were taken from Lebanon to make fir masts for you.
+27:6 From Bashan they made your oars; they made your sacred places from ivory, wooded houses from the islands of Kittim.
+27:7 Fine linen with embroidery from Egypt became your bedding, to clothe you with glory and wrap you in blue and purple from the islands of Elishah; it became your coverings.
+27:8 Your rulers who inhabit Sidon, and the Arvadites, became your rowers; your wise men, Tyre, who were in you, were your pilots.
+27:9 The elders of Byblos and their wise men were in you; they strengthened your counsel. All the ships of the sea and their rowers came to you toward the farthest west.
+27:10 Persians, Lydians, and Libyans were in your force; your warrior men hung small shields and helmets in you; they gave you your glory.
+27:11 Sons of Arvadites and your force were on your walls; guards were in your towers. They hung their quivers around your harbors; they completed your beauty.
+27:12 Carthaginians were your traders because of the abundance of all your strength; they gave silver, gold, iron, tin, and lead for your market.
+27:13 Greece, all of it, and the adjoining regions traded with you in human lives, and gave bronze vessels for your commerce.
+27:14 From the house of Togarmah they gave horses and horsemen for your market.
+27:15 Sons of Rhodians were your traders; from islands they increased your commerce with ivory tusks, and you gave your payments in exchange for the imported goods,
+27:16 people as your merchandise from the abundance of your mixed company, myrrh drops and embroideries from Tarshish; Ramoth and Chorchor gave for your market.
+27:17 Judah and the sons of Israel were your traders in the sale of grain, perfumes, and cassia; they gave choice honey, oil, and resin to your mixed company.
+27:18 Damascus was your trader because of the abundance of all your strength: wine from Helbon and wool from Miletus;
+27:19 and they gave wine for your market. From Asel, worked iron and a wheel are among your mixed company.
+27:20 Dedan was your trader with choice animals for chariots.
+27:21 Arabia and all the rulers of Kedar were your traders through your hand, with camels, rams, and lambs in which they traded with you.
+27:22 Traders of Sheba and Raamah were your traders with choice spices and good stones, and they gave gold for your market.
+27:23 Haran and Channa were your traders; Asshur and Charman were your traders,
+27:24 bringing merchandise, blue cloth and choice treasures bound with cords, and cypress
+27:25 ships: in them Carthaginians were your traders in abundance among your mixed company. You were filled and became very heavy in the heart of the sea.
+27:26 Your rowers led you in much water; the south wind shattered you in the heart of the sea.
+27:27 There were your forces, your payment and that of your mixed companies, your rowers and pilots, your counselors and your mixed companies from your mixed companies, all your warrior men in you, and your whole assembly within you; they will fall in the heart of the sea on the day of your fall.
+27:28 At the sound of your cry, your pilots will be greatly afraid,
+27:29 and all your rowers will come down from the ships; the passengers and the lookouts of the sea will stand on the land.
+27:30 They will raise a cry over you with their voice and cry bitterly; they will put earth on their head and spread ashes beneath them.
+27:32 Their sons will take up a lament over you and a lamentation for you:
+27:33 ‘What a payment you found from the sea! You filled nations from your abundance, and from your mixed company you enriched all the kings of the earth.
+27:34 Now you were shattered in the sea, in the depth of water; your mixed company and all your assembly fell within you—all your rowers.
+27:35 All who inhabit the islands became gloomy over you; their kings were utterly astonished, and their faces shed tears.
+27:36 Traders from nations hissed at you; you came to ruin, and you will be no more for ever.’”
+
+EZEKIEL 28
+
+28:1 The Lord’s word came to me, saying,
+28:2 “And you, son of man, say to the ruler of Tyre: Thus says the Lord: Because your heart was exalted and you said, ‘I am a god; I have inhabited a god’s dwelling in the heart of the sea’—yet you are a human, and not a god, and you made your heart like a god’s heart—
+28:3 Surely you are not wiser than Daniel? Did wise men not instruct you in their knowledge?
+28:4 Surely it was not by your knowledge or understanding that you built up strength for yourself, and gold and silver in your treasuries?
+28:5 By your abundant knowledge and your trade you increased your strength; your heart was exalted in your strength.
+28:6 Therefore thus says the Lord: Since you made your heart like a god’s heart,
+28:7 therefore, behold, I am bringing foreigners against you, scourges from nations. They will draw their swords against you and against the beauty of your knowledge, and lay your beauty out for destruction,
+28:8 and they will bring you down; you will die the death of wounded men in the heart of the sea.
+28:9 Surely you will not say, ‘I am a god,’ before those killing you? You are a human, and not a god. In a multitude
+28:10 of uncircumcised people you will perish by foreigners’ hands, for I have spoken, says the Lord.”
+28:11 The Lord’s word came to me, saying,
+28:12 “Son of man, take up a lament over the ruler of Tyre and say to him: Thus says the Lord, the Lord: You were a seal of likeness and a crown of beauty;
+28:13 you came to be in the delight of God’s paradise. You have been clothed with every good stone: carnelian, topaz, emerald, carbuncle, sapphire, jasper, silver, gold, ligurite, agate, amethyst, chrysolite, beryl, and onyx. You filled your treasuries and storehouses within you with gold from the day you were created.
+28:14 With the cherub I placed you on God’s holy mountain; you came to be among fiery stones.
+28:15 You were blameless in your days from the day you were created until wrongdoings were found in you.
+28:16 From the abundance of your trade you filled your store chambers with lawlessness, and you sinned and were wounded away from God’s mountain; the cherub led you out from among fiery stones.
+28:17 Your heart was exalted because of your beauty; your knowledge was corrupted together with your beauty. Because of your many sins I threw you to the ground; I placed you before kings to be made a spectacle.
+28:18 Because of your many sins and the wrongdoings of your trade you profaned your sacred places. I will bring fire out from within you; it will consume you. I will turn you to ashes on your land before all who see you.
+28:19 All who know you among the nations will become gloomy over you; you came to ruin, and you will no longer exist for ever.”
+28:20 The Lord’s word came to me, saying,
+28:21 “Son of man, fix your face upon Sidon and prophesy against her,
+28:22 and say: Thus says the Lord: Behold, I am against you, Sidon, and I will be glorified in you. You will know that I am the Lord when I execute judgments in you, and I will be sanctified in you.
+28:23 Blood and death will be in your broad streets, and wounded men will fall by swords in you, all around you. They will know that I am the Lord.
+28:24 The house of Israel will no longer have a thorn of bitterness or a thorn of pain from all around them who dishonored them. They will know that I am the Lord.
+28:25 Thus says the Lord, the Lord: I will gather Israel from the nations where they were scattered, and I will be sanctified in them before the peoples and the nations. They will dwell on their land, which I have given to My servant Jacob,
+28:26 and they will dwell on it in hope, build houses, and plant vineyards. They will dwell in hope when I execute judgment on all around them who dishonored them. They will know that I am the Lord their God and the God of their fathers.”
+
+EZEKIEL 29
+
+29:1 In the tenth year, in the tenth month, on the first of the month, the Lord’s word came to me, saying,
+29:2 “Son of man, fix your face upon Pharaoh king of Egypt and prophesy against him and against all Egypt,
+29:3 and say: Thus says the Lord: Behold, I am against Pharaoh, the great dragon seated among his rivers, who says, ‘The rivers are mine, and I made them.’
+29:4 I will put traps in your jaws and fasten the fish of your river to your fins. I will bring you up from the midst of your river, and all the fish of your river,
+29:5 and I will cast you down quickly, and all the fish of your river. You will fall on the face of the plain; you will certainly not be gathered or wrapped for burial. I have given you for food to the beasts of the earth and the birds of heaven.
+29:6 All who inhabit Egypt will know that I am the Lord, because you became a reed staff for the house of Israel.
+29:7 When they took hold of you with their hand, you were crushed; and when every hand prevailed against them, and when they rested upon you, you were shattered and broke all their loins.
+29:8 Therefore thus says the Lord: Behold, I am bringing a sword against you, and I will destroy humans and livestock from you.
+29:9 The land of Egypt will become a ruin and a wilderness, and they will know that I am the Lord, because you say, ‘The rivers are mine, and I made them.’
+29:10 Therefore, behold, I am against you and against all your rivers. I will make the land of Egypt a wilderness, a sword, and destruction, from Migdol and Syene as far as the borders of the Ethiopians.
+29:11 No human foot will pass through it, nor will livestock’s foot pass through it; it will not be inhabited for forty years.
+29:12 I will make her land a ruin amid desolated land, and her cities will be amid desolated cities for forty years. I will scatter Egypt among the nations and winnow them into the countries.
+29:13 Thus says the Lord: After forty years I will gather the Egyptians from the nations where they were scattered,
+29:14 and I will turn back the captivity of the Egyptians and settle them in the land of Pathros, in the land from which they were taken; it will be a lowly dominion
+29:15 among all the dominions; it will no longer be exalted over the nations, and I will make them few, so that they are not more numerous among the nations.
+29:16 They will no longer be a hope for the house of Israel, bringing lawlessness to remembrance when they follow after them. They will know that I am the Lord.”
+29:17 In the twenty-seventh year, on the first of the first month, the Lord’s word came to me, saying,
+29:18 “Son of man, Nebuchadnezzar king of Babylon subjected his force to great servitude against Tyre; every head was bald and every shoulder was losing its hair. Yet neither he nor his force received wages for Tyre and the servitude they performed against her.
+29:19 Thus says the Lord, the Lord: Behold, I give the land of Egypt to Nebuchadnezzar king of Babylon. He will take her booty and strip her spoils; it will be wages for his force.
+29:20 In exchange for his service, which he performed against Tyre, I have given him the land of Egypt. Thus says the Lord, the Lord:
+29:21 On that day a horn will spring up for the whole house of Israel, and I will give you an opened mouth among them. They will know that I am the Lord.”
+
+EZEKIEL 30
+
+30:1 The Lord’s word came to me, saying,
+30:2 “Son of man, prophesy and say: Thus says the Lord: Alas, alas, the day!
+30:3 For the Lord’s day is near; it will be a day, an end of nations.
+30:4 A sword will come upon the Egyptians, and there will be turmoil in Ethiopia; wounded men will fall in Egypt, and her foundations will collapse together.
+30:5 Persians, Cretans, Lydians, Libyans, all the mixed company, and some of the sons of My covenant will fall by the sword in her.
+30:6 Egypt’s supports will fall, and the arrogance of her strength will come down from Migdol to Syene; they will fall in her by the sword, says the Lord.
+30:7 She will be desolated among desolated countries, and their cities will be among desolated cities.
+30:8 They will know that I am the Lord when I put fire upon Egypt and all who help her are shattered.
+30:9 On that day messengers will go out, hastening to lay Ethiopia waste; turmoil will be among them on Egypt’s day, for behold, it is coming.
+30:10 Thus says the Lord, the Lord: I will destroy the multitude of Egyptians by the hand of Nebuchadnezzar king of Babylon,
+30:11 him and his people: scourges from nations sent to destroy the land. They will all draw their swords against Egypt, and the land will be filled with wounded men.
+30:12 I will make their rivers desolate and destroy the land and all that fills it by foreigners’ hands. I, the Lord, have spoken.
+30:13 For thus says the Lord, the Lord: I will destroy the magnates from Memphis and the rulers from the land of Egypt, and they will be no more.
+30:14 I will destroy the land of Pathros, put fire upon Tanis, and execute vengeance in Diospolis,
+30:15 and pour out My wrath upon Sais, Egypt’s strength, and destroy the multitude of Memphis.
+30:16 I will put fire upon Egypt; Syene will be greatly troubled, and in Diospolis there will be a breach, and waters will pour out.
+30:17 The young men of Heliopolis and Bubastis will fall by the sword, and the women will go into captivity.
+30:18 At Tahpanhes the day will grow dark when I shatter Egypt’s scepters there and the arrogance of her strength perishes there. A cloud will cover her, and her daughters will be led away captive.
+30:19 I will execute judgment in Egypt, and they will know that I am the Lord.”
+30:20 In the eleventh year, in the first month, on the seventh of the month, the Lord’s word came to me, saying,
+30:21 “Son of man, I shattered the arms of Pharaoh king of Egypt. Behold, it has not been bound up to provide healing, to put a poultice upon it, to give strength to grasp a sword.
+30:22 Therefore thus says the Lord, the Lord: Behold, I am against Pharaoh king of Egypt. I will shatter his arms, the strong and the outstretched, and cast his sword down from his hand,
+30:23 and scatter Egypt into the nations and winnow them into the countries.
+30:24 I will strengthen the arms of the king of Babylon and put My sword into his hand; he will bring it upon Egypt, take her booty, and strip her spoils.
+30:25 I will strengthen the arms of the king of Babylon, but Pharaoh’s arms will fall. They will know that I am the Lord when I put My sword into the hands of the king of Babylon and he stretches it over the land of Egypt.
+30:26 I will scatter Egypt into the nations and winnow them into the countries. All will know that I am the Lord.”
+
+EZEKIEL 31
+
+31:1 In the eleventh year, in the third month, on the first of the month, the Lord’s word came to me, saying,
+31:2 “Son of man, say to Pharaoh, Egypt’s king, and to his multitude, ‘To whom did you liken yourself in your height?
+31:3 Behold, Assyria was a cypress in Lebanon, beautiful in offshoots and tall in size; its crown reached into the midst of clouds.
+31:4 Water nourished it; the abyss raised it high, led its rivers around its plantings and sent out its gatherings of water to all the plain’s trees.
+31:5 Therefore its size rose above all the plain’s trees, and its branches spread wide because of abundant water.
+31:6 All the sky’s birds nested in its offshoots; all the plain’s beasts gave birth beneath its branches, and every multitude of nations lived in its shade.
+31:7 It was beautiful in its height because of the multitude of its branches, for its roots reached abundant water.
+31:8 Such cypresses did not exist in God’s paradise; pines were not like its offshoots, and firs were not like its branches. No tree in God’s paradise resembled it in its beauty
+31:9 because of the multitude of its branches, and the trees of God’s paradise of delight envied it.
+31:10 Therefore thus says the Lord: Because you became great in size and set your crown amid clouds, and I saw it being lifted high,
+31:11 I handed it into the hands of a ruler of nations, and he brought about its destruction.
+31:12 Foreigners, scourges from nations, utterly destroyed it and cast it upon the mountains. Its branches fell in all the ravines; its trunks were shattered in every plain of the land. All the nations’ peoples went down from their shelter and dashed it to the ground.
+31:13 All the sky’s birds rested upon its fallen trunk, and all the field’s beasts were upon its trunks,
+31:14 so that none of the trees in the water may rise high in their size. They did not set their crowns amid clouds, and none of those drinking water stood toward them in their height. All were given to death, to the depth of the earth, among human beings, with those descending to a pit.
+31:15 Thus says the Lord, the Lord: On the day it descended to Hades, the abyss mourned it. I stopped its rivers and restrained the multitude of water. Lebanon grew dark over it, and all the plain’s trees collapsed over it.
+31:16 At the sound of its fall the nations shook when I brought it down to Hades with those descending to a pit. In the earth all the trees of delight and the choice trees of Lebanon, all drinking water, comforted it.
+31:17 For they too went down with it to Hades among those wounded by the sword; its offspring, those living under its shelter, perished in the midst of their life.
+31:18 Whom were you likened to? Descend and be brought down with the trees of delight into the earth’s depth. Among the uncircumcised you will lie with those wounded by the sword. So it is with Pharaoh and the multitude of his strength, says the Lord, the Lord.’”
+
+EZEKIEL 32
+
+32:1 In the eleventh year, in the twelfth month, on the first of the month, the Lord’s word came to me, saying,
+32:2 “Son of man, take up a lament over Pharaoh, Egypt’s king, and say to him, ‘You were likened to a lion of nations, and you are like the dragon in the sea. You butted in your rivers, troubled water with your feet and trampled your rivers.
+32:3 Thus says the Lord: I will throw nets of many peoples over you and haul you up with My hook,
+32:4 and stretch you out upon the earth; plains will be filled with you. I will seat all the sky’s birds upon you and fill all the beasts of the whole earth with you.
+32:5 I will lay your flesh upon the mountains and fill them with your blood,
+32:6 and the earth will be watered from your discharges, from your multitude upon the mountains. I will fill ravines with you.
+32:7 When you are extinguished, I will cover heaven and darken its stars. I will cover the sun with a cloud, and the moon certainly will not show its light.
+32:8 All the things shining light in heaven will grow dark over you, and I will put darkness upon your land, says the Lord, the Lord.
+32:9 I will provoke the heart of many peoples when I bring your captivity among the nations, into a land you have not known.
+32:10 Many nations will grow gloomy over you; their kings will be utterly astounded when My sword flies before their faces, awaiting their own fall from the day of your fall.
+32:11 For thus says the Lord: Babylon’s king’s sword will come upon you
+32:12 with giants’ swords, and I will strike down your strength. All are scourges from nations; they will destroy Egypt’s arrogance, and all her strength will be shattered.
+32:13 I will destroy all her livestock beside the abundant water. No human foot will ever trouble it again, nor will livestock’s tread trample it.
+32:14 Thus their waters will then become still, and their rivers will flow like oil, says the Lord.
+32:15 When I give Egypt to destruction and the land is made desolate with its fullness, when I scatter all who dwell in her, they will know that I am the Lord.
+32:16 It is a lament, and you will lament it, and the nations’ daughters will lament it. Over Egypt and all her strength they will lament her, says the Lord, the Lord.’”
+32:17 In the twelfth year, in the first month, on the fifteenth of the month, the Lord’s word came to me, saying,
+32:18 “Son of man, lament over Egypt’s strength. The nations will bring her daughters down dead into the earth’s depth, with those descending to a pit.
+32:20 They will fall with him among those wounded by the sword, and all his strength will lie down.
+32:21 The giants will say to you, ‘Be in the depth of a pit! Whom do you surpass? Descend and lie with the uncircumcised among those wounded by the sword.’
+32:22 There Assyria and all his assembly, all wounded, were placed. Their burial is in the depth of a pit, and his assembly was around his tomb, all the wounded who fell by the sword,
+32:23 who spread their fear upon the land of life.
+32:24 There is Elam and all his force around his tomb, all the wounded who fell by the sword and those descending uncircumcised into the earth’s depth, who spread their fear upon the land of life and received their torment with those descending to a pit,
+32:25 among the wounded.
+32:26 There were placed Mosoch and Thobel and all their strength around his tomb, all his wounded, all uncircumcised, wounded by the sword, who spread their fear upon the land of life.
+32:27 They lay with the giants who fell long ago, who descended to Hades with weapons of war and put their swords beneath their heads. Their lawless deeds were upon their bones, because they terrified giants in the land of life.
+32:28 You too will lie among the uncircumcised with those wounded by the sword.
+32:29 There were placed Assyria’s rulers, who gave his strength to a sword wound. These lay with the wounded, with those descending to a pit.
+32:30 There are the north’s rulers, all Assyria’s generals, who descended wounded. With their fear and their strength they lay uncircumcised with those wounded by the sword and carried away their torment with those descending to a pit.
+32:31 King Pharaoh will see them and be comforted over all their strength, says the Lord, the Lord.
+32:32 For I have set his fear upon the land of life, and he will lie among the uncircumcised with those wounded by the sword—Pharaoh and all his multitude—says the Lord, the Lord.”
+
+EZEKIEL 33
+
+33:1 The Lord’s word came to me, saying,
+33:2 “Son of man, speak to your people’s sons and say to them, ‘If I bring a sword upon a land, and the land’s people take one man from among themselves and appoint him as their watchman,
+33:3 and he sees the sword coming upon the land, sounds the trumpet and signals to the people,
+33:4 and a hearer hears the trumpet’s sound but does not take care, and the sword comes upon him and overtakes him, his blood will be upon his own head.
+33:5 Because he heard the trumpet’s sound and did not take care, his blood will be upon himself. But this one, because he took care, rescued his life.
+33:6 If the watchman sees the sword coming but does not signal with the trumpet, and the people do not take care, and the sword comes and takes a life from them, that life was taken because of its own lawlessness, but I will require the blood from the watchman’s hand.’
+33:7 And you, son of man, I have appointed you a watchman for Israel’s house, and you will hear a word from My mouth.
+33:8 When I say to the sinner, ‘You will surely be put to death,’ and you do not speak so that the impious man may guard himself from his way, that lawless man will die in his lawlessness, but I will require his blood from your hand.
+33:9 But if you forewarn the impious man of his way so that he may turn from it and he does not turn from his way, this man will die in his impiety, and you have rescued your own life.
+33:10 And you, son of man, say to Israel’s house, ‘You spoke this way: Our wanderings and lawless deeds are upon us, and we waste away in them. How shall we live?’
+33:11 Say to them, ‘I live, thus says the Lord: I do not desire the impious man’s death, but rather that he turn from his way and live. Turn back completely from your way! Why are you dying, house of Israel?’
+33:12 Say to your people’s sons, ‘A righteous man’s righteousness certainly will not rescue him on the day he wanders, and an impious man’s lawlessness certainly will not harm him on the day he turns from it. A righteous man certainly will not be able to be saved.
+33:13 When I speak to the righteous man—this one has trusted in his righteousness, yet commits lawlessness—none of his righteous deeds will ever be remembered. In the injustice he committed, in it he will die.
+33:14 When I say to the impious man, “You will surely be put to death,” and he turns from his sin and practices judgment and righteousness,
+33:15 and returns a pledge, repays what he seized and walks in the ordinances of life without doing wrong, he will surely live and certainly will not die.
+33:16 None of the sins he committed will ever be remembered, because he practiced judgment and righteousness; in these he will live.
+33:17 Your people’s sons will say, “The Lord’s way is not straight.” Yet this way of theirs is not straight.
+33:18 When a righteous man turns from his righteousness and commits lawless deeds, he will die in them.
+33:19 When the sinner turns from his lawlessness and practices judgment and righteousness, in these he will live.
+33:20 This is what you said: “The Lord’s way is not straight.” I will judge you, each in his ways, house of Israel.’”
+33:21 In the twelfth year of our captivity, in the twelfth month, on the fifth of the month, the survivor from Jerusalem came to me, saying, “The city has been captured!”
+33:22 The Lord’s hand came upon me in the evening before he arrived, and He opened my mouth until he came to me in the morning. Once my mouth was opened, it was no longer restrained.
+33:23 The Lord’s word came to me, saying,
+33:24 “Son of man, those dwelling in the devastated places upon Israel’s land say, ‘Abraham was one, yet he possessed the land. We are more; the land has been given to us as a possession.’
+33:25 Therefore say to them, ‘Thus says the Lord, the Lord:
+33:27 I live: surely those in the devastated places will fall by the sword. Those in the open plain will be given as food to the field’s beasts, and those in fortified places and caves I will kill with death.
+33:28 I will make the land a wilderness; the arrogance of her strength will perish, and Israel’s mountains will be desolate because no one passes through.
+33:29 They will know that I am the Lord. I will make their land a wilderness, and it will be desolate because of all the abominations they committed.’
+33:30 And you, son of man, your people’s sons talk about you beside the walls and in the houses’ gateways. A man says to his brother, ‘Let us gather and hear what comes from the Lord!’
+33:31 They come to you as people assemble and sit before you. They hear your words but certainly will not do them, because falsehood is in their mouth, and their heart follows defilements.
+33:32 You become to them like the sound of a sweet-voiced, well-tuned psaltery. They will hear your words but certainly will not do them.
+33:33 When it comes, they will say, ‘Behold, it has arrived,’ and know that a prophet was among them.”
+
+EZEKIEL 34
+
+34:1 The Lord’s word came to me, saying,
+34:2 “Son of man, prophesy against Israel’s shepherds. Prophesy and say to the shepherds, ‘Thus says the Lord, the Lord: O shepherds of Israel, surely shepherds do not feed themselves? Do shepherds not feed the sheep?
+34:3 Behold, you consume the milk, clothe yourselves with the wool and slaughter the fattened animal, but you do not feed My sheep.
+34:4 You have not strengthened the weak, restored the sick to health, bound up the broken, brought back the wandering or sought the lost. You have worn down the strong with toil.
+34:5 My sheep scattered because there were no shepherds and became food for all the field’s beasts.
+34:6 My sheep scattered on every mountain and upon every high hill, and scattered over the whole face of the earth. There was no one seeking them out or turning them back.
+34:7 Therefore, shepherds, hear the Lord’s word:
+34:8 I live, says the Lord, the Lord: surely because My sheep became plunder and My sheep became food for all the plain’s beasts for lack of shepherds, and the shepherds did not seek out My sheep but fed themselves and did not feed My sheep—
+34:9 because of this, shepherds,
+34:10 thus says the Lord, the Lord: Behold, I am against the shepherds. I will require My sheep from their hands and turn them aside from shepherding My sheep. The shepherds will no longer feed them. I will rescue My sheep from their mouth, and they will no longer be food for them.
+34:11 For thus says the Lord: Behold, I will seek out My sheep and visit them.
+34:12 As a shepherd seeks his flock on a day when there is gloom and cloud among separated sheep, so I will seek out My sheep and drive them away from every place where they scattered on a day of cloud and gloom.
+34:13 I will bring them out from the nations, gather them from the countries and bring them into their own land. I will feed them upon Israel’s mountains, in the ravines and in every dwelling place of the land.
+34:14 I will feed them in good pasture, and their folds will be upon Israel’s high mountain. There they will lie down, there rest in good delight, and graze in rich pasture upon Israel’s mountains.
+34:15 I Myself will feed My sheep and give them rest, and they will know that I am the Lord. Thus says the Lord, the Lord:
+34:16 I will seek the lost, bring back the wandering, bind up the broken, strengthen the failing and guard the strong. I will feed them with judgment.
+34:17 And you, sheep, thus says the Lord, the Lord: Behold, I will distinguish between sheep and sheep, rams and male goats.
+34:18 Was it not enough for you that you grazed the good pasture, yet trampled the rest of your pasture with your feet, drank the settled water and troubled the rest with your feet?
+34:19 My sheep grazed what your feet had trampled and drank the water troubled by your feet.
+34:20 Therefore thus says the Lord, the Lord: Behold, I will distinguish between the strong sheep and the weak sheep.
+34:21 You shove with your sides and shoulders; you butted with your horns and forced out every failing one.
+34:22 I will save My sheep, and they certainly will no longer be plunder. I will judge between ram and ram.
+34:23 I will raise up one shepherd over them, My servant David, and he will shepherd them and be their shepherd.
+34:24 I, the Lord, will be their God, and David a ruler among them. I, the Lord, have spoken.
+34:25 I will make a covenant of peace with David and remove harmful beasts from the land. They will dwell in the wilderness and sleep in the woods.
+34:26 I will place them around My mountain and give you rain, rain of blessing.
+34:27 The trees in the plain will give their fruit, and the land will give its strength. They will dwell upon their land in hope of peace and know that I am the Lord when I shatter their yoke. I will rescue them from the hand of those who enslaved them.
+34:28 They will no longer be plunder for the nations, and the land’s beasts certainly will no longer eat them. They will dwell in hope, and no one will terrify them.
+34:29 I will raise up a plant of peace for them. They will no longer perish by famine upon the land or bear the nations’ reproach.
+34:30 They will know that I am the Lord their God, and they, Israel’s house, are My people, says the Lord.
+34:31 You are My sheep and the sheep of My flock, and I am the Lord your God, says the Lord, the Lord.’”
+
+EZEKIEL 35
+
+35:1 The Lord’s word came to me, saying,
+35:2 “Son of man, turn your face toward Mount Seir and prophesy against it,
+35:3 and say, ‘Thus says the Lord, the Lord: Behold, I am against you, Mount Seir. I will stretch My hand against you and make you a wilderness, and you will be laid waste.
+35:4 I will make your cities desolate, and you will be a wilderness. You will know that I am the Lord.
+35:5 Because you became an everlasting enemy and ambushed Israel’s house treacherously, by enemies’ hand, with a sword at the final time of injustice,
+35:6 therefore, I live, says the Lord, the Lord: surely you sinned unto blood, and blood will pursue you.
+35:7 I will make Mount Seir a wilderness and lay it waste, and destroy human beings and livestock from it,
+35:8 and fill the hills and your ravines with your wounded. In all your plains, those wounded by the sword will fall within you.
+35:9 I will make you an everlasting wilderness, and your cities certainly will not be inhabited again. You will know that I am the Lord.
+35:10 Because you said, “The two nations and the two countries will be mine, and I will inherit them,” and the Lord is there,
+35:11 therefore, I live, says the Lord: I will deal with you according to your hostility and make Myself known to you when I judge you.
+35:12 You will know that I am the Lord. I heard the voice of your blasphemies, because you said, “Israel’s mountains are desolate; they have been given to us for food.”
+35:13 You spoke grandly against Me with your mouth. I heard.
+35:14 Thus says the Lord: In the rejoicing of the whole earth, I will make you a wilderness.
+35:15 You will be a wilderness, Mount Seir, and all Idumea will be utterly consumed. You will know that I am the Lord their God.’”
+
+EZEKIEL 36
+
+36:1 “And you, son of man, prophesy concerning Israel’s mountains and say to Israel’s mountains, ‘Hear the Lord’s word:
+36:2 Thus says the Lord, the Lord: Because the enemy said over you, “Well done! Everlasting wildernesses have become our possession,”
+36:3 therefore prophesy and say, Thus says the Lord, the Lord: Because you were dishonored and hated by those around you, so that you became a possession for the remaining nations, and you became a topic on people’s tongues and a reproach to nations,
+36:4 therefore, mountains of Israel, hear the Lord’s word! Thus says the Lord to the mountains, hills, ravines, torrents, devastated and destroyed places, and abandoned cities, which became plunder and a trampling place for the remaining nations all around:
+36:5 Therefore thus says the Lord, the Lord: Surely in the fire of My wrath I have spoken against the remaining nations and all Idumea, because they gave My land to themselves as a possession with rejoicing, dishonoring lives so as to destroy through plunder.
+36:6 Therefore prophesy over Israel’s land and say to the mountains, hills, ravines and valleys, Thus says the Lord: Behold, I have spoken in My jealousy and My wrath because you bore the nations’ reproaches.
+36:7 Therefore I will raise My hand against the nations around you; these will receive their own dishonor.
+36:8 But your grapes and fruit, mountains of Israel, My people will consume, for they are drawing near.
+36:9 For behold, I am toward you; I will look upon you, and you will be cultivated and sown.
+36:10 I will multiply people upon you, all Israel’s house completely. The cities will be inhabited and the devastated land rebuilt.
+36:11 I will multiply humans and livestock upon you, settle you as at your beginning and do you good as in your former times. You will know that I am the Lord.
+36:12 I will cause people, My people Israel, to be born upon you. They will inherit you, and you will be their possession. You certainly will no longer be bereaved of them.
+36:13 Thus says the Lord, the Lord: Because they said to you, “You devour human beings and became bereaved by your nation,”
+36:14 therefore you will no longer eat human beings or bereave your nation, says the Lord, the Lord.
+36:15 The nations’ dishonor will no longer be heard against you, and you certainly will not bear the peoples’ reproaches, says the Lord, the Lord.’”
+36:16 The Lord’s word came to me, saying,
+36:17 “Son of man, Israel’s house lived upon their land and defiled it by their way, their idols and their uncleannesses. Their way before Me became like the uncleanness of a woman sitting apart.
+36:18 I poured My wrath upon them
+36:19 and scattered them among the nations and winnowed them into the countries. I judged them according to their way and their sin.
+36:20 They entered the nations where they entered, and profaned My holy name when it was said of them, ‘These are the Lord’s people, and they have left His land.’
+36:21 I spared them because of My holy name, which Israel’s house profaned among the nations where they entered.
+36:22 Therefore say to Israel’s house, ‘Thus says the Lord: I am not acting for you, house of Israel, but because of My holy name, which you profaned among the nations where you entered.
+36:23 I will sanctify My great name, profaned among the nations, which you profaned among them. The nations will know that I am the Lord when I am sanctified in you before their eyes.
+36:24 I will take you out of the nations, gather you out of all the lands and bring you into your own land.
+36:25 I will sprinkle clean water upon you, and you will be cleansed from all your uncleannesses and all your idols. I will cleanse you.
+36:26 And I will give you a new heart, and I will give a new spirit within you; and I will take the heart of stone out of your flesh, and give you a heart of flesh.
+36:27 I will put My Spirit within you and cause you to walk in My ordinances, keep My judgments and do them.
+36:28 You will dwell upon the land I gave your fathers. You will be My people, and I will be your God.
+36:29 I will save you from all your uncleannesses, summon the grain and multiply it, and will not bring famine upon you.
+36:30 I will multiply the tree’s fruit and the field’s produce, so that you do not bear the reproach of famine among the nations.
+36:31 You will remember your evil ways and practices that were not good, and feel disgust before them at your lawless deeds and abominations.
+36:32 I am not acting because of you, says the Lord, the Lord; this will be known to you. Be ashamed and abashed because of your ways, house of Israel.
+36:33 Thus says the Lord: On the day I cleanse you from all your lawless deeds, I will cause the cities to be inhabited, and the wilderness places will be rebuilt.
+36:34 The devastated land will be worked, instead of lying devastated before every passerby’s eyes.
+36:35 They will say, “That devastated land has become like a garden of delight, and the deserted, devastated, razed cities stand fortified.”
+36:36 The nations remaining around you will know that I, the Lord, have rebuilt the razed places and planted the devastated places. I, the Lord, have spoken and will act.
+36:37 Thus says the Lord: I will also be sought by Israel’s house to do this for them: I will multiply them, human beings like sheep.
+36:38 Like holy sheep, like Jerusalem’s sheep at her festivals, so the deserted cities will be filled with sheep who are human beings. They will know that I am the Lord.’”
+
+EZEKIEL 37
+
+37:1 The Lord’s hand came upon me. The Lord brought me out in spirit and set me in the middle of the plain, which was full of human bones.
+37:2 He led me all around them, and behold, there were very many upon the plain’s surface, very dry.
+37:3 He said to me, ‘Son of man, will these bones live?’ I said, ‘Lord, Thou knowest these things.’
+37:4 He said to me, ‘Prophesy over these bones and say to them, Dry bones, hear the Lord’s word:
+37:5 Thus says the Lord to these bones: Behold, I am bringing the breath of life into you,
+37:6 and I will put sinews upon you, bring flesh upon you, stretch skin over you and put My Spirit into you. You will live and know that I am the Lord.’
+37:7 I prophesied as He commanded me. As I prophesied, behold, there was a shaking, and the bones came together, each to its joint.
+37:8 I saw, and behold, sinews and flesh grew upon them, and skin came up over them, but there was no breath in them.
+37:9 He said to me, ‘Prophesy, son of man! Prophesy to the breath and say to the breath, Thus says the Lord: Come from the four winds and breathe into these dead, and let them live!’
+37:10 I prophesied as He commanded me. The breath entered them, and they lived and stood upon their feet, an exceedingly great assembly.
+37:11 The Lord spoke to me, saying, ‘Son of man, these bones are all Israel’s house, and they say, Our bones have become dry, our hope has perished; we are utterly spent.
+37:12 Therefore prophesy and say, Thus says the Lord: Behold, I am opening your tombs and will bring you up from your tombs and into Israel’s land,
+37:13 and you will know that I am the Lord when I open your graves to bring My people up from the graves.
+37:14 I will put My Spirit into you, and you will live. I will place you upon your land, and you will know that I, the Lord, have spoken and will act, says the Lord.’
+37:15 The Lord’s word came to me, saying,
+37:16 ‘Son of man, take a staff for yourself and write upon it Judah and Israel’s sons attached to him. Take a second staff for yourself and write upon it, For Joseph—Ephraim’s staff—and all Israel’s sons joined to him.
+37:17 Join them to one another for yourself as one staff, binding them together, and they will be in your hand.
+37:18 When your people’s sons say to you, Will you not tell us what these things mean to you?
+37:19 say to them, Thus says the Lord: Behold, I will take Joseph’s tribe through Ephraim’s hand, and Israel’s tribes attached to him, and place them upon Judah’s tribe. They will become one staff in Judah’s hand.
+37:20 The staffs upon which you wrote will be in your hand before them,
+37:21 and say to them, Thus says the Lord, the Lord: Behold, I am taking all Israel’s house from among the nations where they entered, gathering them from all those around them and bringing them into Israel’s land.
+37:22 I will make them one nation in My land and upon Israel’s mountains, and one ruler will be theirs. They will no longer be two nations or ever again be divided into two kingdoms,
+37:23 so that they no longer defile themselves with their idols. I will deliver them from all their lawless deeds in which they sinned and cleanse them. They will be My people, and I, the Lord, will be their God.
+37:24 My servant David will be ruler among them, and one shepherd will be over all, because they will walk in My ordinances, keep My judgments and do them.
+37:25 They will dwell upon their land, which I gave My servant Jacob, where their fathers dwelt. They will dwell upon it, and David My servant will be their ruler for ever.
+37:26 I will make a covenant of peace with them; it will be an everlasting covenant with them. I will set My holy things among them for ever.
+37:27 My dwelling will be among them. I will be their God, and they will be My people.
+37:28 The nations will know that I am the Lord who sanctifies them, when My holy things are among them for ever.’
+
+EZEKIEL 38
+
+38:1 The Lord’s word came to me, saying,
+38:2 “Son of man, set your face firmly against Gog and the land of Magog, ruler of Rhos, Mosoch and Thobel, and prophesy against him,
+38:3 and say to him, ‘Thus says the Lord, the Lord: Behold, I am against you, Gog, ruler of Rhos, Mosoch and Thobel,
+38:4 and I will gather you and all your force, horses and horsemen all clothed in breastplates, a great assembly, small shields, helmets and swords,
+38:5 Persians, Ethiopians and Libyans, all with helmets and small shields;
+38:6 Gomer and all those around him, the house of Thergama from the farthest north and all those around him, and many nations with you.
+38:7 Be made ready; prepare yourself, you and all your assembly gathered with you, and you will be a guard for Me.
+38:8 After many days he will be prepared, and at the end of years he will come and reach the land turned back from the sword, of those gathered from many nations, upon Israel’s land that had been wholly desolate. This one has come out of nations, and all will dwell in peace.
+38:9 You will come up like rain and arrive like a cloud to cover the land; you will be there, with all those around you and many nations with you.
+38:10 Thus says the Lord, the Lord: On that day words will rise in your heart, and you will devise evil plans,
+38:11 and say, “I will go up against an abandoned land; I will come upon those resting quietly and dwelling in peace, all living in a land with no wall or bars, and they have no doors,”
+38:12 to take plunder and strip their spoils, to turn your hand against the desolate land that was inhabited and against a nation gathered from many nations, acquiring possessions, dwelling upon the earth’s navel.
+38:13 Saba, Daidan, Carthaginian merchants and all their villages will say to you, “Are you coming for plunder, to plunder and strip spoils? Have you gathered your assembly to take silver and gold, carry away possessions and strip spoils?”
+38:14 Therefore prophesy, son of man, and say to Gog, Thus says the Lord: On that day when My people Israel are settled in peace, will you not be roused?
+38:15 You will come from your place in the farthest north, with many nations beside you, all horse riders, a great assembly and a mighty force,
+38:16 and come up against My people Israel like a cloud covering the land. It will be at the end of days; I will bring you against My land so that all the nations may know Me when I am sanctified in you before them.
+38:17 Thus says the Lord, the Lord, to Gog: You are the one of whom I spoke before the former days through My servants, Israel’s prophets, in those days and years, to bring you against them.
+38:18 On that day, on the day Gog comes against Israel’s land, says the Lord, the Lord, My wrath will rise,
+38:19 and My jealousy. In the fire of My anger I have spoken: Surely on that day there will be a great shaking upon Israel’s land,
+38:20 and the sea’s fish, the sky’s birds, the plain’s beasts, every creeping thing upon the earth and every human upon the earth’s face will shake before the Lord. The mountains will split, the ravines will fall, and every wall will fall to the ground.
+38:21 I will summon every fear against him, says the Lord. A man’s sword will be against his brother.
+38:22 I will judge him with death, blood, flooding rain and hailstones. I will rain fire and sulfur upon him, all those with him and the many nations with him.
+38:23 I will be magnified, sanctified, glorified and made known before many nations, and they will know that I am the Lord.’”
+
+EZEKIEL 39
+
+39:1 “And you, son of man, prophesy against Gog and say, ‘Thus says the Lord: Behold, I am against you, Gog, ruler of Rhos, Mosoch and Thobel,
+39:2 and I will gather you, lead you along, bring you up from the farthest north and bring you upon Israel’s mountains.
+39:3 I will destroy your bow from your left hand and your arrows from your right hand, and strike you down
+39:4 upon Israel’s mountains. You and all those around you will fall, and the nations with you will be given to multitudes of birds. I have given you to every flying creature and all the plain’s beasts to be eaten.
+39:5 Upon the open plain you will fall, for I have spoken, says the Lord.
+39:6 I will send fire upon Gog, and the islands will be inhabited in peace. They will know that I am the Lord.
+39:7 My holy name will be known among My people Israel and My holy name will no longer be profaned. The nations will know that I am the Lord, holy in Israel.
+39:8 Behold, it has arrived, and you will know that it will be, says the Lord, the Lord. This is the day on which I spoke.
+39:9 Those dwelling in Israel’s cities will go out and burn fires with the weapons: small shields, pikes, bows, arrows, hand staffs and spears. They will burn fires with them for seven years.
+39:10 They certainly will not take wood from the plain or cut it from the woods; they will burn the weapons with fire. They will plunder those who plundered them and strip those who stripped them, says the Lord.
+39:11 On that day I will give Gog a notable place, a memorial tomb in Israel, the mass grave of those who came against it, beside the sea. They will build around the valley’s mouth and bury Gog and all his multitude there. It will be called Gai, Gog’s Mass Grave.
+39:12 Israel’s house will bury them over seven months so that the land may be cleansed.
+39:13 All the land’s people will bury them, and it will bring them renown on the day I was glorified, says the Lord.
+39:14 They will continually designate men to pass through the land and bury those left upon the land’s surface, to cleanse it after the seven months, and they will search.
+39:15 Everyone passing through the land who sees a human bone will build a marker beside it until the buriers bury it in Gai, Gog’s Mass Grave.
+39:16 Indeed, the city’s name will be Mass Grave, and the land will be cleansed.
+39:17 And you, son of man, say, Thus says the Lord: Say to every flying bird and all the plain’s beasts, Gather and come! Gather from all those around to My sacrifice that I have sacrificed for you, a great sacrifice upon Israel’s mountains. You will eat flesh and drink blood.
+39:18 You will eat giants’ flesh and drink the blood of the land’s rulers: rams, calves and male goats, and the calves all fattened.
+39:19 You will eat fat to fullness and drink blood to drunkenness from My sacrifice that I sacrificed for you.
+39:20 At My table you will be filled with horse and rider, giant and every warrior, says the Lord.
+39:21 I will set My glory among you, and all the nations will see My judgment that I executed and My hand that I brought upon them.
+39:22 Israel’s house will know that I am the Lord their God from this day onward.
+39:23 All the nations will know that Israel’s house was taken captive because of their sins, because they acted faithlessly toward Me. I turned My face from them and handed them into their enemies’ hands, and all fell by the sword.
+39:24 I dealt with them according to their uncleannesses and lawless acts, and turned My face from them.
+39:25 Therefore thus says the Lord, the Lord: Now I will reverse Jacob’s captivity, show mercy to Israel’s house and be zealous for My holy name.
+39:26 They will receive their own dishonor and the injustice they committed when they are settled upon their land in peace, and no one will terrify them,
+39:27 when I bring them back from the nations and gather them from the nations’ countries; I will be sanctified in them before the nations,
+39:28 and they will know that I am the Lord their God when I appear to them among the nations.
+39:29 I will no longer turn My face from them, because I poured My wrath upon Israel’s house, says the Lord, the Lord.’”
+
+EZEKIEL 40
+
+40:1 In the twenty-fifth year of our captivity, in the first month, on the tenth of the month, in the fourteenth year after the city was captured, on that day the Lord’s hand came upon me, and He led me
+40:2 in a vision of God into Israel’s land and set me upon a very high mountain. Upon it, opposite, was something like a city’s structure.
+40:3 He brought me in there, and behold, a man whose appearance was like gleaming copper. In his hand were a builders’ cord and a measuring reed, and he stood at the gate.
+40:4 The man said to me, ‘Have you seen, son of man? See with your eyes, hear with your ears and set in your heart everything I show you, for you have entered here so that it might be shown to you. You will show Israel’s house everything you see.’
+40:5 Behold, an enclosure surrounded the house outside. In the man’s hand was a reed measuring six cubits by the cubit and handbreadth. He measured the outer wall: its width equaled the reed, and its height equaled the reed.
+40:6 He entered the gate facing east by seven steps and measured the gate’s porch, equal to the reed,
+40:7 and the chamber, one reed long and one reed wide; the porch between the chambers was six cubits. The second chamber was one reed wide and one reed long, and the porch five cubits,
+40:8 and the third chamber was one reed wide and one reed long,
+40:9 and the gateway’s porch beside the gate’s porch was eight cubits, the jambs two cubits, and the gate’s porch was on the inside.
+40:10 The gate’s chambers stood opposite one another, three on this side and three on that side, one measurement for all three and one measurement for the porches on this side and that side.
+40:11 He measured the gateway door’s width, ten cubits, and the gateway’s breadth, thirteen cubits,
+40:12 with one additional cubit before the chambers on each side, and the chamber six cubits on this side and six cubits on that side.
+40:13 He measured the gate from a chamber’s wall to a chamber’s wall, twenty-five cubits wide, gate opposite gate.
+40:14 The open court of the gate’s porch was sixty cubits, with twenty chambers around the gate.
+40:15 From the gate’s outer open court to the inner open court of the gate’s porch was fifty cubits.
+40:16 There were concealed windows upon the chambers and porches inside the courtyard gate all around, and likewise windows around the porches inward, and palm trees upon the porch on both sides.
+40:17 He brought me into the inner courtyard. Behold, there were chambers and colonnades around the courtyard, thirty chambers in the colonnades,
+40:18 and porticoes behind the gates, corresponding to the gates’ length—the lower colonnade.
+40:19 He measured the courtyard’s width from the outer gate’s open court inward to the open court of the gate facing outward, one hundred cubits, at the east-facing gate. He brought me north,
+40:20 and behold, a gate faced north in the outer courtyard. He measured its length and width.
+40:21 Its chambers, three on this side and three on that side, its jambs, porches and palm trees matched the east-facing gate’s measurements: fifty cubits long and twenty-five cubits broad.
+40:22 Its windows, porches and palm trees were like the east-facing gate. They went up it by seven steps, and its porches were on the inside.
+40:23 A gate in the inner courtyard faced the north gate, as with the east-facing gate. He measured the courtyard from gate to gate, one hundred cubits.
+40:24 He led me south, and behold, a gate faced south. He measured it, its chambers, jambs and porches according to these measurements.
+40:25 Its windows and porches all around were like the porch’s windows: fifty cubits long and twenty-five cubits broad.
+40:26 It had seven steps, with porches on the inside and palm trees upon its jambs, one on this side and one on that side.
+40:27 A gate stood opposite the gate of the inner courtyard toward the south. He measured the courtyard from gate to gate, a breadth of one hundred cubits toward the south.
+40:28 He brought me into the inner courtyard by the south-facing gate and measured the gate according to these measurements,
+40:29 with its chambers, jambs and porches according to these measurements. It and its porches had windows all around: fifty cubits long and twenty-five cubits broad.
+40:31 The porches faced the outer courtyard, with palm trees upon the jambs and eight steps.
+40:32 He brought me into the east-facing gate and measured it according to these measurements,
+40:33 with its chambers, jambs and porches according to these measurements. It and its porches had windows all around: fifty cubits long and twenty-five cubits broad.
+40:34 The porches faced the inner courtyard, with palm trees upon the jambs on this side and that side, and it had eight steps.
+40:35 He brought me into the north-facing gate and measured according to these measurements,
+40:36 with its chambers, jambs and porches. It and its porch had windows all around: fifty cubits long and twenty-five cubits broad.
+40:37 Its porches faced the outer courtyard, with palm trees upon the jambs on this side and that side, and it had eight steps.
+40:38 Its chambers, doorframes and porches were at the gate—
+40:39 the second—with a drain, so that they may slaughter there the offerings for sin and for ignorance.
+40:40 Behind the burnt offerings’ channel at the north-facing gate were two tables toward the east; behind the second and the gate’s porch were two tables toward the east,
+40:41 four on this side and four on that side behind the gate. Upon them they will slaughter the victims, opposite the eight tables for victims.
+40:42 There were four hewn-stone tables for the burnt offerings, one and a half cubits wide, two and a half cubits long and one cubit high. Upon them they will place the implements with which they slaughter the burnt offerings and victims there.
+40:43 They will have a hewn ledge of one handbreadth inside all around, and coverings above the tables to shelter them from rain and dry heat.
+40:44 He brought me into the inner courtyard, and behold, two recessed chambers were in the inner courtyard: one behind the north-facing gate faced south, and one behind the south gate faced north.
+40:45 He said to me, ‘This recessed chamber facing south is for the priests who keep the house’s charge,
+40:46 and the recessed chamber facing north is for the priests who keep the altar’s charge. They are Zadok’s sons, who draw near to the Lord from Levi to minister to Him.’
+40:47 He measured the courtyard, one hundred cubits long and one hundred cubits broad on its four sides, and the altar before the house.
+40:48 He brought me into the house’s porch. He measured the porch’s jamb, five cubits broad on this side and five on that side; the doorway’s breadth was fourteen cubits, and the porch door’s side pieces three cubits on this side and three on that side.
+40:49 The porch was twenty cubits long and twelve cubits broad. They went up to it by ten steps, and there were pillars at the porch, one on this side and one on that side.
+
+EZEKIEL 41
+
+41:1 He brought me into the temple, for which he measured the porch: six cubits in breadth on this side and six cubits in the porch’s width on that side.
+41:2 The gateway was ten cubits wide, with sidepieces of five cubits on this side and five cubits on that side. He measured its length, forty cubits, and its breadth, twenty cubits.
+41:3 He entered the inner court and measured the doorway’s jamb, two cubits; the doorway, six cubits; and the doorway’s sidepieces, seven cubits on this side and seven cubits on that side.
+41:4 He measured the length of the doors, forty cubits, and the breadth, twenty cubits, in front of the temple. He said, “This is the Most Holy Place.”
+41:5 He measured the house’s wall, six cubits, and the side chamber’s breadth, four cubits, all around.
+41:6 The side chambers stood chamber upon chamber, thirty and three, twice over. There was an interval in the house’s wall among the side chambers all around, so that those taking hold could see, and might not touch the house’s walls at all.
+41:7 The breadth of the upper side chambers followed the addition from the wall toward the upper part all around the house, so that it widened above and people could go up from the lower parts to the upper stories, and from the middle parts to the third stories.
+41:8 The house’s thrael rose all around; the interval of the side chambers equaled the reed, a space of six cubits.
+41:9 The outer wall of the side chamber was five cubits wide; the remaining spaces lay between the house’s side chambers—
+41:10 —and between the recessed chambers, with a breadth of twenty cubits, encircling the house all around.
+41:11 The doors of the recessed chambers opened onto the remaining area of the one door toward the north; the other door faced south. The opening of the remaining area was five cubits wide all around.
+41:12 The dividing structure opposite the remaining area toward the sea was seventy cubits. The dividing structure’s wall was five cubits in breadth all around, and its length was ninety cubits.
+41:13 He measured opposite the house, a length of a hundred cubits; the remaining spaces, dividing structures, and their walls were a hundred cubits long.
+41:14 The breadth in front of the house and the remaining spaces opposite was a hundred cubits.
+41:15 He measured the dividing structure opposite the remaining area behind that house, with the remaining spaces on both sides: a hundred cubits in length. The temple, the corners, and the outer porch—
+41:16 —were coffered. The windows were latticed, with openings for light around the three, so that one could look through. The house and the adjoining areas were covered with wood all around, as were the floor and the space from the floor to the windows; the windows opened in three ways for looking through.
+41:17 As far as the vicinity of the inner and outer parts, and over the whole wall all around, inside and outside,
+41:18 cherubim were carved, with palm trees between each cherub and the next. Each cherub had two faces:
+41:19 a human face toward the palm tree on this side and that side, and a lion’s face toward the palm tree on this side and that side. The whole house was carved all around,
+41:20 from the floor to the coffered ceiling, with the cherubim and palm trees carved.
+41:21 The holy place and the temple opened out in square forms. In front of the holy places was an appearance like the sight
+41:22 of a wooden altar, three cubits high, two cubits long, and two cubits broad. It had horns, and its base and its walls were wood. He said to me, “This is the table before the Lord.”
+41:23 The temple and the holy place had two doorways.
+41:24 The two pivoting doorways had two leaves: two leaves for the one and two leaves for the second door.
+41:25 Carving was on them, and on the temple’s doorways were cherubim and palm trees, matching the carving of the holy places. Fine timbers stood in front of the porch outside,
+41:26 with concealed windows. He measured on this side and that side toward the porch’s ceilings, and the house’s side chambers were joined together.
+
+EZEKIEL 42
+
+42:1 He brought me out into the outer court toward the east, opposite the gate toward the north. He brought me in, and look—five recessed chambers adjoining the remaining area and adjoining the dividing structure toward the north.
+42:2 Their length toward the north extended a hundred cubits, and their breadth was fifty cubits.
+42:3 They were laid out like the gates of the inner court and like the colonnades of the outer court, arranged in facing rows: three porticoes.
+42:4 Opposite the recessed chambers was a walkway ten cubits wide and a hundred cubits long; their doorways faced north.
+42:5 The upper walkways were likewise, because the colonnade projected from it, from the colonnade below, and so did the intervening space; thus a colonnade and an intervening space, and thus porticoes.
+42:6 For they were threefold and had no pillars like the pillars of the outer structures; therefore they projected beyond the lower and middle ones from the ground.
+42:7 There was an opening outside, like the recessed chambers of the outer court that faced opposite the recessed chambers toward the north, fifty cubits long.
+42:8 For the recessed chambers facing the outer court were fifty cubits long, and these faced those; the whole was a hundred cubits.
+42:9 The doors of these recessed chambers belonged to the entrance toward the east, through which one entered them from the outer court—
+42:10 —along the opening at the beginning of the walkway. And toward the south, facing the south, facing the remaining area and facing the dividing structure, were recessed chambers.
+42:11 The walkway in front of them followed the measurements of the recessed chambers toward the north—their length, their breadth, all their exits, all their turnings, their openings, and their doorways—
+42:12 —of the recessed chambers toward the south, and followed the doorways from the beginning of the walkway, toward an opening with an interval of a reed, and toward the east for entering through them.
+42:13 He said to me, “The recessed chambers toward the north and toward the south, facing the intervening spaces, are the chambers of the holy place. There the priests, the sons of Zadok who draw near to the Lord, will eat the most holy things. There they will place the most holy things—the offering, the offerings for sin, and the offerings for ignorance—for the place is holy.
+42:14 No one will enter there except the priests. They will not go out from the holy place into the outer court, so that those who bring offerings may always be holy and may not touch the garments in which they minister, for they are holy. They will put on other garments whenever they come into contact with the people.”
+42:15 The measurement of the house inside was completed. He brought me out by the gate facing east and measured the plan of the house all around in its arrangement.
+42:16 He stood behind the gate facing east and measured five hundred with the measuring reed.
+42:17 He turned toward the north and measured the north-facing side: five hundred cubits with the measuring reed.
+42:18 He turned toward the sea and measured the sea-facing side: five hundred with the measuring reed.
+42:19 He turned toward the south and measured opposite the south: five hundred with the measuring reed.
+42:20 The four sides were measured with the same reed. He laid it out, with their enclosure all around: five hundred toward the east and five hundred cubits in breadth, to distinguish between the holy areas and the forewall in the arrangement of the house.
+
+EZEKIEL 43
+
+43:1 He led me to the gate facing east and brought me out.
+43:2 Look—the glory of the God of Israel was coming by the way of the gate facing east. The sound of the camp was like the sound of many redoubling their sound, and the earth flashed like radiance from the glory all around.
+43:3 The vision I saw was like the vision I had seen when I was entering to anoint the city; and the vision of the chariot I saw was like the vision I had seen by the River Chobar. I fall on my face.
+43:4 The glory of the Lord entered the house by the way of the gate facing east.
+43:5 A spirit lifted me and brought me into the inner court. Look—the house was full of the glory of the Lord.
+43:6 I stood, and look—a voice from the house, speaking to me, while the man stood next to me.
+43:7 He said to me, “Have you seen, son of man, the place of My throne and the place of the footprints of My feet, where My name will dwell among the house of Israel for ever? The house of Israel will no longer profane My holy name, neither they nor their rulers, by their prostitution and by the murders of the rulers among them—
+43:8 —when they set My vestibule among their vestibules and My doorposts next to their doorposts, and placed My wall as adjoining Me and them. They profaned My holy name by the lawless deeds they practiced, and I wiped them out in My wrath and in slaughter.
+43:9 Now let them drive their prostitution and the murders of their rulers away from Me, and I will dwell among them for ever.
+43:10 You, son of man, show the house to the house of Israel, and they will cease from their sins. Show its appearance and its arrangement—
+43:11 —and they will receive their punishment for everything they have done. You will draw the house, its exits, and its structure; make known to them all its commands and all its ordinances, and draw them before them. They will keep all My judgments and all My commands and carry them out,
+43:12 together with the drawing of the house on the mountain’s summit: all its boundaries all around are most holy.”
+43:13 These are the altar’s measurements in a cubit consisting of a cubit and a handbreadth: a hollow one cubit deep and one cubit wide, with a ledge along its edge all around of a span. This was the altar’s height:
+43:14 from the depth at the beginning of its hollow to the large lower place of atonement, two cubits, with a breadth of a cubit; and from the small place of atonement to the large place of atonement, four cubits, with a breadth of a cubit.
+43:15 The Ariel was four cubits, and from the Ariel upward above the horns was a cubit.
+43:16 The Ariel was twelve cubits long by twelve cubits wide, square on its four sides.
+43:17 The place of atonement was fourteen cubits long by fourteen cubits wide on its four sides. Its surrounding ledge ran all around it at half a cubit, and its surrounding band was a cubit all around. Its steps faced east.
+43:18 He said to me, “Son of man, thus says the Lord, the God of Israel: These are the altar’s commands on the day it is made, for offering burnt offerings on it and pouring blood against it.
+43:19 You will give the Levitical priests who are of Zadok’s offspring and draw near to Me to minister to Me, says the Lord God, a calf from the cattle as an offering for sin.
+43:20 They will take some of its blood and put it on the altar’s four horns, on the four corners of the place of atonement, and on the base all around. They will make atonement for it.
+43:21 They will take the calf for the sin offering, and it will be burned in the separated area of the house, outside the holy places.
+43:22 On the second day they will take two unblemished goat kids for sin, and they will make atonement for the altar as they made atonement with the calf.
+43:23 After you have completed the atonement, they will bring an unblemished calf from the cattle and an unblemished ram from the sheep.
+43:24 You all will bring them before the Lord, and the priests will throw salt upon them and offer them as burnt offerings to the Lord.
+43:25 For seven days you will prepare a kid for sin each day, and a calf from the cattle and a ram from the sheep. They will prepare unblemished animals—
+43:26 —for seven days. They will make atonement for the altar and cleanse it, and they will fill their hands.
+43:27 From the eighth day onward, the priests will offer your burnt offerings and your offerings for well-being on the altar. I will accept you, says the Lord.”
+
+EZEKIEL 44
+
+44:1 He brought me back by the way of the outer gate of the holy places, which faced east, and it was shut.
+44:2 The Lord said to me, “This gate will remain shut. It will not be opened, and no one will pass through it, because the Lord, the God of Israel, will enter through it. It will remain shut,
+44:3 for the ruler—he will sit in it to eat bread before the Lord. He will enter by the way of the gate’s porch and go out by his way.”
+44:4 He brought me by the north gate opposite the house. I looked, and behold—the house of the Lord was full of glory. I fall on my face.
+44:5 The Lord said to me, “Son of man, set in your heart, see with your eyes, and hear with your ears everything I speak with you concerning all the commands of the Lord’s house and all its ordinances. Set your heart on the house’s entrance, according to all its exits in all the holy places.
+44:6 You will say to the provoking house, to the house of Israel: Thus says the Lord God: Let all your lawless deeds be enough for you, house of Israel—
+44:7 —your bringing in foreign sons, uncircumcised in heart and uncircumcised in flesh, to be in My holy places. They profaned them while you offered bread, fat, and blood, and you transgressed My covenant in all your lawless deeds.
+44:8 You arranged for the keeping of duties in My holy places.
+44:9 Therefore thus says the Lord God: No foreign son uncircumcised in heart and uncircumcised in flesh will enter My holy places, among all the foreign sons who are in the midst of the house of Israel,
+44:10 except the Levites, who sprang away from Me when Israel strayed from Me after their reflections; they will receive their injustice—
+44:11 —and will serve in My holy places as gatekeepers at the house’s gates and as ministers to the house. They will slaughter the burnt offerings and sacrifices for the people, and stand before the people to serve them.
+44:12 Because they ministered to them before their idols, and it became a punishment of injustice for the house of Israel, I raised My hand against them, says the Lord God.
+44:13 They will not draw near to Me to serve Me as priests, nor approach the holy things of the sons of Israel, nor My most holy things. They will receive their dishonor in the straying by which they strayed.
+44:14 They will assign them to keep the duties of the house, for all its works and everything they may do.
+44:15 The Levitical priests, the sons of Zadok, who kept the duties of My holy places when the house of Israel strayed from Me, will approach Me to minister to Me. They will stand before Me to offer sacrifice, fat, and blood to Me, says the Lord God.
+44:16 They will enter My holy places and approach My table to minister to Me, and they will keep My duties.
+44:17 When they enter the gates of the inner court, they will put on linen robes. They will not wear woolen things when they minister from the gate of the inner court.
+44:18 They will have linen turbans on their heads and linen trousers on their hips, and they will not bind their clothing tightly.
+44:19 When they go out to the outer court, to the people, they will take off the robes in which they minister, place them in the recessed chambers of the holy places, and put on other robes. They will certainly not sanctify the people with their robes.
+44:20 They will not shave their heads or strip away their hair; they will certainly cover their heads.
+44:21 No priest will drink wine when they enter the inner court.
+44:22 They will not take a widow or a woman who has been sent away as a wife, but a virgin of Israel’s offspring; if she is a priest’s widow, they may take her.
+44:23 They will teach My people the difference between holy and profane, and make known to them the difference between unclean and clean.
+44:24 In a case involving blood they will stand to decide. They will uphold My judgments and judge My decisions; they will keep My ordinances and My commands at all My festivals, and sanctify My Sabbaths.
+44:25 They will not approach a human corpse so as to be defiled, except that a priest may be defiled for his father, mother, son, daughter, brother, or sister who has not belonged to a husband.
+44:26 After he has been cleansed, one will count seven days for him.
+44:27 On whatever day they enter the inner court to minister in the holy place, they will bring an atonement offering, says the Lord God.
+44:28 This will be their inheritance: I am their inheritance. No possession will be given them among the sons of Israel, because I am their possession.
+44:29 They will eat the sacrifices, the offerings for sin, and the offerings for ignorance. Everything set apart in Israel will belong to them.
+44:30 The firstfruits of everything, the firstborn of everything, and all the contributions from all your firstfruits will belong to the priests. You will give your first produce to the priest, to place your blessings upon your houses.
+44:31 The priests will not eat anything that has died of itself or has been taken by a beast, whether from the birds or from the livestock.”
+
+EZEKIEL 45
+
+45:1 “When you measure out the land as an inheritance, you will set apart a first portion for the Lord, a holy part of the land, twenty-five thousand long and twenty thousand broad. It will be holy throughout all its boundaries all around.
+45:2 From this, a square of five hundred by five hundred will be for a sanctuary, with an interval of fifty cubits all around it.
+45:3 From this measured area you will measure a length of twenty-five thousand and a breadth of ten thousand. In it will be the sanctuary, the most holy place.
+45:4 It will be land for the priests who minister in the holy place, for those who draw near to minister to the Lord. It will be a place for their houses, set apart for their sanctification.
+45:5 An area twenty-five thousand long and ten thousand broad will belong to the Levites who minister to the house, as their possession, with cities in which to dwell.
+45:6 You will give the city a possession five thousand broad and twenty-five thousand long; like the first portion of the holy areas, these will be for the whole house of Israel.
+45:7 The ruler will have land on this side and that side of the first portions of the holy areas and the city’s possession, facing the first portions of the holy areas and facing the city’s possession: the parts toward the sea, and from those toward the sea toward the east. Its length will be like one of the portions, from the sea-facing boundaries, with the length extending to the eastern boundaries of the land.
+45:8 It will be his possession in Israel. Israel’s rulers will no longer oppress My people, and the house of Israel will inherit the land according to their tribes.
+45:9 Thus says the Lord God: Enough, rulers of Israel! Remove injustice and suffering, and practice judgment and righteousness. Take oppression away from My people, says the Lord God.
+45:10 You are to have an honest balance, an honest measure, and an honest choenix.
+45:11 The measure and the choenix will likewise have one capacity: the choenix a tenth of the gomor, and the measure a tenth of the gomor. They will be equal in relation to the gomor.
+45:12 The standard weight will be twenty obols. The five shekels will be five, the ten shekels ten, and fifty shekels will make your mina.
+45:13 This is the first portion you will set apart: a sixth of the measure from the gomor of wheat, and a sixth of the oiphi from the kor of barley.
+45:14 The command for oil is a cotyle of oil from ten cotyles, because ten cotyles are a gomor.
+45:15 One sheep from every ten sheep will be a contribution from all Israel’s families, for sacrifices, burnt offerings, and offerings for well-being, to make atonement for you, says the Lord God.
+45:16 All the people will give this first portion to Israel’s ruler.
+45:17 Through the ruler will come the burnt offerings, sacrifices, and libations at the festivals, new moons, and Sabbaths, and at all the festivals of the house of Israel. He will provide the offerings for sin, the sacrifice, the burnt offerings, and the offerings for well-being to make atonement for the house of Israel.
+45:18 Thus says the Lord God: In the first month, on the first of the month, you all will take an unblemished calf from the cattle to make atonement for the holy place.
+45:19 The priest will take some of the blood of the atonement offering and put it on the house’s doorposts, on the four corners of the sacred precinct, on the altar, and on the doorposts of the gate of the inner court.
+45:20 You will do likewise in the seventh month, on the first of the month: you will take a portion from each, and you all will make atonement for the house.
+45:21 In the first month, on the fourteenth of the month, you will have the Passover festival; for seven days you will eat unleavened bread.
+45:22 On that day the ruler will provide a calf for sin on behalf of himself, the house, and all the people of the land.
+45:23 For the seven days of the festival, he will provide burnt offerings to the Lord: seven calves and seven unblemished rams each day for the seven days, and a goat kid each day for sin.
+45:24 You will provide an offering of a cake for each calf and a cake for each ram, with a hin of oil for each cake.
+45:25 In the seventh month, on the fifteenth of the month, at the festival you will provide the same for seven days: the offerings for sin, the burnt offerings, the grain offering, and the oil.”
+
+EZEKIEL 46
+
+46:1 “Thus says the Lord God: The gate in the inner court facing east will be shut during the six working days, but on the Sabbath day it will be opened, and on the day of the new moon it will be opened.
+46:2 The ruler will enter by the porch of the outer gate and stand at the gate’s vestibules. The priests will offer his burnt offerings and his offerings for well-being. He will bow down at the gate’s vestibule and go out, and the gate will certainly not be shut until evening.
+46:3 The people of the land will bow down before the Lord at the vestibules of that gate on Sabbaths and new moons.
+46:4 The ruler will present burnt offerings to the Lord: on the Sabbath day, six unblemished lambs and an unblemished ram,
+46:5 with a grain offering of a cake for the ram, and for the lambs an offering as the gift of his hand, with a hin of oil for each cake.
+46:6 On the day of the new moon there will be an unblemished calf and six lambs, and the ram will be unblemished.
+46:7 A cake for the ram and a cake for the calf will be the grain offering, and for the lambs whatever his hand can produce, with a hin of oil for each cake.
+46:8 When the ruler enters, he will enter by the porch of the gate and go out by the way of the gate.
+46:9 When the people of the land come before the Lord at the festivals, whoever enters by the north gate to bow down will go out by the south gate, and whoever enters by the south gate will go out by the north gate. He will not return through the gate by which he entered, but will go out straight opposite it.
+46:10 The ruler will be among them: when they enter, he will enter with them, and when they go out, he will go out.
+46:11 At the festivals and public assemblies the grain offering will be a cake for each calf, a cake for each ram, and for the lambs whatever his hand can produce, with a hin of oil for each cake.
+46:12 If the ruler makes a pledged offering, a burnt offering for well-being to the Lord, he will open for himself the gate facing east and offer his burnt offering and his offerings for well-being as he does on the Sabbath day. He will go out and close the doors after he has gone out.
+46:13 He will prepare an unblemished year-old lamb as a daily burnt offering to the Lord; in the morning he will prepare it.
+46:14 In the morning he will prepare with it a grain offering of a sixth of the measure and a third of a hin of oil to mix the fine flour: a grain offering to the Lord, a permanent command.
+46:15 You all will prepare the lamb, the grain offering, and the oil; you all will prepare them in the morning as a continual burnt offering.
+46:16 Thus says the Lord God: If the ruler gives one of his sons a gift from his inheritance, this will belong to his sons as an inherited possession.
+46:17 If he gives a gift to one of his servants, it will belong to him until the year of release, and he will return it to the ruler. But the inheritance of his sons will belong to them.
+46:18 The ruler will certainly not take from the people’s inheritance to oppress them. He will give his sons an inheritance from his own possession, so that none of My people is scattered from his possession.”
+46:19 He brought me into the entrance behind the gate, into the north-facing recessed chamber of the priests’ holy places. Look—there was a separated place there.
+46:20 He said to me, “This is the place where the priests will boil the offerings for ignorance and for sin, and there bake the entire grain offering, so as not to carry it out into the outer court and sanctify the people.”
+46:21 He brought me out into the outer court and led me around its four sides. Look—a court at one side of the court, and a court at another side of the court!
+46:22 At the four sides of the court was a small court, forty cubits long and thirty cubits broad; the four had one measure.
+46:23 There were recessed chambers all around them, around the four, with kitchens made underneath the recessed chambers all around.
+46:24 He said to me, “These are the kitchen houses, where those ministering to the house will boil the people’s sacrificial animals.”
+
+EZEKIEL 47
+
+47:1 He brought me to the house’s vestibules, and look—water was flowing out beneath the open court toward the east, for the house’s front faced east. The water was descending from the right side, from the south toward the altar.
+47:2 He brought me out by the north gate and led me around outside to the court’s gate facing east. Look—the water was flowing down from the right side.
+47:3 As the man went out opposite, with a measure in his hand, he measured a thousand with the measure and went through the water—water of release.
+47:4 He measured a thousand and went through water up to the thighs. He measured a thousand and went through water up to the waist.
+47:5 He measured a thousand and could not go through, for the water surged violently like the rush of a torrent that they will not cross.
+47:6 He said to me, “Have you seen, son of man?” Then he led me to the river’s edge.
+47:7 As I returned, look—very many trees were on the river’s edge, on both sides.
+47:8 He said to me, “This water flowing out into eastern Galilee was descending into Arabia and coming as far as the sea, to the water of the outlet; it will heal the waters.
+47:9 Every life among the swarming living creatures will live wherever the river comes. There will be very many fish there, because this water has arrived there, and it will become healthy and live. Everything over which the river comes will live.
+47:10 Fishers will stand there from Aingadin to Ainagalim; there will be a drying place for nets. It will be by itself, and its fish will be like the fish of the Great Sea, an exceedingly great multitude.
+47:11 At its outlet, at its turning, and at its overflow, they will certainly not be healed; they are given over to salt.
+47:12 Along the river, on its edge on both sides, every edible tree will grow. Nothing upon it will grow old, nor will its fruit fail. In its newness it will bear its first crop, because these waters flow from the holy places. Their fruit will be for food and their growth for health.
+47:13 Thus says the Lord God: These are the boundaries of the land you will allot as an inheritance to the twelve tribes of the sons of Israel—an addition of a measured portion.
+47:14 You will inherit it, each like his brother, the land for which I raised My hand to give it to their fathers. This land will fall to you as an inheritance.
+47:15 These are the boundaries of the land toward the north: from the Great Sea, descending and dividing at the entrance of Hamath—Seddada,
+47:16 Berotha, Sebraim, Heliam, between the boundaries of Damascus and the boundaries of Hamath, the court of Saunan, which are above the boundaries of Auranitis.
+47:17 These are the boundaries from the sea, from the court of Ainan, the boundaries of Damascus, and the parts toward the north.
+47:18 The eastern parts lie between Auranitis and Damascus, and between Galaaditis and the land of Israel; the Jordan marks the boundary as far as the sea east of Palm Grove. These are the eastern parts.
+47:19 The parts toward the south and southwest run from Thaiman and Palm Grove to the water of Marimoth Kades, extending to the Great Sea. This is the south and southwest side.
+47:20 This is the side of the Great Sea: it forms the boundary as far as opposite the entrance of Hamath, as far as its entrance. These are the sea-facing parts of Hamath.
+47:21 You will divide this land for them, for the tribes of Israel.
+47:22 You will cast lots for it for yourselves and for the sojourners dwelling among you who have fathered sons among you. They will be to you as native-born among the sons of Israel; with you they will eat from an inheritance among Israel’s tribes.
+47:23 They will be in a tribe of sojourners, among the sojourners who are with them; there you will give them an inheritance, says the Lord God.
+
+EZEKIEL 48
+
+48:1 These are the names of the tribes: from the northern beginning, along the side of the descending, dividing way toward the entrance of Hamath, the court of Ainan, the boundary of Damascus toward the north, along the side of Hamath’s court; the eastern parts as far as the sea will belong to them—Dan, one portion.
+48:2 From Dan’s boundaries, from the eastern parts to the sea-facing parts—Asher, one portion.
+48:3 From Asher’s boundaries, from the eastern parts to the sea-facing parts—Naphtali, one portion.
+48:4 From Naphtali’s boundaries, from the eastern parts to the sea-facing parts—Manasseh, one portion.
+48:5 From Manasseh’s boundaries, from the eastern parts to the sea-facing parts—Ephraim, one portion.
+48:6 From Ephraim’s boundaries, from the eastern parts to the sea-facing parts—Reuben, one portion.
+48:7 From Reuben’s boundaries, from the eastern parts to the sea-facing parts—Judah, one portion.
+48:8 From Judah’s boundaries, from the eastern parts to the sea-facing parts, will be the first portion set apart, twenty-five thousand in breadth, with a length like one of the portions from the eastern parts to the sea-facing parts. The holy place will be in their midst.
+48:9 The first portion they set apart for the Lord will be twenty-five thousand long and twenty-five thousand broad.
+48:10 From these will be the first portion of the holy areas for the priests: twenty-five thousand toward the north, a breadth of ten thousand toward the sea, a breadth of ten thousand toward the east, and a length of twenty-five thousand toward the south. The mountain of the holy places will be in its midst,
+48:11 for the consecrated priests, the sons of Zadok, who keep the duties of the house and did not stray when the sons of Israel strayed, as the Levites strayed.
+48:12 They will have the first portion given from the land’s first portions, most holy, from the Levites’ boundaries.
+48:13 The Levites will have the land adjoining the priests’ boundaries, twenty-five thousand long and ten thousand broad. The whole length will be twenty-five thousand and the breadth twenty thousand.
+48:14 None of it will be sold or measured out, nor will the land’s first produce be taken away, for it is holy to the Lord.
+48:15 The five thousand remaining in breadth alongside the twenty-five thousand will be a forewall for the city, for dwelling and its intervening space. The city will be in its midst.
+48:16 These are its measurements: on the north, four thousand five hundred; on the south, four thousand five hundred; on the east, four thousand five hundred; and toward the sea, four thousand five hundred.
+48:17 The city will have an intervening space: two hundred fifty toward the north, two hundred fifty toward the south, two hundred fifty toward the east, and two hundred fifty toward the sea.
+48:18 The remaining length adjoining the first portions of the holy areas will be ten thousand toward the east and ten thousand toward the sea; these will be the holy place’s first portions, and its produce will be bread for the city’s workers.
+48:19 The city’s workers, from all Israel’s tribes, will work it.
+48:20 The entire first portion will be twenty-five thousand by twenty-five thousand. You will set apart its holy portion as a square, from the city’s possession.
+48:21 The remainder will belong to the ruler on this side and that side, from the holy first portions and toward the city’s possession, extending twenty-five thousand in length to the eastern boundaries, and toward the sea extending twenty-five thousand to the sea-facing boundaries, adjoining the ruler’s portions. The first portion of the holy areas and the house’s sanctuary will be in its midst.
+48:22 From the Levites’ possession and from the city’s possession, it will be in the midst of the rulers; between Judah’s boundaries and Benjamin’s boundaries it will belong to the rulers.
+48:23 As for the remaining tribes, from the eastern parts to the sea-facing parts—Benjamin, one portion.
+48:24 From Benjamin’s boundaries, from the eastern parts to the sea-facing parts—Simeon, one portion.
+48:25 From Simeon’s boundaries, from the eastern parts to the sea-facing parts—Issachar, one portion.
+48:26 From Issachar’s boundaries, from the eastern parts to the sea-facing parts—Zebulun, one portion.
+48:27 From Zebulun’s boundaries, from the eastern parts to the sea-facing parts—Gad, one portion.
+48:28 From Gad’s boundaries toward the southwest, its boundaries will run from Thaiman and the water of Marimoth Kades, an inheritance as far as the Great Sea.
+48:29 This is the land you will cast lots for among Israel’s tribes, and these are their divisions, says the Lord God.
+48:30 These are the city’s outlets toward the north: four thousand five hundred by measure.
+48:31 The city’s gates will bear the names of Israel’s tribes. Three gates will face north: one gate of Reuben, one gate of Judah, and one gate of Levi.
+48:32 Toward the east, four thousand five hundred, with three gates: one gate of Joseph, one gate of Benjamin, and one gate of Dan.
+48:33 Toward the south, four thousand five hundred by measure, with three gates: one gate of Simeon, one gate of Issachar, and one gate of Zebulun.
+48:34 Toward the sea, four thousand five hundred by measure, with three gates: one gate of Gad, one gate of Asher, and one gate of Naphtali.
+48:35 The circuit will be eighteen thousand. And the city’s name, from whatever day it comes into being, will be its name.”
