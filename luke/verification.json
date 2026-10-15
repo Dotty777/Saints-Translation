@@ -1,0 +1,1047 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 1149 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 24,
+    "reading_sections": 24,
+    "changed_verse_units": 224,
+    "source_scope": "NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "b6f3b814449859f49d8f4d60ac9cf9c7fd7cf2b1f2972efe44c34ba1f47a3308"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 80,
+      "changed": 21,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 52,
+      "changed": 13,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 38,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 44,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 5,
+      "chapter": 5,
+      "verse_units": 39,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 6,
+      "chapter": 6,
+      "verse_units": 49,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 7,
+      "chapter": 7,
+      "verse_units": 50,
+      "changed": 14,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 8,
+      "chapter": 8,
+      "verse_units": 56,
+      "changed": 10,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 9,
+      "chapter": 9,
+      "verse_units": 62,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 10,
+      "chapter": 10,
+      "verse_units": 42,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 11,
+      "chapter": 11,
+      "verse_units": 54,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 12,
+      "chapter": 12,
+      "verse_units": 59,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 13,
+      "chapter": 13,
+      "verse_units": 35,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 14,
+      "chapter": 14,
+      "verse_units": 35,
+      "changed": 11,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 15,
+      "chapter": 15,
+      "verse_units": 32,
+      "changed": 11,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 16,
+      "chapter": 16,
+      "verse_units": 31,
+      "changed": 2,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 17,
+      "chapter": 17,
+      "verse_units": 36,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 18,
+      "chapter": 18,
+      "verse_units": 43,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 19,
+      "chapter": 19,
+      "verse_units": 48,
+      "changed": 13,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 20,
+      "chapter": 20,
+      "verse_units": 47,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 21,
+      "chapter": 21,
+      "verse_units": 38,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 22,
+      "chapter": 22,
+      "verse_units": 71,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 23,
+      "chapter": 23,
+      "verse_units": 55,
+      "changed": 11,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 24,
+      "chapter": 24,
+      "verse_units": 53,
+      "changed": 14,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 943,
+      "chapter": 1,
+      "modified": "2026-10-15T17:23:41",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "b57d3d2ea54d5c6c5c91b68d43ba8c98d1c8e5815e58a548be8a5abc8ad9f0fa"
+    },
+    {
+      "id": 949,
+      "chapter": 2,
+      "modified": "2026-10-15T17:23:58",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "d4533b2307e3a22ae92749ab559172324950d28479c5f2bd94cefd7dfbe2d8e2"
+    },
+    {
+      "id": 952,
+      "chapter": 3,
+      "modified": "2026-10-15T17:24:16",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "d2c5f27d2d6ea4f843b48bfbf8e36f468e4a05e6e133beb72d2fe0c35c7fef4f"
+    },
+    {
+      "id": 956,
+      "chapter": 4,
+      "modified": "2026-10-15T17:24:35",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "647d0d0087b9f93de0b1b519942e0f9e41d4116aaef8554dc010a72fbdf64503"
+    },
+    {
+      "id": 960,
+      "chapter": 5,
+      "modified": "2026-10-15T17:24:52",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "2d698f6245646284ec6ac938a6468c1da0fa3d9bbb81dd3a6ed9368801acc7b3"
+    },
+    {
+      "id": 965,
+      "chapter": 6,
+      "modified": "2026-10-15T17:25:22",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "58ba6c7445339bbf7b85148167dfa1d96816cdec0e0a306c75218ebf6df07313"
+    },
+    {
+      "id": 969,
+      "chapter": 7,
+      "modified": "2026-10-15T17:25:40",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "2f689e27462b8c71ab38bb883130d4eaa7f71aa6ff5989b36de0adbd0b4e5c35"
+    },
+    {
+      "id": 973,
+      "chapter": 8,
+      "modified": "2026-10-15T17:25:57",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "a6c623226bd0a922b36e0e87131fd1d3b45d6a1eac0fd152a2b93634bc7a4072"
+    },
+    {
+      "id": 978,
+      "chapter": 9,
+      "modified": "2026-10-15T17:26:15",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "eaf658914b0ca30868106b938b74c693e0478590945a708f870f76c6986356a8"
+    },
+    {
+      "id": 982,
+      "chapter": 10,
+      "modified": "2026-10-15T17:26:38",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "a38c079afcdce0de27f59ea6ee94acd2db6a8fa5924d6ed43c7ed6e9544b028b"
+    },
+    {
+      "id": 987,
+      "chapter": 11,
+      "modified": "2026-10-15T17:27:20",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "a485832b3c40c0e66584aea608ec5d88856626455edb2ef78956bf358a01b4dd"
+    },
+    {
+      "id": 992,
+      "chapter": 12,
+      "modified": "2026-10-15T17:27:37",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "2d10644f0e5db739656c2aeef74b812385ea2dc35bc4f9c34177f28cbff0671c"
+    },
+    {
+      "id": 997,
+      "chapter": 13,
+      "modified": "2026-10-15T17:27:52",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "55b2fb4a2bb3f8fae8f92564611faa5845461a0615cc167d014c61c713388181"
+    },
+    {
+      "id": 1001,
+      "chapter": 14,
+      "modified": "2026-10-15T17:28:40",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "26467e24039f081c54aea7d35cf965405e6b81bf7bd158b4a001a665c17dad16"
+    },
+    {
+      "id": 1004,
+      "chapter": 15,
+      "modified": "2026-10-15T17:29:28",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "10016ad0148fe06c46eb72d55587ed010d85a734f4d28a694ec4208f6e180f54"
+    },
+    {
+      "id": 1007,
+      "chapter": 16,
+      "modified": "2026-10-15T17:29:51",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "5fc0d6ee4ce5a16c80557ecf52fb64c98763f58e1ca5744b86dc4ecd4a29bd5d"
+    },
+    {
+      "id": 1009,
+      "chapter": 17,
+      "modified": "2026-10-15T17:30:09",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "be94bd4a75f01523e8b5ebccc0ddc6141754265e9a2f0395d9cf33f09cfaf803"
+    },
+    {
+      "id": 1012,
+      "chapter": 18,
+      "modified": "2026-10-15T17:30:26",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "437f189ce384c1a5451f469a3887fda94b29acf6e9944eb5305739be84b999a8"
+    },
+    {
+      "id": 1015,
+      "chapter": 19,
+      "modified": "2026-10-15T17:30:43",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "a939a0e29eff7ef959bf1476f4b3139fba76d7169ca0a068ba65eb15ad8cc9fc"
+    },
+    {
+      "id": 1019,
+      "chapter": 20,
+      "modified": "2026-10-15T17:31:33",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "c43f9fe58cf1c3ea30cb306f5439146445c793a010749af2ad1e190c6f9d8194"
+    },
+    {
+      "id": 1020,
+      "chapter": 21,
+      "modified": "2026-10-15T17:32:04",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "2d34b5b277100e9b8e0f4b0af344e3693854f6481569e216481e71b0c5109a38"
+    },
+    {
+      "id": 1022,
+      "chapter": 22,
+      "modified": "2026-10-15T17:32:22",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "3504d44e61d3b073ec1fee7c7590e10105bebcb83cd012ef7f23d8f82f1de85a"
+    },
+    {
+      "id": 1025,
+      "chapter": 23,
+      "modified": "2026-10-15T17:32:58",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "8b175dde518baf2837dfad130d190d7027a3d8ed0264267a38471b38b0953c31"
+    },
+    {
+      "id": 1026,
+      "chapter": 24,
+      "modified": "2026-10-15T17:33:16",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "e5addbc4ee8f2df02d39aaad6ef9801265335e9e8466ad335f7283ae745e60e2"
+    },
+    {
+      "id": 936,
+      "chapter": null,
+      "modified": "2026-10-15T17:33:34",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "30904af4c62b219d73ded046e5328fe781d7f162afd1e5c0794f9197ceb5239c"
+    }
+  ],
+  "browser_checks": {
+    "format": "sha256-dom-v1",
+    "date": "2026-10-15",
+    "chapter_navigation": [
+      {
+        "text": "Luke 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-1/"
+      },
+      {
+        "text": "Luke 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-2/"
+      },
+      {
+        "text": "Luke 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-3/"
+      },
+      {
+        "text": "Luke 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-4/"
+      },
+      {
+        "text": "Luke 5",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-5/"
+      },
+      {
+        "text": "Luke 6",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-6/"
+      },
+      {
+        "text": "Luke 7",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-7/"
+      },
+      {
+        "text": "Luke 8",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-8/"
+      },
+      {
+        "text": "Luke 9",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-9/"
+      },
+      {
+        "text": "Luke 10",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-10/"
+      },
+      {
+        "text": "Luke 11",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-11/"
+      },
+      {
+        "text": "Luke 12",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-12/"
+      },
+      {
+        "text": "Luke 13",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-13/"
+      },
+      {
+        "text": "Luke 14",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-14/"
+      },
+      {
+        "text": "Luke 15",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-15/"
+      },
+      {
+        "text": "Luke 16",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-16/"
+      },
+      {
+        "text": "Luke 17",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-17/"
+      },
+      {
+        "text": "Luke 18",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-18/"
+      },
+      {
+        "text": "Luke 19",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-19/"
+      },
+      {
+        "text": "Luke 20",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-20/"
+      },
+      {
+        "text": "Luke 21",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-21/"
+      },
+      {
+        "text": "Luke 22",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-22/"
+      },
+      {
+        "text": "Luke 23",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-23/"
+      },
+      {
+        "text": "Luke 24",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-24/"
+      }
+    ],
+    "chapters": [
+      {
+        "chapter": 1,
+        "page_id": 943,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-1/",
+        "verse_count": 80,
+        "rendered_text_sha256": "494bd868433663cc7d06aa5f157861689b7c4f727fb843434f6fcdfacb422cd5",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 1"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 2,
+        "page_id": 949,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-2/",
+        "verse_count": 52,
+        "rendered_text_sha256": "a84a0dec120615df95305f02dcded66680c3206042b613c7d89e6a7c92785aa2",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 2"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 3,
+        "page_id": 952,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-3/",
+        "verse_count": 38,
+        "rendered_text_sha256": "266990860ad01987d77872f18fc8aa92a0cf5abe02d0bbc30c5f075ad8b8a174",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 3"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 4,
+        "page_id": 956,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-4/",
+        "verse_count": 44,
+        "rendered_text_sha256": "08b9643de3aa3896ebf6804436b844e6d3f5bf895550e01e471ccb7f89c0d6cb",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 4"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 5,
+        "page_id": 960,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-5/",
+        "verse_count": 39,
+        "rendered_text_sha256": "d3adb5c347b88c196920821dfaf936eb116c1cdb8265a8dbf27aaf792548b523",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 5"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 6,
+        "page_id": 965,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-6/",
+        "verse_count": 49,
+        "rendered_text_sha256": "855769c58feb4a6c0fc52c8585e679235e930a5e55dad8672ef866d74f0d4f6f",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 6"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 7,
+        "page_id": 969,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-7/",
+        "verse_count": 50,
+        "rendered_text_sha256": "a166e38dd735affbf060d94524aaaa7f6c2f42163302b509385d4e54a454a405",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 7"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 8,
+        "page_id": 973,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-8/",
+        "verse_count": 56,
+        "rendered_text_sha256": "4aad5e92efe28fca0a7a039ef71cdfc09556c6f0475f04960945b24cc6aab33d",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 8"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 9,
+        "page_id": 978,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-9/",
+        "verse_count": 62,
+        "rendered_text_sha256": "e93e0b1ab1fefbbd05663c382c26ae3d60224c117e0a5bac7b5c969fc2b3c3b2",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 9"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 10,
+        "page_id": 982,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-10/",
+        "verse_count": 42,
+        "rendered_text_sha256": "1340d160ab1e854b19aec34b9fbddf250f9dfbc12acd75d0457a76b5324cdf0f",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 10"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 11,
+        "page_id": 987,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-11/",
+        "verse_count": 54,
+        "rendered_text_sha256": "4e3a59c7eae73c5d564371e9f034bf74ae0fa561b88c0bc1765f3a5134d67a9f",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 11"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 12,
+        "page_id": 992,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-12/",
+        "verse_count": 59,
+        "rendered_text_sha256": "166d4d94466d883c4e73a526e991177223584002ad9181ef09a21a813493dfcd",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 12"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 13,
+        "page_id": 997,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-13/",
+        "verse_count": 35,
+        "rendered_text_sha256": "fcd7887b0ed4a531e7d90ea3a248d5fbc3be346165f695635b046941d98f79fd",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 13"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 14,
+        "page_id": 1001,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-14/",
+        "verse_count": 35,
+        "rendered_text_sha256": "0d4ed20c68864cd2d8e810b27886a2cf3c71d4b381b4814742ddd4f33663b4bb",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 14"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 15,
+        "page_id": 1004,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-15/",
+        "verse_count": 32,
+        "rendered_text_sha256": "e9ebe36e67196a4bf6199e5892e73a9395340024dac929d2b0c660fdec86761d",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 15"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 16,
+        "page_id": 1007,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-16/",
+        "verse_count": 31,
+        "rendered_text_sha256": "389fe201214dd2e04b7add19cad2e0bcc4e50c584fa33d55db6b62d044030620",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 16"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 17,
+        "page_id": 1009,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-17/",
+        "verse_count": 36,
+        "rendered_text_sha256": "39145ba60f91d7a63be1a55cdbeee77afb7a028b6a464f3feb3e33995a7b8bd4",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 17"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 18,
+        "page_id": 1012,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-18/",
+        "verse_count": 43,
+        "rendered_text_sha256": "66cd0a644a6ea15c477a576d287bf923d3aeb62721451b99186d3d7adb829b38",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 18"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 19,
+        "page_id": 1015,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-19/",
+        "verse_count": 48,
+        "rendered_text_sha256": "43c51528bb14a32011b8e91353347c2aafda061eff81510e6aeca9dad9610992",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 19"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 20,
+        "page_id": 1019,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-20/",
+        "verse_count": 47,
+        "rendered_text_sha256": "948d5ce1ba099eaff643d4915e96d9be9d355d65555a5a85370b68c6e8042ad9",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 20"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 21,
+        "page_id": 1020,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-21/",
+        "verse_count": 38,
+        "rendered_text_sha256": "0d4721937d241cb31388b798b1f83f6c97133e61a91cdfa71994961e2885a527",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 21"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 22,
+        "page_id": 1022,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-22/",
+        "verse_count": 71,
+        "rendered_text_sha256": "e428d8460c0ed0e79fc5df84d88f7fe656a1de0365bddaad089214e089ebef40",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 22"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 23,
+        "page_id": 1025,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-23/",
+        "verse_count": 55,
+        "rendered_text_sha256": "344f4a5342a7db06ee108af954b70bc643b8415b50273a2b1b28ba4851d8ded0",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 23"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 24,
+        "page_id": 1026,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-24/",
+        "verse_count": 53,
+        "rendered_text_sha256": "b9e1af08de30def2942892bfae8a9515ce54ac4d215efb26e14add4b6e69e6b1",
+        "currentNotes": 1,
+        "navigation_sha256": "8a0a81cf790b03e9fad42bbe4b0bcedd8dd4a4c67fb8e52c1436688747fc673a",
+        "chapter_option_count": 24,
+        "selected_chapter": [
+          "Luke 24"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      }
+    ],
+    "index": {
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/",
+      "currentNotes": 1,
+      "reading_links": [
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-1/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-2/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-3/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-4/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-5/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-6/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-7/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-8/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-9/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-10/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-11/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-12/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-13/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-14/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-15/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-16/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-17/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-18/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-19/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-20/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-21/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-22/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-23/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/chapter-24/"
+      ],
+      "text": "All 24 chapters, comprising 1149 existing verse units, have received the Bespoke English editorial pass: 224 revised and 925 retained.",
+      "text_scope": "Exact opening sentence of the current editorial guide read from the rendered DOM.",
+      "reading_links_scope": "Complete 24-chapter sequence observed on the index; duplicate lists and introductory feature links omitted from this record.",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "SHA-256 of the ordered JSON array of [verse ID, displayed text] pairs, encoded as UTF-8. The visible verse-number span and sup footnote callouts are excluded; only whitespace and WordPress curly-apostrophe typography are normalized. All other text and order must match.",
+    "visual_capture": "Rendered DOM text and navigation checked for all 24 chapters and the index. The index and Luke 15 were visually inspected in screenshots; the Bespoke index status, chapter reader, navigation and study layout were legible. Whole-book screenshot inspection is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 3848,
+      "title": "Luke — Saints Translation and KJV",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/comparison-edition/",
+      "before_content_hash": "0fe561de7b402adef7e816e97cff277243ee20cb",
+      "after_content_hash": "0fe561de7b402adef7e816e97cff277243ee20cb",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3849,
+      "title": "Luke — Saints Translation and KJV · Part 2",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/comparison-edition-part-2/",
+      "before_content_hash": "fb8eb475d70046678f2156bfa0fba707eea7db8f",
+      "after_content_hash": "fb8eb475d70046678f2156bfa0fba707eea7db8f",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20757,
+      "title": "Luke — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/luke/vulgate-comparison/",
+      "before_content_hash": "ce26dda150c0f68a652af2b87d02ad2e2aea3247",
+      "after_content_hash": "ce26dda150c0f68a652af2b87d02ad2e2aea3247",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 1149,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 25 edited pages and all 3 reference pages, plus 3 reference hash snapshots. This is a book archive, not a full-site backup."
+}

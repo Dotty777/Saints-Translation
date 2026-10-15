@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 45,
-  "pending_book_revisions": 25,
-  "next_book": "Luke",
+  "completed_book_records": 46,
+  "pending_book_revisions": 24,
+  "next_book": "John",
   "full_bible_complete": false,
   "books": [
     {
@@ -480,8 +480,12 @@
       "order": 46,
       "book": "Luke",
       "staging_path": "/bible/salvation/luke/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "luke/",
+      "chapters": 24,
+      "reading_sections": 24,
+      "verse_units": 1149,
+      "wording_changes": 224
     },
     {
       "order": 47,
@@ -657,10 +661,11 @@
     "division": "Salvation",
     "completed_books": [
       "Matthew",
-      "Mark"
+      "Mark",
+      "Luke"
     ],
-    "pending_books": 2,
-    "next_book": "Luke",
+    "pending_books": 1,
+    "next_book": "John",
     "status": "English editorial and staging complete for listed books; specialist review pending"
   },
   "completed_divisions": [
@@ -698,9 +703,13 @@
       "Mark": {
         "staging_changes": 17,
         "status": "All 16 chapters and index saved and verified; 673 rendered verse units matched the reviewed draft; 124 wording changes."
+      },
+      "Luke": {
+        "staging_changes": 25,
+        "status": "All 24 chapters and index saved and verified; 1,149 rendered verse units matched the reviewed draft; 224 wording changes."
       }
     }
   },
-  "new_testament_completed_book_records": 2,
-  "new_testament_pending_book_revisions": 25
+  "new_testament_completed_book_records": 3,
+  "new_testament_pending_book_revisions": 24
 }
