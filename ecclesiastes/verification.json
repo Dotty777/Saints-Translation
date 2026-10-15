@@ -1,0 +1,2189 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 222 existing English verse units individually read and editorially reviewed; approved as a provisional staging revision.",
+    "chapters": 12,
+    "reading_sections": 12,
+    "changed_verse_units": 116,
+    "source_scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "434b6a3e5b2aa41d20939b91fa497bf5eac5f843610f206219ef76e455a4db42"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 18,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 26,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 22,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 17,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 5,
+      "chapter": 5,
+      "verse_units": 19,
+      "changed": 13,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 6,
+      "chapter": 6,
+      "verse_units": 12,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 7,
+      "chapter": 7,
+      "verse_units": 29,
+      "changed": 11,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 8,
+      "chapter": 8,
+      "verse_units": 17,
+      "changed": 15,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 9,
+      "chapter": 9,
+      "verse_units": 18,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 10,
+      "chapter": 10,
+      "verse_units": 20,
+      "changed": 11,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 11,
+      "chapter": 11,
+      "verse_units": 10,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 12,
+      "chapter": 12,
+      "verse_units": 14,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 2529,
+      "chapter": 1,
+      "modified": "2026-10-14T22:10:08",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "3c0101f47eb33418b2f9700e2076f1cc0fa60209c3a2d8137d52e033737b77f5"
+    },
+    {
+      "id": 2511,
+      "chapter": 2,
+      "modified": "2026-10-14T22:10:14",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "752383e3d49a9eab7832aaa17399a70b4404c6c708bb26b872befd16a92c4c33"
+    },
+    {
+      "id": 2523,
+      "chapter": 3,
+      "modified": "2026-10-14T22:10:20",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "5375ea372e6b6c4d33f2fd386b2dc468f6be7dacff3940e87497e02343320a39"
+    },
+    {
+      "id": 2517,
+      "chapter": 4,
+      "modified": "2026-10-14T22:10:27",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "125b8b3f16e831fafef719ed9a11c4fd20651f018227a30e71457e99fb3511c2"
+    },
+    {
+      "id": 2534,
+      "chapter": 5,
+      "modified": "2026-10-14T22:11:11",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "330cbd60e12f5e8fc19afa2378cfa49e340d5813bc7e01de0b4641db7ef1b81f"
+    },
+    {
+      "id": 2539,
+      "chapter": 6,
+      "modified": "2026-10-14T22:11:16",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "f2e569d829568527408b32e6cf26fbcc500f6f9199c25c8740e8b7bd3d4ce0d3"
+    },
+    {
+      "id": 2543,
+      "chapter": 7,
+      "modified": "2026-10-14T22:11:22",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "9d147e7baf6ca7d35a4363494a57b1dd9fddbf081186692335122f55da3de75f"
+    },
+    {
+      "id": 2546,
+      "chapter": 8,
+      "modified": "2026-10-14T22:11:28",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "eb4142f1a4c68fd5564b65b22aac7080fbfd2f665d7e0a774d89e148da755164"
+    },
+    {
+      "id": 2551,
+      "chapter": 9,
+      "modified": "2026-10-14T22:11:34",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "5346f0697550a16109a1cfef86fc90ed697388a23811083a9ace9591462c6c2c"
+    },
+    {
+      "id": 2557,
+      "chapter": 10,
+      "modified": "2026-10-14T22:12:21",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "d3eb02dd56da6922026f42d9529b1fcfcaecc09a185b8fe2e788072294a1a7b8"
+    },
+    {
+      "id": 2561,
+      "chapter": 11,
+      "modified": "2026-10-14T22:12:26",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "876ddb3d96b4d5890e120208b36603268b34841c6196e006e063da1161f0756a"
+    },
+    {
+      "id": 2565,
+      "chapter": 12,
+      "modified": "2026-10-14T22:12:31",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "f6be7cf6abb4700c2015a49d791d7159d44ecd55295c3f5d0bc6a907c5f9ed61"
+    },
+    {
+      "id": 2498,
+      "chapter": 0,
+      "modified": "2026-10-14T22:12:36",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "7d79c60c0253d8162835360865b6cd725ebae3ffd6f8198f144404fb8d27d992"
+    }
+  ],
+  "browser_checks": {
+    "chapters": [
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-2/",
+            "label": "Next chapter, Ecclesiastes 2",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/proverbs/chapter-31-source-block-2/",
+            "text": "← Proverbs 31:10–31"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/",
+            "text": "Ecclesiastes: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-2/",
+            "text": "Ecclesiastes 2 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/ecclesiastes/1/",
+            "text": "All 184 cross-references for Ecclesiastes 1, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v1-1",
+            "text": "1:1 The words of Ecclesiastes, son of David, king of Israel in Jerusalem."
+          },
+          {
+            "id": "v1-2",
+            "text": "1:2 Futility of futilities, said Ecclesiastes; futility of futilities, everything is futility."
+          },
+          {
+            "id": "v1-3",
+            "text": "1:3What surplus has a person in all his toil at which he toils beneath the sun?"
+          },
+          {
+            "id": "v1-4",
+            "text": "1:4A generation goes, and a generation comes, but the earth stands for ever."
+          },
+          {
+            "id": "v1-5",
+            "text": "1:5The sun rises, and the sun sets, and draws toward its place."
+          },
+          {
+            "id": "v1-6",
+            "text": "1:6Rising there, it goes toward the south and circles toward the north. Round and round the wind goes, and on its circuits the wind returns."
+          },
+          {
+            "id": "v1-7",
+            "text": "1:7 All the streams go to the sea, yet the sea will not be filled. To the place where the streams go, there they return to go again."
+          },
+          {
+            "id": "v1-8",
+            "text": "1:8 All words are wearisome; a man will not be able to speak. The eye will not be filled with seeing, nor the ear filled with hearing."
+          },
+          {
+            "id": "v1-9",
+            "text": "1:9What has come to be is what will come to be, and what has been done is what will be done; there is nothing fresh beneath the sun."
+          },
+          {
+            "id": "v1-10",
+            "text": "1:10If anyone speaks and says, “Behold, this is new,” it has already come to be in the ages that were before us."
+          },
+          {
+            "id": "v1-11",
+            "text": "1:11 There is no remembrance of the first ones, nor will the last ones who have come to be have remembrance among those who will come at the end."
+          },
+          {
+            "id": "v1-12",
+            "text": "1:12 I, Ecclesiastes, became king over Israel in Jerusalem."
+          },
+          {
+            "id": "v1-13",
+            "text": "1:13 I set my heart to seek out and examine by wisdom everything that happens beneath heaven, for God gave human beings a grievous distraction to be distracted by."
+          },
+          {
+            "id": "v1-14",
+            "text": "1:14 I saw all the works done beneath the sun, and behold, everything is futility and resolve of spirit."
+          },
+          {
+            "id": "v1-15",
+            "text": "1:15 What is twisted cannot be put in order, and what is lacking cannot be counted."
+          },
+          {
+            "id": "v1-16",
+            "text": "1:16 I spoke in my heart, saying: Behold, I became great and added wisdom beyond everyone who was in Jerusalem before me, and my heart saw much—wisdom and knowledge."
+          },
+          {
+            "id": "v1-17",
+            "text": "1:17 I set my heart to know wisdom and knowledge; I came to know comparisons and understanding, for this too is resolve of spirit."
+          },
+          {
+            "id": "v1-18",
+            "text": "1:18For in much wisdom is much knowledge, and whoever increases knowledge will increase pain."
+          }
+        ],
+        "chapter": 1,
+        "section": 1,
+        "page_id": 2529,
+        "title": "Ecclesiastes 1",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-1/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Ecclesiastes 1"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-1/",
+            "label": "Previous chapter, Ecclesiastes 1",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-3/",
+            "label": "Next chapter, Ecclesiastes 3",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-1/",
+            "text": "← Ecclesiastes 1"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/",
+            "text": "Ecclesiastes: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-3/",
+            "text": "Ecclesiastes 3 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/ecclesiastes/2/",
+            "text": "All 315 cross-references for Ecclesiastes 2, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v2-1",
+            "text": "2:1I said in my heart: Come now, I will test you with gladness; experience good. But behold, this too was futility."
+          },
+          {
+            "id": "v2-2",
+            "text": "2:2Of laughter I said, “Delirium!” And to gladness, “What are you doing?”"
+          },
+          {
+            "id": "v2-3",
+            "text": "2:3 I examined in my heart how to draw my flesh toward wine—while my heart guided me with wisdom—and how to take hold of folly, until I might see what good human beings should do beneath the sun during the numbered days of their lives."
+          },
+          {
+            "id": "v2-4",
+            "text": "2:4 I enlarged my work; I built houses for myself and planted vineyards for myself,"
+          },
+          {
+            "id": "v2-5",
+            "text": "2:5 I made gardens and parks for myself and planted in them every kind of fruit tree."
+          },
+          {
+            "id": "v2-6",
+            "text": "2:6 I made pools of water for myself to irrigate from them a woodland sprouting trees."
+          },
+          {
+            "id": "v2-7",
+            "text": "2:7 I acquired male and female slaves, and I had slaves born in my house. I also had a great possession of herds and flocks, beyond everyone who was before me in Jerusalem."
+          },
+          {
+            "id": "v2-8",
+            "text": "2:8 I also gathered silver and gold for myself, and the riches of kings and regions. I provided male and female singers for myself, and human delights—a male cupbearer and female cupbearers."
+          },
+          {
+            "id": "v2-9",
+            "text": "2:9 I grew great and surpassed everyone who was before me in Jerusalem; my wisdom also remained with me."
+          },
+          {
+            "id": "v2-10",
+            "text": "2:10Whatever my eyes asked for, I did not withhold from them. I did not keep my heart from any gladness, for my heart rejoiced in all my toil, and this was my portion from all my toil."
+          },
+          {
+            "id": "v2-11",
+            "text": "2:11 Then I looked upon all my works that my hands had done and the toil with which I had labored to do them, and behold, everything was futility and resolve of spirit, with no surplus beneath the sun."
+          },
+          {
+            "id": "v2-12",
+            "text": "2:12 Then I looked to consider wisdom, delirium and folly. For who is the person who will come after the counsel—all the things with which he made it?"
+          },
+          {
+            "id": "v2-13",
+            "text": "2:13I saw that wisdom has an advantage over folly, like the advantage light has over darkness."
+          },
+          {
+            "id": "v2-14",
+            "text": "2:14The wise person’s eyes are in his head, but the fool walks in darkness. Yet I too knew that one event will happen to them all."
+          },
+          {
+            "id": "v2-15",
+            "text": "2:15I said in my heart: The fool’s fate will happen to me too. Why have I been wise? Then I spoke excessively in my heart, because a fool speaks from excess, for this too is futility."
+          },
+          {
+            "id": "v2-16",
+            "text": "2:16 For there is no enduring remembrance of the wise person along with the fool; in the coming days everything will already be forgotten. How will the wise person die along with the fool?"
+          },
+          {
+            "id": "v2-17",
+            "text": "2:17 I hated life, because the work done beneath the sun was grievous to me, for everything is futility and resolve of spirit."
+          },
+          {
+            "id": "v2-18",
+            "text": "2:18I hated all my toil with which I toil beneath the sun, because I leave it to the person who comes after me."
+          },
+          {
+            "id": "v2-19",
+            "text": "2:19Who knows whether he will be wise or foolish? Yet he has authority over all the toil with which I labored and acted wisely beneath the sun. This too is futility."
+          },
+          {
+            "id": "v2-20",
+            "text": "2:20 I turned to bid my heart farewell concerning all the toil with which I had labored beneath the sun,"
+          },
+          {
+            "id": "v2-21",
+            "text": "2:21 for a person may toil with wisdom, knowledge and courage, yet will give his portion to someone who did not toil for it. This too is futility and a great evil."
+          },
+          {
+            "id": "v2-22",
+            "text": "2:22For what comes to a person from all his toil and the resolve of his heart with which he toils beneath the sun?"
+          },
+          {
+            "id": "v2-23",
+            "text": "2:23For all his days are pain, and his distraction is anger; even at night his heart does not sleep. This too is futility."
+          },
+          {
+            "id": "v2-24",
+            "text": "2:24There is no good in a person. What he will eat and drink and let his soul see as good in his toil—I saw that this too is from the hand of God."
+          },
+          {
+            "id": "v2-25",
+            "text": "2:25 For who will eat, and who will abstain, apart from Him?"
+          },
+          {
+            "id": "v2-26",
+            "text": "2:26For to the person who is good before Him He gave wisdom, knowledge and gladness; but to the sinner He gave the distraction of adding and gathering, to give to the one who is good before God. This too is futility and resolve of spirit."
+          }
+        ],
+        "chapter": 2,
+        "section": 2,
+        "page_id": 2511,
+        "title": "Ecclesiastes 2",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-2/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Ecclesiastes 2"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-2/",
+            "label": "Previous chapter, Ecclesiastes 2",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-4/",
+            "label": "Next chapter, Ecclesiastes 4",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-2/",
+            "text": "← Ecclesiastes 2"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/",
+            "text": "Ecclesiastes: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-4/",
+            "text": "Ecclesiastes 4 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/ecclesiastes/3/",
+            "text": "All 350 cross-references for Ecclesiastes 3, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v3-1",
+            "text": "3:1 For all things there is a time, and a season for every matter beneath heaven."
+          },
+          {
+            "id": "v3-2",
+            "text": "3:2 a time to give birth and a time to die, a time to plant and a time to uproot what is planted,"
+          },
+          {
+            "id": "v3-3",
+            "text": "3:3 a time to kill and a time to heal, a time to pull down and a time to build,"
+          },
+          {
+            "id": "v3-4",
+            "text": "3:4 a time to weep and a time to laugh, a time to beat the breast in mourning and a time to dance,"
+          },
+          {
+            "id": "v3-5",
+            "text": "3:5 a time to throw stones and a time to gather stones, a time to embrace and a time to keep far from embracing,"
+          },
+          {
+            "id": "v3-6",
+            "text": "3:6 a time to seek and a time to lose, a time to keep and a time to throw away,"
+          },
+          {
+            "id": "v3-7",
+            "text": "3:7 a time to tear and a time to sew, a time to be silent and a time to speak,"
+          },
+          {
+            "id": "v3-8",
+            "text": "3:8 a time to love and a time to hate, a time of war and a time of peace."
+          },
+          {
+            "id": "v3-9",
+            "text": "3:9What surplus does the worker gain from the things for which he toils?"
+          },
+          {
+            "id": "v3-10",
+            "text": "3:10I saw the distraction God has given human beings to be distracted by."
+          },
+          {
+            "id": "v3-11",
+            "text": "3:11He has made everything beautiful in its time. He has also put the age in their hearts, so that human beings may not find out the work God has done from beginning to end."
+          },
+          {
+            "id": "v3-12",
+            "text": "3:12 I knew that there is no good for them except to rejoice and do good during one’s life."
+          },
+          {
+            "id": "v3-13",
+            "text": "3:13Moreover, whenever a person eats and drinks and sees good in all his toil, this is God’s gift."
+          },
+          {
+            "id": "v3-14",
+            "text": "3:14I knew that everything God has done will endure for ever. Nothing can be added to it, and nothing taken from it; God has done this so that people may fear before Him."
+          },
+          {
+            "id": "v3-15",
+            "text": "3:15What has come to be already is, and whatever is to come has already come to be; God will seek the one who is pursued."
+          },
+          {
+            "id": "v3-16",
+            "text": "3:16 Again I saw beneath the sun: in the place of judgment, the ungodly person was there; in the righteous person’s place, the ungodly person was there."
+          },
+          {
+            "id": "v3-17",
+            "text": "3:17 I said in my heart: God will judge the righteous and the ungodly, for there is a time for every matter and for every work."
+          },
+          {
+            "id": "v3-18",
+            "text": "3:18 There I said in my heart concerning human beings’ speech: God will distinguish them and show that they themselves are beasts, even to themselves."
+          },
+          {
+            "id": "v3-19",
+            "text": "3:19For the fate of human beings and the fate of the beast is one fate for them: as one dies, so the other dies, and all have one breath. What advantage has a human being over the beast? None, for everything is futility."
+          },
+          {
+            "id": "v3-20",
+            "text": "3:20 All go to one place; all came from dust, and all return to dust."
+          },
+          {
+            "id": "v3-21",
+            "text": "3:21Who knows whether the spirit of human beings goes upward, and whether the spirit of the beast goes down into the earth?"
+          },
+          {
+            "id": "v3-22",
+            "text": "3:22 I saw that there is no good except for a person to rejoice in his works, for that is his portion. For who will bring him to see what may happen after him?"
+          }
+        ],
+        "chapter": 3,
+        "section": 3,
+        "page_id": 2523,
+        "title": "Ecclesiastes 3",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-3/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Ecclesiastes 3"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-3/",
+            "label": "Previous chapter, Ecclesiastes 3",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-5/",
+            "label": "Next chapter, Ecclesiastes 5",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-3/",
+            "text": "← Ecclesiastes 3"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/",
+            "text": "Ecclesiastes: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-5/",
+            "text": "Ecclesiastes 5 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/ecclesiastes/4/",
+            "text": "All 191 cross-references for Ecclesiastes 4, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v4-1",
+            "text": "4:1 Again I turned and saw all the extortions committed beneath the sun. Behold, the tears of those being extorted, with no one to comfort them! Power was in their extorters’ hands, and they had no one to comfort them."
+          },
+          {
+            "id": "v4-2",
+            "text": "4:2 I praised the dead, who had already died, above the living, who are alive until now."
+          },
+          {
+            "id": "v4-3",
+            "text": "4:3Better than these two is the one who has not yet come to be, who has not seen the evil work done beneath the sun."
+          },
+          {
+            "id": "v4-4",
+            "text": "4:4 I saw all toil and all courage in work: it is a person’s rivalry with his companion. This too is futility and resolve of spirit."
+          },
+          {
+            "id": "v4-5",
+            "text": "4:5 The fool folded his hands and ate his own flesh."
+          },
+          {
+            "id": "v4-6",
+            "text": "4:6 Better a handful of rest than two handfuls of toil and resolve of spirit."
+          },
+          {
+            "id": "v4-7",
+            "text": "4:7 Again I turned and saw futility beneath the sun."
+          },
+          {
+            "id": "v4-8",
+            "text": "4:8 There is one person with no second, with neither son nor brother. There is no end to all his toil, and his eye is not filled with wealth. For whom am I toiling and depriving my soul of goodness? This too is futility and a grievous distraction."
+          },
+          {
+            "id": "v4-9",
+            "text": "4:9 Two are better than one, because they have a good reward for their toil."
+          },
+          {
+            "id": "v4-10",
+            "text": "4:10For if they fall, one will lift his partner. But woe to the one who falls with no second person to lift him!"
+          },
+          {
+            "id": "v4-11",
+            "text": "4:11 Also, if two lie down, they have warmth; but how can one be warm alone?"
+          },
+          {
+            "id": "v4-12",
+            "text": "4:12If the one gains strength, the two will stand against him; a threefold cord is not quickly torn apart."
+          },
+          {
+            "id": "v4-13",
+            "text": "4:13Better a poor and wise youth than an older and foolish king who no longer knows how to pay attention,"
+          },
+          {
+            "id": "v4-14",
+            "text": "4:14 for he will come from the prisoners’ house to reign, though he was born poor in his kingdom."
+          },
+          {
+            "id": "v4-15",
+            "text": "4:15 I saw all the living who walk beneath the sun with the second young man who will stand in his place,"
+          },
+          {
+            "id": "v4-16",
+            "text": "4:16 there was no end to all the people, all who came before them; yet those who come last will not rejoice in him. This too is futility and resolve of spirit."
+          },
+          {
+            "id": "v4-17",
+            "text": "4:17Guard your foot when you go to God’s house, and be near to listen. Your sacrifice is better than the fools’ gift, for they do not know how to do evil."
+          }
+        ],
+        "chapter": 4,
+        "section": 4,
+        "page_id": 2517,
+        "title": "Ecclesiastes 4",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-4/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Ecclesiastes 4"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-4/",
+            "label": "Previous chapter, Ecclesiastes 4",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-6/",
+            "label": "Next chapter, Ecclesiastes 6",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-4/",
+            "text": "← Ecclesiastes 4"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/",
+            "text": "Ecclesiastes: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-6/",
+            "text": "Ecclesiastes 6 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/ecclesiastes/5/",
+            "text": "All 274 cross-references for Ecclesiastes 5, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v5-1",
+            "text": "5:1Do not be hasty with your mouth, and do not let your heart hurry to bring out a word before God, for God is in heaven and you are on earth. Therefore let your words be few."
+          },
+          {
+            "id": "v5-2",
+            "text": "5:2For a dream comes with much distraction, and a fool’s voice with many words."
+          },
+          {
+            "id": "v5-3",
+            "text": "5:3Whenever you vow a vow to God, do not delay paying it, for there is no delight in fools. Pay whatever you vow."
+          },
+          {
+            "id": "v5-4",
+            "text": "5:4Better that you do not vow than that you vow and do not pay."
+          },
+          {
+            "id": "v5-5",
+            "text": "5:5Do not let your mouth cause your flesh to sin, and do not say before God, “It was ignorance,” lest God become angry at your voice and destroy the works of your hands."
+          },
+          {
+            "id": "v5-6",
+            "text": "5:6 For with many dreams come futilities and many words; therefore fear God."
+          },
+          {
+            "id": "v5-7",
+            "text": "5:7If you see extortion of the poor and robbery of judgment and righteousness in a region, do not be astonished at the matter, for a high official is above another to keep watch, and higher ones are above them."
+          },
+          {
+            "id": "v5-8",
+            "text": "5:8 The land’s surplus is in everything—a king of a cultivated field."
+          },
+          {
+            "id": "v5-9",
+            "text": "5:9Whoever loves silver will not be filled with silver; and who has loved a yield in their abundance? This too is futility."
+          },
+          {
+            "id": "v5-10",
+            "text": "5:10When goodness increased, those who consumed it multiplied. What strength has its possessor except to look at it with his eyes?"
+          },
+          {
+            "id": "v5-11",
+            "text": "5:11Sweet is the slave’s sleep, whether he eats little or much; but being filled with riches does not let him sleep."
+          },
+          {
+            "id": "v5-12",
+            "text": "5:12 There is a sickness I have seen beneath the sun: wealth kept by its possessor to his harm,"
+          },
+          {
+            "id": "v5-13",
+            "text": "5:13 and that wealth will be lost through a grievous distraction, and he fathered a son with nothing in his hand."
+          },
+          {
+            "id": "v5-14",
+            "text": "5:14 As he came naked from his mother’s womb, he will return to depart as he came. He will take nothing from his toil to carry in his hand."
+          },
+          {
+            "id": "v5-15",
+            "text": "5:15This too is a grievous sickness: just as he came, so he will depart. What surplus has he from toiling for the wind?"
+          },
+          {
+            "id": "v5-16",
+            "text": "5:16 All his days are in darkness and mourning, with much anger, sickness and wrath."
+          },
+          {
+            "id": "v5-17",
+            "text": "5:17Behold, what I have seen to be good and fitting is to eat and drink and see goodness in all one’s toil beneath the sun during the numbered days of life God has given, for that is one’s portion."
+          },
+          {
+            "id": "v5-18",
+            "text": "5:18Moreover, every person to whom God has given wealth and possessions, and whom He has empowered to eat from them, take his portion and rejoice in his toil—this is God’s gift."
+          },
+          {
+            "id": "v5-19",
+            "text": "5:19For he will not often remember the days of his life, because God distracts him with the gladness of his heart."
+          }
+        ],
+        "chapter": 5,
+        "section": 5,
+        "page_id": 2534,
+        "title": "Ecclesiastes 5",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-5/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Ecclesiastes 5"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-5/",
+            "label": "Previous chapter, Ecclesiastes 5",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-7/",
+            "label": "Next chapter, Ecclesiastes 7",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-5/",
+            "text": "← Ecclesiastes 5"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/",
+            "text": "Ecclesiastes: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-7/",
+            "text": "Ecclesiastes 7 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/ecclesiastes/6/",
+            "text": "All 141 cross-references for Ecclesiastes 6, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v6-1",
+            "text": "6:1 There is an evil I have seen beneath the sun, and it is great upon human beings:"
+          },
+          {
+            "id": "v6-2",
+            "text": "6:2a person to whom God will give wealth, possessions and glory, so that his soul lacks nothing it desires, yet God will not empower him to eat from it, for a stranger will eat it. This is futility and a grievous sickness."
+          },
+          {
+            "id": "v6-3",
+            "text": "6:3If a man fathers a hundred children and lives many years, however numerous the days of his years, but his soul is not filled with goodness and he has no burial, I said a stillborn child is better off than he,"
+          },
+          {
+            "id": "v6-4",
+            "text": "6:4for it came in futility and goes in darkness, and in darkness its name will be covered,"
+          },
+          {
+            "id": "v6-5",
+            "text": "6:5and though it has not seen the sun or known anything, it has more rest than he."
+          },
+          {
+            "id": "v6-6",
+            "text": "6:6 Even if he lived through courses of a thousand years but saw no goodness, do not all go to one place?"
+          },
+          {
+            "id": "v6-7",
+            "text": "6:7 All a person’s toil is for his mouth, yet his appetite will not be filled."
+          },
+          {
+            "id": "v6-8",
+            "text": "6:8For what advantage has the wise person over the fool? For the poor person knows how to walk before life."
+          },
+          {
+            "id": "v6-9",
+            "text": "6:9 Better a sight for the eyes than wandering in appetite. This too is futility and resolve of spirit."
+          },
+          {
+            "id": "v6-10",
+            "text": "6:10Whatever has come to be has already been named, and it is known what a human being is; he will not be able to contend in judgment with one stronger than himself."
+          },
+          {
+            "id": "v6-11",
+            "text": "6:11For many words increase futility; what advantage has a person?"
+          },
+          {
+            "id": "v6-12",
+            "text": "6:12For who knows what is good for a person in life, during the numbered days of his life of futility? He has spent them in a shadow. Who will tell a person what will be after him beneath the sun?"
+          }
+        ],
+        "chapter": 6,
+        "section": 6,
+        "page_id": 2539,
+        "title": "Ecclesiastes 6",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-6/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Ecclesiastes 6"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-6/",
+            "label": "Previous chapter, Ecclesiastes 6",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-8/",
+            "label": "Next chapter, Ecclesiastes 8",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-6/",
+            "text": "← Ecclesiastes 6"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/",
+            "text": "Ecclesiastes: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-8/",
+            "text": "Ecclesiastes 8 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/ecclesiastes/7/",
+            "text": "All 396 cross-references for Ecclesiastes 7, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v7-1",
+            "text": "7:1 A name is better than good oil, and the day of death than the day of one’s birth."
+          },
+          {
+            "id": "v7-2",
+            "text": "7:2 Better to go to a house of mourning than to a house of drinking, for this is the end of every human being, and the living will take it to heart."
+          },
+          {
+            "id": "v7-3",
+            "text": "7:3 Anger is better than laughter, for through a troubled face the heart will become better."
+          },
+          {
+            "id": "v7-4",
+            "text": "7:4 The heart of the wise is in the house of mourning, but the heart of fools is in the house of gladness."
+          },
+          {
+            "id": "v7-5",
+            "text": "7:5 Better to hear a wise person’s rebuke than to be someone listening to the song of fools,"
+          },
+          {
+            "id": "v7-6",
+            "text": "7:6 for like the sound of thorns beneath a cauldron, so is the laughter of fools. This too is futility."
+          },
+          {
+            "id": "v7-7",
+            "text": "7:7For extortion drives a wise person astray and destroys the heart of his vigor."
+          },
+          {
+            "id": "v7-8",
+            "text": "7:8 The end of words is better than their beginning; a patient person is better than one high in spirit."
+          },
+          {
+            "id": "v7-9",
+            "text": "7:9Do not be hasty in your spirit to become angry, for anger will rest in the bosom of fools."
+          },
+          {
+            "id": "v7-10",
+            "text": "7:10Do not say, “What happened that the former days were better than these?” For it was not in wisdom that you asked about this."
+          },
+          {
+            "id": "v7-11",
+            "text": "7:11 Wisdom is good with an inheritance, and an advantage to those who behold the sun."
+          },
+          {
+            "id": "v7-12",
+            "text": "7:12 For wisdom in its shade is like the shade of silver, and the advantage of the knowledge of wisdom will give life to its possessor."
+          },
+          {
+            "id": "v7-13",
+            "text": "7:13Consider God’s works, for who can put in order the one whom God has twisted?"
+          },
+          {
+            "id": "v7-14",
+            "text": "7:14On a day of goodness, live in good; on a day of evil, consider: God has made this in accord with that concerning speech, so that human beings may find out nothing that comes after them."
+          },
+          {
+            "id": "v7-15",
+            "text": "7:15 I have seen everything in my days of futility: a righteous person perishing in his righteousness, and an ungodly person remaining in his evil."
+          },
+          {
+            "id": "v7-16",
+            "text": "7:16Do not become overly righteous, and do not be excessively wise, lest you be bewildered."
+          },
+          {
+            "id": "v7-17",
+            "text": "7:17Do not be greatly ungodly, and do not become harsh, lest you die before your time."
+          },
+          {
+            "id": "v7-18",
+            "text": "7:18It is good for you to hold to this and also not release your hand from that, for the one who fears God will come through them all."
+          },
+          {
+            "id": "v7-19",
+            "text": "7:19 Wisdom will help the wise person more than ten rulers who are in the city,"
+          },
+          {
+            "id": "v7-20",
+            "text": "7:20 for there is no righteous person on earth who will do good and not sin."
+          },
+          {
+            "id": "v7-21",
+            "text": "7:21Also, do not set your heart upon every word people speak, so that you may not hear your slave cursing you,"
+          },
+          {
+            "id": "v7-22",
+            "text": "7:22for very often he will wrong you, and many times he will hurt your heart, just as you too have cursed others."
+          },
+          {
+            "id": "v7-23",
+            "text": "7:23All this I tested by wisdom. I said, “I will be wise,”"
+          },
+          {
+            "id": "v7-24",
+            "text": "7:24 but it moved far away from me, farther than it was; and depth is deep—who can find it?"
+          },
+          {
+            "id": "v7-25",
+            "text": "7:25 I turned, I and my heart, to know, examine and seek wisdom and a reckoning, and to know an ungodly person’s folly, harshness and delirium."
+          },
+          {
+            "id": "v7-26",
+            "text": "7:26 I find more bitter than death the woman who is traps, whose heart is nets and whose hands are bonds. The one who is good before God will be rescued from her, but the sinner will be caught by her."
+          },
+          {
+            "id": "v7-27",
+            "text": "7:27 Behold, this I found, said Ecclesiastes, one thing alongside another, to find a reckoning,"
+          },
+          {
+            "id": "v7-28",
+            "text": "7:28 which my soul still sought but I did not find. One man among a thousand I found, but a woman among all these I did not find."
+          },
+          {
+            "id": "v7-29",
+            "text": "7:29 Only behold, this I found: God made humankind upright, but they sought many reasonings."
+          }
+        ],
+        "chapter": 7,
+        "section": 7,
+        "page_id": 2543,
+        "title": "Ecclesiastes 7",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-7/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Ecclesiastes 7"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-7/",
+            "label": "Previous chapter, Ecclesiastes 7",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-9/",
+            "label": "Next chapter, Ecclesiastes 9",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-7/",
+            "text": "← Ecclesiastes 7"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/",
+            "text": "Ecclesiastes: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-9/",
+            "text": "Ecclesiastes 9 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/ecclesiastes/8/",
+            "text": "All 236 cross-references for Ecclesiastes 8, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v8-1",
+            "text": "8:1Who knows wise people, and who knows the solution of a saying? A person’s wisdom will light up his face, but one with a shameless face will be hated."
+          },
+          {
+            "id": "v8-2",
+            "text": "8:2 Guard the king’s mouth; and concerning the word of an oath of God, do not hurry."
+          },
+          {
+            "id": "v8-3",
+            "text": "8:3You will go from his presence. Do not stand in an evil matter, for he will do whatever he pleases,"
+          },
+          {
+            "id": "v8-4",
+            "text": "8:4just as a king with authority speaks; and who will say to him, “What will you do?”"
+          },
+          {
+            "id": "v8-5",
+            "text": "8:5Whoever keeps a command will know no evil word, and a wise heart knows a time of judgment."
+          },
+          {
+            "id": "v8-6",
+            "text": "8:6For every matter has a time and judgment, because a person’s knowledge is great upon him."
+          },
+          {
+            "id": "v8-7",
+            "text": "8:7For he does not know what will be; who will tell him how it will be?"
+          },
+          {
+            "id": "v8-8",
+            "text": "8:8No human being has authority over the spirit to restrain the spirit, and there is no authority over the day of death. There is no discharge in war, and ungodliness will not rescue the one who possesses it."
+          },
+          {
+            "id": "v8-9",
+            "text": "8:9All this I saw, and I set my heart upon every deed done under the sun, all the things in which one person had authority over another to his harm."
+          },
+          {
+            "id": "v8-10",
+            "text": "8:10 Then I saw ungodly people brought into tombs; they went from the holy place and were praised in the city because they had acted so. This too is futility."
+          },
+          {
+            "id": "v8-11",
+            "text": "8:11Because no prompt contradiction comes from those who do evil, the heart of human beings therefore became fully assured in them to do evil."
+          },
+          {
+            "id": "v8-12",
+            "text": "8:12The sinner has done evil from then, and there is length for him; for I know that it will be good for those who fear God, so that they may fear before Him."
+          },
+          {
+            "id": "v8-13",
+            "text": "8:13But it will not be good for the ungodly, and he will not prolong his days in a shadow, because he does not fear before God."
+          },
+          {
+            "id": "v8-14",
+            "text": "8:14There is a futility that occurs on earth: there are righteous people to whom things happen as the deeds of the ungodly deserve, and ungodly people to whom things happen as the deeds of the righteous deserve. I said that this too is futility."
+          },
+          {
+            "id": "v8-15",
+            "text": "8:15So I praised gladness, because a person has no good under the sun except to eat, drink and rejoice; this will accompany him in his toil through the days of his life that God gave him under the sun."
+          },
+          {
+            "id": "v8-16",
+            "text": "8:16When I set my heart to know wisdom and to see the distraction carried on upon the earth, because neither by day nor by night does one see sleep with one’s eyes,"
+          },
+          {
+            "id": "v8-17",
+            "text": "8:17then I saw all God’s works: a person cannot find the work done under the sun. However much a person toils to seek it, he will not find it; even if the wise person says he knows, he will not be able to find it."
+          }
+        ],
+        "chapter": 8,
+        "section": 8,
+        "page_id": 2546,
+        "title": "Ecclesiastes 8",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-8/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Ecclesiastes 8"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-8/",
+            "label": "Previous chapter, Ecclesiastes 8",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-10/",
+            "label": "Next chapter, Ecclesiastes 10",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-8/",
+            "text": "← Ecclesiastes 8"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/",
+            "text": "Ecclesiastes: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-10/",
+            "text": "Ecclesiastes 10 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/ecclesiastes/9/",
+            "text": "All 253 cross-references for Ecclesiastes 9, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v9-1",
+            "text": "9:1For I set all this upon my heart, and my heart saw all this: the righteous, the wise and their works are in God’s hand. A person knows neither love nor hatred; everything lies before them."
+          },
+          {
+            "id": "v9-2",
+            "text": "9:2There is futility in everything: one event comes to the righteous and the ungodly, to the good and the bad, to the clean and the unclean, to the one who sacrifices and the one who does not sacrifice. As the good person, so the sinner; as the one who swears, so the one who fears an oath."
+          },
+          {
+            "id": "v9-3",
+            "text": "9:3This is an evil in all that is done under the sun: one event comes to everyone. Moreover, the heart of human beings is full of evil, and delirium is in their heart during their lives; afterward they go to the dead."
+          },
+          {
+            "id": "v9-4",
+            "text": "9:4Who shares with all the living? There is hope, for a living dog is better than a dead lion."
+          },
+          {
+            "id": "v9-5",
+            "text": "9:5For the living will know that they will die, but the dead know nothing; they have no further reward, for their memory is forgotten."
+          },
+          {
+            "id": "v9-6",
+            "text": "9:6 Their love, their hatred and their envy have already perished; they have no further share for ever in anything done under the sun."
+          },
+          {
+            "id": "v9-7",
+            "text": "9:7Come, eat your bread with gladness and drink your wine with a good heart, for God has already favored your deeds."
+          },
+          {
+            "id": "v9-8",
+            "text": "9:8Let your garments be white at all times, and let oil not be lacking on your head."
+          },
+          {
+            "id": "v9-9",
+            "text": "9:9Enjoy life with the woman whom you have loved, all the days of your futile life that have been given you under the sun, all your futile days; for this is your share in life and in your toil at which you toil under the sun."
+          },
+          {
+            "id": "v9-10",
+            "text": "9:10Whatever your hand finds to do, do it with your strength, for there is no deed, reckoning, knowledge or wisdom in Hades, where you are going."
+          },
+          {
+            "id": "v9-11",
+            "text": "9:11Again I saw under the sun that the race is not to the swift, nor battle to the mighty, nor bread to the wise, nor wealth to those with understanding, nor favor to those with knowledge; for time and encounter will happen to them all."
+          },
+          {
+            "id": "v9-12",
+            "text": "9:12For a person does not know his time: like fish caught in an evil net, and birds caught in a snare, so human beings are trapped at an evil time when it falls upon them suddenly."
+          },
+          {
+            "id": "v9-13",
+            "text": "9:13 This too I saw as wisdom under the sun, and it seemed great to me:"
+          },
+          {
+            "id": "v9-14",
+            "text": "9:14 There was a small city with few people in it; a great king might come against it, surround it and build great siegeworks against it,"
+          },
+          {
+            "id": "v9-15",
+            "text": "9:15 and he might find in it a poor wise man, who will deliver the city by his wisdom; yet no one remembered that poor man."
+          },
+          {
+            "id": "v9-16",
+            "text": "9:16 I said, Wisdom is better than strength; yet the poor man’s wisdom is despised, and his words are not heard."
+          },
+          {
+            "id": "v9-17",
+            "text": "9:17 The words of the wise, heard quietly, are better than the shouting of rulers in follies."
+          },
+          {
+            "id": "v9-18",
+            "text": "9:18Wisdom is better than weapons of war, but one sinner will destroy much good."
+          }
+        ],
+        "chapter": 9,
+        "section": 9,
+        "page_id": 2551,
+        "title": "Ecclesiastes 9",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-9/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Ecclesiastes 9"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-9/",
+            "label": "Previous chapter, Ecclesiastes 9",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-11/",
+            "label": "Next chapter, Ecclesiastes 11",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-9/",
+            "text": "← Ecclesiastes 9"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/",
+            "text": "Ecclesiastes: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-11/",
+            "text": "Ecclesiastes 11 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/ecclesiastes/10/",
+            "text": "All 213 cross-references for Ecclesiastes 10, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v10-1",
+            "text": "10:1 Death-bringing flies will spoil a preparation of fragrant oil; a little wisdom is precious beyond the glory of great folly."
+          },
+          {
+            "id": "v10-2",
+            "text": "10:2 A wise person’s heart is toward his right, but a fool’s heart is toward his left."
+          },
+          {
+            "id": "v10-3",
+            "text": "10:3Even when the fool walks along the road, his heart will be lacking, and everything he considers is folly."
+          },
+          {
+            "id": "v10-4",
+            "text": "10:4If the spirit of one in authority rises against you, do not leave your place, for healing will put great sins to rest."
+          },
+          {
+            "id": "v10-5",
+            "text": "10:5 There is an evil I saw under the sun, like an unintended act proceeding from one in authority:"
+          },
+          {
+            "id": "v10-6",
+            "text": "10:6 the fool was set in great heights, while the rich will sit in a low place."
+          },
+          {
+            "id": "v10-7",
+            "text": "10:7 I saw slaves on horses and rulers walking like slaves upon the ground."
+          },
+          {
+            "id": "v10-8",
+            "text": "10:8Whoever digs a pit will fall into it, and whoever tears down a fence will be bitten by a snake."
+          },
+          {
+            "id": "v10-9",
+            "text": "10:9Whoever lifts stones will be worn out by them; whoever splits wood will be endangered by it."
+          },
+          {
+            "id": "v10-10",
+            "text": "10:10If the iron falls out and he has troubled the face, he will strengthen his forces; and wisdom is the advantage of the courageous man."
+          },
+          {
+            "id": "v10-11",
+            "text": "10:11If the snake bites without a whispered charm, there is no advantage for the charmer."
+          },
+          {
+            "id": "v10-12",
+            "text": "10:12 The words of a wise person’s mouth are gracious, but a fool’s lips will drown him."
+          },
+          {
+            "id": "v10-13",
+            "text": "10:13 The beginning of his mouth’s words is folly, and the end of his speech is evil wandering."
+          },
+          {
+            "id": "v10-14",
+            "text": "10:14The fool multiplies words. A person did not know what happened, and who will tell him what will be after him?"
+          },
+          {
+            "id": "v10-15",
+            "text": "10:15 The toil of fools will weary them, the one who did not know how to go to the city."
+          },
+          {
+            "id": "v10-16",
+            "text": "10:16Woe to you, city, whose king is young and whose rulers eat in the morning!"
+          },
+          {
+            "id": "v10-17",
+            "text": "10:17Blessed are you, land, whose king is a son of free people and whose rulers will eat at the proper time in strength and will not be ashamed!"
+          },
+          {
+            "id": "v10-18",
+            "text": "10:18 Through laziness the roof beams will sink, and through idle hands the house will leak."
+          },
+          {
+            "id": "v10-19",
+            "text": "10:19They make bread for laughter, and wine gladdens the living, and everything will listen to money."
+          },
+          {
+            "id": "v10-20",
+            "text": "10:20Even in your conscience do not curse a king, and in the inner rooms of your bedchambers do not curse a rich person, for a bird of the heavens will carry the sound, and one with wings will report the word."
+          }
+        ],
+        "chapter": 10,
+        "section": 10,
+        "page_id": 2557,
+        "title": "Ecclesiastes 10",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-10/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Ecclesiastes 10"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-10/",
+            "label": "Previous chapter, Ecclesiastes 10",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-12/",
+            "label": "Next chapter, Ecclesiastes 12",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-10/",
+            "text": "← Ecclesiastes 10"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/",
+            "text": "Ecclesiastes: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-12/",
+            "text": "Ecclesiastes 12 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/ecclesiastes/11/",
+            "text": "All 161 cross-references for Ecclesiastes 11, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v11-1",
+            "text": "11:1Send forth your bread upon the face of the water, for after many days you will find it."
+          },
+          {
+            "id": "v11-2",
+            "text": "11:2Give a share to seven, and also to eight, for you do not know what evil will occur upon the earth."
+          },
+          {
+            "id": "v11-3",
+            "text": "11:3If the clouds are full of rain, they pour it upon the earth; and if a tree falls to the south or to the north, in the place where the tree falls, there it will be."
+          },
+          {
+            "id": "v11-4",
+            "text": "11:4Whoever watches the wind will not sow, and whoever looks at the clouds will not reap,"
+          },
+          {
+            "id": "v11-5",
+            "text": "11:5among which no one knows the way of the spirit. As with bones in the womb of the pregnant woman, so you will not know God’s works, all that He will make."
+          },
+          {
+            "id": "v11-6",
+            "text": "11:6In the morning sow your seed, and toward evening do not let your hand rest, for you do not know which will proceed, this or that, or whether both together will be good."
+          },
+          {
+            "id": "v11-7",
+            "text": "11:7 Light is sweet, and it is good for the eyes to see the sun."
+          },
+          {
+            "id": "v11-8",
+            "text": "11:8For even if a person lives many years, he will rejoice in them all and remember the days of darkness, for they will be many. All that comes is futility."
+          },
+          {
+            "id": "v11-9",
+            "text": "11:9Rejoice, young man, in your youth, and let your heart make you glad in the days of your youth. Walk in the ways of your heart and in the sight of your eyes, and know that for all these God will bring you into judgment."
+          },
+          {
+            "id": "v11-10",
+            "text": "11:10Remove anger from your heart and put away evil from your flesh, for youth and lack of understanding are futility."
+          }
+        ],
+        "chapter": 11,
+        "section": 11,
+        "page_id": 2561,
+        "title": "Ecclesiastes 11",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-11/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Ecclesiastes 11"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-11/",
+            "label": "Previous chapter, Ecclesiastes 11",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-1/",
+            "label": "Next chapter, Song of Songs 1",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-11/",
+            "text": "← Ecclesiastes 11"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/",
+            "text": "Ecclesiastes: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/song-of-songs/chapter-1/",
+            "text": "Song of Songs 1 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/ecclesiastes/12/",
+            "text": "All 186 cross-references for Ecclesiastes 12, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v12-1",
+            "text": "12:1Remember the One who created you in the days of your youth, before the days of evil come and the years arrive in which you will say, “I have no desire in them”;"
+          },
+          {
+            "id": "v12-2",
+            "text": "12:2 before the sun, the light, the moon and the stars grow dark, and the clouds return after the rain;"
+          },
+          {
+            "id": "v12-3",
+            "text": "12:3 on the day when the keepers of the house are shaken and the men of strength are bent, when the grinding women have ceased because they have become few and the women looking through the openings grow dark;"
+          },
+          {
+            "id": "v12-4",
+            "text": "12:4when they shut doors in the marketplace as the grinding woman’s voice weakens, and one rises at the sound of a sparrow, and all the daughters of song are brought low;"
+          },
+          {
+            "id": "v12-5",
+            "text": "12:5when they look from a height and terrors are on the road, when the almond blossoms, the locust grows fat and the caperberry is scattered; for the human being went to his everlasting home, and mourners circled in the marketplace;"
+          },
+          {
+            "id": "v12-6",
+            "text": "12:6before the silver cord is overturned, the golden flower ornament is crushed, the jar is broken at the spring and the wheel runs together at the pit;"
+          },
+          {
+            "id": "v12-7",
+            "text": "12:7and the dust returns to the earth as it was, and the spirit returns to God who gave it."
+          },
+          {
+            "id": "v12-8",
+            "text": "12:8 Futility of futilities, said Ecclesiastes; everything is futility."
+          },
+          {
+            "id": "v12-9",
+            "text": "12:9 Besides becoming wise, Ecclesiastes also taught the people knowledge; and an ear will trace out an orderly arrangement of proverbs."
+          },
+          {
+            "id": "v12-10",
+            "text": "12:10 Ecclesiastes sought much to find words of delight and something written in uprightness, words of truth."
+          },
+          {
+            "id": "v12-11",
+            "text": "12:11 The words of the wise are like goads and like planted nails, which were given from collections, from one shepherd, and something beyond them."
+          },
+          {
+            "id": "v12-12",
+            "text": "12:12 My son, beware of making many books; there is no limit, and much study is weariness of the flesh."
+          },
+          {
+            "id": "v12-13",
+            "text": "12:13 The conclusion of the matter—the whole is heard: fear God and keep His commandments, for this is the whole human being."
+          },
+          {
+            "id": "v12-14",
+            "text": "12:14 For God will bring every deed into judgment, concerning everything overlooked, whether good or evil."
+          }
+        ],
+        "chapter": 12,
+        "section": 12,
+        "page_id": 2565,
+        "title": "Ecclesiastes 12",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-12/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Ecclesiastes 12"
+      }
+    ],
+    "index": {
+      "links": [
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-1/",
+          "text": "Chapters 1–2All is vanity: the Preacher’s search"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-3/",
+          "text": "Chapters 3–5Times, toil and worship"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-6/",
+          "text": "Chapters 6–8Limits of wisdom"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-9/",
+          "text": "Chapters 9–12Enjoy life, remember your Creator"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-1/#v1-2",
+          "text": "Ecclesiastes 1:2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-3/#v3-1",
+          "text": "Ecclesiastes 3:1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-12/#v12-13",
+          "text": "Ecclesiastes 12:13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/study/",
+          "text": "Open the Ecclesiastes study edition →"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/#saints-ref-1-1",
+          "text": "[1]"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/#",
+          "text": "Suggest a correction"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-1/",
+          "text": "Begin reading →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-1/",
+          "text": "1Ecclesiastes 1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-2/",
+          "text": "2Ecclesiastes 2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-3/",
+          "text": "3Ecclesiastes 3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-4/",
+          "text": "4Ecclesiastes 4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-5/",
+          "text": "5Ecclesiastes 5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-6/",
+          "text": "6Ecclesiastes 6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-7/",
+          "text": "7Ecclesiastes 7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-8/",
+          "text": "8Ecclesiastes 8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-9/",
+          "text": "9Ecclesiastes 9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-10/",
+          "text": "10Ecclesiastes 10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-11/",
+          "text": "11Ecclesiastes 11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-12/",
+          "text": "12Ecclesiastes 12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/2/",
+          "text": "Begin comparing →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/2/",
+          "text": "1Chapter 1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/3/",
+          "text": "2Chapter 2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/4/",
+          "text": "3Chapter 3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/5/",
+          "text": "4Chapter 4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/6/",
+          "text": "5Chapter 5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/7/",
+          "text": "6Chapter 6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/8/",
+          "text": "7Chapter 7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/9/",
+          "text": "8Chapter 8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/10/",
+          "text": "9Chapter 9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/11/",
+          "text": "10Chapter 10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/12/",
+          "text": "11Chapter 11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/13/",
+          "text": "12Chapter 12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/",
+          "text": "Jewish–Hebrew Masoretic TextCompared with the Saints TranslationOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/vulgate-comparison/",
+          "text": "Catholic Latin VulgateCompared with the Saints TranslationOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/kjv-comparison/",
+          "text": "Protestant King James BibleCompared with the Saints TranslationOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/kjv-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/kjv-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/kjv-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/kjv-comparison/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/kjv-comparison/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/kjv-comparison/7/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/kjv-comparison/8/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/kjv-comparison/9/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/kjv-comparison/10/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/kjv-comparison/11/",
+          "text": "10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/kjv-comparison/12/",
+          "text": "11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/kjv-comparison/13/",
+          "text": "12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/7/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/8/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/9/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/10/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/11/",
+          "text": "10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/12/",
+          "text": "11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/13/",
+          "text": "12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/vulgate-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/vulgate-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/vulgate-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/vulgate-comparison/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/vulgate-comparison/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/vulgate-comparison/7/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/vulgate-comparison/8/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/vulgate-comparison/9/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/vulgate-comparison/10/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/vulgate-comparison/11/",
+          "text": "10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/vulgate-comparison/12/",
+          "text": "11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/vulgate-comparison/13/",
+          "text": "12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-1/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-2/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-3/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-4/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-5/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-6/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-7/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-8/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-9/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-10/",
+          "text": "10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-11/",
+          "text": "11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-12/",
+          "text": "12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/editorial-guide/",
+          "text": "Read the editorial guide for Ecclesiastes →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-1/",
+          "text": "Chapters 1–2All is vanity: the Preacher’s search"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-3/",
+          "text": "Chapters 3–5Times, toil and worship"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-6/",
+          "text": "Chapters 6–8Limits of wisdom"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-9/",
+          "text": "Chapters 9–12Enjoy life, remember your Creator"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-1/#v1-2",
+          "text": "Ecclesiastes 1:2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-3/#v3-1",
+          "text": "Ecclesiastes 3:1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-12/#v12-13",
+          "text": "Ecclesiastes 12:13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/study/",
+          "text": "Open the Ecclesiastes study edition →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/editorial-guide/",
+          "text": "Read the editorial guide for Ecclesiastes →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/#saints-ref-1-cite-1",
+          "text": "↑"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        }
+      ],
+      "text": "Ecclesiastes\n\nBespoke Saints English Translation · 12 chapters · Provisional editorial edition · 15 October 2026\n\nDraft for review. Only editors can see this introduction. Approve all introductions under Settings → Saints Study.\n\nINTRODUCTION\n\nIntroducing Ecclesiastes\n\nEcclesiastes is a searching reflection on the meaning of life ‘under the sun’, where wealth, pleasure and wisdom all prove fleeting. Its honesty about vanity leads finally to the call to fear God and keep his commandments.\n\nSETTING\nWritten for Israelites who knew the ordinary frustrations of labour, injustice and death, probably in a period of foreign rule after the Exile.\nAUTHOR\nTraditionally attributed to Solomon, the ‘Preacher’ (Qoheleth), son of David. Many modern scholars see it as the work of a later sage writing in Solomon’s persona.\nDATE\nTraditionally 10th century BC; many scholars date it to the 4th–3rd century BC.\nOutline\nChapters 1–2\nAll is vanity: the Preacher’s search\nChapters 3–5\nTimes, toil and worship\nChapters 6–8\nLimits of wisdom\nChapters 9–12\nEnjoy life, remember your Creator\nKey passages\nEcclesiastes 1:2 — Vanity of vanities\nEcclesiastes 3:1 — A time for everything\nEcclesiastes 12:13 — The end of the matter\nThemes\nThe vanity of earthly things\nTime and mortality\nThe limits of human wisdom\nJoy as God’s gift\nFear of God\nRead in the light of Christ\n\nJerome’s commentary taught readers to see through the world’s vanity to the true good found in Christ, and the Fathers often read the book as a summons to set the heart on eternal things.\n\nOpen the Ecclesiastes study edition →\n\nIntroduction by Saints.Bible · CC BY-SA 4.0[1] · Suggest a correction\n\nFind a chapter\n\n24 links. Choose a section to browse.\n\nREAD\nEcclesiastes · Reading\n12 chapters\nBegin reading →\n1\nEcclesiastes 1\n2\nEcclesiastes 2\n3\nEcclesiastes 3\n4\nEcclesiastes 4\n5\nEcclesiastes 5\n6\nEcclesiastes 6\n7\nEcclesiastes 7\n8\nEcclesiastes 8\n9\nEcclesiastes 9\n10\nEcclesiastes 10\n11\nEcclesiastes 11\n12\nEcclesiastes 12\nSTUDY\nEcclesiastes · Comparisons\n12 chapters and study sections\n\nCompare Ecclesiastes with the Saints Translation\n\nJewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison\nCatholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison\nProtestant King James Bible\nCompared with the Saints Translation\nOpen comparison\n\nGO STRAIGHT TO A CHAPTER\n\nKJV & Greek\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\nHebrew & Greek\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\nLatin Vulgate\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\nSaints Translation: sources and study approach\nBespoke Saints English editorial guide\n\nAll 12 numbered chapters and 222 existing reading units have received the Bespoke English editorial pass: 116 revised and 106 retained. Source-specific numbering, additions, gaps, names, repetitions and verse anchors are preserved. The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy address God directly; ordinary address uses you/your.\n\nRahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending. All English reading units were individually reviewed. Earlier source-checking statements and retrieval limitations are retained in the original backup and historical reference pages; they are not claims of fresh complete verification in this revision.\n\nThe newer Bespoke PDF governs this reading edition. Saints Translation literal-smooth and all comparison/study streams remain separate and unchanged. Notes are separated from Scripture. Earlier wording notes are historical records and may quote superseded pronouns or wording; the dated current Bespoke notes explain the changes. The Greek numbering is preserved: 4:17 corresponds to common English 5:1, and 5:1–19 corresponds to common English 5:2–20. Historical comparison pages may contain older English drafts and unresolved alignment issues; they are preserved as separate records.\n\nRead the editorial guide for Ecclesiastes →\n\nThis Bespoke reading edition follows the newer translation policy: ordinary address uses you/your, and direct address to God retains Thou/Thee/Thy. The existing Greek-based reading stream and separately dated comparison editions remain distinct.\n\nExplore links from this page\nScripture\nFootnotes\n↑CC BY-SA 4.0 — creativecommons.org",
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/",
+      "all_12_chapter_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "Whitespace and WordPress apostrophe typography only; visible verse numbers excluded.",
+    "chapter_navigation": [
+      {
+        "text": "Ecclesiastes 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-1/"
+      },
+      {
+        "text": "Ecclesiastes 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-2/"
+      },
+      {
+        "text": "Ecclesiastes 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-3/"
+      },
+      {
+        "text": "Ecclesiastes 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-4/"
+      },
+      {
+        "text": "Ecclesiastes 5",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-5/"
+      },
+      {
+        "text": "Ecclesiastes 6",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-6/"
+      },
+      {
+        "text": "Ecclesiastes 7",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-7/"
+      },
+      {
+        "text": "Ecclesiastes 8",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-8/"
+      },
+      {
+        "text": "Ecclesiastes 9",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-9/"
+      },
+      {
+        "text": "Ecclesiastes 10",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-10/"
+      },
+      {
+        "text": "Ecclesiastes 11",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-11/"
+      },
+      {
+        "text": "Ecclesiastes 12",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/chapter-12/"
+      }
+    ],
+    "visual_capture": "A screenshot of saved Ecclesiastes 12 was captured and visually inspected. Every reading page received rendered DOM text and navigation checks; visual inspection of all 12 pages is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 2569,
+      "title": "Ecclesiastes — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/editorial-guide/",
+      "before_content_hash": "dd4be17704a579c5b119a71995a921a16b33324a",
+      "after_content_hash": "dd4be17704a579c5b119a71995a921a16b33324a",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3783,
+      "title": "Ecclesiastes — Hebrew and Greek compared",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/comparison-edition/",
+      "before_content_hash": "9e1e953dd1e2a8db17739cc9b34ca9a41429da35",
+      "after_content_hash": "9e1e953dd1e2a8db17739cc9b34ca9a41429da35",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20717,
+      "title": "Ecclesiastes — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/vulgate-comparison/",
+      "before_content_hash": "a7a868a9f920e70a2f01f8ffdb684fe4c69889fb",
+      "after_content_hash": "a7a868a9f920e70a2f01f8ffdb684fe4c69889fb",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20718,
+      "title": "Ecclesiastes — King James Bible and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/kjv-comparison/",
+      "before_content_hash": "55a131d4676f3bd08362e3c7b1b5d2ff56f3d1cb",
+      "after_content_hash": "55a131d4676f3bd08362e3c7b1b5d2ff56f3d1cb",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 23840,
+      "title": "Ecclesiastes — Study Edition",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/ecclesiastes/study/",
+      "before_content_hash": "1048cc117266de982ca4ee3ba487fdcb5cd57baa",
+      "after_content_hash": "1048cc117266de982ca4ee3ba487fdcb5cd57baa",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 222,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 13 edited pages and all 5 reference pages, plus 5 reference hash snapshots. This is a book archive, not a full-site backup."
+}
