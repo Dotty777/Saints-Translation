@@ -1,0 +1,3434 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 487 existing English reading units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 12,
+    "reading_sections": 14,
+    "numbered_verse_units": 486,
+    "unnumbered_preface_units": 1,
+    "changed_verse_units": 154,
+    "source_scope": "Old Greek Daniel in Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "20f1f50a3e74089a450154d8420f903d51875f29761f48913f42f502d39aa528"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 21,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 49,
+      "changed": 27,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 97,
+      "changed": 21,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 35,
+      "changed": 22,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 5,
+      "chapter": 5,
+      "verse_units": 20,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 6,
+      "chapter": 6,
+      "verse_units": 30,
+      "changed": 10,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 7,
+      "chapter": 7,
+      "verse_units": 28,
+      "changed": 1,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 8,
+      "chapter": 8,
+      "verse_units": 27,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 9,
+      "chapter": 9,
+      "verse_units": 27,
+      "changed": 10,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 10,
+      "chapter": 10,
+      "verse_units": 21,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 11,
+      "chapter": 11,
+      "verse_units": 45,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 12,
+      "chapter": 12,
+      "verse_units": 13,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 13,
+      "chapter": 13,
+      "verse_units": 37,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 14,
+      "chapter": 14,
+      "verse_units": 37,
+      "changed": 14,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 2952,
+      "chapter": 1,
+      "modified": "2026-10-15T03:53:46",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "642018d08f95298f2b7aa2233c2f91a82ee25054aed129cefcf81914c5acb8a3"
+    },
+    {
+      "id": 2953,
+      "chapter": 2,
+      "modified": "2026-10-15T03:53:52",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "f16b7a849b8579499c86d6cb2cd772046155aa4daf360ce8f377983eac499827"
+    },
+    {
+      "id": 2955,
+      "chapter": 3,
+      "modified": "2026-10-15T03:53:57",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "8292d42c53d591d8c8a654fb38461dbde796901a0eb54d4974600ffb93f05a44"
+    },
+    {
+      "id": 2954,
+      "chapter": 4,
+      "modified": "2026-10-15T03:54:04",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "af92dff69d7efcdb7cfba946463ba64d053bc464d0a2291719d9a618e474101c"
+    },
+    {
+      "id": 2956,
+      "chapter": 5,
+      "modified": "2026-10-15T03:54:10",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "2d2e12ac308efde394f02a8447b2d9959cf2be0dd9319fadd8d32687f1f2c0a5"
+    },
+    {
+      "id": 2957,
+      "chapter": 6,
+      "modified": "2026-10-15T03:54:16",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "0d1917948ead2b63ef7a97fe1cd9c6c21b27f8bd6b30b70fec13179ee6e13ac3"
+    },
+    {
+      "id": 2958,
+      "chapter": 7,
+      "modified": "2026-10-15T03:54:22",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "7d0879e8fe816ac09a20a91b652eb4cbebb93dc57334a5ab23c2a35e3e2611c9"
+    },
+    {
+      "id": 2959,
+      "chapter": 8,
+      "modified": "2026-10-15T04:00:26",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "5301f3eb7224e2dfc477b79054a09cda4b37a8954cf0f72e683bac6f470d2561"
+    },
+    {
+      "id": 2960,
+      "chapter": 9,
+      "modified": "2026-10-15T04:00:32",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "80b44f7467ead5727e00871e0b2eea94ee53f9df0d16b9ffa0938f8658ce7757"
+    },
+    {
+      "id": 2961,
+      "chapter": 10,
+      "modified": "2026-10-15T04:00:38",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "83738b7fe901adfb3b775e37122ee044ba6530676f4b21e63017581f78dc0624"
+    },
+    {
+      "id": 2964,
+      "chapter": 11,
+      "modified": "2026-10-15T04:00:44",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "bc9336f12efe77b36146ba066595178fb41284e0871e7057b14610dbe566ba88"
+    },
+    {
+      "id": 2962,
+      "chapter": 12,
+      "modified": "2026-10-15T04:00:50",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "ba1d6e77b9fdf6a528b75838be61d8a3b6a79331b805acbc484bdae226947254"
+    },
+    {
+      "id": 2963,
+      "chapter": 13,
+      "modified": "2026-10-15T04:00:56",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "ea330dbe41f00a42f7d3054df6a9de7dbbedf33547e274bff8c91723389e797a"
+    },
+    {
+      "id": 2965,
+      "chapter": 14,
+      "modified": "2026-10-15T04:01:01",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "351c719510362c5cb6173795840fab3409f06e7204127c2e9c62c27708bc6478"
+    },
+    {
+      "id": 2951,
+      "chapter": null,
+      "modified": "2026-10-15T04:02:15",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "d35d5d88b3e39e976ab4a6510bea7e0c35c4fed6048bc19867fb4e961f7e0ba0"
+    }
+  ],
+  "browser_checks": {
+    "chapters": [
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/ezekiel/chapter-48/",
+            "label": "Previous chapter, Ezekiel 48",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-2/",
+            "label": "Next chapter, Daniel 2",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/ezekiel/chapter-48/",
+            "text": "← Ezekiel 48"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/",
+            "text": "Daniel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-2/",
+            "text": "Daniel 2 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/daniel/1/",
+            "text": "All 188 cross-references for Daniel 1, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v1-1",
+            "text": "1:1In the third year of King Joakim of Judea, Nebuchadnezzar king of Babylon arrived at Jerusalem and besieged it."
+          },
+          {
+            "id": "v1-2",
+            "text": "1:2The Lord handed the city into his hands, together with Joakim king of Judea and a portion of the Lord’s sacred vessels. He carried them away to Babylon and deposited them in his idol-temple."
+          },
+          {
+            "id": "v1-3",
+            "text": "1:3The king told Abiesdri, his chief eunuch, to bring him some of the sons of Israel’s magnates, of the royal family and of the chosen men:"
+          },
+          {
+            "id": "v1-4",
+            "text": "1:4young men without blemish, handsome, knowledgeable in every kind of wisdom, literate, intelligent, wise, and strong enough to be in the king’s house, and to teach them letters and the Chaldean tongue,"
+          },
+          {
+            "id": "v1-5",
+            "text": "1:5and to give them a ration from the king’s house each day, from the royal table and the wine the king drank, and to educate them for three years and place some of them before the king."
+          },
+          {
+            "id": "v1-6",
+            "text": "1:6Among the lineage of Israel’s sons from Judea were Daniel, Hananiah, Mishael, and Azariah."
+          },
+          {
+            "id": "v1-7",
+            "text": "1:7The chief eunuch assigned them names: Daniel, Baltasar; Hananiah, Sedrach; Mishael, Misach; and Azariah, Abdenago."
+          },
+          {
+            "id": "v1-8",
+            "text": "1:8Daniel considered in his heart how he might avoid being polluted by the king’s dinner and the wine he drank, and petitioned the chief eunuch that he might not be contaminated."
+          },
+          {
+            "id": "v1-9",
+            "text": "1:9The Lord gave Daniel honor and favor before the chief eunuch."
+          },
+          {
+            "id": "v1-10",
+            "text": "1:10The chief eunuch said to Daniel, “I am anxious about my lord the king, who prescribed your food and drink, lest he see your faces drawn and weak beside the foreign youths being reared with you, and I risk my own neck.”"
+          },
+          {
+            "id": "v1-11",
+            "text": "1:11Daniel said to Abiesdri, appointed chief eunuch over Daniel, Hananiah, Mishael, and Azariah,"
+          },
+          {
+            "id": "v1-12",
+            "text": "1:12“Test your servants for ten days, and let us be given legumes from the earth to eat, and water to drink. [1] [2]"
+          },
+          {
+            "id": "v1-13",
+            "text": "1:13If our appearance looks drawn beside the other young men eating the royal dinner, then deal with your servants however you wish.”"
+          },
+          {
+            "id": "v1-14",
+            "text": "1:14He dealt with them in this manner and tested them for ten days."
+          },
+          {
+            "id": "v1-15",
+            "text": "1:15After ten days their appearance was good and their bodily condition better than the other young men eating the royal dinner."
+          },
+          {
+            "id": "v1-16",
+            "text": "1:16Abiesdri kept removing their dinner and wine and giving them legumes in exchange."
+          },
+          {
+            "id": "v1-17",
+            "text": "1:17The Lord gave the young men knowledge, understanding, and practical wisdom in every literary skill; to Daniel He gave understanding in every utterance, vision, dreams, and all wisdom."
+          },
+          {
+            "id": "v1-18",
+            "text": "1:18After these days the king ordered them brought in, and the chief eunuch brought them before King Nebuchadnezzar."
+          },
+          {
+            "id": "v1-19",
+            "text": "1:19The king conversed with them, and among the wise no one was found like Daniel, Hananiah, Mishael, and Azariah. They remained beside the king."
+          },
+          {
+            "id": "v1-20",
+            "text": "1:20In every matter of discourse, understanding, and education about which the king questioned them, he found them ten times wiser than the learned experts and philosophers throughout his kingdom. The king honored them, appointed them rulers, and declared them wiser than all his own men in affairs throughout his land and kingdom."
+          },
+          {
+            "id": "v1-21",
+            "text": "1:21Daniel remained until the first year of the reign of Cyrus king of the Persians."
+          }
+        ],
+        "chapter": 1,
+        "section": 1,
+        "page_id": 2952,
+        "title": "Daniel 1",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-1/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Daniel 1"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-1/",
+            "label": "Previous chapter, Daniel 1",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-3/",
+            "label": "Next chapter, Daniel 3",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-1/",
+            "text": "← Daniel 1"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/",
+            "text": "Daniel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-3/",
+            "text": "Daniel 3 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/daniel/2/",
+            "text": "All 591 cross-references for Daniel 2, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v2-1",
+            "text": "2:1In the second year of Nebuchadnezzar’s reign, the king fell into visions and dreams and was disturbed in his dream, and his sleep left him."
+          },
+          {
+            "id": "v2-2",
+            "text": "2:2The king ordered the incantation-singers, magi, and sorcerers of the Chaldeans brought in to report his dreams to him. They arrived and stood beside the king."
+          },
+          {
+            "id": "v2-3",
+            "text": "2:3The king said to them, “I have seen a dream, and my spirit was stirred; therefore I wish to understand the dream.”"
+          },
+          {
+            "id": "v2-4",
+            "text": "2:4The Chaldeans spoke to the king in the Syrian language: “My lord king, live for ever! Report your dream to your servants, and we will explain its interpretation to you.”"
+          },
+          {
+            "id": "v2-5",
+            "text": "2:5The king answered the Chaldeans, “Unless you truthfully report the dream to me and disclose its interpretation, you will be made a public example, and your possessions will be taken into the royal treasury."
+          },
+          {
+            "id": "v2-6",
+            "text": "2:6But if you make the dream clear to me and report its interpretation, you will receive gifts of every kind and be honored by me. Disclose the dream to me and interpret it.”"
+          },
+          {
+            "id": "v2-7",
+            "text": "2:7They answered a second time, “O king, state the vision, and your servants will interpret accordingly.”"
+          },
+          {
+            "id": "v2-8",
+            "text": "2:8The king said to them, “I know for certain that you are buying time, since you have seen that the matter has departed from me. As I have commanded, so it will be."
+          },
+          {
+            "id": "v2-9",
+            "text": "2:9Unless you truthfully report the dream and disclose its interpretation, you will meet death. You have agreed together to speak false words before me until the time changes. Now, if you tell me what I saw during the night, I will know that you can also disclose its interpretation.”"
+          },
+          {
+            "id": "v2-10",
+            "text": "2:10The Chaldeans answered before the king, “No one on earth can tell the king what he has seen, as you ask. No king and no ruler asks such a thing of any wise man, magus, or Chaldean."
+          },
+          {
+            "id": "v2-11",
+            "text": "2:11The matter you seek, O king, is weighty and extraordinary. No one can disclose these things to the king except perhaps an angel, whose dwelling is not with any flesh. Therefore it cannot happen as you suppose.”"
+          },
+          {
+            "id": "v2-12",
+            "text": "2:12Then the king became gloomy and deeply grieved and ordered all the wise men of Babylonia brought out."
+          },
+          {
+            "id": "v2-13",
+            "text": "2:13It was decreed that all should be killed, and Daniel and everyone with him were sought so that they might perish together."
+          },
+          {
+            "id": "v2-14",
+            "text": "2:14Then Daniel shared his counsel and judgment with Arioch, the king’s chief cook, who had been ordered to bring out Babylonia’s learned men,"
+          },
+          {
+            "id": "v2-15",
+            "text": "2:15and questioned him, saying, “On what matter is such a bitter decree being issued by the king?” Then Arioch explained the command to Daniel."
+          },
+          {
+            "id": "v2-16",
+            "text": "2:16Daniel quickly went in to the king and petitioned for time from the king, so that he might disclose everything before him."
+          },
+          {
+            "id": "v2-17",
+            "text": "2:17Then Daniel went to his house and explained everything to his companions Hananiah, Mishael, and Azariah."
+          },
+          {
+            "id": "v2-18",
+            "text": "2:18He called for fasting and supplication and for help to be sought from the Lord Most High concerning this mystery, so that Daniel and those with him would not be handed over to destruction with Babylon’s learned men."
+          },
+          {
+            "id": "v2-19",
+            "text": "2:19Then, in a vision that very night, the king’s mystery was plainly revealed to Daniel. Daniel blessed the Lord Most High,"
+          },
+          {
+            "id": "v2-20",
+            "text": "2:20and cried out, “The name of the great Lord will be blessed for ever, because wisdom and majesty belong to Him."
+          },
+          {
+            "id": "v2-21",
+            "text": "2:21He changes seasons and times, transfers kings and appoints them, gives wisdom to the wise and understanding to those who possess knowledge,"
+          },
+          {
+            "id": "v2-22",
+            "text": "2:22reveals deep and dark things, knows what is in darkness and what is in light, and with Him is a dwelling. [1]"
+          },
+          {
+            "id": "v2-23",
+            "text": "2:23To Thee, Lord of my fathers, I give thanks and praise, because Thou hast given me wisdom and prudence. Now Thou hast shown me everything I requested, to disclose these things to the king.”"
+          },
+          {
+            "id": "v2-24",
+            "text": "2:24Daniel went to Arioch, whom the king had appointed to kill all Babylonia’s learned men, and said, “Do not destroy Babylonia’s learned men. Bring me to the king, and I will disclose every detail to him.”"
+          },
+          {
+            "id": "v2-25",
+            "text": "2:25Then Arioch urgently brought Daniel to the king and said, “I have found a wise man from the captivity of the sons of Judea who will disclose every detail to the king.”"
+          },
+          {
+            "id": "v2-26",
+            "text": "2:26The king answered Daniel, who was called Baltasar in Chaldean, “Will you be able to disclose to me the vision I saw and its interpretation?”"
+          },
+          {
+            "id": "v2-27",
+            "text": "2:27Daniel spoke aloud before the king, “Disclosure of the mystery the king saw does not belong to wise men, sorcerers, incantation-singers, or gazarenes,"
+          },
+          {
+            "id": "v2-28",
+            "text": "2:28but there is a God in heaven who uncovers mysteries, who has disclosed to King Nebuchadnezzar what must happen in the last days. O king, live for ever! This is the dream and the vision of your head upon your bed:"
+          },
+          {
+            "id": "v2-29",
+            "text": "2:29You, O king, reclining upon your bed, saw everything that must happen in the last days, and the Revealer of mysteries disclosed to you what must happen."
+          },
+          {
+            "id": "v2-30",
+            "text": "2:30This mystery was revealed to me because of no wisdom in me beyond all people; rather, so that it might be disclosed to the king, what you conceived in your heart was made known to me."
+          },
+          {
+            "id": "v2-31",
+            "text": "2:31You, O king, saw a single image. That image was exceedingly large, its appearance was extraordinary as it stood before you, and the image’s appearance was frightening."
+          },
+          {
+            "id": "v2-32",
+            "text": "2:32Its head was good gold, its chest and arms silver, and its belly and thighs bronze,"
+          },
+          {
+            "id": "v2-33",
+            "text": "2:33its legs iron, and its feet partly iron and partly earthenware."
+          },
+          {
+            "id": "v2-34",
+            "text": "2:34You watched until a stone was cut from a mountain without hands. It struck the image on its feet of iron and earthenware and ground them down."
+          },
+          {
+            "id": "v2-35",
+            "text": "2:35Then the iron, earthenware, bronze, silver, and gold were ground fine together, becoming finer than chaff on a threshing floor. The wind scattered them so that nothing remained of them. The stone that struck the image became a great mountain and struck the whole earth."
+          },
+          {
+            "id": "v2-36",
+            "text": "2:36This was the vision; now we will state its interpretation before the king."
+          },
+          {
+            "id": "v2-37",
+            "text": "2:37You, O king, are king of kings, and the Lord of heaven has given you rule, kingdom, strength, honor, and glory."
+          },
+          {
+            "id": "v2-38",
+            "text": "2:38Throughout the inhabited world He has handed over into your hands human beings, wild beasts, birds of heaven, and fish of the sea, to rule them all. You are the golden head."
+          },
+          {
+            "id": "v2-39",
+            "text": "2:39After you a kingdom lesser than you will arise, and another, a third kingdom of bronze, which will rule the whole earth."
+          },
+          {
+            "id": "v2-40",
+            "text": "2:40A fourth kingdom will be strong like iron that subdues everything and cuts down every tree, and the whole earth will be shaken."
+          },
+          {
+            "id": "v2-41",
+            "text": "2:41As you saw its feet partly potter’s earthenware and partly iron, another kingdom, divided in two, will be within it, just as you saw iron mixed with clay earthenware."
+          },
+          {
+            "id": "v2-42",
+            "text": "2:42The toes of the feet were partly iron and partly earthenware; part of the kingdom will be strong and part shattered."
+          },
+          {
+            "id": "v2-43",
+            "text": "2:43As you saw iron mixed with clay earthenware, they will be mingled in human generation, but will neither agree nor have goodwill toward one another, just as iron cannot blend with earthenware."
+          },
+          {
+            "id": "v2-44",
+            "text": "2:44In the times of these kings the God of heaven will establish another kingdom, which will exist for ever and will not be destroyed. This kingdom will not leave another nation; it will strike and obliterate these kingdoms and will itself stand for ever,"
+          },
+          {
+            "id": "v2-45",
+            "text": "2:45just as you saw a stone cut from a mountain without hands, pounding together the earthenware, iron, bronze, silver, and gold. The great God has shown the king what will happen in the last days. The vision is exact, and its interpretation trustworthy.”"
+          },
+          {
+            "id": "v2-46",
+            "text": "2:46Then King Nebuchadnezzar fell face down on the ground and prostrated himself before Daniel. He ordered sacrifices and libations made to him."
+          },
+          {
+            "id": "v2-47",
+            "text": "2:47The king spoke aloud to Daniel, “Truly your God is God of gods and Lord of kings, the One who alone brings hidden mysteries to light, because you have been able to disclose this mystery.”"
+          },
+          {
+            "id": "v2-48",
+            "text": "2:48Then King Nebuchadnezzar exalted Daniel, gave him many great gifts, placed him over Babylonia’s affairs, and appointed him ruler and leader of all Babylonia’s learned men."
+          },
+          {
+            "id": "v2-49",
+            "text": "2:49Daniel petitioned the king that Sedrach, Misach, and Abdenago be appointed over Babylonia’s affairs. Daniel remained in the royal court."
+          }
+        ],
+        "chapter": 2,
+        "section": 2,
+        "page_id": 2953,
+        "title": "Daniel 2",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-2/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Daniel 2"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-2/",
+            "label": "Previous chapter, Daniel 2",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-4/",
+            "label": "Next chapter, Daniel 4",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-2/",
+            "text": "← Daniel 2"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/",
+            "text": "Daniel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-4/",
+            "text": "Daniel 4 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/daniel/3/",
+            "text": "All 381 cross-references for Daniel 3, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v3-1",
+            "text": "3:1In the eighteenth year, King Nebuchadnezzar, who administered cities and countries and all who inhabited the earth from India to Ethiopia, made a golden image, sixty cubits high and six cubits wide. He set it up on the plain of the enclosure in the country of Babylonia."
+          },
+          {
+            "id": "v3-2",
+            "text": "3:2Nebuchadnezzar, king of kings and lord of the whole inhabited world, sent to gather all the nations, tribes, and languages, satraps, generals, district governors, consuls, administrators, those holding authority in each country, and everyone throughout the inhabited world, to come to the dedication of the golden image that King Nebuchadnezzar had set up."
+          },
+          {
+            "id": "v3-3",
+            "text": "3:3Those previously listed stood opposite the image."
+          },
+          {
+            "id": "v3-4",
+            "text": "3:4The herald proclaimed to the crowds, “You are commanded, nations and countries, peoples and languages:"
+          },
+          {
+            "id": "v3-5",
+            "text": "3:5when you hear the sound of trumpet, panpipe, kithara, sambuca, psaltery, symphonia, and every kind of musical instrument, fall down and bow to the golden image that King Nebuchadnezzar has set up."
+          },
+          {
+            "id": "v3-6",
+            "text": "3:6They will throw into the blazing furnace anyone who does not fall down and bow.”"
+          },
+          {
+            "id": "v3-7",
+            "text": "3:7At that time, when all the nations heard the sound of the trumpet and every musical sound, all the nations, tribes, and languages fell down and bowed to the golden image that Nebuchadnezzar had set up before him."
+          },
+          {
+            "id": "v3-8",
+            "text": "3:8At that time Chaldean men came forward and accused the Jews."
+          },
+          {
+            "id": "v3-9",
+            "text": "3:9They spoke and said, “My lord king, live for ever!"
+          },
+          {
+            "id": "v3-10",
+            "text": "3:10You, O king, commanded and decreed that everyone who hears the trumpet and every musical sound must fall down and bow to the golden image."
+          },
+          {
+            "id": "v3-11",
+            "text": "3:11Whoever does not fall down and bow will be thrown into the blazing furnace."
+          },
+          {
+            "id": "v3-12",
+            "text": "3:12There are certain Jewish men whom you appointed over the country of Babylonia—Sedrach, Misach, and Abdenago. Those men have not feared your command; they have not served your idol or bowed to your golden image that you set up.”"
+          },
+          {
+            "id": "v3-13",
+            "text": "3:13Then Nebuchadnezzar, angered with wrath, ordered Sedrach, Misach, and Abdenago brought in. The men were brought to the king."
+          },
+          {
+            "id": "v3-14",
+            "text": "3:14When King Nebuchadnezzar saw them, he said to them, “Why, Sedrach, Misach, and Abdenago, do you not serve my gods or bow to the golden image I set up?"
+          },
+          {
+            "id": "v3-15",
+            "text": "3:15Now, if you are ready, as soon as you hear the trumpet and every musical sound, to fall down and bow to the golden image I set up—but if not, know that unless you bow, you will immediately be thrown into the blazing furnace. What god will rescue you from my hands?”"
+          },
+          {
+            "id": "v3-16",
+            "text": "3:16Sedrach, Misach, and Abdenago answered King Nebuchadnezzar, “O king, we have no need to answer you concerning this command."
+          },
+          {
+            "id": "v3-17",
+            "text": "3:17For there is a God in the heavens, our one Lord, whom we fear, who is able to rescue us from the furnace of fire; and from your hands, O king, He will rescue us."
+          },
+          {
+            "id": "v3-18",
+            "text": "3:18Then it will be plain to you that we neither serve your idol nor bow to your golden image that you set up.”"
+          },
+          {
+            "id": "v3-19",
+            "text": "3:19Then Nebuchadnezzar was filled with fury, and the appearance of his face changed. He ordered the furnace heated seven times beyond what it needed to be heated."
+          },
+          {
+            "id": "v3-20",
+            "text": "3:20He ordered the strongest men in his force to bind Sedrach, Misach, and Abdenago hand and foot and throw them into the blazing furnace."
+          },
+          {
+            "id": "v3-21",
+            "text": "3:21Then those men were bound hand and foot, wearing their footwear and the tiaras on their heads, together with their clothing, and were thrown into the furnace."
+          },
+          {
+            "id": "v3-22",
+            "text": "3:22Because the king’s command was urgent and the furnace had been heated seven times beyond its earlier heat, the appointed men bound them hand and foot, brought them to the furnace, and threw them into it."
+          },
+          {
+            "id": "v3-23",
+            "text": "3:23The flame came out of the furnace and burned and killed the men who had bound Azariah and his companions; but they themselves were preserved."
+          },
+          {
+            "id": "v3-24",
+            "text": "3:24Thus Hananiah, Azariah, and Mishael prayed and sang to the Lord when the king ordered them thrown into the furnace."
+          },
+          {
+            "id": "v3-25",
+            "text": "3:25Azariah stood and prayed in this manner. Opening his mouth, he gave thanks to the Lord together with his companions amid the fire, while the Chaldeans were fiercely stoking the furnace. They said: [1]"
+          },
+          {
+            "id": "v3-26",
+            "text": "3:26“Blessed art Thou, Lord, God of our fathers; Thy name is praised and glorified for ever."
+          },
+          {
+            "id": "v3-27",
+            "text": "3:27For Thou art righteous in everything Thou hast done to us; all Thy works are true, Thy ways upright, and all Thy judgments true."
+          },
+          {
+            "id": "v3-28",
+            "text": "3:28Thou hast carried out judgments of truth in everything Thou didst bring upon us and upon Thy holy city, our fathers’ Jerusalem. For in truth and judgment Thou didst all these things because of our sins."
+          },
+          {
+            "id": "v3-29",
+            "text": "3:29For we have sinned in everything and acted lawlessly by departing from Thee. We have sinned in everything and have not obeyed the commands of Thy law."
+          },
+          {
+            "id": "v3-30",
+            "text": "3:30We have neither kept nor done what Thou didst command us, so that it might go well with us."
+          },
+          {
+            "id": "v3-31",
+            "text": "3:31And now, everything Thou hast brought upon us and everything Thou hast done to us, Thou hast done in true judgment."
+          },
+          {
+            "id": "v3-32",
+            "text": "3:32Thou didst hand us over to our enemies, lawless and most hateful apostates, and to an unjust king, the most wicked in all the earth."
+          },
+          {
+            "id": "v3-33",
+            "text": "3:33Now we cannot open our mouths; shame and reproach have come upon Thy servants and those who revere Thee."
+          },
+          {
+            "id": "v3-34",
+            "text": "3:34Do not hand us over utterly, for Thy name’s sake; do not dissolve Thy covenant."
+          },
+          {
+            "id": "v3-35",
+            "text": "3:35Do not remove Thy mercy from us, for the sake of Abraham, beloved by Thee, and Isaac Thy servant, and Israel Thy holy one,"
+          },
+          {
+            "id": "v3-36",
+            "text": "3:36as Thou didst speak to them, saying that Thou wouldst multiply their descendants like the stars of heaven and the sand along the shore of the sea."
+          },
+          {
+            "id": "v3-37",
+            "text": "3:37For, Master, we have been diminished beyond all nations, and today we are lowly throughout the earth because of our sins."
+          },
+          {
+            "id": "v3-38",
+            "text": "3:38At this time there is no ruler or prophet or leader, no burnt offering or sacrifice or offering or incense, no place to offer produce before Thee and find mercy."
+          },
+          {
+            "id": "v3-39",
+            "text": "3:39But with a crushed soul and humbled spirit may we be accepted, as with burnt offerings of rams and bulls, and as with tens of thousands of fat lambs."
+          },
+          {
+            "id": "v3-40",
+            "text": "3:40So may our sacrifice be before Thee today; and be propitious—“behind Thee”; for there is no shame for those who trust in Thee; and bring to completion—“behind Thee.”"
+          },
+          {
+            "id": "v3-41",
+            "text": "3:41Now we follow with our whole heart; we fear Thee and seek Thy face. Do not put us to shame,"
+          },
+          {
+            "id": "v3-42",
+            "text": "3:42but deal with us according to Thy gentleness and the abundance of Thy mercy."
+          },
+          {
+            "id": "v3-43",
+            "text": "3:43Rescue us according to Thy wondrous deeds, and give glory to Thy name, Lord."
+          },
+          {
+            "id": "v3-44",
+            "text": "3:44May all who inflict evil on Thy servants be ashamed; may they be humiliated out of all their power, and may their strength be crushed."
+          },
+          {
+            "id": "v3-45",
+            "text": "3:45Let them know that Thou alone art Lord, God, glorious over the whole inhabited world.”"
+          },
+          {
+            "id": "v3-46",
+            "text": "3:46The king’s servants who threw them in did not stop heating the furnace. When they threw the three together into the furnace, the furnace was sevenfold ablaze in its heat. When they threw them in, those casting them were above them, while others stoked beneath them with naphtha, tow, pitch, and vine brushwood."
+          },
+          {
+            "id": "v3-47",
+            "text": "3:47The flame spread above the furnace for forty-nine cubits."
+          },
+          {
+            "id": "v3-48",
+            "text": "3:48It spread out and burned those Chaldeans whom it found around the furnace."
+          },
+          {
+            "id": "v3-49",
+            "text": "3:49An angel of the Lord descended into the furnace together with Azariah and his companions and shook the flame of fire out of the furnace."
+          },
+          {
+            "id": "v3-50",
+            "text": "3:50He made the middle of the furnace like a dew-laden breeze whistling through. The fire did not touch them at all; it neither distressed nor troubled them."
+          },
+          {
+            "id": "v3-51",
+            "text": "3:51Then the three took up the song as with one mouth, singing hymns, glorifying, blessing, and exalting God in the furnace, saying:"
+          },
+          {
+            "id": "v3-52",
+            "text": "3:52“Blessed art Thou, Lord, God of our fathers, praised and highly exalted for ever. Blessed is the holy name of Thy glory, exceedingly praised and highly exalted through all ages."
+          },
+          {
+            "id": "v3-53",
+            "text": "3:53Blessed art Thou in the temple of Thy holy glory, exceedingly praised in hymns and exceedingly glorious for ever."
+          },
+          {
+            "id": "v3-54",
+            "text": "3:54Blessed art Thou upon the throne of Thy kingdom, praised in hymns and highly exalted for ever."
+          },
+          {
+            "id": "v3-55",
+            "text": "3:55Blessed art Thou who lookest upon the depths, seated upon cherubim, praised and glorified for ever."
+          },
+          {
+            "id": "v3-56",
+            "text": "3:56Blessed art Thou in the firmament, praised in hymns and glorified for ever."
+          },
+          {
+            "id": "v3-57",
+            "text": "3:57All works of the Lord, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-58",
+            "text": "3:58Angels of the Lord, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-59",
+            "text": "3:59Heavens, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-60",
+            "text": "3:60All waters above heaven, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-61",
+            "text": "3:61All powers of the Lord, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-62",
+            "text": "3:62Sun and moon, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-63",
+            "text": "3:63Stars of heaven, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-64",
+            "text": "3:64All rain and dew, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-65",
+            "text": "3:65All winds, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-66",
+            "text": "3:66Fire and heat, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-67",
+            "text": "3:67Chill and cold, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-68",
+            "text": "3:68Dews and snowfalls, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-69",
+            "text": "3:69Ice and cold, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-70",
+            "text": "3:70Hoarfrost and snow, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-71",
+            "text": "3:71Nights and days, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-72",
+            "text": "3:72Light and darkness, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-73",
+            "text": "3:73Lightning and clouds, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-74",
+            "text": "3:74Let the earth bless the Lord; let her sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-75",
+            "text": "3:75Mountains and hills, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-76",
+            "text": "3:76All things growing upon the earth, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-77",
+            "text": "3:77Springs, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-78",
+            "text": "3:78Seas and rivers, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-79",
+            "text": "3:79Sea monsters and all things moving in the waters, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-80",
+            "text": "3:80All birds of heaven, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-81",
+            "text": "3:81Four-footed creatures and wild animals of the earth, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-82",
+            "text": "3:82Sons of humankind, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-83",
+            "text": "3:83Israel, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-84",
+            "text": "3:84Priests, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-85",
+            "text": "3:85Servants, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-86",
+            "text": "3:86Spirits and souls of the righteous, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-87",
+            "text": "3:87Holy ones and those humble in heart, bless the Lord; sing praise to Him and exalt Him highly for ever."
+          },
+          {
+            "id": "v3-88",
+            "text": "3:88Hananiah, Azariah, and Mishael, bless the Lord; sing praise to Him and exalt Him highly for ever. For He rescued us from Hades and saved us from the hand of death; He delivered us from the midst of the burning flame and redeemed us from the fire."
+          },
+          {
+            "id": "v3-89",
+            "text": "3:89Give thanks to the Lord, for He is good, for His mercy endures for ever."
+          },
+          {
+            "id": "v3-90",
+            "text": "3:90Bless, all who revere the God of gods; sing praise and give thanks, for His mercy endures for ever and for the age of ages.”"
+          },
+          {
+            "id": "v3-91",
+            "text": "3:91When the king heard them singing and, standing, observed them alive, King Nebuchadnezzar was astonished, rose in haste, and said to his friends:"
+          },
+          {
+            "id": "v3-92",
+            "text": "3:92“Behold! I see four men unbound, walking in the fire, and no harm has come upon them. The fourth has the likeness of an angel of God.” [1]"
+          },
+          {
+            "id": "v3-93",
+            "text": "3:93The king approached the door of the furnace blazing with fire and called them by name: “Sedrach, Misach, and Abdenago, servants of the Most High God of gods, come out of the fire!” Thus the men came out from the midst of the fire."
+          },
+          {
+            "id": "v3-94",
+            "text": "3:94The consuls, district governors, ancestral chiefs, and the king’s friends gathered. They observed those men: the fire had not touched their bodies, their hair had not burned, their trousers were unchanged, and there was no smell of fire on them."
+          },
+          {
+            "id": "v3-95",
+            "text": "3:95King Nebuchadnezzar spoke and said, “Blessed be the Lord, the God of Sedrach, Misach, and Abdenago, who sent His angel and saved His servants who hoped in Him. They rejected the king’s command and surrendered their bodies to burning so that they would neither serve nor bow to another god except their own God."
+          },
+          {
+            "id": "v3-96",
+            "text": "3:96Now I decree: from every nation, every tribe, and every language, whoever blasphemes the Lord, the God of Sedrach, Misach, and Abdenago, will be dismembered and his house confiscated, because there is no other god who can rescue like this.”"
+          },
+          {
+            "id": "v3-97",
+            "text": "3:97Thus the king gave Sedrach, Misach, and Abdenago authority over the whole country and appointed them rulers."
+          }
+        ],
+        "chapter": 3,
+        "section": 3,
+        "page_id": 2955,
+        "title": "Daniel 3",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-3/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Daniel 3"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-3/",
+            "label": "Previous chapter, Daniel 3",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-5/",
+            "label": "Next chapter, Daniel 5",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-3/",
+            "text": "← Daniel 3"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/",
+            "text": "Daniel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-5/",
+            "text": "Daniel 5 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/daniel/4/",
+            "text": "All 362 cross-references for Daniel 4, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v4-4",
+            "text": "4:4In the eighteenth year of Nebuchadnezzar’s reign, he said, “I was at peace in my house and prospering upon my throne."
+          },
+          {
+            "id": "v4-5",
+            "text": "4:5I saw a dream and became apprehensive; fear fell upon me."
+          },
+          {
+            "id": "v4-10",
+            "text": "4:10I was sleeping, and there was a tall tree growing upon the earth. Its appearance was great, and no other was like it."
+          },
+          {
+            "id": "v4-11",
+            "text": "4:11Its appearance was great: its top reached to heaven, and its mass to the clouds, filling what lay beneath heaven. The sun and moon dwelt in it and illuminated the whole earth."
+          },
+          {
+            "id": "v4-12",
+            "text": "4:12Its branches were about thirty stadia long. All the wild animals of the earth found shade beneath it, and the birds of heaven nested in it. Its fruit was abundant and good, and it supplied all living creatures."
+          },
+          {
+            "id": "v4-13",
+            "text": "4:13I was watching in my sleep, and an angel was sent in strength from heaven."
+          },
+          {
+            "id": "v4-14",
+            "text": "4:14He called out and said to it, ‘Cut it down and destroy it, for the Most High has commanded that it be uprooted and rendered useless.’"
+          },
+          {
+            "id": "v4-15",
+            "text": "4:15He spoke in this way: ‘Leave one root of it in the earth, so that it may graze on grass like an ox with the wild animals of the earth in the mountains;"
+          },
+          {
+            "id": "v4-16",
+            "text": "4:16let his body be changed by heaven’s dew, and let him graze with them for seven years,"
+          },
+          {
+            "id": "v4-17",
+            "text": "4:17until he knows that the Lord of heaven has authority over everything in heaven and upon earth, and does among them whatever He wills.’"
+          },
+          {
+            "id": "v4-17a",
+            "text": "4:17aBefore me it was cut down in one day, and its destruction came within one hour of the day. Its branches were given to every wind; it was dragged away and thrown down. It ate the grass of the earth with the wild animals of the earth, was handed over to custody, and was bound by them in fetters and bronze handcuffs. I was greatly astonished at all this, and sleep departed from my eyes."
+          },
+          {
+            "id": "v4-18",
+            "text": "4:18In the morning I rose from my bed and called Daniel, chief of the learned experts and leader of those who judge dreams. I recounted the dream to him, and he explained its entire interpretation to me."
+          },
+          {
+            "id": "v4-19",
+            "text": "4:19Daniel was greatly astonished, and apprehension pressed upon him. Frightened, seized with trembling, and changed in appearance, he shook his head and remained astonished for an hour. He answered me in a gentle voice, ‘O king, may this dream come upon those who hate you and its interpretation upon your enemies!"
+          },
+          {
+            "id": "v4-20",
+            "text": "4:20You, O king, are the tree planted in the earth, whose appearance was great."
+          },
+          {
+            "id": "v4-21",
+            "text": "4:21And all the birds of heaven nesting in it—the strength of the earth and of the nations and of all languages to the ends of the earth, and all countries—serve you."
+          },
+          {
+            "id": "v4-22",
+            "text": "4:22The raising of that tree, its reaching heaven, and its mass touching the clouds mean that you, O king, were raised above all people upon the face of the whole earth. Your heart was raised in pride and strength against the Holy One and His angels. Your deeds were seen, because you laid waste the house of the living God on account of the sins of the consecrated people."
+          },
+          {
+            "id": "v4-23",
+            "text": "4:23The vision you saw, that an angel was sent in strength from the Lord and commanded the tree’s removal and cutting down, means that the judgment of the great God will come upon you,"
+          },
+          {
+            "id": "v4-24",
+            "text": "4:24and the Most High and His angels are rushing against you."
+          },
+          {
+            "id": "v4-25",
+            "text": "4:25They will lead you away into custody and send you to a deserted place."
+          },
+          {
+            "id": "v4-26",
+            "text": "4:26The root of the tree that was left, since it was not uprooted, means that the place of your throne will be preserved for you for a time and an hour. Behold! They are preparing against you; they will scourge you and bring the judgments upon you."
+          },
+          {
+            "id": "v4-27",
+            "text": "4:27The Lord lives in heaven, and His authority is over all the earth. Entreat Him concerning your sins, and redeem all your injustices by almsgiving, so that gentleness may be granted you, you may have many days upon your royal throne, and He may not destroy you. Love these words, for my word is accurate and your time is full.’” [1]"
+          },
+          {
+            "id": "v4-28",
+            "text": "4:28At the completion of the words, Nebuchadnezzar, when he heard the judgment of the vision, kept the words in his heart."
+          },
+          {
+            "id": "v4-29",
+            "text": "4:29After twelve months, the king was walking upon the city walls with all his glory and passing over its towers."
+          },
+          {
+            "id": "v4-30",
+            "text": "4:30He spoke and said, “This is great Babylon, which I built, and it will be called the house of my kingship through the strength of my might, for the honor of my glory.”"
+          },
+          {
+            "id": "v4-31",
+            "text": "4:31At the completion of his word, he heard a voice from heaven: “To you it is said, King Nebuchadnezzar: Babylon’s kingdom has been taken from you and is given to another, a despised man in your house. Behold! I appoint him over your kingdom; he will take your authority, glory, and luxury, so that you may recognize that the God of heaven has authority over human kingship and will give it to whomever He wishes. By sunrise another king will rejoice in your house and take possession of your glory, strength, and authority."
+          },
+          {
+            "id": "v4-32",
+            "text": "4:32The angels will pursue you for seven years. You will neither be seen nor speak with any human being. They will feed you grass like an ox, and your pasture will be the earth’s greenery. Behold! In place of your glory they will bind you, and another will have your luxurious house and your kingdom."
+          },
+          {
+            "id": "v4-33",
+            "text": "4:33By morning everything will be fulfilled upon you, Nebuchadnezzar, king of Babylon; nothing of all this will fail.”"
+          },
+          {
+            "id": "v4-33a",
+            "text": "4:33a“I, Nebuchadnezzar, king of Babylon, was bound for seven years. They fed me grass like an ox, and I ate the earth’s greenery. After seven years I devoted my soul to supplication and pleaded concerning my sins before the Lord, the God of heaven; concerning my acts of ignorance I entreated the great God of gods."
+          },
+          {
+            "id": "v4-33b",
+            "text": "4:33bMy hair became like an eagle’s wings, and my nails like a lion’s. My flesh and my heart were changed; I walked naked with the wild animals of the earth. I saw a dream, and apprehensions seized me. After a time a deep sleep took hold of me, and drowsiness fell upon me."
+          },
+          {
+            "id": "v4-34",
+            "text": "4:34At the completion of the seven years, the time of my release came. My sins and my acts of ignorance reached their full measure before the God of heaven. I entreated the great God of gods concerning my acts of ignorance, and an angel called to me from heaven, saying, ‘Nebuchadnezzar, serve the holy God of heaven and give glory to the Most High; the kingship of your nation is restored to you.’"
+          },
+          {
+            "id": "v4-36",
+            "text": "4:36At that time my kingdom was restored to me and my glory returned to me."
+          },
+          {
+            "id": "v4-37",
+            "text": "4:37I give thanks to the Most High and praise Him who created heaven and earth, seas and rivers, and everything in them. I give thanks and praise, for He is God of gods, Lord of lords, and King of kings. He performs signs and wonders and changes seasons and times, taking kingdoms from kings and appointing others in their place."
+          },
+          {
+            "id": "v4-37a",
+            "text": "4:37aFrom now on I will worship Him. Trembling has seized me through fear of Him, and I praise all His holy ones. For the gods of the nations have no strength in themselves to transfer one king’s kingdom to another king, to kill and make alive, to perform signs and great and fearsome wonders, or to change exceedingly great affairs, as the God of heaven has done in me, changing great affairs concerning me. Throughout all the days of my reign I will offer sacrifices to the Most High on behalf of my soul, as a pleasing aroma to the Lord. I will do what is acceptable before Him—I and my people, my nation and my countries under my authority. Whoever has spoken against the God of heaven, and whoever is caught speaking anything against Him, I will condemn to death.”"
+          },
+          {
+            "id": "v4-37b",
+            "text": "4:37bKing Nebuchadnezzar wrote a circular letter to all the nations in every place, to the countries and all languages dwelling in every country, from generation to generation: “Praise the Lord, the God of heaven, and gloriously bring Him sacrifice and offering. I, king of kings, gloriously give thanks to Him, because He has dealt with me in this way: on that very day He seated me upon my throne; I regained my authority and my kingdom among my people, and my greatness was restored to me.”"
+          },
+          {
+            "id": "v4-37c",
+            "text": "4:37c“King Nebuchadnezzar to all nations, all countries, and all who dwell in them: May peace be multiplied to you at every time. Now I will explain to you the deeds that the great God has done with me. It pleased me to demonstrate to you and to your learned experts that there is a God, and His wonders are great; His kingship is an everlasting kingship, His authority from generation to generation.” He sent letters concerning everything that had happened to him in his kingdom to all the nations under his kingship."
+          }
+        ],
+        "chapter": 4,
+        "section": 4,
+        "page_id": 2954,
+        "title": "Daniel 4",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-4/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Daniel 4"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-4/",
+            "label": "Previous chapter, Daniel 4",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-6/",
+            "label": "Next chapter, Daniel 6",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-4/",
+            "text": "← Daniel 4"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/",
+            "text": "Daniel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-6/",
+            "text": "Daniel 6 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/daniel/5/",
+            "text": "All 243 cross-references for Daniel 5, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v5-preface",
+            "text": "5:prefaceKing Baltasar held a great reception on the day of the dedication of his royal buildings and invited two thousand men from among his magnates. On that day Baltasar, elated by wine and boasting, praised all the nations’ cast and carved gods in his place, but gave no praise to God Most High. That very night fingers like a human’s came out and inscribed on the plaster of his house’s wall, opposite the lamp, “Mane, Phares, Thekel.” Their interpretation is: Mane, “It has been numbered”; Phares, “It has been taken away”; Thekel, “It has been weighed.”"
+          },
+          {
+            "id": "v5-1",
+            "text": "5:1King Baltasar held a great banquet for his companions and drank wine."
+          },
+          {
+            "id": "v5-2",
+            "text": "5:2His heart was exalted, and he ordered the gold and silver vessels of God’s house that his father Nebuchadnezzar had brought from Jerusalem to be brought in, and wine poured in them for his companions."
+          },
+          {
+            "id": "v5-3",
+            "text": "5:3They were brought, and they drank from them,"
+          },
+          {
+            "id": "v5-4",
+            "text": "5:4and blessed their handmade idols. But they did not bless the everlasting God, who had authority over their breath."
+          },
+          {
+            "id": "v5-5",
+            "text": "5:5At that very hour fingers like those of a human hand came out and wrote on the plaster of his house’s wall, opposite the light and before King Baltasar. He saw a hand writing."
+          },
+          {
+            "id": "v5-6",
+            "text": "5:6His appearance changed, and fears and apprehensions pressed upon him. The king hurried and rose to look at that writing, while his companions around him were boasting."
+          },
+          {
+            "id": "v5-7",
+            "text": "5:7The king cried out with a loud voice to summon the incantation-singers, sorcerers, Chaldeans, and gazarenes to report the writing’s interpretation. They came in to inspect the writing, but could not interpret it for the king. Then the king issued a decree: “Any man who explains the writing’s interpretation will be clothed in purple and have a gold necklace placed upon him, and he will be given authority over a third part of the kingdom.”"
+          },
+          {
+            "id": "v5-8",
+            "text": "5:8The incantation-singers, sorcerers, and gazarenes came in, but no one could report the writing’s interpretation."
+          },
+          {
+            "id": "v5-9",
+            "text": "5:9Then the king summoned the queen about the sign and explained to her how great it was, and that no one could report the writing’s interpretation to the king."
+          },
+          {
+            "id": "v5-10",
+            "text": "5:10Then the queen mentioned to him Daniel, who was from the captivity of Judea,"
+          },
+          {
+            "id": "v5-11",
+            "text": "5:11and said to the king, “The man was knowledgeable and wise, surpassing all Babylon’s wise men,"
+          },
+          {
+            "id": "v5-12",
+            "text": "5:12and a holy spirit is in him. In the days of your father the king, he explained extraordinary interpretations to Nebuchadnezzar your father.”"
+          },
+          {
+            "id": "v5-13",
+            "text": "5:13Then Daniel was brought before the king, and the king addressed him:"
+          },
+          {
+            "id": "v5-16",
+            "text": "5:16“O Daniel, can you explain the writing’s interpretation to me? I will clothe you in purple and place a gold necklace upon you, and you will have authority over a third part of my kingdom.”"
+          },
+          {
+            "id": "v5-17",
+            "text": "5:17Then Daniel stood opposite the writing and read it. He answered the king in this way: “This is the writing: ‘It has been numbered, it was reckoned, it has been taken away.’ The hand that wrote came to a stop. This is their interpretation:"
+          },
+          {
+            "id": "v5-23",
+            "text": "5:23O king, you held a banquet for your friends and drank wine. The vessels of the living God’s house were brought to you, and you and your magnates drank from them and praised all the idols made by human hands. But you did not bless the living God. Your breath is in His hand, and He gave you your kingdom, yet you neither blessed Him nor offered Him praise. [1]"
+          },
+          {
+            "id": "v5-26-28",
+            "text": "5:26–28This is the writing’s interpretation: your time of kingship has been numbered; your kingdom is ending. Your kingdom has been cut short and brought to completion; it is given to the Medes and Persians.”"
+          },
+          {
+            "id": "v5-29",
+            "text": "5:29Then King Baltasar clothed Daniel in purple, placed a gold necklace upon him, and gave him authority over a third part of his kingdom."
+          },
+          {
+            "id": "v5-30",
+            "text": "5:30The interpretation came upon King Baltasar; the kingship was taken from the Chaldeans and given to the Medes and Persians."
+          }
+        ],
+        "chapter": 5,
+        "section": 5,
+        "page_id": 2956,
+        "title": "Daniel 5",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-5/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Daniel 5"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-5/",
+            "label": "Previous chapter, Daniel 5",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-7/",
+            "label": "Next chapter, Daniel 7",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-5/",
+            "text": "← Daniel 5"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/",
+            "text": "Daniel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-7/",
+            "text": "Daniel 7 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/daniel/6/",
+            "text": "All 376 cross-references for Daniel 6, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v6-1",
+            "text": "6:1Artaxerxes of the Medes received the kingdom. Darius was full of days and glorious in old age."
+          },
+          {
+            "id": "v6-2",
+            "text": "6:2He appointed one hundred twenty-seven satraps over his whole kingdom,"
+          },
+          {
+            "id": "v6-3",
+            "text": "6:3and over them three men as their leaders. Daniel was one of the three men,"
+          },
+          {
+            "id": "v6-4",
+            "text": "6:4having authority above everyone in the kingdom. Daniel was clothed in purple, great and glorious before King Darius, because he was distinguished, knowledgeable, and understanding, with a holy spirit in him, and prospered in the king’s affairs that he conducted. Then the king decided to appoint Daniel over his whole kingdom, along with the two men whom he had appointed with him and one hundred twenty-seven satraps."
+          },
+          {
+            "id": "v6-5",
+            "text": "6:5When the king decided to appoint Daniel over his whole kingdom, the two young men devised a plan and resolution together. Since they could find no sin or ignorant fault in Daniel of which they could accuse him before the king,"
+          },
+          {
+            "id": "v6-6",
+            "text": "6:6they said, “Come, let us establish a restriction binding upon ourselves: no one is to make a request or offer a prayer to any god for thirty days, except to King Darius; otherwise he will die.” They intended to bring Daniel down before the king and have him thrown into the lions’ pit, for they knew that Daniel prayed and entreated the Lord his God three times a day."
+          },
+          {
+            "id": "v6-7",
+            "text": "6:7Then those men approached and said before the king:"
+          },
+          {
+            "id": "v6-8",
+            "text": "6:8“We have established a restriction and decree: anyone who offers a prayer or makes any request to any god for thirty days, except to King Darius, will be thrown into the lions’ pit.”"
+          },
+          {
+            "id": "v6-9",
+            "text": "6:9They asked the king to establish the restriction and not alter it, because they knew that Daniel prayed and entreated three times a day; they intended him to be brought down through the king and thrown into the lions’ pit."
+          },
+          {
+            "id": "v6-10",
+            "text": "6:10Thus King Darius established and ratified it."
+          },
+          {
+            "id": "v6-11",
+            "text": "6:11When Daniel learned of the restriction established against him, he opened windows in his upper room toward Jerusalem, fell upon his face three times a day as he had done before, and made supplication."
+          },
+          {
+            "id": "v6-12",
+            "text": "6:12They watched Daniel and caught him praying three times a day, every day."
+          },
+          {
+            "id": "v6-13",
+            "text": "6:13Then these men appealed to the king and said, “King Darius, did you not decree a restriction that no one should offer a prayer or make a request to any god for thirty days except to you, O king, otherwise he would be thrown into the lions’ pit?” The king answered them, “The statement is exact, and the restriction will remain.”"
+          },
+          {
+            "id": "v6-13a",
+            "text": "6:13aThey said to him, “We adjure you by the decrees of the Medes and Persians: do not alter the command, show partiality, or diminish anything that has been stated; punish the man who has not kept this restriction.” He said, “I will do as you say; this is established with me.”"
+          },
+          {
+            "id": "v6-14",
+            "text": "6:14They said, “Behold! We found Daniel your friend praying and seeking the face of his God three times a day.”"
+          },
+          {
+            "id": "v6-15",
+            "text": "6:15The king, grieved, ordered Daniel thrown into the lions’ pit according to the restriction he had established against him. Then the king was deeply grieved over Daniel and tried to rescue him from the satraps’ hands until sunset,"
+          },
+          {
+            "id": "v6-16",
+            "text": "6:16but could not rescue him from them."
+          },
+          {
+            "id": "v6-17",
+            "text": "6:17King Darius cried out and said to Daniel, “Your God, whom you worship continually three times a day, will rescue you from the lions’ power. Take courage until morning.”"
+          },
+          {
+            "id": "v6-18",
+            "text": "6:18Then Daniel was thrown into the lions’ pit. A stone was brought and placed at the pit’s mouth, and the king sealed it with his own ring and his magnates’ rings, so that Daniel could not be taken away from them, nor could the king pull him up from the pit."
+          },
+          {
+            "id": "v6-19",
+            "text": "6:19Then the king returned to his royal residence and spent the night fasting, grieving over Daniel. Daniel’s God, taking care of him, shut the lions’ mouths, and they did not trouble Daniel."
+          },
+          {
+            "id": "v6-20",
+            "text": "6:20King Darius rose early in the morning, took the satraps with him, and went and stood at the mouth of the lions’ pit."
+          },
+          {
+            "id": "v6-21",
+            "text": "6:21Then the king called to Daniel with a loud voice and weeping: “O Daniel, are you perhaps alive? Has your God, whom you worship continually, saved you from the lions, so that they have not destroyed you?”"
+          },
+          {
+            "id": "v6-22",
+            "text": "6:22Then Daniel answered with a loud voice and said, “O king, I am still alive,"
+          },
+          {
+            "id": "v6-23",
+            "text": "6:23and God has saved me from the lions, because righteousness was found in me before Him. Before you also, O king, neither ignorant fault nor sin was found in me. Yet you listened to men who mislead kings and threw me into the lions’ pit for destruction.”"
+          },
+          {
+            "id": "v6-24",
+            "text": "6:24Then all the forces assembled and saw Daniel, whom the lions had not troubled."
+          },
+          {
+            "id": "v6-25",
+            "text": "6:25Then those two men who had testified against Daniel, with their wives and children, were thrown to the lions. The lions killed them and crushed their bones."
+          },
+          {
+            "id": "v6-26",
+            "text": "6:26Then Darius wrote to all nations, countries, and languages dwelling throughout his whole land, saying:"
+          },
+          {
+            "id": "v6-27",
+            "text": "6:27“Let all people in my kingdom bow to and worship Daniel’s God, for He is God who endures and lives from generation to generation for ever."
+          },
+          {
+            "id": "v6-28",
+            "text": "6:28I, Darius, will bow to Him and serve Him all my days, for handmade idols cannot save as Daniel’s God redeemed Daniel.”"
+          },
+          {
+            "id": "v6-29",
+            "text": "6:29King Darius was gathered to his people, and Daniel was appointed in Darius’s reign. Cyrus the Persian received his kingdom."
+          }
+        ],
+        "chapter": 6,
+        "section": 6,
+        "page_id": 2957,
+        "title": "Daniel 6",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-6/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Daniel 6"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-6/",
+            "label": "Previous chapter, Daniel 6",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-8/",
+            "label": "Next chapter, Daniel 8",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-6/",
+            "text": "← Daniel 6"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/",
+            "text": "Daniel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-8/",
+            "text": "Daniel 8 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/daniel/7/",
+            "text": "All 395 cross-references for Daniel 7, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v7-1",
+            "text": "7:1In the first year of Baltasar’s reign over the country of Babylonia, Daniel saw a vision at his head upon his bed. Then Daniel wrote the vision he had seen in principal points:"
+          },
+          {
+            "id": "v7-2",
+            "text": "7:2“Upon my bed I was watching in dreams by night, and there were four winds of heaven falling upon the great sea."
+          },
+          {
+            "id": "v7-3",
+            "text": "7:3Four beasts came up from the sea, each differing from the other."
+          },
+          {
+            "id": "v7-4",
+            "text": "7:4The first was like a lioness with wings like an eagle’s. I watched until her wings were plucked out, she was lifted from the earth and stood on human feet, and a human heart was given her."
+          },
+          {
+            "id": "v7-5",
+            "text": "7:5After her there was another beast with the likeness of a bear. It stood on one side and had three ribs in its mouth. He spoke in this way: ‘Rise, devour much flesh!’"
+          },
+          {
+            "id": "v7-6",
+            "text": "7:6After this I watched another beast, like a leopard. Four wings stretched over it, and the beast had four heads; a tongue was given it."
+          },
+          {
+            "id": "v7-7",
+            "text": "7:7After this I watched in the night vision a fourth beast, fearsome, its terror surpassing in strength. It had great iron teeth, devoured and pounded, trampled all around with its feet, and acted differently from all the beasts before it. It had ten horns,"
+          },
+          {
+            "id": "v7-8",
+            "text": "7:8and many plans were in its horns. Another single horn sprouted among them, small among its horns, and three of the earlier horns were withered through it. This horn had eyes like human eyes and a mouth speaking great things, and it made war against the holy ones."
+          },
+          {
+            "id": "v7-9",
+            "text": "7:9I watched until thrones were set in place and an Ancient of Days was seated, wearing a covering like snow, with the hair of His head like pure white wool. The throne was like a flame of fire,"
+          },
+          {
+            "id": "v7-10",
+            "text": "7:10and a river of fire came out before Him. A thousand thousands attended Him, and ten thousand times ten thousand stood beside Him. A court sat, and books were opened."
+          },
+          {
+            "id": "v7-11",
+            "text": "7:11Then I watched the sound of the great words the horn was speaking. The beast was beaten to death, its body perished, and it was given over to burning fire."
+          },
+          {
+            "id": "v7-12",
+            "text": "7:12He removed those around it from their authority, and a span of life was given them for a time and a season."
+          },
+          {
+            "id": "v7-13",
+            "text": "7:13I watched in the night vision, and there, upon the clouds of heaven, one like a son of man was coming. He was present as an Ancient of Days, and those standing by were present with him. [1]"
+          },
+          {
+            "id": "v7-14",
+            "text": "7:14Authority was given him, and all the nations of the earth according to their families, and all glory, worshipped him. His authority is everlasting authority that will never be taken away, and his kingdom will never be destroyed. [1]"
+          },
+          {
+            "id": "v7-15",
+            "text": "7:15I, Daniel, was disheartened by these things in the night vision,"
+          },
+          {
+            "id": "v7-16",
+            "text": "7:16and approached one of those standing there, seeking exact understanding from him concerning all these things. He answered me and explained the judgment of the words:"
+          },
+          {
+            "id": "v7-17",
+            "text": "7:17‘These great beasts are four kingdoms that will perish from the earth."
+          },
+          {
+            "id": "v7-18",
+            "text": "7:18The holy ones of the Most High will receive the kingdom and hold the kingdom for ever, for the age of ages.’"
+          },
+          {
+            "id": "v7-19",
+            "text": "7:19Then I wanted exact understanding of the fourth beast, which destroyed everything and was exceedingly fearsome. Its teeth were iron and its claws bronze, devouring everyone all around and trampling with its feet,"
+          },
+          {
+            "id": "v7-20",
+            "text": "7:20and of its ten horns upon its head and the single other that sprouted, through which three fell out. That horn had eyes and a mouth speaking great things, and its appearance surpassed the others."
+          },
+          {
+            "id": "v7-21",
+            "text": "7:21I observed that horn waging war against the holy ones and routing them,"
+          },
+          {
+            "id": "v7-22",
+            "text": "7:22until the Ancient of Days came and gave judgment to the holy ones of the Most High. The time was given, and the holy ones took possession of the kingship."
+          },
+          {
+            "id": "v7-23",
+            "text": "7:23I was told concerning the fourth beast that a fourth kingdom would be upon the earth, surpassing the whole earth, overturning it and grinding it down."
+          },
+          {
+            "id": "v7-24",
+            "text": "7:24As for the kingdom’s ten horns, ten kings will arise, and another king will arise after them. He will surpass the earlier ones in evils and humble three kings."
+          },
+          {
+            "id": "v7-25",
+            "text": "7:25He will speak words against the Most High, wear down the holy ones of the Most High, and expect to alter seasons and law. Everything will be handed into his hands for a time, times, and half a time."
+          },
+          {
+            "id": "v7-26",
+            "text": "7:26The judgment will sit; they will destroy the authority and plan to defile and destroy completely."
+          },
+          {
+            "id": "v7-27",
+            "text": "7:27He gave the kingdom, authority, their greatness, and rule over all the kingdoms under heaven to a holy people of the Most High, to reign with everlasting kingship; all authorities will be subject to him and obey him."
+          },
+          {
+            "id": "v7-28",
+            "text": "7:28Until the account ended, I, Daniel, was greatly overcome with astonishment; my condition changed, and I fixed the matter in my heart.”"
+          }
+        ],
+        "chapter": 7,
+        "section": 7,
+        "page_id": 2958,
+        "title": "Daniel 7",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-7/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Daniel 7"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-7/",
+            "label": "Previous chapter, Daniel 7",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-9/",
+            "label": "Next chapter, Daniel 9",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-7/",
+            "text": "← Daniel 7"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/",
+            "text": "Daniel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-9/",
+            "text": "Daniel 9 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/daniel/8/",
+            "text": "All 357 cross-references for Daniel 8, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v8-1",
+            "text": "8:1In the third year of Baltasar’s reign came the vision that I, Daniel, saw after seeing the first one."
+          },
+          {
+            "id": "v8-2",
+            "text": "8:2I saw in the vision of my dream, while I was in the city of Susa in the country of Elymais, still beside the gate of Ailam,"
+          },
+          {
+            "id": "v8-3",
+            "text": "8:3that, looking up, I saw a great ram standing opposite the gate. It had horns, one higher than the other, and the higher one was rising."
+          },
+          {
+            "id": "v8-4",
+            "text": "8:4After this I saw the ram charging eastward, northward, westward, and southward. No animals stood before it, and no one rescued from its hands. It did as it wished and was exalted."
+          },
+          {
+            "id": "v8-5",
+            "text": "8:5I was pondering, and a male goat came from the west over the earth’s surface without touching the earth. The goat had a single horn between its eyes."
+          },
+          {
+            "id": "v8-6",
+            "text": "8:6It came against the horned ram that I had seen standing beside the gate and ran at it in furious anger."
+          },
+          {
+            "id": "v8-7",
+            "text": "8:7I saw it approach the ram, become furious with it, strike it, and shatter its two horns. The ram no longer had strength to stand against the goat. It hurled the ram down upon the earth and crushed it, and no one could rescue the ram from the goat."
+          },
+          {
+            "id": "v8-8",
+            "text": "8:8The male goat grew exceedingly strong. When it became strong, its great horn was shattered, and four other horns rose behind it toward the four winds of heaven."
+          },
+          {
+            "id": "v8-9",
+            "text": "8:9From one of them a single strong horn sprouted. It grew strong and struck toward the south, toward the east, and toward the north."
+          },
+          {
+            "id": "v8-10",
+            "text": "8:10It was raised as high as heaven’s stars, but was dashed to the earth from the stars and trampled by them,"
+          },
+          {
+            "id": "v8-11",
+            "text": "8:11until the chief commander rescues the captivity. Because of him the ancient mountains were dashed down; their place and sacrifice were removed. He set it down upon the earth, and it prospered and came to pass, and the sanctuary will be made desolate."
+          },
+          {
+            "id": "v8-12",
+            "text": "8:12Sins came upon the sacrifice; righteousness was thrown down to the ground, and he acted and prospered."
+          },
+          {
+            "id": "v8-13",
+            "text": "8:13I heard another holy one speaking, and the other said to the speaking Phelmouni, “How long will the vision stand, and the sacrifice that was removed, and the sin of desolation that was given, and the holy places be made desolate for trampling?”"
+          },
+          {
+            "id": "v8-14",
+            "text": "8:14He said to him, “Until evening and morning, two thousand three hundred days; then the sanctuary will be cleansed.”"
+          },
+          {
+            "id": "v8-15",
+            "text": "8:15As I, Daniel, watched the vision, I sought to understand, and there stood opposite me someone with a human appearance."
+          },
+          {
+            "id": "v8-16",
+            "text": "8:16I heard a human voice in the midst of Ulai, calling, “Gabriel, give that one understanding of the vision.” The man cried out and said, “The vision concerns that command.”"
+          },
+          {
+            "id": "v8-17",
+            "text": "8:17He came and stood beside where I stood. As he came, I was disturbed and fell upon my face. He said to me, “Understand, son of man, for this vision is still for an appointed hour.”"
+          },
+          {
+            "id": "v8-18",
+            "text": "8:18As he spoke with me, I fell asleep face down on the ground. He touched me and raised me on the spot,"
+          },
+          {
+            "id": "v8-19",
+            "text": "8:19and said to me, “Behold! I am reporting what will happen at the end of the wrath to the sons of your people; it will still remain until the hours of the appointed time of completion."
+          },
+          {
+            "id": "v8-20",
+            "text": "8:20The ram you saw with the horns is the king of the Medes and Persians."
+          },
+          {
+            "id": "v8-21",
+            "text": "8:21The male goat is the king of the Greeks, and the great horn between its eyes is the first king himself."
+          },
+          {
+            "id": "v8-22",
+            "text": "8:22As for the four horns that were shattered and rose behind it, four kings of his nation will arise, but not according to his strength."
+          },
+          {
+            "id": "v8-23",
+            "text": "8:23At the end of their kingship, when their sins reach fullness, a king with a shameless face who understands riddles will arise."
+          },
+          {
+            "id": "v8-24",
+            "text": "8:24His strength will be made firm, though not by his own strength. He will destroy astonishingly, prosper, and act; he will destroy rulers and a people of holy ones."
+          },
+          {
+            "id": "v8-25",
+            "text": "8:25His intent will be against the holy ones; falsehood will prosper in his hands, and his heart will be exalted. By deceit he will make many disappear, rise for the destruction of men, make a “gathering of a hand,” and sell."
+          },
+          {
+            "id": "v8-26",
+            "text": "8:26The evening-and-morning vision was found to be true. Now the vision is closed up, for it is still for many days.”"
+          },
+          {
+            "id": "v8-27",
+            "text": "8:27I, Daniel, was weak for many days. Then I rose and again conducted royal affairs. I was undone by the vision, and there was no one who understood."
+          }
+        ],
+        "chapter": 8,
+        "section": 8,
+        "page_id": 2959,
+        "title": "Daniel 8",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-8/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Daniel 8"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-8/",
+            "label": "Previous chapter, Daniel 8",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-10/",
+            "label": "Next chapter, Daniel 10",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-8/",
+            "text": "← Daniel 8"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/",
+            "text": "Daniel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-10/",
+            "text": "Daniel 10 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/daniel/9/",
+            "text": "All 562 cross-references for Daniel 9, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v9-1",
+            "text": "9:1In the first year under Darius son of Xerxes, from the Median family who ruled over the kingdom of the Chaldeans,"
+          },
+          {
+            "id": "v9-2",
+            "text": "9:2in the first year of his reign, I, Daniel, considered in the books the number of years, when a command came to the land concerning Jeremiah the prophet, to bring Jerusalem’s reproach to its full term: seventy years."
+          },
+          {
+            "id": "v9-3",
+            "text": "9:3I set my face toward the Lord God to find prayer and mercy, with fasts, sackcloth, and ashes."
+          },
+          {
+            "id": "v9-4",
+            "text": "9:4I prayed to the Lord God and confessed, saying, “Behold, Lord, Thou art the great, strong, and fearsome God, keeping the covenant and mercy for those who love Thee and guard Thy commands:"
+          },
+          {
+            "id": "v9-5",
+            "text": "9:5we have sinned, done wrong, acted impiously, fallen away, and transgressed Thy commandments and judgments,"
+          },
+          {
+            "id": "v9-6",
+            "text": "9:6and have not listened to Thy servants the prophets, to what they spoke in Thy name to our kings, our rulers, our fathers, and every nation upon the earth."
+          },
+          {
+            "id": "v9-7",
+            "text": "9:7Righteousness belongs to Thee, Lord, but shame of face to us as on this day—to the people of Judah, those dwelling in Jerusalem, and all the people Israel, near and far, in all the countries where Thou didst scatter them because of the trespass they committed before Thee."
+          },
+          {
+            "id": "v9-8",
+            "text": "9:8Master, shame of face belongs to us, to our kings, rulers, and fathers, because we have sinned against Thee."
+          },
+          {
+            "id": "v9-9",
+            "text": "9:9To the Lord belong righteousness and mercy, for we have fallen away from Thee"
+          },
+          {
+            "id": "v9-10",
+            "text": "9:10and have not listened to the voice of the Lord our God, to follow Thy law that Thou didst set before Moses and us through Thy servants the prophets."
+          },
+          {
+            "id": "v9-11",
+            "text": "9:11All Israel abandoned Thy law and fell away, refusing to hear Thy voice. The curse and oath written in the law of Moses, God’s servant, came upon us, because we sinned against Him."
+          },
+          {
+            "id": "v9-12",
+            "text": "9:12He established for us His commands, all He spoke against us and against our judges, all Thou didst judge for us, bringing great calamities upon us, such as had not occurred under heaven as occurred in Jerusalem."
+          },
+          {
+            "id": "v9-13",
+            "text": "9:13According to what is written in Moses’ covenant, all the calamities came upon us. Yet we did not seek the face of the Lord our God by departing from our sins and understanding Thy righteousness, Lord."
+          },
+          {
+            "id": "v9-14",
+            "text": "9:14The Lord God kept watch over the calamities and brought them upon us, for the Lord our God is righteous in everything He may do, and we did not listen to His voice."
+          },
+          {
+            "id": "v9-15",
+            "text": "9:15Now, Master, Lord our God, who didst bring Thy people out of Egypt with Thine uplifted arm and didst make Thyself a name as on this day: we have sinned and acted in ignorance."
+          },
+          {
+            "id": "v9-16",
+            "text": "9:16Master, according to Thy righteousness, let Thy wrath and anger turn away from Thy city Jerusalem, Thy holy mountain. Because of our sins and our fathers’ acts of ignorance, Jerusalem and Thy people, Lord, are a reproach among all around us."
+          },
+          {
+            "id": "v9-17",
+            "text": "9:17Now, Master, hear Thy servant’s prayer and my supplications. Let Thy face look upon Thy desolate holy mountain, for Thy servants’ sake, Master."
+          },
+          {
+            "id": "v9-18",
+            "text": "9:18Attend with Thine ear, Lord, and hear me. Open Thine eyes and see our desolation and that of Thy city, over which Thy name has been called. For we make our supplication in our prayers before Thee because of Thy mercy, not our righteous deeds."
+          },
+          {
+            "id": "v9-19",
+            "text": "9:19Lord, be propitious! Lord, hear and act, and do not delay, for Thine own sake, Master, because Thy name has been called over Thy city Zion and Thy people Israel.”"
+          },
+          {
+            "id": "v9-20",
+            "text": "9:20While I was speaking in prayer, confessing my sins and the sins of my people Israel, and making supplication in prayers before the Lord my God and on behalf of our God’s holy mountain,"
+          },
+          {
+            "id": "v9-21",
+            "text": "9:21while I was still speaking in my prayer, the man I had seen at first in my sleep, Gabriel, was carried swiftly and approached me at the hour of the evening sacrifice."
+          },
+          {
+            "id": "v9-22",
+            "text": "9:22He approached and spoke with me, saying, “Daniel, I have just come out to show you understanding."
+          },
+          {
+            "id": "v9-23",
+            "text": "9:23At the beginning of your supplication, a command went out from the Lord, and I came to explain it to you, because you are worthy of pity. Understand the command."
+          },
+          {
+            "id": "v9-24",
+            "text": "9:24Seventy weeks have been determined for your people and the city Zion: for sin to be brought to completion, injustices to become scarce, injustices to be wiped away, the vision to be understood, everlasting righteousness to be given, the vision to be fulfilled, and a holy of holies to be gladdened. [1]"
+          },
+          {
+            "id": "v9-25",
+            "text": "9:25You will know, understand, and rejoice. You will find commands to be answered, and you will build Jerusalem as a city for the Lord."
+          },
+          {
+            "id": "v9-26",
+            "text": "9:26After seven and seventy and sixty-two, an anointing will be removed and no longer exist. A kingdom of nations will destroy the city and sanctuary together with the anointed one. Its completion will come with wrath and last until the time of completion; it will be assailed by war."
+          },
+          {
+            "id": "v9-27",
+            "text": "9:27The covenant will prevail for many. It will return again and be rebuilt in breadth and length. At the completion of times, after seven and seventy periods and sixty-two years, until the time of the completion of war, desolation will be removed when the covenant grows strong for many weeks. At the end of the week the sacrifice and libation will be removed. Upon the temple will be an abomination of desolations until completion, and completion will be given upon the desolation.”"
+          }
+        ],
+        "chapter": 9,
+        "section": 9,
+        "page_id": 2960,
+        "title": "Daniel 9",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-9/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Daniel 9"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-9/",
+            "label": "Previous chapter, Daniel 9",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-11/",
+            "label": "Next chapter, Daniel 11",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-9/",
+            "text": "← Daniel 9"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/",
+            "text": "Daniel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-11/",
+            "text": "Daniel 11 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/daniel/10/",
+            "text": "All 280 cross-references for Daniel 10, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v10-1",
+            "text": "10:1In the first year of Cyrus, king of the Persians, a command was shown to Daniel, whose name was called Baltasar. The vision and command were true, and the strong multitude will understand the command; I understood it in a vision."
+          },
+          {
+            "id": "v10-2",
+            "text": "10:2In those days I, Daniel, was mourning for three weeks."
+          },
+          {
+            "id": "v10-3",
+            "text": "10:3I ate no desirable bread; meat and wine did not enter my mouth, and I did not anoint myself with oil until I completed the three weeks of days."
+          },
+          {
+            "id": "v10-4",
+            "text": "10:4On the twenty-fourth day of the first month, I was on the bank of the great river, the Tigris,"
+          },
+          {
+            "id": "v10-5",
+            "text": "10:5and I lifted my eyes and saw a man clothed in fine linen, with fine linen wrapped around his waist, and light coming from his middle."
+          },
+          {
+            "id": "v10-6",
+            "text": "10:6His body was like a tarshish stone, his face like a flash of lightning, his eyes like flaming torches, his arms and feet like flashing bronze, and the sound of his speech like the sound of an uproar."
+          },
+          {
+            "id": "v10-7",
+            "text": "10:7I, Daniel, saw this great vision, but the men with me did not see it. Strong fear fell upon them, and they fled in haste."
+          },
+          {
+            "id": "v10-8",
+            "text": "10:8I was left alone and saw this great vision. No strength remained in me; a spirit turned upon me for destruction, and I had no strength."
+          },
+          {
+            "id": "v10-9",
+            "text": "10:9I did not hear the sound of his speech; I had fallen face down upon the earth."
+          },
+          {
+            "id": "v10-10",
+            "text": "10:10He brought a hand toward me and raised me upon my knees, upon the soles of my feet."
+          },
+          {
+            "id": "v10-11",
+            "text": "10:11He said to me, “Daniel, you are a man worthy of pity. Understand the commands I speak to you, and stand in your place, for I have just been sent to you.” As he spoke this command with me, I stood trembling."
+          },
+          {
+            "id": "v10-12",
+            "text": "10:12He said to me, “Do not fear, Daniel. From the first day you set your face to understand and humble yourself before the Lord your God, your word was heard, and I entered because of your word."
+          },
+          {
+            "id": "v10-13",
+            "text": "10:13The general of the king of the Persians stood against me for twenty-one days. Then Michael, one of the foremost rulers, came to help me, and I left him there with the general of the king of the Persians.”"
+          },
+          {
+            "id": "v10-14",
+            "text": "10:14He said to me, “I came to show you what will meet your people in the latter days, for the vision is still for days to come.”"
+          },
+          {
+            "id": "v10-15",
+            "text": "10:15As he spoke these commands with me, I set my face toward the earth and fell silent."
+          },
+          {
+            "id": "v10-16",
+            "text": "10:16Something like a human hand touched my lips. I opened my mouth, spoke, and said to the one standing opposite me, “My lord, something like a vision turned upon my side, upon me, and there was no strength in me."
+          },
+          {
+            "id": "v10-17",
+            "text": "10:17How can the servant speak with his lord? I have become weak; there is no strength in me, and no breath was left in me.”"
+          },
+          {
+            "id": "v10-18",
+            "text": "10:18Again one with a human appearance touched me and strengthened me,"
+          },
+          {
+            "id": "v10-19",
+            "text": "10:19and said to me, “You are a man worthy of pity. Do not fear; be well. Take courage and be strong.” As he spoke with me, I became strong and said, “Let my lord speak, for he has strengthened me.”"
+          },
+          {
+            "id": "v10-20",
+            "text": "10:20He said to me, “Do you know why I came to you? Now I will return to contend with the general of the king of the Persians. I was going out, and the general of the Greeks was coming in."
+          },
+          {
+            "id": "v10-21",
+            "text": "10:21I will indeed show you the first things in a record of truth. No one was helping with me concerning these except Michael the angel.”"
+          }
+        ],
+        "chapter": 10,
+        "section": 10,
+        "page_id": 2961,
+        "title": "Daniel 10",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-10/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Daniel 10"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-10/",
+            "label": "Previous chapter, Daniel 10",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-12/",
+            "label": "Next chapter, Daniel 12",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-10/",
+            "text": "← Daniel 10"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/",
+            "text": "Daniel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-12/",
+            "text": "Daniel 12 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/daniel/11/",
+            "text": "All 528 cross-references for Daniel 11, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v11-1",
+            "text": "11:1In the first year of King Cyrus, he told me to be strong and take courage."
+          },
+          {
+            "id": "v11-2",
+            "text": "11:2“Now I have come to show you the truth. Three kings have stood in opposition in Persia, and the fourth will become richer than all the others. When he grows strong through his wealth, he will rise against every king of the Greeks."
+          },
+          {
+            "id": "v11-3",
+            "text": "11:3A powerful king will arise, exercise great lordship, and do whatever he wishes."
+          },
+          {
+            "id": "v11-4",
+            "text": "11:4When he arises, his kingdom will be shattered and divided toward the four winds of heaven, not according to his might or the lordship with which he ruled. His kingdom will be removed, and he will teach others these things."
+          },
+          {
+            "id": "v11-5",
+            "text": "11:5He will strengthen Egypt’s kingdom, and one of the rulers will overpower him and rule; his rule will be a great rule."
+          },
+          {
+            "id": "v11-6",
+            "text": "11:6At the completion of years he will lead them, and the king of Egypt will enter the northern kingdom to make treaties. He will not prevail, for his arm will not establish strength; his arm and that of those traveling with him will grow numb, and he will remain until the appointed hours."
+          },
+          {
+            "id": "v11-7",
+            "text": "11:7A plant from his root will arise on its own, and the king of the north will come against his force with his strength, cause turmoil, and prevail."
+          },
+          {
+            "id": "v11-8",
+            "text": "11:8He will overthrow their gods together with their cast images, and they will carry their crowds, with their precious vessels, silver, and gold, captive to Egypt. There will be a year for the king of the north."
+          },
+          {
+            "id": "v11-9",
+            "text": "11:9He will enter Egypt’s kingdom for days and return to his land,"
+          },
+          {
+            "id": "v11-10",
+            "text": "11:10and so will his son. He will be provoked, gather an assembly of a great crowd, and enter against it, sweeping through. He will pass over, return, and be greatly provoked."
+          },
+          {
+            "id": "v11-11",
+            "text": "11:11The king of Egypt will become angry and fight the king of the north, and the assembled force will be handed into his hands."
+          },
+          {
+            "id": "v11-12",
+            "text": "11:12He will take the assembled force, and his heart will be exalted. He will throw many into turmoil and will not be afraid."
+          },
+          {
+            "id": "v11-13",
+            "text": "11:13The king of the north will return and gather a city’s force larger than the first at the completion of a year’s appointed time. He will enter it against him with a great crowd and much money."
+          },
+          {
+            "id": "v11-14",
+            "text": "11:14In those times designs will rise against the king of Egypt. He will rebuild the fallen things of your nation and arise to establish the prophecy, but they will stumble."
+          },
+          {
+            "id": "v11-15",
+            "text": "11:15The king of the north will come, turn his spears, and take the fortified city. The arms of Egypt’s king will stand with his rulers, but he will have no strength to resist him."
+          },
+          {
+            "id": "v11-16",
+            "text": "11:16The one coming against him will act according to his will, and no one will resist before him. He will stand in the country, and everything will be accomplished in his hands."
+          },
+          {
+            "id": "v11-17",
+            "text": "11:17He will set his face to advance all his undertaking by force and make treaties with him. He will give him a daughter of a human to destroy her, but she will not obey and will not remain."
+          },
+          {
+            "id": "v11-18",
+            "text": "11:18He will set his face toward the sea and take many. He will turn back the wrath of their reproach with an oath according to his reproach."
+          },
+          {
+            "id": "v11-19",
+            "text": "11:19He will turn his face to strengthen his country, but stumble, fall, and not be found."
+          },
+          {
+            "id": "v11-20",
+            "text": "11:20From his root a royal plant will arise, a man striking a king’s glory. In the last days he will be shattered, but not in wrath or war."
+          },
+          {
+            "id": "v11-21",
+            "text": "11:21In his place will arise one easily despised, upon whom royal glory will not be bestowed. He will come suddenly; a king will prevail in his allotment."
+          },
+          {
+            "id": "v11-22",
+            "text": "11:22He will shatter the already-shattered arms before him."
+          },
+          {
+            "id": "v11-23",
+            "text": "11:23With the covenant and a people arrayed with him, he will act falsely and act against a strong nation with a very small nation."
+          },
+          {
+            "id": "v11-24",
+            "text": "11:24He will suddenly desolate a city and do what neither his fathers nor his fathers’ fathers did. He will give them plunder, spoils, and money and devise plans against the strong city, but his plans will be in vain."
+          },
+          {
+            "id": "v11-25",
+            "text": "11:25His strength and heart will be stirred against Egypt’s king with a great crowd. Egypt’s king will be provoked to war with an exceedingly strong crowd, but will not stand, because he will devise a design against him."
+          },
+          {
+            "id": "v11-26",
+            "text": "11:26His anxieties will consume him and turn him away. He will pass through and sweep away, and many wounded will fall."
+          },
+          {
+            "id": "v11-27",
+            "text": "11:27Two kings alone will dine together, eat at one table, and speak falsely, but they will not prosper, for completion still awaits its appointed time."
+          },
+          {
+            "id": "v11-28",
+            "text": "11:28He will return to his country with much money, his heart against the holy covenant. He will act and return to his country"
+          },
+          {
+            "id": "v11-29",
+            "text": "11:29at the appointed time. He will enter Egypt, but it will not be as the first and the last."
+          },
+          {
+            "id": "v11-30",
+            "text": "11:30Romans will come, drive him out, and rebuke him. He will return, become angry against the holy covenant, act, and return. He will consider them because they abandoned the holy covenant."
+          },
+          {
+            "id": "v11-31",
+            "text": "11:31Arms from him will arise, defile the sanctuary of fear, remove the sacrifice, and establish an abomination of desolation."
+          },
+          {
+            "id": "v11-32",
+            "text": "11:32In sins against the covenant they will defile with a harsh people, but the people who know these things will be strong and act."
+          },
+          {
+            "id": "v11-33",
+            "text": "11:33The thoughtful of the nation will give understanding to many. They will stumble by the sword and grow old in it; in captivity and plunder they will be stained for days."
+          },
+          {
+            "id": "v11-34",
+            "text": "11:34When they are crushed, they will gather a little strength. Many will assemble with them at a city, and many as in an allotment."
+          },
+          {
+            "id": "v11-35",
+            "text": "11:35Some of those who understand will consider how to purify themselves, be selected, and be cleansed until the time of completion, for the time still awaits its hours."
+          },
+          {
+            "id": "v11-36",
+            "text": "11:36The king will act according to his will, become enraged, and be exalted above every god. He will speak extraordinary things against the God of gods and prosper until the wrath is completed, for completion is coming upon him."
+          },
+          {
+            "id": "v11-37",
+            "text": "11:37He will pay no heed to his fathers’ gods or to the desire of a woman, for he will be exalted in everything, and strong nations will be subject to him."
+          },
+          {
+            "id": "v11-38",
+            "text": "11:38He will stir in his place and honor a god whom his fathers did not know with gold, silver, and costly stone. And with the desirable things"
+          },
+          {
+            "id": "v11-39",
+            "text": "11:39of cities he will act, and he will come into a strong fortification. With a foreign god, whom he may acknowledge, he will multiply glory, rule over him greatly, and apportion country as a gift."
+          },
+          {
+            "id": "v11-40",
+            "text": "11:40At the hour of completion, Egypt’s king will clash with him. The king of the north will rage against him with chariots, many horses, and many ships, and enter Egypt’s country"
+          },
+          {
+            "id": "v11-41",
+            "text": "11:41and come into my country,"
+          },
+          {
+            "id": "v11-42",
+            "text": "11:42and in Egypt’s country no one will be saved."
+          },
+          {
+            "id": "v11-43",
+            "text": "11:43He will control the place of gold, the place of silver, and all Egypt’s desirable wealth; Libyans and Ethiopians will be in his multitude."
+          },
+          {
+            "id": "v11-44",
+            "text": "11:44A report from the east and north will disturb him, and he will go out in strong anger and with a sword to wipe out and kill many."
+          },
+          {
+            "id": "v11-45",
+            "text": "11:45Then he will set his tent between the seas and the mountain of the Holy One’s desire. The hour of his completion will come, and no one will help him.”"
+          }
+        ],
+        "chapter": 11,
+        "section": 11,
+        "page_id": 2964,
+        "title": "Daniel 11",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-11/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Daniel 11"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-11/",
+            "label": "Previous chapter, Daniel 11",
+            "text": "← Previous"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-11/",
+            "text": "← Daniel 11"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/",
+            "text": "Daniel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/susanna/",
+            "text": "Daniel — Susanna →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/daniel/12/",
+            "text": "All 218 cross-references for Daniel 12, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v12-1",
+            "text": "12:1“At that hour Michael will pass by, the great angel who stands over the sons of your people. That will be a day of affliction such as has not occurred since they came into being until that day. On that day all the people found inscribed in the book will be exalted."
+          },
+          {
+            "id": "v12-2",
+            "text": "12:2Many of those sleeping in the breadth of the earth shall arise: some unto everlasting life, others unto reproach, and others unto dispersion and everlasting shame. [1]"
+          },
+          {
+            "id": "v12-3",
+            "text": "12:3Those who understand will appear like heaven’s lights, and those who strengthen my words like the stars of heaven for the age of the age."
+          },
+          {
+            "id": "v12-4",
+            "text": "12:4But you, Daniel, cover the commands and seal the book until the time of completion, until the many go mad and the earth is filled with injustice.”"
+          },
+          {
+            "id": "v12-5",
+            "text": "12:5I, Daniel, saw two others standing, one on this side of the river and one on the other."
+          },
+          {
+            "id": "v12-6",
+            "text": "12:6I said to the one clothed in fine linen above, “When, then, will the wonders you have told me reach completion, and these things be cleansed?”"
+          },
+          {
+            "id": "v12-7",
+            "text": "12:7I heard the one clothed in fine linen above the river’s water say, “Until the time of completion.” He raised his right hand and his left to heaven and swore by God who lives for ever that in a time, times, and half a time would be the completion of the “hands of release” of a holy people, and all these things would be completed."
+          },
+          {
+            "id": "v12-8",
+            "text": "12:8I heard, but did not understand the time from him. I said, “My lord, what is the interpretation of this word, and what do these figures concern?”"
+          },
+          {
+            "id": "v12-9",
+            "text": "12:9He said to me, “Go away, Daniel, for the commands are covered and sealed until"
+          },
+          {
+            "id": "v12-10",
+            "text": "12:10many are tested and made holy, and sinners sin. None of the sinners will understand, but those who understand will pay attention."
+          },
+          {
+            "id": "v12-11",
+            "text": "12:11From when the sacrifice is removed for all time and preparations are made to set up the abomination of desolation: one thousand two hundred ninety days."
+          },
+          {
+            "id": "v12-12",
+            "text": "12:12Blessed is the one who perseveres and reaches a total of one thousand three hundred thirty-five days."
+          },
+          {
+            "id": "v12-13",
+            "text": "12:13But you, go and rest, for there are still days and hours until completion is fulfilled. You will rest and arise unto your glory at the completion of days.” [1]"
+          }
+        ],
+        "chapter": 12,
+        "section": 12,
+        "page_id": 2962,
+        "title": "Daniel 12",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-12/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 12,
+        "selected_chapter": "Daniel 12"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-12/",
+            "text": "← Daniel 12"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/",
+            "text": "Daniel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/bel-and-the-dragon/",
+            "text": "Daniel — Bel and the Dragon →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-12/",
+            "text": "← Daniel 12"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/",
+            "text": "Daniel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/bel-and-the-dragon/",
+            "text": "Daniel — Bel and the Dragon →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v1-6",
+            "text": "Susanna 1:6And judicial cases from other cities came to them."
+          },
+          {
+            "id": "v1-7-8",
+            "text": "Susanna 1:7–8These men saw a woman lovely in appearance, the wife of their brother from the sons of Israel, named Susanna, daughter of Hilkiah and wife of Joachim, walking in her husband’s garden in the evening. They desired her"
+          },
+          {
+            "id": "v1-9",
+            "text": "Susanna 1:9and distorted their minds, turning their eyes aside so as not to look toward heaven or remember righteous judgments."
+          },
+          {
+            "id": "v1-10-11",
+            "text": "Susanna 1:10–11Both were stricken with desire for her, but neither admitted to the other the evil that possessed them concerning her. The woman herself knew nothing of this matter."
+          },
+          {
+            "id": "v1-12",
+            "text": "Susanna 1:12As dawn came, they would come, trying to outwit one another in their hurry to see who would appear to her first and speak with her."
+          },
+          {
+            "id": "v1-13-14",
+            "text": "Susanna 1:13–14And behold, she was walking as usual. One of the elders had arrived, and behold, the other came. One questioned the other, saying, “Why did you go out so early without taking me?” Then each confessed his anguish to the other."
+          },
+          {
+            "id": "v1-19",
+            "text": "Susanna 1:19One said to the other, “Let us go to her.” Having agreed, they approached her and tried to force her."
+          },
+          {
+            "id": "v1-22",
+            "text": "Susanna 1:22The Jewish woman said to them, “I know that if I do this, it means death for me; and if I do not, I will not escape your hands."
+          },
+          {
+            "id": "v1-23",
+            "text": "Susanna 1:23But it is better for me to fall into your hands without having done it than to sin before the Lord.”"
+          },
+          {
+            "id": "v1-28",
+            "text": "Susanna 1:28The lawless men went back, making threats among themselves and plotting to kill her. They came to the assembly of the city where they were residing, and all the sons of Israel who were there sat together in council."
+          },
+          {
+            "id": "v1-29",
+            "text": "Susanna 1:29The two elders and judges stood up and said, “Send for Susanna, daughter of Hilkiah, who is Joachim’s wife.” They summoned her at once."
+          },
+          {
+            "id": "v1-30",
+            "text": "Susanna 1:30The woman arrived with her father and mother. Her male and female servants, numbering five hundred, also arrived, together with Susanna’s four children."
+          },
+          {
+            "id": "v1-31",
+            "text": "Susanna 1:31The woman was very delicate."
+          },
+          {
+            "id": "v1-32",
+            "text": "Susanna 1:32The lawless men ordered her to be uncovered, so that they might satisfy their desire for her beauty."
+          },
+          {
+            "id": "v1-33",
+            "text": "Susanna 1:33All her people, and everyone who knew her, wept."
+          },
+          {
+            "id": "v1-34",
+            "text": "Susanna 1:34The elders and judges stood up and laid their hands on her head."
+          },
+          {
+            "id": "v1-35",
+            "text": "Susanna 1:35But her heart trusted in the Lord her God. Raising her head, she wept within herself, saying,"
+          },
+          {
+            "id": "v1-35a",
+            "text": "Susanna 1:35a“Lord, everlasting God, who knowest all things before they come into being, Thou knowest that I have not done what these lawless men wickedly allege against me.” And the Lord heard her petition."
+          },
+          {
+            "id": "v1-36",
+            "text": "Susanna 1:36The two elders said, “We were walking in her husband’s garden,"
+          },
+          {
+            "id": "v1-37",
+            "text": "Susanna 1:37and as we went around the course, we saw this woman reclining with a man. We stood and watched them being intimate with one another,"
+          },
+          {
+            "id": "v1-38",
+            "text": "Susanna 1:38and they did not know that we were standing there. Then we said to one another, ‘Let us find out who these people are.’"
+          },
+          {
+            "id": "v1-39",
+            "text": "Susanna 1:39We approached and recognized her, but the young man fled, covered up."
+          },
+          {
+            "id": "v1-40",
+            "text": "Susanna 1:40We seized her and asked her, ‘Who is the man?’"
+          },
+          {
+            "id": "v1-41",
+            "text": "Susanna 1:41She did not tell us who he was. We testify to these things.” The whole assembly believed them because they were elders and judges of the people."
+          },
+          {
+            "id": "v1-44-45",
+            "text": "Susanna 1:44–45And behold, an angel of the Lord was there as she was being led out to perish. As he had been commanded, the angel gave a spirit of understanding to Daniel, who was young."
+          },
+          {
+            "id": "v1-48",
+            "text": "Susanna 1:48Daniel parted the crowd, stood in their midst, and said, “Are you so foolish, sons of Israel? Have you condemned a daughter of Israel without an inquiry or a clear knowledge of the facts?"
+          },
+          {
+            "id": "v1-51",
+            "text": "Susanna 1:51Now separate them far from one another for me, so that I may examine them.”"
+          },
+          {
+            "id": "v1-52",
+            "text": "Susanna 1:52When they had been separated, Daniel said to the assembly, “Do not now look at the fact that these men are elders and say, ‘They certainly will not lie.’ I will question them according to what occurs to me.” He called one of them, and they brought the elder to the young man. Daniel said to him, “Listen, listen, you who have grown old in evil days! Now your sins have come upon you, the things you formerly did"
+          },
+          {
+            "id": "v1-53",
+            "text": "Susanna 1:53when you were entrusted with hearing and judging cases that bring death: you condemned the innocent and would release the guilty, although the Lord says, ‘You shall not kill the innocent and the righteous.’"
+          },
+          {
+            "id": "v1-54",
+            "text": "Susanna 1:54Now then, under what tree, and in what part of the garden, did you see them together?” The impious man said, “Under a mastic tree.”"
+          },
+          {
+            "id": "v1-55",
+            "text": "Susanna 1:55The young man said, “You have indeed lied against your own soul, for the angel of the Lord will split your soul today.”"
+          },
+          {
+            "id": "v1-56",
+            "text": "Susanna 1:56He moved this man aside and said to bring the other to him. To this man he said, “Why is your offspring corrupted, like Sidon’s and not like Judah’s? Beauty and filthy desire deceived you!"
+          },
+          {
+            "id": "v1-57",
+            "text": "Susanna 1:57This is how you used to treat the daughters of Israel, and they were intimate with you because they were afraid. But a daughter of Judah did not endure bearing your disease in lawlessness."
+          },
+          {
+            "id": "v1-58",
+            "text": "Susanna 1:58Now then, tell me: under what tree, and in what part of the garden, did you catch them being intimate with one another?” He said, “Under a holm-oak.”"
+          },
+          {
+            "id": "v1-59",
+            "text": "Susanna 1:59Daniel said, “Sinner, the angel of the Lord now stands holding his sword, until the people utterly destroy you both, so that he may saw you apart.” [1]"
+          },
+          {
+            "id": "v1-60-62",
+            "text": "Susanna 1:60–62The whole assembly cried out over the young man, because from their own mouths he had established that both were admittedly false witnesses. As the law prescribes, they did to them what they had wickedly plotted against their sister. They gagged them, took them out, and threw them into a ravine. Then the angel of the Lord cast fire through their midst. Innocent blood was saved that day."
+          },
+          {
+            "id": "v1-63",
+            "text": "Susanna 1:63For this reason the young are beloved of Jacob in their simplicity. Let us also be attentive to capable young sons, for the young will be devout, and a spirit of knowledge and understanding will be in them for ever and ever."
+          }
+        ],
+        "chapter": 13,
+        "section": 13,
+        "page_id": 2963,
+        "title": "Daniel — Susanna",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/susanna/",
+        "chapter_navigation_matches": false,
+        "chapter_option_count": 0,
+        "selected_chapter": null,
+        "navigation_note": "This additional section has previous/index/next links and no numbered-chapter selector. Its links match the original backup."
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/susanna/",
+            "text": "← Daniel — Susanna"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/",
+            "text": "Daniel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-1/",
+            "text": "Hosea 1 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/susanna/",
+            "text": "← Daniel — Susanna"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/",
+            "text": "Daniel: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-1/",
+            "text": "Hosea 1 →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v1-1",
+            "text": "Bel and Dragon 1:1From the prophecy of Habakkuk, son of Joshua, of the tribe of Levi."
+          },
+          {
+            "id": "v1-2",
+            "text": "Bel and Dragon 1:2There was a certain priest named Daniel, son of Abal, a companion of the king of Babylon."
+          },
+          {
+            "id": "v1-3",
+            "text": "Bel and Dragon 1:3There was an idol, Bel, whom the Babylonians revered. Each day twelve artabas of fine flour, four sheep, and six metretas of oil were expended for him."
+          },
+          {
+            "id": "v1-4",
+            "text": "Bel and Dragon 1:4The king revered him and went each day to bow before him, but Daniel prayed to the Lord."
+          },
+          {
+            "id": "v1-5",
+            "text": "Bel and Dragon 1:5The king said to Daniel, “Why do you not bow before Bel?” Daniel said to the king, “I revere no one except the Lord God, who created heaven and earth and has lordship over all flesh.”"
+          },
+          {
+            "id": "v1-6",
+            "text": "Bel and Dragon 1:6The king said to him, “Is this one, then, not a god? Do you not see how much is spent on him every day?”"
+          },
+          {
+            "id": "v1-7",
+            "text": "Bel and Dragon 1:7Daniel said to him, “Certainly not! Let no one deceive you. This one is clay on the inside and bronze on the outside. I swear to you by the Lord, the God of gods, that this one has never eaten anything.”"
+          },
+          {
+            "id": "v1-8",
+            "text": "Bel and Dragon 1:8The king became angry, called those in charge of the temple, and said to them, “Show who eats what is prepared for Bel. Otherwise, either you will die or Daniel, who claims that these things are not eaten by him.” They said, “Bel himself is the one who eats them.”"
+          },
+          {
+            "id": "v1-9",
+            "text": "Bel and Dragon 1:9Daniel said to the king, “Let it be so. If I do not demonstrate that Bel is not the one who eats these things, I and all my people will die.” Bel had seventy priests, apart from their wives and children."
+          },
+          {
+            "id": "v1-10",
+            "text": "Bel and Dragon 1:10They brought the king into the idol-temple."
+          },
+          {
+            "id": "v1-11",
+            "text": "Bel and Dragon 1:11The food was set out before the king and Daniel. Mixed wine was brought in and placed before Bel. Daniel said, “You yourself see that these things are laid out, O king. So seal the locks of the temple yourself when it has been closed.”"
+          },
+          {
+            "id": "v1-13",
+            "text": "Bel and Dragon 1:13The proposal pleased the king."
+          },
+          {
+            "id": "v1-14",
+            "text": "Bel and Dragon 1:14Daniel ordered his people to put everyone out of the temple and sprinkle the whole temple with ashes, without anyone outside his own group knowing. Then he ordered the temple to be sealed with the king’s ring and the rings of certain distinguished priests. It was done that way."
+          },
+          {
+            "id": "v1-15-17",
+            "text": "Bel and Dragon 1:15–17The next day they came to the place. Meanwhile, Bel’s priests had entered through secret doors, eaten everything laid before Bel, and drunk all the wine. Daniel said, “Men who are priests, inspect your seals to see whether they remain. And you, O king, examine whether anything has turned out contrary to what you expected.” They found the seal as it had been, and removed the seal. [1]"
+          },
+          {
+            "id": "v1-18",
+            "text": "Bel and Dragon 1:18They opened the doors and saw that everything set out had been consumed and the tables were empty. The king rejoiced and said to Daniel, “Bel is great, and there is no deceit in him.”"
+          },
+          {
+            "id": "v1-19",
+            "text": "Bel and Dragon 1:19Daniel laughed heartily and said to the king, “Come, see the priests’ deceit.” Daniel said, “O king, whose footprints are these?”"
+          },
+          {
+            "id": "v1-20",
+            "text": "Bel and Dragon 1:20The king said, “Those of men, women, and children.”"
+          },
+          {
+            "id": "v1-21",
+            "text": "Bel and Dragon 1:21He went to the house where the priests were staying and found Bel’s food and the wine. Daniel showed the king the secret doors through which the priests would enter and consume what was laid before Bel."
+          },
+          {
+            "id": "v1-22",
+            "text": "Bel and Dragon 1:22The king brought them out of Bel’s temple and handed them over to Daniel. He gave Daniel the expenditure allocated to Bel, and destroyed Bel."
+          },
+          {
+            "id": "v1-23",
+            "text": "Bel and Dragon 1:23There was a dragon in the same place, and the Babylonians revered it."
+          },
+          {
+            "id": "v1-24",
+            "text": "Bel and Dragon 1:24The king said to Daniel, “Will you say that this one is bronze too? Behold, it lives, eats, and drinks. Bow before it.”"
+          },
+          {
+            "id": "v1-25",
+            "text": "Bel and Dragon 1:25Daniel said, “O king, give me authority, and I will kill the dragon without iron or a rod.”"
+          },
+          {
+            "id": "v1-26",
+            "text": "Bel and Dragon 1:26The king consented and said to him, “It is granted to you.”"
+          },
+          {
+            "id": "v1-27",
+            "text": "Bel and Dragon 1:27Daniel took thirty minas of pitch, together with fat and hair, boiled them together, made a cake, and threw it into the dragon’s mouth. It ate and burst apart. He showed it to the king, saying, “Are these not the things you revere, O king?”"
+          },
+          {
+            "id": "v1-28",
+            "text": "Bel and Dragon 1:28All the people from the country gathered against Daniel and said, “The king has become a Jew! He has destroyed Bel and killed the dragon.”"
+          },
+          {
+            "id": "v1-30",
+            "text": "Bel and Dragon 1:30The king saw that the crowd of the country had gathered against him. He called his companions and said, “I hand Daniel over to destruction.”"
+          },
+          {
+            "id": "v1-31-32",
+            "text": "Bel and Dragon 1:31–32There was a pit in which seven lions were kept. Those who plotted against the king were handed over to them, and each day two bodies of people condemned to death were supplied to them. The crowds threw Daniel into that pit so that he would be devoured and would not even receive burial. Daniel was in the pit for six days."
+          },
+          {
+            "id": "v1-33",
+            "text": "Bel and Dragon 1:33On the sixth day, Habakkuk had bread crumbled in a trough with stew, and a jar of mixed wine. He was going into the field to the reapers."
+          },
+          {
+            "id": "v1-34",
+            "text": "Bel and Dragon 1:34An angel of the Lord spoke to Habakkuk, saying, “Thus says the Lord God to you: ‘Take the meal you have to Daniel in the lions’ pit in Babylon.’”"
+          },
+          {
+            "id": "v1-35",
+            "text": "Bel and Dragon 1:35Habakkuk said, “Lord God, I have not seen Babylon, and I do not know where the pit is.”"
+          },
+          {
+            "id": "v1-36",
+            "text": "Bel and Dragon 1:36The angel of the Lord took Habakkuk by the hair of his head and set him above the pit in Babylon."
+          },
+          {
+            "id": "v1-37",
+            "text": "Bel and Dragon 1:37Habakkuk said to Daniel, “Get up and eat the meal that the Lord God has sent you.”"
+          },
+          {
+            "id": "v1-38",
+            "text": "Bel and Dragon 1:38Daniel said, “For the Lord God has remembered me, He who does not abandon those who love Him.”"
+          },
+          {
+            "id": "v1-39",
+            "text": "Bel and Dragon 1:39Daniel ate. The angel of the Lord returned Habakkuk to the place from which he had taken him on that same day. And the Lord God remembered Daniel."
+          },
+          {
+            "id": "v1-40",
+            "text": "Bel and Dragon 1:40After these things the king went out mourning Daniel. He bent down into the pit and saw him sitting there."
+          },
+          {
+            "id": "v1-41",
+            "text": "Bel and Dragon 1:41The king cried aloud and said, “The Lord God is great, and there is no other besides Him.”"
+          },
+          {
+            "id": "v1-42",
+            "text": "Bel and Dragon 1:42The king brought Daniel out of the pit. Before Daniel’s eyes he threw into the pit those responsible for his destruction, and they were devoured."
+          }
+        ],
+        "chapter": 14,
+        "section": 14,
+        "page_id": 2965,
+        "title": "Daniel — Bel and the Dragon",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/bel-and-the-dragon/",
+        "chapter_navigation_matches": false,
+        "chapter_option_count": 0,
+        "selected_chapter": null,
+        "navigation_note": "This additional section has previous/index/next links and no numbered-chapter selector. Its links match the original backup."
+      }
+    ],
+    "index": {
+      "links": [
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-1/",
+          "text": "Begin reading →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-1/",
+          "text": "1Daniel 1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-2/",
+          "text": "2Daniel 2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-3/",
+          "text": "3Daniel 3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-4/",
+          "text": "4Daniel 4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-5/",
+          "text": "5Daniel 5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-6/",
+          "text": "6Daniel 6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-7/",
+          "text": "7Daniel 7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-8/",
+          "text": "8Daniel 8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-9/",
+          "text": "9Daniel 9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-10/",
+          "text": "10Daniel 10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-11/",
+          "text": "11Daniel 11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-12/",
+          "text": "12Daniel 12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/2/",
+          "text": "Begin comparing →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/2/",
+          "text": "1Chapter 1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/3/",
+          "text": "2Chapter 2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/4/",
+          "text": "3Chapter 3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/5/",
+          "text": "4Chapter 4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/6/",
+          "text": "5Chapter 5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/7/",
+          "text": "6Chapter 6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/8/",
+          "text": "7Chapter 7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/9/",
+          "text": "8Chapter 8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/10/",
+          "text": "9Chapter 9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/11/",
+          "text": "10Chapter 10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/12/",
+          "text": "11Chapter 11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/13/",
+          "text": "12Chapter 12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/14/",
+          "text": "13Susanna — Old Greek addition"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/15/",
+          "text": "14Bel and Dragon — Old Greek addition"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/",
+          "text": "Jewish–Hebrew Masoretic TextCompared with the Saints TranslationOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/vulgate-comparison/",
+          "text": "Catholic Latin VulgateCompared with the Saints TranslationOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/kjv-comparison/",
+          "text": "Protestant King James BibleCompared with the Saints TranslationOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/kjv-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/kjv-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/kjv-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/kjv-comparison/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/kjv-comparison/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/kjv-comparison/7/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/kjv-comparison/8/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/kjv-comparison/9/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/kjv-comparison/10/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/kjv-comparison/11/",
+          "text": "10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/kjv-comparison/12/",
+          "text": "11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/kjv-comparison/13/",
+          "text": "12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/7/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/8/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/9/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/10/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/11/",
+          "text": "10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/12/",
+          "text": "11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/13/",
+          "text": "12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/vulgate-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/vulgate-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/vulgate-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/vulgate-comparison/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/vulgate-comparison/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/vulgate-comparison/7/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/vulgate-comparison/8/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/vulgate-comparison/9/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/vulgate-comparison/10/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/vulgate-comparison/11/",
+          "text": "10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/vulgate-comparison/12/",
+          "text": "11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/vulgate-comparison/13/",
+          "text": "12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/vulgate-comparison/14/",
+          "text": "13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/vulgate-comparison/15/",
+          "text": "14"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-1/",
+          "text": "Chapters 1–6Stories of faithfulness in exile"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-7/",
+          "text": "Chapters 7–8Visions of beasts and kingdoms"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-9/",
+          "text": "Chapter 9Prayer and the seventy weeks"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-10/",
+          "text": "Chapters 10–12The final vision and resurrection"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-2/#v2-44",
+          "text": "Daniel 2:44"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-3/#v3-25",
+          "text": "Daniel 3:25"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-7/#v7-13",
+          "text": "Daniel 7:13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-12/#v12-2",
+          "text": "Daniel 12:2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/study/",
+          "text": "Open the Daniel study edition →"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/#saints-ref-1-1",
+          "text": "[1]"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/#",
+          "text": "Suggest a correction"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-1/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-2/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-3/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-4/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-5/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-6/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-7/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-8/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-9/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-10/",
+          "text": "10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-11/",
+          "text": "11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-12/",
+          "text": "12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/susanna/",
+          "text": "Susanna"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/bel-and-the-dragon/",
+          "text": "Bel and the Dragon"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/editorial-guide/",
+          "text": "Read the editorial guide"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/",
+          "text": "Daniel — Comparison and passage research"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/",
+          "text": "Explore the Providence books →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-1/",
+          "text": "Chapters 1–6Stories of faithfulness in exile"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-7/",
+          "text": "Chapters 7–8Visions of beasts and kingdoms"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-9/",
+          "text": "Chapter 9Prayer and the seventy weeks"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-10/",
+          "text": "Chapters 10–12The final vision and resurrection"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-2/#v2-44",
+          "text": "Daniel 2:44"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-3/#v3-25",
+          "text": "Daniel 3:25"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-7/#v7-13",
+          "text": "Daniel 7:13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-12/#v12-2",
+          "text": "Daniel 12:2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/study/",
+          "text": "Open the Daniel study edition →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/susanna/",
+          "text": "Susanna"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/bel-and-the-dragon/",
+          "text": "Bel and the Dragon"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/editorial-guide/",
+          "text": "Read the editorial guide"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/#saints-ref-1-cite-1",
+          "text": "↑"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        }
+      ],
+      "text": "Daniel\nFind a chapter\n\n26 links. Choose a section to browse.\n\nREAD\nDaniel · Reading\n12 chapters\nBegin reading →\n1\nDaniel 1\n2\nDaniel 2\n3\nDaniel 3\n4\nDaniel 4\n5\nDaniel 5\n6\nDaniel 6\n7\nDaniel 7\n8\nDaniel 8\n9\nDaniel 9\n10\nDaniel 10\n11\nDaniel 11\n12\nDaniel 12\nSTUDY\nDaniel · Comparisons\n14 chapters and study sections\n\nBespoke Saints English Translation · 12 chapters, Susanna, and Bel and the Dragon · Provisional editorial edition · 15 October 2026\n\nCompare Daniel with the Saints Translation\n\nJewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison\nCatholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison\nProtestant King James Bible\nCompared with the Saints Translation\nOpen comparison\n\nGO STRAIGHT TO A CHAPTER\n\nKJV & Greek\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\nHebrew & Greek\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\nLatin Vulgate\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\nSaints Translation: sources and study approach\n\nDraft for review. Only editors can see this introduction. Approve all introductions under Settings → Saints Study.\n\nINTRODUCTION\n\nIntroducing Daniel\n\nDaniel tells of faithful Jews in the Babylonian court and records visions of world empires giving way to God’s everlasting kingdom. The Greek tradition adds the Prayer of Azariah, and the stories of Susanna and of Bel and the Dragon, which appear on separate pages.\n\nSETTING\nThe stories are set in Babylon and Persia during the Exile, and the book encouraged faithful Jews facing pressure to abandon their God.\nAUTHOR\nTraditionally attributed to Daniel, an exile in Babylon. Many modern scholars date the book’s final form to the Maccabean period.\nDATE\nTraditionally 6th century BC; many scholars date the final form to c. 165 BC.\nOutline\nChapters 1–6\nStories of faithfulness in exile\nChapters 7–8\nVisions of beasts and kingdoms\nChapter 9\nPrayer and the seventy weeks\nChapters 10–12\nThe final vision and resurrection\nKey passages\nDaniel 2:44 — A kingdom never destroyed\nDaniel 3:25 — Four men in the fire\nDaniel 7:13 — One like a son of man\nDaniel 12:2 — Awakening from the dust\nThemes\nGod’s sovereignty over empires\nFaithfulness under pressure\nThe Son of Man\nThe kingdom of God\nResurrection\nRead in the light of Christ\n\nJesus called himself the Son of Man, and the Fathers saw the stone cut without hands as Christ born of the Virgin, and the fourth figure in the furnace as a sign of his presence.\n\nOpen the Daniel study edition →\n\nIntroduction by Saints.Bible · CC BY-SA 4.0[1] · Suggest a correction\n\nChapters\n\n1 2 3 4 5 6 7 8 9 10 11 12 Susanna Bel and the Dragon\n\nEditorial guide\n\nRead the editorial guide\n\nCurrent Bespoke editorial guide\n\nAll 12 chapters plus Susanna and Bel and the Dragon, comprising 487 existing reading units (486 numbered verse units plus the unnumbered chapter-five preface), have received the Bespoke English editorial pass: 154 revised and 333 retained. The chosen text is Old Greek Daniel, not Theodotion. Source-specific numbering, names, repetitions and verse anchors are preserved. The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.\n\nOld Greek Daniel in Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending. All English reading units were individually reviewed, and the full displayed Greek running text was read chapter by chapter with focused comparison of the recorded features. This does not constitute exhaustive critical-text verification.\n\nThe newer Bespoke PDF governs this reading edition. Saints Translation literal-smooth and all comparison/study streams remain separate and unchanged. Notes are separated from Scripture. Earlier source and wording notes are historical records and may quote superseded wording or pronouns; the dated current Bespoke notes explain this revision. The earlier editorial guide remains linked as a historical reference and does not override the newer PDF.\n\nThe existing Old Greek numbering, lettered and grouped units, and verse gaps remain intact. The unnumbered chapter-five preface, furnace prayer and song, Susanna and Bel and the Dragon are included. Names, dates, figures and unusual readings are not harmonized to Theodotion, Hebrew/Aramaic or familiar English versions. Historical lexical and comparative notes, footnote anchors, images and navigation remain preserved.\n\nDaniel — Comparison and passage research\n\nRead all 29 classified Disparate entries with complete Hebrew / Aramaic–English and Old Greek–English readings, Jewish and Christian interpretation, and qualified explanations of their differences.\n\nExplore the Providence books →\n\nExplore links from this page\nScripture\nFootnotes\n↑CC BY-SA 4.0 — creativecommons.org",
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/",
+      "all_14_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "Whitespace and WordPress apostrophe typography only; visible verse numbers and preserved trailing footnote callouts excluded.",
+    "chapter_navigation": [
+      {
+        "text": "Daniel 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-1/"
+      },
+      {
+        "text": "Daniel 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-2/"
+      },
+      {
+        "text": "Daniel 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-3/"
+      },
+      {
+        "text": "Daniel 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-4/"
+      },
+      {
+        "text": "Daniel 5",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-5/"
+      },
+      {
+        "text": "Daniel 6",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-6/"
+      },
+      {
+        "text": "Daniel 7",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-7/"
+      },
+      {
+        "text": "Daniel 8",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-8/"
+      },
+      {
+        "text": "Daniel 9",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-9/"
+      },
+      {
+        "text": "Daniel 10",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-10/"
+      },
+      {
+        "text": "Daniel 11",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-11/"
+      },
+      {
+        "text": "Daniel 12",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/chapter-12/"
+      }
+    ],
+    "visual_capture": "Screenshots of saved Daniel chapters 3 and 12 and the two added sections were captured and visually inspected. Every reading page received rendered DOM text and navigation checks; visual inspection of all 14 reading sections is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 23744,
+      "title": "Daniel — Study Edition",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/study/",
+      "before_content_hash": "80f54d0bed3c7ea94b7b660f9c9f02a00519bbb6",
+      "after_content_hash": "80f54d0bed3c7ea94b7b660f9c9f02a00519bbb6",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20730,
+      "title": "Daniel — King James Bible and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/kjv-comparison/",
+      "before_content_hash": "3bdc5a66e6cf8817ce83f88415f6e225fd4c26bb",
+      "after_content_hash": "3bdc5a66e6cf8817ce83f88415f6e225fd4c26bb",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20729,
+      "title": "Daniel — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/vulgate-comparison/",
+      "before_content_hash": "dec4b19cd339c0dd9ce4d7289492560bd55720db",
+      "after_content_hash": "dec4b19cd339c0dd9ce4d7289492560bd55720db",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 18675,
+      "title": "Daniel — Disparate Study",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/disparate-study/",
+      "before_content_hash": "6ca97624280687d87fa8eb7f7e23f7d910253dad",
+      "after_content_hash": "6ca97624280687d87fa8eb7f7e23f7d910253dad",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3869,
+      "title": "Daniel — Hebrew, Aramaic and Old Greek compared",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/comparison-edition/",
+      "before_content_hash": "715922275785f39f7a23da29c8a9db41998537a8",
+      "after_content_hash": "715922275785f39f7a23da29c8a9db41998537a8",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 2966,
+      "title": "Daniel — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/editorial-guide/",
+      "before_content_hash": "0614ce01d1d085ddfb67b6afb403e88ac9b2b2ca",
+      "after_content_hash": "0614ce01d1d085ddfb67b6afb403e88ac9b2b2ca",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "chapter_readers": {
+    "reading_unit_count": 487,
+    "numbered_verse_units": 486,
+    "unnumbered_preface_units": 1,
+    "reader_files": 14,
+    "all_verse_texts_match": true,
+    "all_original_verse_ids_preserved_and_unique_within_each_document": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 15 edited pages and all 6 reference pages, plus 6 reference hash snapshots. This is a book archive, not a full-site backup."
+}

@@ -1,0 +1,534 @@
+DANIEL — BESPOKE SAINTS ENGLISH TRANSLATION
+15 October 2026
+Old Greek Daniel in Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.
+Plain text Scripture only. Separated editorial notes and unresolved readings are in editorial-notes.json, source-checks.json and the HTML reader.
+
+
+DANIEL 1
+
+1:1 In the third year of King Joakim of Judea, Nebuchadnezzar king of Babylon arrived at Jerusalem and besieged it.
+1:2 The Lord handed the city into his hands, together with Joakim king of Judea and a portion of the Lord’s sacred vessels. He carried them away to Babylon and deposited them in his idol-temple.
+1:3 The king told Abiesdri, his chief eunuch, to bring him some of the sons of Israel’s magnates, of the royal family and of the chosen men:
+1:4 young men without blemish, handsome, knowledgeable in every kind of wisdom, literate, intelligent, wise, and strong enough to be in the king’s house, and to teach them letters and the Chaldean tongue,
+1:5 and to give them a ration from the king’s house each day, from the royal table and the wine the king drank, and to educate them for three years and place some of them before the king.
+1:6 Among the lineage of Israel’s sons from Judea were Daniel, Hananiah, Mishael, and Azariah.
+1:7 The chief eunuch assigned them names: Daniel, Baltasar; Hananiah, Sedrach; Mishael, Misach; and Azariah, Abdenago.
+1:8 Daniel considered in his heart how he might avoid being polluted by the king’s dinner and the wine he drank, and petitioned the chief eunuch that he might not be contaminated.
+1:9 The Lord gave Daniel honor and favor before the chief eunuch.
+1:10 The chief eunuch said to Daniel, “I am anxious about my lord the king, who prescribed your food and drink, lest he see your faces drawn and weak beside the foreign youths being reared with you, and I risk my own neck.”
+1:11 Daniel said to Abiesdri, appointed chief eunuch over Daniel, Hananiah, Mishael, and Azariah,
+1:12 “Test your servants for ten days, and let us be given legumes from the earth to eat, and water to drink.
+1:13 If our appearance looks drawn beside the other young men eating the royal dinner, then deal with your servants however you wish.”
+1:14 He dealt with them in this manner and tested them for ten days.
+1:15 After ten days their appearance was good and their bodily condition better than the other young men eating the royal dinner.
+1:16 Abiesdri kept removing their dinner and wine and giving them legumes in exchange.
+1:17 The Lord gave the young men knowledge, understanding, and practical wisdom in every literary skill; to Daniel He gave understanding in every utterance, vision, dreams, and all wisdom.
+1:18 After these days the king ordered them brought in, and the chief eunuch brought them before King Nebuchadnezzar.
+1:19 The king conversed with them, and among the wise no one was found like Daniel, Hananiah, Mishael, and Azariah. They remained beside the king.
+1:20 In every matter of discourse, understanding, and education about which the king questioned them, he found them ten times wiser than the learned experts and philosophers throughout his kingdom. The king honored them, appointed them rulers, and declared them wiser than all his own men in affairs throughout his land and kingdom.
+1:21 Daniel remained until the first year of the reign of Cyrus king of the Persians.
+
+DANIEL 2
+
+2:1 In the second year of Nebuchadnezzar’s reign, the king fell into visions and dreams and was disturbed in his dream, and his sleep left him.
+2:2 The king ordered the incantation-singers, magi, and sorcerers of the Chaldeans brought in to report his dreams to him. They arrived and stood beside the king.
+2:3 The king said to them, “I have seen a dream, and my spirit was stirred; therefore I wish to understand the dream.”
+2:4 The Chaldeans spoke to the king in the Syrian language: “My lord king, live for ever! Report your dream to your servants, and we will explain its interpretation to you.”
+2:5 The king answered the Chaldeans, “Unless you truthfully report the dream to me and disclose its interpretation, you will be made a public example, and your possessions will be taken into the royal treasury.
+2:6 But if you make the dream clear to me and report its interpretation, you will receive gifts of every kind and be honored by me. Disclose the dream to me and interpret it.”
+2:7 They answered a second time, “O king, state the vision, and your servants will interpret accordingly.”
+2:8 The king said to them, “I know for certain that you are buying time, since you have seen that the matter has departed from me. As I have commanded, so it will be.
+2:9 Unless you truthfully report the dream and disclose its interpretation, you will meet death. You have agreed together to speak false words before me until the time changes. Now, if you tell me what I saw during the night, I will know that you can also disclose its interpretation.”
+2:10 The Chaldeans answered before the king, “No one on earth can tell the king what he has seen, as you ask. No king and no ruler asks such a thing of any wise man, magus, or Chaldean.
+2:11 The matter you seek, O king, is weighty and extraordinary. No one can disclose these things to the king except perhaps an angel, whose dwelling is not with any flesh. Therefore it cannot happen as you suppose.”
+2:12 Then the king became gloomy and deeply grieved and ordered all the wise men of Babylonia brought out.
+2:13 It was decreed that all should be killed, and Daniel and everyone with him were sought so that they might perish together.
+2:14 Then Daniel shared his counsel and judgment with Arioch, the king’s chief cook, who had been ordered to bring out Babylonia’s learned men,
+2:15 and questioned him, saying, “On what matter is such a bitter decree being issued by the king?” Then Arioch explained the command to Daniel.
+2:16 Daniel quickly went in to the king and petitioned for time from the king, so that he might disclose everything before him.
+2:17 Then Daniel went to his house and explained everything to his companions Hananiah, Mishael, and Azariah.
+2:18 He called for fasting and supplication and for help to be sought from the Lord Most High concerning this mystery, so that Daniel and those with him would not be handed over to destruction with Babylon’s learned men.
+2:19 Then, in a vision that very night, the king’s mystery was plainly revealed to Daniel. Daniel blessed the Lord Most High,
+2:20 and cried out, “The name of the great Lord will be blessed for ever, because wisdom and majesty belong to Him.
+2:21 He changes seasons and times, transfers kings and appoints them, gives wisdom to the wise and understanding to those who possess knowledge,
+2:22 reveals deep and dark things, knows what is in darkness and what is in light, and with Him is a dwelling.
+2:23 To Thee, Lord of my fathers, I give thanks and praise, because Thou hast given me wisdom and prudence. Now Thou hast shown me everything I requested, to disclose these things to the king.”
+2:24 Daniel went to Arioch, whom the king had appointed to kill all Babylonia’s learned men, and said, “Do not destroy Babylonia’s learned men. Bring me to the king, and I will disclose every detail to him.”
+2:25 Then Arioch urgently brought Daniel to the king and said, “I have found a wise man from the captivity of the sons of Judea who will disclose every detail to the king.”
+2:26 The king answered Daniel, who was called Baltasar in Chaldean, “Will you be able to disclose to me the vision I saw and its interpretation?”
+2:27 Daniel spoke aloud before the king, “Disclosure of the mystery the king saw does not belong to wise men, sorcerers, incantation-singers, or gazarenes,
+2:28 but there is a God in heaven who uncovers mysteries, who has disclosed to King Nebuchadnezzar what must happen in the last days. O king, live for ever! This is the dream and the vision of your head upon your bed:
+2:29 You, O king, reclining upon your bed, saw everything that must happen in the last days, and the Revealer of mysteries disclosed to you what must happen.
+2:30 This mystery was revealed to me because of no wisdom in me beyond all people; rather, so that it might be disclosed to the king, what you conceived in your heart was made known to me.
+2:31 You, O king, saw a single image. That image was exceedingly large, its appearance was extraordinary as it stood before you, and the image’s appearance was frightening.
+2:32 Its head was good gold, its chest and arms silver, and its belly and thighs bronze,
+2:33 its legs iron, and its feet partly iron and partly earthenware.
+2:34 You watched until a stone was cut from a mountain without hands. It struck the image on its feet of iron and earthenware and ground them down.
+2:35 Then the iron, earthenware, bronze, silver, and gold were ground fine together, becoming finer than chaff on a threshing floor. The wind scattered them so that nothing remained of them. The stone that struck the image became a great mountain and struck the whole earth.
+2:36 This was the vision; now we will state its interpretation before the king.
+2:37 You, O king, are king of kings, and the Lord of heaven has given you rule, kingdom, strength, honor, and glory.
+2:38 Throughout the inhabited world He has handed over into your hands human beings, wild beasts, birds of heaven, and fish of the sea, to rule them all. You are the golden head.
+2:39 After you a kingdom lesser than you will arise, and another, a third kingdom of bronze, which will rule the whole earth.
+2:40 A fourth kingdom will be strong like iron that subdues everything and cuts down every tree, and the whole earth will be shaken.
+2:41 As you saw its feet partly potter’s earthenware and partly iron, another kingdom, divided in two, will be within it, just as you saw iron mixed with clay earthenware.
+2:42 The toes of the feet were partly iron and partly earthenware; part of the kingdom will be strong and part shattered.
+2:43 As you saw iron mixed with clay earthenware, they will be mingled in human generation, but will neither agree nor have goodwill toward one another, just as iron cannot blend with earthenware.
+2:44 In the times of these kings the God of heaven will establish another kingdom, which will exist for ever and will not be destroyed. This kingdom will not leave another nation; it will strike and obliterate these kingdoms and will itself stand for ever,
+2:45 just as you saw a stone cut from a mountain without hands, pounding together the earthenware, iron, bronze, silver, and gold. The great God has shown the king what will happen in the last days. The vision is exact, and its interpretation trustworthy.”
+2:46 Then King Nebuchadnezzar fell face down on the ground and prostrated himself before Daniel. He ordered sacrifices and libations made to him.
+2:47 The king spoke aloud to Daniel, “Truly your God is God of gods and Lord of kings, the One who alone brings hidden mysteries to light, because you have been able to disclose this mystery.”
+2:48 Then King Nebuchadnezzar exalted Daniel, gave him many great gifts, placed him over Babylonia’s affairs, and appointed him ruler and leader of all Babylonia’s learned men.
+2:49 Daniel petitioned the king that Sedrach, Misach, and Abdenago be appointed over Babylonia’s affairs. Daniel remained in the royal court.
+
+DANIEL 3
+
+3:1 In the eighteenth year, King Nebuchadnezzar, who administered cities and countries and all who inhabited the earth from India to Ethiopia, made a golden image, sixty cubits high and six cubits wide. He set it up on the plain of the enclosure in the country of Babylonia.
+3:2 Nebuchadnezzar, king of kings and lord of the whole inhabited world, sent to gather all the nations, tribes, and languages, satraps, generals, district governors, consuls, administrators, those holding authority in each country, and everyone throughout the inhabited world, to come to the dedication of the golden image that King Nebuchadnezzar had set up.
+3:3 Those previously listed stood opposite the image.
+3:4 The herald proclaimed to the crowds, “You are commanded, nations and countries, peoples and languages:
+3:5 when you hear the sound of trumpet, panpipe, kithara, sambuca, psaltery, symphonia, and every kind of musical instrument, fall down and bow to the golden image that King Nebuchadnezzar has set up.
+3:6 They will throw into the blazing furnace anyone who does not fall down and bow.”
+3:7 At that time, when all the nations heard the sound of the trumpet and every musical sound, all the nations, tribes, and languages fell down and bowed to the golden image that Nebuchadnezzar had set up before him.
+3:8 At that time Chaldean men came forward and accused the Jews.
+3:9 They spoke and said, “My lord king, live for ever!
+3:10 You, O king, commanded and decreed that everyone who hears the trumpet and every musical sound must fall down and bow to the golden image.
+3:11 Whoever does not fall down and bow will be thrown into the blazing furnace.
+3:12 There are certain Jewish men whom you appointed over the country of Babylonia—Sedrach, Misach, and Abdenago. Those men have not feared your command; they have not served your idol or bowed to your golden image that you set up.”
+3:13 Then Nebuchadnezzar, angered with wrath, ordered Sedrach, Misach, and Abdenago brought in. The men were brought to the king.
+3:14 When King Nebuchadnezzar saw them, he said to them, “Why, Sedrach, Misach, and Abdenago, do you not serve my gods or bow to the golden image I set up?
+3:15 Now, if you are ready, as soon as you hear the trumpet and every musical sound, to fall down and bow to the golden image I set up—but if not, know that unless you bow, you will immediately be thrown into the blazing furnace. What god will rescue you from my hands?”
+3:16 Sedrach, Misach, and Abdenago answered King Nebuchadnezzar, “O king, we have no need to answer you concerning this command.
+3:17 For there is a God in the heavens, our one Lord, whom we fear, who is able to rescue us from the furnace of fire; and from your hands, O king, He will rescue us.
+3:18 Then it will be plain to you that we neither serve your idol nor bow to your golden image that you set up.”
+3:19 Then Nebuchadnezzar was filled with fury, and the appearance of his face changed. He ordered the furnace heated seven times beyond what it needed to be heated.
+3:20 He ordered the strongest men in his force to bind Sedrach, Misach, and Abdenago hand and foot and throw them into the blazing furnace.
+3:21 Then those men were bound hand and foot, wearing their footwear and the tiaras on their heads, together with their clothing, and were thrown into the furnace.
+3:22 Because the king’s command was urgent and the furnace had been heated seven times beyond its earlier heat, the appointed men bound them hand and foot, brought them to the furnace, and threw them into it.
+3:23 The flame came out of the furnace and burned and killed the men who had bound Azariah and his companions; but they themselves were preserved.
+3:24 Thus Hananiah, Azariah, and Mishael prayed and sang to the Lord when the king ordered them thrown into the furnace.
+3:25 Azariah stood and prayed in this manner. Opening his mouth, he gave thanks to the Lord together with his companions amid the fire, while the Chaldeans were fiercely stoking the furnace. They said:
+3:26 “Blessed art Thou, Lord, God of our fathers; Thy name is praised and glorified for ever.
+3:27 For Thou art righteous in everything Thou hast done to us; all Thy works are true, Thy ways upright, and all Thy judgments true.
+3:28 Thou hast carried out judgments of truth in everything Thou didst bring upon us and upon Thy holy city, our fathers’ Jerusalem. For in truth and judgment Thou didst all these things because of our sins.
+3:29 For we have sinned in everything and acted lawlessly by departing from Thee. We have sinned in everything and have not obeyed the commands of Thy law.
+3:30 We have neither kept nor done what Thou didst command us, so that it might go well with us.
+3:31 And now, everything Thou hast brought upon us and everything Thou hast done to us, Thou hast done in true judgment.
+3:32 Thou didst hand us over to our enemies, lawless and most hateful apostates, and to an unjust king, the most wicked in all the earth.
+3:33 Now we cannot open our mouths; shame and reproach have come upon Thy servants and those who revere Thee.
+3:34 Do not hand us over utterly, for Thy name’s sake; do not dissolve Thy covenant.
+3:35 Do not remove Thy mercy from us, for the sake of Abraham, beloved by Thee, and Isaac Thy servant, and Israel Thy holy one,
+3:36 as Thou didst speak to them, saying that Thou wouldst multiply their descendants like the stars of heaven and the sand along the shore of the sea.
+3:37 For, Master, we have been diminished beyond all nations, and today we are lowly throughout the earth because of our sins.
+3:38 At this time there is no ruler or prophet or leader, no burnt offering or sacrifice or offering or incense, no place to offer produce before Thee and find mercy.
+3:39 But with a crushed soul and humbled spirit may we be accepted, as with burnt offerings of rams and bulls, and as with tens of thousands of fat lambs.
+3:40 So may our sacrifice be before Thee today; and be propitious—“behind Thee”; for there is no shame for those who trust in Thee; and bring to completion—“behind Thee.”
+3:41 Now we follow with our whole heart; we fear Thee and seek Thy face. Do not put us to shame,
+3:42 but deal with us according to Thy gentleness and the abundance of Thy mercy.
+3:43 Rescue us according to Thy wondrous deeds, and give glory to Thy name, Lord.
+3:44 May all who inflict evil on Thy servants be ashamed; may they be humiliated out of all their power, and may their strength be crushed.
+3:45 Let them know that Thou alone art Lord, God, glorious over the whole inhabited world.”
+3:46 The king’s servants who threw them in did not stop heating the furnace. When they threw the three together into the furnace, the furnace was sevenfold ablaze in its heat. When they threw them in, those casting them were above them, while others stoked beneath them with naphtha, tow, pitch, and vine brushwood.
+3:47 The flame spread above the furnace for forty-nine cubits.
+3:48 It spread out and burned those Chaldeans whom it found around the furnace.
+3:49 An angel of the Lord descended into the furnace together with Azariah and his companions and shook the flame of fire out of the furnace.
+3:50 He made the middle of the furnace like a dew-laden breeze whistling through. The fire did not touch them at all; it neither distressed nor troubled them.
+3:51 Then the three took up the song as with one mouth, singing hymns, glorifying, blessing, and exalting God in the furnace, saying:
+3:52 “Blessed art Thou, Lord, God of our fathers, praised and highly exalted for ever. Blessed is the holy name of Thy glory, exceedingly praised and highly exalted through all ages.
+3:53 Blessed art Thou in the temple of Thy holy glory, exceedingly praised in hymns and exceedingly glorious for ever.
+3:54 Blessed art Thou upon the throne of Thy kingdom, praised in hymns and highly exalted for ever.
+3:55 Blessed art Thou who lookest upon the depths, seated upon cherubim, praised and glorified for ever.
+3:56 Blessed art Thou in the firmament, praised in hymns and glorified for ever.
+3:57 All works of the Lord, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:58 Angels of the Lord, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:59 Heavens, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:60 All waters above heaven, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:61 All powers of the Lord, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:62 Sun and moon, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:63 Stars of heaven, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:64 All rain and dew, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:65 All winds, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:66 Fire and heat, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:67 Chill and cold, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:68 Dews and snowfalls, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:69 Ice and cold, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:70 Hoarfrost and snow, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:71 Nights and days, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:72 Light and darkness, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:73 Lightning and clouds, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:74 Let the earth bless the Lord; let her sing praise to Him and exalt Him highly for ever.
+3:75 Mountains and hills, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:76 All things growing upon the earth, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:77 Springs, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:78 Seas and rivers, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:79 Sea monsters and all things moving in the waters, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:80 All birds of heaven, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:81 Four-footed creatures and wild animals of the earth, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:82 Sons of humankind, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:83 Israel, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:84 Priests, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:85 Servants, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:86 Spirits and souls of the righteous, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:87 Holy ones and those humble in heart, bless the Lord; sing praise to Him and exalt Him highly for ever.
+3:88 Hananiah, Azariah, and Mishael, bless the Lord; sing praise to Him and exalt Him highly for ever. For He rescued us from Hades and saved us from the hand of death; He delivered us from the midst of the burning flame and redeemed us from the fire.
+3:89 Give thanks to the Lord, for He is good, for His mercy endures for ever.
+3:90 Bless, all who revere the God of gods; sing praise and give thanks, for His mercy endures for ever and for the age of ages.”
+3:91 When the king heard them singing and, standing, observed them alive, King Nebuchadnezzar was astonished, rose in haste, and said to his friends:
+3:92 “Behold! I see four men unbound, walking in the fire, and no harm has come upon them. The fourth has the likeness of an angel of God.”
+3:93 The king approached the door of the furnace blazing with fire and called them by name: “Sedrach, Misach, and Abdenago, servants of the Most High God of gods, come out of the fire!” Thus the men came out from the midst of the fire.
+3:94 The consuls, district governors, ancestral chiefs, and the king’s friends gathered. They observed those men: the fire had not touched their bodies, their hair had not burned, their trousers were unchanged, and there was no smell of fire on them.
+3:95 King Nebuchadnezzar spoke and said, “Blessed be the Lord, the God of Sedrach, Misach, and Abdenago, who sent His angel and saved His servants who hoped in Him. They rejected the king’s command and surrendered their bodies to burning so that they would neither serve nor bow to another god except their own God.
+3:96 Now I decree: from every nation, every tribe, and every language, whoever blasphemes the Lord, the God of Sedrach, Misach, and Abdenago, will be dismembered and his house confiscated, because there is no other god who can rescue like this.”
+3:97 Thus the king gave Sedrach, Misach, and Abdenago authority over the whole country and appointed them rulers.
+
+DANIEL 4
+
+4:4 In the eighteenth year of Nebuchadnezzar’s reign, he said, “I was at peace in my house and prospering upon my throne.
+4:5 I saw a dream and became apprehensive; fear fell upon me.
+4:10 I was sleeping, and there was a tall tree growing upon the earth. Its appearance was great, and no other was like it.
+4:11 Its appearance was great: its top reached to heaven, and its mass to the clouds, filling what lay beneath heaven. The sun and moon dwelt in it and illuminated the whole earth.
+4:12 Its branches were about thirty stadia long. All the wild animals of the earth found shade beneath it, and the birds of heaven nested in it. Its fruit was abundant and good, and it supplied all living creatures.
+4:13 I was watching in my sleep, and an angel was sent in strength from heaven.
+4:14 He called out and said to it, ‘Cut it down and destroy it, for the Most High has commanded that it be uprooted and rendered useless.’
+4:15 He spoke in this way: ‘Leave one root of it in the earth, so that it may graze on grass like an ox with the wild animals of the earth in the mountains;
+4:16 let his body be changed by heaven’s dew, and let him graze with them for seven years,
+4:17 until he knows that the Lord of heaven has authority over everything in heaven and upon earth, and does among them whatever He wills.’
+4:17a Before me it was cut down in one day, and its destruction came within one hour of the day. Its branches were given to every wind; it was dragged away and thrown down. It ate the grass of the earth with the wild animals of the earth, was handed over to custody, and was bound by them in fetters and bronze handcuffs. I was greatly astonished at all this, and sleep departed from my eyes.
+4:18 In the morning I rose from my bed and called Daniel, chief of the learned experts and leader of those who judge dreams. I recounted the dream to him, and he explained its entire interpretation to me.
+4:19 Daniel was greatly astonished, and apprehension pressed upon him. Frightened, seized with trembling, and changed in appearance, he shook his head and remained astonished for an hour. He answered me in a gentle voice, ‘O king, may this dream come upon those who hate you and its interpretation upon your enemies!
+4:20 You, O king, are the tree planted in the earth, whose appearance was great.
+4:21 And all the birds of heaven nesting in it—the strength of the earth and of the nations and of all languages to the ends of the earth, and all countries—serve you.
+4:22 The raising of that tree, its reaching heaven, and its mass touching the clouds mean that you, O king, were raised above all people upon the face of the whole earth. Your heart was raised in pride and strength against the Holy One and His angels. Your deeds were seen, because you laid waste the house of the living God on account of the sins of the consecrated people.
+4:23 The vision you saw, that an angel was sent in strength from the Lord and commanded the tree’s removal and cutting down, means that the judgment of the great God will come upon you,
+4:24 and the Most High and His angels are rushing against you.
+4:25 They will lead you away into custody and send you to a deserted place.
+4:26 The root of the tree that was left, since it was not uprooted, means that the place of your throne will be preserved for you for a time and an hour. Behold! They are preparing against you; they will scourge you and bring the judgments upon you.
+4:27 The Lord lives in heaven, and His authority is over all the earth. Entreat Him concerning your sins, and redeem all your injustices by almsgiving, so that gentleness may be granted you, you may have many days upon your royal throne, and He may not destroy you. Love these words, for my word is accurate and your time is full.’”
+4:28 At the completion of the words, Nebuchadnezzar, when he heard the judgment of the vision, kept the words in his heart.
+4:29 After twelve months, the king was walking upon the city walls with all his glory and passing over its towers.
+4:30 He spoke and said, “This is great Babylon, which I built, and it will be called the house of my kingship through the strength of my might, for the honor of my glory.”
+4:31 At the completion of his word, he heard a voice from heaven: “To you it is said, King Nebuchadnezzar: Babylon’s kingdom has been taken from you and is given to another, a despised man in your house. Behold! I appoint him over your kingdom; he will take your authority, glory, and luxury, so that you may recognize that the God of heaven has authority over human kingship and will give it to whomever He wishes. By sunrise another king will rejoice in your house and take possession of your glory, strength, and authority.
+4:32 The angels will pursue you for seven years. You will neither be seen nor speak with any human being. They will feed you grass like an ox, and your pasture will be the earth’s greenery. Behold! In place of your glory they will bind you, and another will have your luxurious house and your kingdom.
+4:33 By morning everything will be fulfilled upon you, Nebuchadnezzar, king of Babylon; nothing of all this will fail.”
+4:33a “I, Nebuchadnezzar, king of Babylon, was bound for seven years. They fed me grass like an ox, and I ate the earth’s greenery. After seven years I devoted my soul to supplication and pleaded concerning my sins before the Lord, the God of heaven; concerning my acts of ignorance I entreated the great God of gods.
+4:33b My hair became like an eagle’s wings, and my nails like a lion’s. My flesh and my heart were changed; I walked naked with the wild animals of the earth. I saw a dream, and apprehensions seized me. After a time a deep sleep took hold of me, and drowsiness fell upon me.
+4:34 At the completion of the seven years, the time of my release came. My sins and my acts of ignorance reached their full measure before the God of heaven. I entreated the great God of gods concerning my acts of ignorance, and an angel called to me from heaven, saying, ‘Nebuchadnezzar, serve the holy God of heaven and give glory to the Most High; the kingship of your nation is restored to you.’
+4:36 At that time my kingdom was restored to me and my glory returned to me.
+4:37 I give thanks to the Most High and praise Him who created heaven and earth, seas and rivers, and everything in them. I give thanks and praise, for He is God of gods, Lord of lords, and King of kings. He performs signs and wonders and changes seasons and times, taking kingdoms from kings and appointing others in their place.
+4:37a From now on I will worship Him. Trembling has seized me through fear of Him, and I praise all His holy ones. For the gods of the nations have no strength in themselves to transfer one king’s kingdom to another king, to kill and make alive, to perform signs and great and fearsome wonders, or to change exceedingly great affairs, as the God of heaven has done in me, changing great affairs concerning me. Throughout all the days of my reign I will offer sacrifices to the Most High on behalf of my soul, as a pleasing aroma to the Lord. I will do what is acceptable before Him—I and my people, my nation and my countries under my authority. Whoever has spoken against the God of heaven, and whoever is caught speaking anything against Him, I will condemn to death.”
+4:37b King Nebuchadnezzar wrote a circular letter to all the nations in every place, to the countries and all languages dwelling in every country, from generation to generation: “Praise the Lord, the God of heaven, and gloriously bring Him sacrifice and offering. I, king of kings, gloriously give thanks to Him, because He has dealt with me in this way: on that very day He seated me upon my throne; I regained my authority and my kingdom among my people, and my greatness was restored to me.”
+4:37c “King Nebuchadnezzar to all nations, all countries, and all who dwell in them: May peace be multiplied to you at every time. Now I will explain to you the deeds that the great God has done with me. It pleased me to demonstrate to you and to your learned experts that there is a God, and His wonders are great; His kingship is an everlasting kingship, His authority from generation to generation.” He sent letters concerning everything that had happened to him in his kingdom to all the nations under his kingship.
+
+DANIEL 5
+
+5:preface King Baltasar held a great reception on the day of the dedication of his royal buildings and invited two thousand men from among his magnates. On that day Baltasar, elated by wine and boasting, praised all the nations’ cast and carved gods in his place, but gave no praise to God Most High. That very night fingers like a human’s came out and inscribed on the plaster of his house’s wall, opposite the lamp, “Mane, Phares, Thekel.” Their interpretation is: Mane, “It has been numbered”; Phares, “It has been taken away”; Thekel, “It has been weighed.”
+5:1 King Baltasar held a great banquet for his companions and drank wine.
+5:2 His heart was exalted, and he ordered the gold and silver vessels of God’s house that his father Nebuchadnezzar had brought from Jerusalem to be brought in, and wine poured in them for his companions.
+5:3 They were brought, and they drank from them,
+5:4 and blessed their handmade idols. But they did not bless the everlasting God, who had authority over their breath.
+5:5 At that very hour fingers like those of a human hand came out and wrote on the plaster of his house’s wall, opposite the light and before King Baltasar. He saw a hand writing.
+5:6 His appearance changed, and fears and apprehensions pressed upon him. The king hurried and rose to look at that writing, while his companions around him were boasting.
+5:7 The king cried out with a loud voice to summon the incantation-singers, sorcerers, Chaldeans, and gazarenes to report the writing’s interpretation. They came in to inspect the writing, but could not interpret it for the king. Then the king issued a decree: “Any man who explains the writing’s interpretation will be clothed in purple and have a gold necklace placed upon him, and he will be given authority over a third part of the kingdom.”
+5:8 The incantation-singers, sorcerers, and gazarenes came in, but no one could report the writing’s interpretation.
+5:9 Then the king summoned the queen about the sign and explained to her how great it was, and that no one could report the writing’s interpretation to the king.
+5:10 Then the queen mentioned to him Daniel, who was from the captivity of Judea,
+5:11 and said to the king, “The man was knowledgeable and wise, surpassing all Babylon’s wise men,
+5:12 and a holy spirit is in him. In the days of your father the king, he explained extraordinary interpretations to Nebuchadnezzar your father.”
+5:13 Then Daniel was brought before the king, and the king addressed him:
+5:16 “O Daniel, can you explain the writing’s interpretation to me? I will clothe you in purple and place a gold necklace upon you, and you will have authority over a third part of my kingdom.”
+5:17 Then Daniel stood opposite the writing and read it. He answered the king in this way: “This is the writing: ‘It has been numbered, it was reckoned, it has been taken away.’ The hand that wrote came to a stop. This is their interpretation:
+5:23 O king, you held a banquet for your friends and drank wine. The vessels of the living God’s house were brought to you, and you and your magnates drank from them and praised all the idols made by human hands. But you did not bless the living God. Your breath is in His hand, and He gave you your kingdom, yet you neither blessed Him nor offered Him praise.
+5:26–28 This is the writing’s interpretation: your time of kingship has been numbered; your kingdom is ending. Your kingdom has been cut short and brought to completion; it is given to the Medes and Persians.”
+5:29 Then King Baltasar clothed Daniel in purple, placed a gold necklace upon him, and gave him authority over a third part of his kingdom.
+5:30 The interpretation came upon King Baltasar; the kingship was taken from the Chaldeans and given to the Medes and Persians.
+
+DANIEL 6
+
+6:1 Artaxerxes of the Medes received the kingdom. Darius was full of days and glorious in old age.
+6:2 He appointed one hundred twenty-seven satraps over his whole kingdom,
+6:3 and over them three men as their leaders. Daniel was one of the three men,
+6:4 having authority above everyone in the kingdom. Daniel was clothed in purple, great and glorious before King Darius, because he was distinguished, knowledgeable, and understanding, with a holy spirit in him, and prospered in the king’s affairs that he conducted. Then the king decided to appoint Daniel over his whole kingdom, along with the two men whom he had appointed with him and one hundred twenty-seven satraps.
+6:5 When the king decided to appoint Daniel over his whole kingdom, the two young men devised a plan and resolution together. Since they could find no sin or ignorant fault in Daniel of which they could accuse him before the king,
+6:6 they said, “Come, let us establish a restriction binding upon ourselves: no one is to make a request or offer a prayer to any god for thirty days, except to King Darius; otherwise he will die.” They intended to bring Daniel down before the king and have him thrown into the lions’ pit, for they knew that Daniel prayed and entreated the Lord his God three times a day.
+6:7 Then those men approached and said before the king:
+6:8 “We have established a restriction and decree: anyone who offers a prayer or makes any request to any god for thirty days, except to King Darius, will be thrown into the lions’ pit.”
+6:9 They asked the king to establish the restriction and not alter it, because they knew that Daniel prayed and entreated three times a day; they intended him to be brought down through the king and thrown into the lions’ pit.
+6:10 Thus King Darius established and ratified it.
+6:11 When Daniel learned of the restriction established against him, he opened windows in his upper room toward Jerusalem, fell upon his face three times a day as he had done before, and made supplication.
+6:12 They watched Daniel and caught him praying three times a day, every day.
+6:13 Then these men appealed to the king and said, “King Darius, did you not decree a restriction that no one should offer a prayer or make a request to any god for thirty days except to you, O king, otherwise he would be thrown into the lions’ pit?” The king answered them, “The statement is exact, and the restriction will remain.”
+6:13a They said to him, “We adjure you by the decrees of the Medes and Persians: do not alter the command, show partiality, or diminish anything that has been stated; punish the man who has not kept this restriction.” He said, “I will do as you say; this is established with me.”
+6:14 They said, “Behold! We found Daniel your friend praying and seeking the face of his God three times a day.”
+6:15 The king, grieved, ordered Daniel thrown into the lions’ pit according to the restriction he had established against him. Then the king was deeply grieved over Daniel and tried to rescue him from the satraps’ hands until sunset,
+6:16 but could not rescue him from them.
+6:17 King Darius cried out and said to Daniel, “Your God, whom you worship continually three times a day, will rescue you from the lions’ power. Take courage until morning.”
+6:18 Then Daniel was thrown into the lions’ pit. A stone was brought and placed at the pit’s mouth, and the king sealed it with his own ring and his magnates’ rings, so that Daniel could not be taken away from them, nor could the king pull him up from the pit.
+6:19 Then the king returned to his royal residence and spent the night fasting, grieving over Daniel. Daniel’s God, taking care of him, shut the lions’ mouths, and they did not trouble Daniel.
+6:20 King Darius rose early in the morning, took the satraps with him, and went and stood at the mouth of the lions’ pit.
+6:21 Then the king called to Daniel with a loud voice and weeping: “O Daniel, are you perhaps alive? Has your God, whom you worship continually, saved you from the lions, so that they have not destroyed you?”
+6:22 Then Daniel answered with a loud voice and said, “O king, I am still alive,
+6:23 and God has saved me from the lions, because righteousness was found in me before Him. Before you also, O king, neither ignorant fault nor sin was found in me. Yet you listened to men who mislead kings and threw me into the lions’ pit for destruction.”
+6:24 Then all the forces assembled and saw Daniel, whom the lions had not troubled.
+6:25 Then those two men who had testified against Daniel, with their wives and children, were thrown to the lions. The lions killed them and crushed their bones.
+6:26 Then Darius wrote to all nations, countries, and languages dwelling throughout his whole land, saying:
+6:27 “Let all people in my kingdom bow to and worship Daniel’s God, for He is God who endures and lives from generation to generation for ever.
+6:28 I, Darius, will bow to Him and serve Him all my days, for handmade idols cannot save as Daniel’s God redeemed Daniel.”
+6:29 King Darius was gathered to his people, and Daniel was appointed in Darius’s reign. Cyrus the Persian received his kingdom.
+
+DANIEL 7
+
+7:1 In the first year of Baltasar’s reign over the country of Babylonia, Daniel saw a vision at his head upon his bed. Then Daniel wrote the vision he had seen in principal points:
+7:2 “Upon my bed I was watching in dreams by night, and there were four winds of heaven falling upon the great sea.
+7:3 Four beasts came up from the sea, each differing from the other.
+7:4 The first was like a lioness with wings like an eagle’s. I watched until her wings were plucked out, she was lifted from the earth and stood on human feet, and a human heart was given her.
+7:5 After her there was another beast with the likeness of a bear. It stood on one side and had three ribs in its mouth. He spoke in this way: ‘Rise, devour much flesh!’
+7:6 After this I watched another beast, like a leopard. Four wings stretched over it, and the beast had four heads; a tongue was given it.
+7:7 After this I watched in the night vision a fourth beast, fearsome, its terror surpassing in strength. It had great iron teeth, devoured and pounded, trampled all around with its feet, and acted differently from all the beasts before it. It had ten horns,
+7:8 and many plans were in its horns. Another single horn sprouted among them, small among its horns, and three of the earlier horns were withered through it. This horn had eyes like human eyes and a mouth speaking great things, and it made war against the holy ones.
+7:9 I watched until thrones were set in place and an Ancient of Days was seated, wearing a covering like snow, with the hair of His head like pure white wool. The throne was like a flame of fire,
+7:10 and a river of fire came out before Him. A thousand thousands attended Him, and ten thousand times ten thousand stood beside Him. A court sat, and books were opened.
+7:11 Then I watched the sound of the great words the horn was speaking. The beast was beaten to death, its body perished, and it was given over to burning fire.
+7:12 He removed those around it from their authority, and a span of life was given them for a time and a season.
+7:13 I watched in the night vision, and there, upon the clouds of heaven, one like a son of man was coming. He was present as an Ancient of Days, and those standing by were present with him.
+7:14 Authority was given him, and all the nations of the earth according to their families, and all glory, worshipped him. His authority is everlasting authority that will never be taken away, and his kingdom will never be destroyed.
+7:15 I, Daniel, was disheartened by these things in the night vision,
+7:16 and approached one of those standing there, seeking exact understanding from him concerning all these things. He answered me and explained the judgment of the words:
+7:17 ‘These great beasts are four kingdoms that will perish from the earth.
+7:18 The holy ones of the Most High will receive the kingdom and hold the kingdom for ever, for the age of ages.’
+7:19 Then I wanted exact understanding of the fourth beast, which destroyed everything and was exceedingly fearsome. Its teeth were iron and its claws bronze, devouring everyone all around and trampling with its feet,
+7:20 and of its ten horns upon its head and the single other that sprouted, through which three fell out. That horn had eyes and a mouth speaking great things, and its appearance surpassed the others.
+7:21 I observed that horn waging war against the holy ones and routing them,
+7:22 until the Ancient of Days came and gave judgment to the holy ones of the Most High. The time was given, and the holy ones took possession of the kingship.
+7:23 I was told concerning the fourth beast that a fourth kingdom would be upon the earth, surpassing the whole earth, overturning it and grinding it down.
+7:24 As for the kingdom’s ten horns, ten kings will arise, and another king will arise after them. He will surpass the earlier ones in evils and humble three kings.
+7:25 He will speak words against the Most High, wear down the holy ones of the Most High, and expect to alter seasons and law. Everything will be handed into his hands for a time, times, and half a time.
+7:26 The judgment will sit; they will destroy the authority and plan to defile and destroy completely.
+7:27 He gave the kingdom, authority, their greatness, and rule over all the kingdoms under heaven to a holy people of the Most High, to reign with everlasting kingship; all authorities will be subject to him and obey him.
+7:28 Until the account ended, I, Daniel, was greatly overcome with astonishment; my condition changed, and I fixed the matter in my heart.”
+
+DANIEL 8
+
+8:1 In the third year of Baltasar’s reign came the vision that I, Daniel, saw after seeing the first one.
+8:2 I saw in the vision of my dream, while I was in the city of Susa in the country of Elymais, still beside the gate of Ailam,
+8:3 that, looking up, I saw a great ram standing opposite the gate. It had horns, one higher than the other, and the higher one was rising.
+8:4 After this I saw the ram charging eastward, northward, westward, and southward. No animals stood before it, and no one rescued from its hands. It did as it wished and was exalted.
+8:5 I was pondering, and a male goat came from the west over the earth’s surface without touching the earth. The goat had a single horn between its eyes.
+8:6 It came against the horned ram that I had seen standing beside the gate and ran at it in furious anger.
+8:7 I saw it approach the ram, become furious with it, strike it, and shatter its two horns. The ram no longer had strength to stand against the goat. It hurled the ram down upon the earth and crushed it, and no one could rescue the ram from the goat.
+8:8 The male goat grew exceedingly strong. When it became strong, its great horn was shattered, and four other horns rose behind it toward the four winds of heaven.
+8:9 From one of them a single strong horn sprouted. It grew strong and struck toward the south, toward the east, and toward the north.
+8:10 It was raised as high as heaven’s stars, but was dashed to the earth from the stars and trampled by them,
+8:11 until the chief commander rescues the captivity. Because of him the ancient mountains were dashed down; their place and sacrifice were removed. He set it down upon the earth, and it prospered and came to pass, and the sanctuary will be made desolate.
+8:12 Sins came upon the sacrifice; righteousness was thrown down to the ground, and he acted and prospered.
+8:13 I heard another holy one speaking, and the other said to the speaking Phelmouni, “How long will the vision stand, and the sacrifice that was removed, and the sin of desolation that was given, and the holy places be made desolate for trampling?”
+8:14 He said to him, “Until evening and morning, two thousand three hundred days; then the sanctuary will be cleansed.”
+8:15 As I, Daniel, watched the vision, I sought to understand, and there stood opposite me someone with a human appearance.
+8:16 I heard a human voice in the midst of Ulai, calling, “Gabriel, give that one understanding of the vision.” The man cried out and said, “The vision concerns that command.”
+8:17 He came and stood beside where I stood. As he came, I was disturbed and fell upon my face. He said to me, “Understand, son of man, for this vision is still for an appointed hour.”
+8:18 As he spoke with me, I fell asleep face down on the ground. He touched me and raised me on the spot,
+8:19 and said to me, “Behold! I am reporting what will happen at the end of the wrath to the sons of your people; it will still remain until the hours of the appointed time of completion.
+8:20 The ram you saw with the horns is the king of the Medes and Persians.
+8:21 The male goat is the king of the Greeks, and the great horn between its eyes is the first king himself.
+8:22 As for the four horns that were shattered and rose behind it, four kings of his nation will arise, but not according to his strength.
+8:23 At the end of their kingship, when their sins reach fullness, a king with a shameless face who understands riddles will arise.
+8:24 His strength will be made firm, though not by his own strength. He will destroy astonishingly, prosper, and act; he will destroy rulers and a people of holy ones.
+8:25 His intent will be against the holy ones; falsehood will prosper in his hands, and his heart will be exalted. By deceit he will make many disappear, rise for the destruction of men, make a “gathering of a hand,” and sell.
+8:26 The evening-and-morning vision was found to be true. Now the vision is closed up, for it is still for many days.”
+8:27 I, Daniel, was weak for many days. Then I rose and again conducted royal affairs. I was undone by the vision, and there was no one who understood.
+
+DANIEL 9
+
+9:1 In the first year under Darius son of Xerxes, from the Median family who ruled over the kingdom of the Chaldeans,
+9:2 in the first year of his reign, I, Daniel, considered in the books the number of years, when a command came to the land concerning Jeremiah the prophet, to bring Jerusalem’s reproach to its full term: seventy years.
+9:3 I set my face toward the Lord God to find prayer and mercy, with fasts, sackcloth, and ashes.
+9:4 I prayed to the Lord God and confessed, saying, “Behold, Lord, Thou art the great, strong, and fearsome God, keeping the covenant and mercy for those who love Thee and guard Thy commands:
+9:5 we have sinned, done wrong, acted impiously, fallen away, and transgressed Thy commandments and judgments,
+9:6 and have not listened to Thy servants the prophets, to what they spoke in Thy name to our kings, our rulers, our fathers, and every nation upon the earth.
+9:7 Righteousness belongs to Thee, Lord, but shame of face to us as on this day—to the people of Judah, those dwelling in Jerusalem, and all the people Israel, near and far, in all the countries where Thou didst scatter them because of the trespass they committed before Thee.
+9:8 Master, shame of face belongs to us, to our kings, rulers, and fathers, because we have sinned against Thee.
+9:9 To the Lord belong righteousness and mercy, for we have fallen away from Thee
+9:10 and have not listened to the voice of the Lord our God, to follow Thy law that Thou didst set before Moses and us through Thy servants the prophets.
+9:11 All Israel abandoned Thy law and fell away, refusing to hear Thy voice. The curse and oath written in the law of Moses, God’s servant, came upon us, because we sinned against Him.
+9:12 He established for us His commands, all He spoke against us and against our judges, all Thou didst judge for us, bringing great calamities upon us, such as had not occurred under heaven as occurred in Jerusalem.
+9:13 According to what is written in Moses’ covenant, all the calamities came upon us. Yet we did not seek the face of the Lord our God by departing from our sins and understanding Thy righteousness, Lord.
+9:14 The Lord God kept watch over the calamities and brought them upon us, for the Lord our God is righteous in everything He may do, and we did not listen to His voice.
+9:15 Now, Master, Lord our God, who didst bring Thy people out of Egypt with Thine uplifted arm and didst make Thyself a name as on this day: we have sinned and acted in ignorance.
+9:16 Master, according to Thy righteousness, let Thy wrath and anger turn away from Thy city Jerusalem, Thy holy mountain. Because of our sins and our fathers’ acts of ignorance, Jerusalem and Thy people, Lord, are a reproach among all around us.
+9:17 Now, Master, hear Thy servant’s prayer and my supplications. Let Thy face look upon Thy desolate holy mountain, for Thy servants’ sake, Master.
+9:18 Attend with Thine ear, Lord, and hear me. Open Thine eyes and see our desolation and that of Thy city, over which Thy name has been called. For we make our supplication in our prayers before Thee because of Thy mercy, not our righteous deeds.
+9:19 Lord, be propitious! Lord, hear and act, and do not delay, for Thine own sake, Master, because Thy name has been called over Thy city Zion and Thy people Israel.”
+9:20 While I was speaking in prayer, confessing my sins and the sins of my people Israel, and making supplication in prayers before the Lord my God and on behalf of our God’s holy mountain,
+9:21 while I was still speaking in my prayer, the man I had seen at first in my sleep, Gabriel, was carried swiftly and approached me at the hour of the evening sacrifice.
+9:22 He approached and spoke with me, saying, “Daniel, I have just come out to show you understanding.
+9:23 At the beginning of your supplication, a command went out from the Lord, and I came to explain it to you, because you are worthy of pity. Understand the command.
+9:24 Seventy weeks have been determined for your people and the city Zion: for sin to be brought to completion, injustices to become scarce, injustices to be wiped away, the vision to be understood, everlasting righteousness to be given, the vision to be fulfilled, and a holy of holies to be gladdened.
+9:25 You will know, understand, and rejoice. You will find commands to be answered, and you will build Jerusalem as a city for the Lord.
+9:26 After seven and seventy and sixty-two, an anointing will be removed and no longer exist. A kingdom of nations will destroy the city and sanctuary together with the anointed one. Its completion will come with wrath and last until the time of completion; it will be assailed by war.
+9:27 The covenant will prevail for many. It will return again and be rebuilt in breadth and length. At the completion of times, after seven and seventy periods and sixty-two years, until the time of the completion of war, desolation will be removed when the covenant grows strong for many weeks. At the end of the week the sacrifice and libation will be removed. Upon the temple will be an abomination of desolations until completion, and completion will be given upon the desolation.”
+
+DANIEL 10
+
+10:1 In the first year of Cyrus, king of the Persians, a command was shown to Daniel, whose name was called Baltasar. The vision and command were true, and the strong multitude will understand the command; I understood it in a vision.
+10:2 In those days I, Daniel, was mourning for three weeks.
+10:3 I ate no desirable bread; meat and wine did not enter my mouth, and I did not anoint myself with oil until I completed the three weeks of days.
+10:4 On the twenty-fourth day of the first month, I was on the bank of the great river, the Tigris,
+10:5 and I lifted my eyes and saw a man clothed in fine linen, with fine linen wrapped around his waist, and light coming from his middle.
+10:6 His body was like a tarshish stone, his face like a flash of lightning, his eyes like flaming torches, his arms and feet like flashing bronze, and the sound of his speech like the sound of an uproar.
+10:7 I, Daniel, saw this great vision, but the men with me did not see it. Strong fear fell upon them, and they fled in haste.
+10:8 I was left alone and saw this great vision. No strength remained in me; a spirit turned upon me for destruction, and I had no strength.
+10:9 I did not hear the sound of his speech; I had fallen face down upon the earth.
+10:10 He brought a hand toward me and raised me upon my knees, upon the soles of my feet.
+10:11 He said to me, “Daniel, you are a man worthy of pity. Understand the commands I speak to you, and stand in your place, for I have just been sent to you.” As he spoke this command with me, I stood trembling.
+10:12 He said to me, “Do not fear, Daniel. From the first day you set your face to understand and humble yourself before the Lord your God, your word was heard, and I entered because of your word.
+10:13 The general of the king of the Persians stood against me for twenty-one days. Then Michael, one of the foremost rulers, came to help me, and I left him there with the general of the king of the Persians.”
+10:14 He said to me, “I came to show you what will meet your people in the latter days, for the vision is still for days to come.”
+10:15 As he spoke these commands with me, I set my face toward the earth and fell silent.
+10:16 Something like a human hand touched my lips. I opened my mouth, spoke, and said to the one standing opposite me, “My lord, something like a vision turned upon my side, upon me, and there was no strength in me.
+10:17 How can the servant speak with his lord? I have become weak; there is no strength in me, and no breath was left in me.”
+10:18 Again one with a human appearance touched me and strengthened me,
+10:19 and said to me, “You are a man worthy of pity. Do not fear; be well. Take courage and be strong.” As he spoke with me, I became strong and said, “Let my lord speak, for he has strengthened me.”
+10:20 He said to me, “Do you know why I came to you? Now I will return to contend with the general of the king of the Persians. I was going out, and the general of the Greeks was coming in.
+10:21 I will indeed show you the first things in a record of truth. No one was helping with me concerning these except Michael the angel.”
+
+DANIEL 11
+
+11:1 In the first year of King Cyrus, he told me to be strong and take courage.
+11:2 “Now I have come to show you the truth. Three kings have stood in opposition in Persia, and the fourth will become richer than all the others. When he grows strong through his wealth, he will rise against every king of the Greeks.
+11:3 A powerful king will arise, exercise great lordship, and do whatever he wishes.
+11:4 When he arises, his kingdom will be shattered and divided toward the four winds of heaven, not according to his might or the lordship with which he ruled. His kingdom will be removed, and he will teach others these things.
+11:5 He will strengthen Egypt’s kingdom, and one of the rulers will overpower him and rule; his rule will be a great rule.
+11:6 At the completion of years he will lead them, and the king of Egypt will enter the northern kingdom to make treaties. He will not prevail, for his arm will not establish strength; his arm and that of those traveling with him will grow numb, and he will remain until the appointed hours.
+11:7 A plant from his root will arise on its own, and the king of the north will come against his force with his strength, cause turmoil, and prevail.
+11:8 He will overthrow their gods together with their cast images, and they will carry their crowds, with their precious vessels, silver, and gold, captive to Egypt. There will be a year for the king of the north.
+11:9 He will enter Egypt’s kingdom for days and return to his land,
+11:10 and so will his son. He will be provoked, gather an assembly of a great crowd, and enter against it, sweeping through. He will pass over, return, and be greatly provoked.
+11:11 The king of Egypt will become angry and fight the king of the north, and the assembled force will be handed into his hands.
+11:12 He will take the assembled force, and his heart will be exalted. He will throw many into turmoil and will not be afraid.
+11:13 The king of the north will return and gather a city’s force larger than the first at the completion of a year’s appointed time. He will enter it against him with a great crowd and much money.
+11:14 In those times designs will rise against the king of Egypt. He will rebuild the fallen things of your nation and arise to establish the prophecy, but they will stumble.
+11:15 The king of the north will come, turn his spears, and take the fortified city. The arms of Egypt’s king will stand with his rulers, but he will have no strength to resist him.
+11:16 The one coming against him will act according to his will, and no one will resist before him. He will stand in the country, and everything will be accomplished in his hands.
+11:17 He will set his face to advance all his undertaking by force and make treaties with him. He will give him a daughter of a human to destroy her, but she will not obey and will not remain.
+11:18 He will set his face toward the sea and take many. He will turn back the wrath of their reproach with an oath according to his reproach.
+11:19 He will turn his face to strengthen his country, but stumble, fall, and not be found.
+11:20 From his root a royal plant will arise, a man striking a king’s glory. In the last days he will be shattered, but not in wrath or war.
+11:21 In his place will arise one easily despised, upon whom royal glory will not be bestowed. He will come suddenly; a king will prevail in his allotment.
+11:22 He will shatter the already-shattered arms before him.
+11:23 With the covenant and a people arrayed with him, he will act falsely and act against a strong nation with a very small nation.
+11:24 He will suddenly desolate a city and do what neither his fathers nor his fathers’ fathers did. He will give them plunder, spoils, and money and devise plans against the strong city, but his plans will be in vain.
+11:25 His strength and heart will be stirred against Egypt’s king with a great crowd. Egypt’s king will be provoked to war with an exceedingly strong crowd, but will not stand, because he will devise a design against him.
+11:26 His anxieties will consume him and turn him away. He will pass through and sweep away, and many wounded will fall.
+11:27 Two kings alone will dine together, eat at one table, and speak falsely, but they will not prosper, for completion still awaits its appointed time.
+11:28 He will return to his country with much money, his heart against the holy covenant. He will act and return to his country
+11:29 at the appointed time. He will enter Egypt, but it will not be as the first and the last.
+11:30 Romans will come, drive him out, and rebuke him. He will return, become angry against the holy covenant, act, and return. He will consider them because they abandoned the holy covenant.
+11:31 Arms from him will arise, defile the sanctuary of fear, remove the sacrifice, and establish an abomination of desolation.
+11:32 In sins against the covenant they will defile with a harsh people, but the people who know these things will be strong and act.
+11:33 The thoughtful of the nation will give understanding to many. They will stumble by the sword and grow old in it; in captivity and plunder they will be stained for days.
+11:34 When they are crushed, they will gather a little strength. Many will assemble with them at a city, and many as in an allotment.
+11:35 Some of those who understand will consider how to purify themselves, be selected, and be cleansed until the time of completion, for the time still awaits its hours.
+11:36 The king will act according to his will, become enraged, and be exalted above every god. He will speak extraordinary things against the God of gods and prosper until the wrath is completed, for completion is coming upon him.
+11:37 He will pay no heed to his fathers’ gods or to the desire of a woman, for he will be exalted in everything, and strong nations will be subject to him.
+11:38 He will stir in his place and honor a god whom his fathers did not know with gold, silver, and costly stone. And with the desirable things
+11:39 of cities he will act, and he will come into a strong fortification. With a foreign god, whom he may acknowledge, he will multiply glory, rule over him greatly, and apportion country as a gift.
+11:40 At the hour of completion, Egypt’s king will clash with him. The king of the north will rage against him with chariots, many horses, and many ships, and enter Egypt’s country
+11:41 and come into my country,
+11:42 and in Egypt’s country no one will be saved.
+11:43 He will control the place of gold, the place of silver, and all Egypt’s desirable wealth; Libyans and Ethiopians will be in his multitude.
+11:44 A report from the east and north will disturb him, and he will go out in strong anger and with a sword to wipe out and kill many.
+11:45 Then he will set his tent between the seas and the mountain of the Holy One’s desire. The hour of his completion will come, and no one will help him.”
+
+DANIEL 12
+
+12:1 “At that hour Michael will pass by, the great angel who stands over the sons of your people. That will be a day of affliction such as has not occurred since they came into being until that day. On that day all the people found inscribed in the book will be exalted.
+12:2 Many of those sleeping in the breadth of the earth shall arise: some unto everlasting life, others unto reproach, and others unto dispersion and everlasting shame.
+12:3 Those who understand will appear like heaven’s lights, and those who strengthen my words like the stars of heaven for the age of the age.
+12:4 But you, Daniel, cover the commands and seal the book until the time of completion, until the many go mad and the earth is filled with injustice.”
+12:5 I, Daniel, saw two others standing, one on this side of the river and one on the other.
+12:6 I said to the one clothed in fine linen above, “When, then, will the wonders you have told me reach completion, and these things be cleansed?”
+12:7 I heard the one clothed in fine linen above the river’s water say, “Until the time of completion.” He raised his right hand and his left to heaven and swore by God who lives for ever that in a time, times, and half a time would be the completion of the “hands of release” of a holy people, and all these things would be completed.
+12:8 I heard, but did not understand the time from him. I said, “My lord, what is the interpretation of this word, and what do these figures concern?”
+12:9 He said to me, “Go away, Daniel, for the commands are covered and sealed until
+12:10 many are tested and made holy, and sinners sin. None of the sinners will understand, but those who understand will pay attention.
+12:11 From when the sacrifice is removed for all time and preparations are made to set up the abomination of desolation: one thousand two hundred ninety days.
+12:12 Blessed is the one who perseveres and reaches a total of one thousand three hundred thirty-five days.
+12:13 But you, go and rest, for there are still days and hours until completion is fulfilled. You will rest and arise unto your glory at the completion of days.”
+
+DANIEL — SUSANNA
+
+Susanna 1:6 And judicial cases from other cities came to them.
+Susanna 1:7–8 These men saw a woman lovely in appearance, the wife of their brother from the sons of Israel, named Susanna, daughter of Hilkiah and wife of Joachim, walking in her husband’s garden in the evening. They desired her
+Susanna 1:9 and distorted their minds, turning their eyes aside so as not to look toward heaven or remember righteous judgments.
+Susanna 1:10–11 Both were stricken with desire for her, but neither admitted to the other the evil that possessed them concerning her. The woman herself knew nothing of this matter.
+Susanna 1:12 As dawn came, they would come, trying to outwit one another in their hurry to see who would appear to her first and speak with her.
+Susanna 1:13–14 And behold, she was walking as usual. One of the elders had arrived, and behold, the other came. One questioned the other, saying, “Why did you go out so early without taking me?” Then each confessed his anguish to the other.
+Susanna 1:19 One said to the other, “Let us go to her.” Having agreed, they approached her and tried to force her.
+Susanna 1:22 The Jewish woman said to them, “I know that if I do this, it means death for me; and if I do not, I will not escape your hands.
+Susanna 1:23 But it is better for me to fall into your hands without having done it than to sin before the Lord.”
+Susanna 1:28 The lawless men went back, making threats among themselves and plotting to kill her. They came to the assembly of the city where they were residing, and all the sons of Israel who were there sat together in council.
+Susanna 1:29 The two elders and judges stood up and said, “Send for Susanna, daughter of Hilkiah, who is Joachim’s wife.” They summoned her at once.
+Susanna 1:30 The woman arrived with her father and mother. Her male and female servants, numbering five hundred, also arrived, together with Susanna’s four children.
+Susanna 1:31 The woman was very delicate.
+Susanna 1:32 The lawless men ordered her to be uncovered, so that they might satisfy their desire for her beauty.
+Susanna 1:33 All her people, and everyone who knew her, wept.
+Susanna 1:34 The elders and judges stood up and laid their hands on her head.
+Susanna 1:35 But her heart trusted in the Lord her God. Raising her head, she wept within herself, saying,
+Susanna 1:35a “Lord, everlasting God, who knowest all things before they come into being, Thou knowest that I have not done what these lawless men wickedly allege against me.” And the Lord heard her petition.
+Susanna 1:36 The two elders said, “We were walking in her husband’s garden,
+Susanna 1:37 and as we went around the course, we saw this woman reclining with a man. We stood and watched them being intimate with one another,
+Susanna 1:38 and they did not know that we were standing there. Then we said to one another, ‘Let us find out who these people are.’
+Susanna 1:39 We approached and recognized her, but the young man fled, covered up.
+Susanna 1:40 We seized her and asked her, ‘Who is the man?’
+Susanna 1:41 She did not tell us who he was. We testify to these things.” The whole assembly believed them because they were elders and judges of the people.
+Susanna 1:44–45 And behold, an angel of the Lord was there as she was being led out to perish. As he had been commanded, the angel gave a spirit of understanding to Daniel, who was young.
+Susanna 1:48 Daniel parted the crowd, stood in their midst, and said, “Are you so foolish, sons of Israel? Have you condemned a daughter of Israel without an inquiry or a clear knowledge of the facts?
+Susanna 1:51 Now separate them far from one another for me, so that I may examine them.”
+Susanna 1:52 When they had been separated, Daniel said to the assembly, “Do not now look at the fact that these men are elders and say, ‘They certainly will not lie.’ I will question them according to what occurs to me.” He called one of them, and they brought the elder to the young man. Daniel said to him, “Listen, listen, you who have grown old in evil days! Now your sins have come upon you, the things you formerly did
+Susanna 1:53 when you were entrusted with hearing and judging cases that bring death: you condemned the innocent and would release the guilty, although the Lord says, ‘You shall not kill the innocent and the righteous.’
+Susanna 1:54 Now then, under what tree, and in what part of the garden, did you see them together?” The impious man said, “Under a mastic tree.”
+Susanna 1:55 The young man said, “You have indeed lied against your own soul, for the angel of the Lord will split your soul today.”
+Susanna 1:56 He moved this man aside and said to bring the other to him. To this man he said, “Why is your offspring corrupted, like Sidon’s and not like Judah’s? Beauty and filthy desire deceived you!
+Susanna 1:57 This is how you used to treat the daughters of Israel, and they were intimate with you because they were afraid. But a daughter of Judah did not endure bearing your disease in lawlessness.
+Susanna 1:58 Now then, tell me: under what tree, and in what part of the garden, did you catch them being intimate with one another?” He said, “Under a holm-oak.”
+Susanna 1:59 Daniel said, “Sinner, the angel of the Lord now stands holding his sword, until the people utterly destroy you both, so that he may saw you apart.”
+Susanna 1:60–62 The whole assembly cried out over the young man, because from their own mouths he had established that both were admittedly false witnesses. As the law prescribes, they did to them what they had wickedly plotted against their sister. They gagged them, took them out, and threw them into a ravine. Then the angel of the Lord cast fire through their midst. Innocent blood was saved that day.
+Susanna 1:63 For this reason the young are beloved of Jacob in their simplicity. Let us also be attentive to capable young sons, for the young will be devout, and a spirit of knowledge and understanding will be in them for ever and ever.
+
+DANIEL — BEL AND THE DRAGON
+
+Bel and Dragon 1:1 From the prophecy of Habakkuk, son of Joshua, of the tribe of Levi.
+Bel and Dragon 1:2 There was a certain priest named Daniel, son of Abal, a companion of the king of Babylon.
+Bel and Dragon 1:3 There was an idol, Bel, whom the Babylonians revered. Each day twelve artabas of fine flour, four sheep, and six metretas of oil were expended for him.
+Bel and Dragon 1:4 The king revered him and went each day to bow before him, but Daniel prayed to the Lord.
+Bel and Dragon 1:5 The king said to Daniel, “Why do you not bow before Bel?” Daniel said to the king, “I revere no one except the Lord God, who created heaven and earth and has lordship over all flesh.”
+Bel and Dragon 1:6 The king said to him, “Is this one, then, not a god? Do you not see how much is spent on him every day?”
+Bel and Dragon 1:7 Daniel said to him, “Certainly not! Let no one deceive you. This one is clay on the inside and bronze on the outside. I swear to you by the Lord, the God of gods, that this one has never eaten anything.”
+Bel and Dragon 1:8 The king became angry, called those in charge of the temple, and said to them, “Show who eats what is prepared for Bel. Otherwise, either you will die or Daniel, who claims that these things are not eaten by him.” They said, “Bel himself is the one who eats them.”
+Bel and Dragon 1:9 Daniel said to the king, “Let it be so. If I do not demonstrate that Bel is not the one who eats these things, I and all my people will die.” Bel had seventy priests, apart from their wives and children.
+Bel and Dragon 1:10 They brought the king into the idol-temple.
+Bel and Dragon 1:11 The food was set out before the king and Daniel. Mixed wine was brought in and placed before Bel. Daniel said, “You yourself see that these things are laid out, O king. So seal the locks of the temple yourself when it has been closed.”
+Bel and Dragon 1:13 The proposal pleased the king.
+Bel and Dragon 1:14 Daniel ordered his people to put everyone out of the temple and sprinkle the whole temple with ashes, without anyone outside his own group knowing. Then he ordered the temple to be sealed with the king’s ring and the rings of certain distinguished priests. It was done that way.
+Bel and Dragon 1:15–17 The next day they came to the place. Meanwhile, Bel’s priests had entered through secret doors, eaten everything laid before Bel, and drunk all the wine. Daniel said, “Men who are priests, inspect your seals to see whether they remain. And you, O king, examine whether anything has turned out contrary to what you expected.” They found the seal as it had been, and removed the seal.
+Bel and Dragon 1:18 They opened the doors and saw that everything set out had been consumed and the tables were empty. The king rejoiced and said to Daniel, “Bel is great, and there is no deceit in him.”
+Bel and Dragon 1:19 Daniel laughed heartily and said to the king, “Come, see the priests’ deceit.” Daniel said, “O king, whose footprints are these?”
+Bel and Dragon 1:20 The king said, “Those of men, women, and children.”
+Bel and Dragon 1:21 He went to the house where the priests were staying and found Bel’s food and the wine. Daniel showed the king the secret doors through which the priests would enter and consume what was laid before Bel.
+Bel and Dragon 1:22 The king brought them out of Bel’s temple and handed them over to Daniel. He gave Daniel the expenditure allocated to Bel, and destroyed Bel.
+Bel and Dragon 1:23 There was a dragon in the same place, and the Babylonians revered it.
+Bel and Dragon 1:24 The king said to Daniel, “Will you say that this one is bronze too? Behold, it lives, eats, and drinks. Bow before it.”
+Bel and Dragon 1:25 Daniel said, “O king, give me authority, and I will kill the dragon without iron or a rod.”
+Bel and Dragon 1:26 The king consented and said to him, “It is granted to you.”
+Bel and Dragon 1:27 Daniel took thirty minas of pitch, together with fat and hair, boiled them together, made a cake, and threw it into the dragon’s mouth. It ate and burst apart. He showed it to the king, saying, “Are these not the things you revere, O king?”
+Bel and Dragon 1:28 All the people from the country gathered against Daniel and said, “The king has become a Jew! He has destroyed Bel and killed the dragon.”
+Bel and Dragon 1:30 The king saw that the crowd of the country had gathered against him. He called his companions and said, “I hand Daniel over to destruction.”
+Bel and Dragon 1:31–32 There was a pit in which seven lions were kept. Those who plotted against the king were handed over to them, and each day two bodies of people condemned to death were supplied to them. The crowds threw Daniel into that pit so that he would be devoured and would not even receive burial. Daniel was in the pit for six days.
+Bel and Dragon 1:33 On the sixth day, Habakkuk had bread crumbled in a trough with stew, and a jar of mixed wine. He was going into the field to the reapers.
+Bel and Dragon 1:34 An angel of the Lord spoke to Habakkuk, saying, “Thus says the Lord God to you: ‘Take the meal you have to Daniel in the lions’ pit in Babylon.’”
+Bel and Dragon 1:35 Habakkuk said, “Lord God, I have not seen Babylon, and I do not know where the pit is.”
+Bel and Dragon 1:36 The angel of the Lord took Habakkuk by the hair of his head and set him above the pit in Babylon.
+Bel and Dragon 1:37 Habakkuk said to Daniel, “Get up and eat the meal that the Lord God has sent you.”
+Bel and Dragon 1:38 Daniel said, “For the Lord God has remembered me, He who does not abandon those who love Him.”
+Bel and Dragon 1:39 Daniel ate. The angel of the Lord returned Habakkuk to the place from which he had taken him on that same day. And the Lord God remembered Daniel.
+Bel and Dragon 1:40 After these things the king went out mourning Daniel. He bent down into the pit and saw him sitting there.
+Bel and Dragon 1:41 The king cried aloud and said, “The Lord God is great, and there is no other besides Him.”
+Bel and Dragon 1:42 The king brought Daniel out of the pit. Before Daniel’s eyes he threw into the pit those responsible for his destruction, and they were devoured.

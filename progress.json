@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 30,
-  "pending_book_revisions": 40,
-  "next_book": "Daniel",
+  "completed_book_records": 31,
+  "pending_book_revisions": 39,
+  "next_book": "Hosea",
   "full_bible_complete": false,
   "books": [
     {
@@ -309,8 +309,18 @@
       "order": 31,
       "book": "Daniel",
       "staging_path": "/bible/providence/daniel/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "daniel/",
+      "chapters": 12,
+      "reading_sections": 14,
+      "verse_units": 486,
+      "reading_units": 487,
+      "unnumbered_preface_units": 1,
+      "additional_sections": [
+        "Susanna",
+        "Bel and the Dragon"
+      ],
+      "wording_changes": 154
     },
     {
       "order": 32,
@@ -592,11 +602,12 @@
     "completed_books": [
       "Isaiah",
       "Jeremiah",
-      "Ezekiel"
+      "Ezekiel",
+      "Daniel"
     ],
-    "pending_books": 13,
-    "next_book": "Daniel",
-    "status": "In progress; Isaiah, Jeremiah and Ezekiel English editorial and staging complete, specialist review pending"
+    "pending_books": 12,
+    "next_book": "Hosea",
+    "status": "In progress; Isaiah, Jeremiah, Ezekiel and Daniel English editorial and staging complete, specialist review pending"
   },
   "completed_divisions": [
     "Law",
@@ -604,7 +615,7 @@
     "Wisdom"
   ],
   "current_priority": "Finish the remaining Old Testament after Job: all Wisdom books and all Prophets, one book at a time, with staging verification and GitHub main uploads.",
-  "old_testament_completed_book_records": 30,
-  "old_testament_pending_book_revisions": 13,
+  "old_testament_completed_book_records": 31,
+  "old_testament_pending_book_revisions": 12,
   "next_division": "Providence"
 }
