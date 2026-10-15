@@ -1,0 +1,550 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 38 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 2,
+    "reading_sections": 2,
+    "changed_verse_units": 25,
+    "source_scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "1d211e292616a5d45267f508949f9efb0c0b5c3a7b5fa86dd6bd3f76acba5fda"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 15,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 23,
+      "changed": 16,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 3039,
+      "chapter": 1,
+      "modified": "2026-10-15T05:28:56",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "0ad8286c0279bcc89f4accd79db791798c0392e41f77d6af680d124dfcd1de2b"
+    },
+    {
+      "id": 3042,
+      "chapter": 2,
+      "modified": "2026-10-15T05:29:02",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "266e97d5928819c18a293f83941c6b99ae8f1f8d51567e34edf8eb116ba69e2b"
+    },
+    {
+      "id": 3022,
+      "chapter": null,
+      "modified": "2026-10-15T05:29:08",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "a540f186a46a0c2cc651dc718d9054dae031936e598188518353e7dd7e43b8fd"
+    }
+  ],
+  "browser_checks": {
+    "chapters": [
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-3/",
+            "label": "Previous chapter, Zephaniah 3",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-2/",
+            "label": "Next chapter, Haggai 2",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-3/",
+            "text": "← Zephaniah 3"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/",
+            "text": "Haggai: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-2/",
+            "text": "Haggai 2 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/haggai/1/",
+            "text": "All 214 cross-references for Haggai 1, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v1-1",
+            "text": "1:1In the second year under King Darius, in the sixth month, on the first day of the month, the word of the Lord came through Haggai the prophet, saying: “Speak now to Zerubbabel, the son of Shealtiel, from the tribe of Judah, and to Joshua, the son of Jehozadak, the high priest, saying:"
+          },
+          {
+            "id": "v1-2",
+            "text": "1:2‘Thus says the Lord Almighty: These people say, “The time has not arrived to rebuild the house of the Lord.”’”"
+          },
+          {
+            "id": "v1-3",
+            "text": "1:3The word of the Lord came through Haggai the prophet, saying:"
+          },
+          {
+            "id": "v1-4",
+            "text": "1:4“Is it time for you to live in your houses with recessed ceilings, while this house has been laid waste?"
+          },
+          {
+            "id": "v1-5",
+            "text": "1:5And now, thus says the Lord Almighty: Set your hearts upon your ways."
+          },
+          {
+            "id": "v1-6",
+            "text": "1:6You sowed much and brought in little; you ate, but were not satisfied; you drank, but not to intoxication; you clothed yourselves, but were not warmed in them. The one gathering wages gathered them into a bundle with holes."
+          },
+          {
+            "id": "v1-7",
+            "text": "1:7Thus says the Lord Almighty: Place your hearts upon your ways."
+          },
+          {
+            "id": "v1-8",
+            "text": "1:8Go up onto the mountain, cut wood and rebuild the house. I will take pleasure in it and be glorified, said the Lord."
+          },
+          {
+            "id": "v1-9",
+            "text": "1:9You looked for much, and it came to little; it was brought into the house, and I blew it away. Therefore, thus says the Lord Almighty: Because My house is desolate, while each of you hurries to his own house,"
+          },
+          {
+            "id": "v1-10",
+            "text": "1:10therefore heaven will hold back dew, and the earth will withhold its produce."
+          },
+          {
+            "id": "v1-11",
+            "text": "1:11I will bring a sword upon the land and the mountains, upon grain, wine and oil, and whatever the earth produces, upon people and livestock, and upon all the labors of their hands.”"
+          },
+          {
+            "id": "v1-12",
+            "text": "1:12Zerubbabel, the son of Shealtiel, from the tribe of Judah, Joshua, the son of Jehozadak, the high priest, and all the remnant of the people listened to the voice of the Lord their God and the words of Haggai the prophet, as the Lord their God had sent him to them. The people feared before the Lord."
+          },
+          {
+            "id": "v1-13",
+            "text": "1:13Haggai, the messenger of the Lord, said to the people, “I am with you, says the Lord.”"
+          },
+          {
+            "id": "v1-14",
+            "text": "1:14The Lord stirred up the spirit of Zerubbabel, the son of Shealtiel, from the tribe of Judah, the spirit of Joshua, the son of Jehozadak, the high priest, and the spirit of the remnant of all the people. They came in and were carrying out work on the house of the Lord Almighty, their God,"
+          },
+          {
+            "id": "v1-15",
+            "text": "1:15on the twenty-fourth day of the sixth month, in the second year under King Darius."
+          }
+        ],
+        "chapter": 1,
+        "section": 1,
+        "page_id": 3039,
+        "title": "Haggai 1",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-1/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 2,
+        "selected_chapter": "Haggai 1"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-1/",
+            "label": "Previous chapter, Haggai 1",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-1/",
+            "label": "Next chapter, Zechariah 1",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-1/",
+            "text": "← Haggai 1"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/",
+            "text": "Haggai: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-1/",
+            "text": "Zechariah 1 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/haggai/2/",
+            "text": "All 267 cross-references for Haggai 2, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v2-1",
+            "text": "2:1In the seventh month, on the twenty-first day of the month, the Lord spoke through Haggai the prophet, saying:"
+          },
+          {
+            "id": "v2-2",
+            "text": "2:2“Speak now to Zerubbabel, the son of Shealtiel, from the tribe of Judah, to Joshua, the son of Jehozadak, the high priest, and to all the remnant of the people, saying:"
+          },
+          {
+            "id": "v2-3",
+            "text": "2:3Who among you saw this house in its former glory? How do you see it now? As though it did not exist before you."
+          },
+          {
+            "id": "v2-4",
+            "text": "2:4But now be strong, Zerubbabel, says the Lord; be strong, Joshua, son of Jehozadak, the high priest; let all the people of the land be strong, says the Lord, and work, for I am with you, says the Lord Almighty,"
+          },
+          {
+            "id": "v2-5",
+            "text": "2:5and My Spirit stands in your midst. Take courage."
+          },
+          {
+            "id": "v2-6",
+            "text": "2:6For thus says the Lord Almighty: Once more I will shake heaven and earth, the sea and the dry land."
+          },
+          {
+            "id": "v2-7",
+            "text": "2:7And I will shake all the nations, and the choice things of all the nations shall come; and I will fill this house with glory, says the Lord Almighty."
+          },
+          {
+            "id": "v2-8",
+            "text": "2:8The silver is Mine and the gold is Mine, says the Lord Almighty."
+          },
+          {
+            "id": "v2-9",
+            "text": "2:9For the latter glory of this house will be greater than the former, says the Lord Almighty; in this place I will give peace, says the Lord Almighty, and peace of soul as a possession for everyone building to raise this sanctuary.”"
+          },
+          {
+            "id": "v2-10",
+            "text": "2:10On the twenty-fourth day of the ninth month, in the second year under Darius, the word of the Lord came to Haggai the prophet, saying:"
+          },
+          {
+            "id": "v2-11",
+            "text": "2:11“Thus says the Lord Almighty: Ask the priests about the law, saying:"
+          },
+          {
+            "id": "v2-12",
+            "text": "2:12If someone takes holy meat in the edge of his garment and the edge of his garment touches bread, cooked food, wine, oil or any food, will it become holy?” The priests answered, “No.”"
+          },
+          {
+            "id": "v2-13",
+            "text": "2:13Haggai said, “If one defiled through a dead person touches any of these, will it be defiled?” The priests answered, “It will be defiled.”"
+          },
+          {
+            "id": "v2-14",
+            "text": "2:14Haggai answered, “So is this people, and so is this nation before Me, says the Lord; so are all the works of their hands, and whoever approaches there will be defiled because of their morning gains. They will suffer because of their labors, and you hated those who rebuked at the gates."
+          },
+          {
+            "id": "v2-15",
+            "text": "2:15And now, please set your hearts on the time before this day, before stone was placed upon stone in the sanctuary of the Lord,"
+          },
+          {
+            "id": "v2-16",
+            "text": "2:16on how things were with you: when you put twenty sata of barley into a bin, there were ten sata of barley; when you went to the wine vat to draw fifty metretai, there were twenty."
+          },
+          {
+            "id": "v2-17",
+            "text": "2:17I struck you with barrenness, damage from wind and hail—all the works of your hands—and you did not turn to Me, says the Lord."
+          },
+          {
+            "id": "v2-18",
+            "text": "2:18Please direct your hearts from this day onward; from the twenty-fourth day of the ninth month and from the day the sanctuary of the Lord was founded, put it in your hearts:"
+          },
+          {
+            "id": "v2-19",
+            "text": "2:19whether it will yet be recognized on the threshing floor, and whether the vine, the fig tree, the pomegranate and the olive trees still bear no fruit. From this day I will bless.”"
+          },
+          {
+            "id": "v2-20",
+            "text": "2:20The word of the Lord came a second time to Haggai the prophet on the twenty-fourth day of the month, saying:"
+          },
+          {
+            "id": "v2-21",
+            "text": "2:21“Speak to Zerubbabel, the son of Shealtiel, from the tribe of Judah, saying: I am shaking heaven and earth, the sea and the dry land,"
+          },
+          {
+            "id": "v2-22",
+            "text": "2:22and I will overturn the thrones of kings and destroy the strength of the kings of the nations. I will overturn chariots and riders; horses and their riders will fall, each with a sword against his brother."
+          },
+          {
+            "id": "v2-23",
+            "text": "2:23On that day, says the Lord Almighty, I will take you, Zerubbabel, the son of Shealtiel, My servant, says the Lord, and make you like a signet, for I have chosen you, says the Lord Almighty.”"
+          }
+        ],
+        "chapter": 2,
+        "section": 2,
+        "page_id": 3042,
+        "title": "Haggai 2",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-2/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 2,
+        "selected_chapter": "Haggai 2"
+      }
+    ],
+    "index": {
+      "links": [
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-1/",
+          "text": "Chapter 1\nCall to rebuild the temple"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-2/",
+          "text": "Chapter 2\nFuture glory and blessing"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-1/#v1-4",
+          "text": "Haggai 1:4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-2/#v2-7",
+          "text": "Haggai 2:7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-2/#v2-9",
+          "text": "Haggai 2:9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/study/",
+          "text": "Open the Haggai study edition →"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/#saints-ref-1-1",
+          "text": "[1]"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/#",
+          "text": "Suggest a correction"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-1/",
+          "text": "Begin reading →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-1/",
+          "text": "1\nHaggai 1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-2/",
+          "text": "2\nHaggai 2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/comparison-edition/2/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/comparison-edition/2/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/comparison-edition/3/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/comparison-edition/",
+          "text": "Jewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/vulgate-comparison/",
+          "text": "Catholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/kjv-comparison/",
+          "text": "Protestant King James Bible\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/kjv-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/kjv-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/comparison-edition/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/comparison-edition/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/vulgate-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/vulgate-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-1/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-2/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/editorial-guide/",
+          "text": "Read the editorial guide for Haggai →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/disparate-study/",
+          "text": "Haggai — Disparate Study"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-1/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-2/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-1/#v1-4",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-2/#v2-7",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-2/#v2-9",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/study/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/editorial-guide/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/disparate-study/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/#saints-ref-1-cite-1",
+          "text": "↑"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        }
+      ],
+      "text": "Haggai\n\nBespoke Saints English Translation · 2 chapters · Provisional editorial edition · 15 October 2026\n\nDraft for review. Only editors can see this introduction. Approve all introductions under Settings → Saints Study.\n\nINTRODUCTION\n\nIntroducing Haggai\n\nHaggai urges the returned exiles to stop neglecting God’s house and rebuild the temple. It promises that the glory of the new temple will surpass the old.\n\nSETTING\nAddressed to Zerubbabel the governor, Joshua the high priest and the people of Jerusalem after the return from Babylon.\nAUTHOR\nAttributed to the prophet Haggai; the book’s dated reports are widely accepted as reflecting his preaching.\nDATE\n520 BC, the second year of Darius I.\nOutline\nChapter 1\nCall to rebuild the temple\nChapter 2\nFuture glory and blessing\nKey passages\nHaggai 1:4 — Panelled houses, ruined temple\nHaggai 2:7 — The treasure of the nations\nHaggai 2:9 — Greater glory\nThemes\nPutting God first\nRebuilding worship\nGod’s presence\nFuture glory\nRead in the light of Christ\n\nThe Latin rendering ‘the desired of all nations’ was widely read as Christ, whose presence gave the second temple its greater glory; Zerubbabel the signet ring was seen as a figure of the Messiah.\n\nOpen the Haggai study edition →\n\nIntroduction by Saints.Bible · CC BY-SA 4.0[1] · Suggest a correction\n\nFind a chapter\n\n4 links. Choose a section to browse.\n\nREAD\nHaggai · Reading\n2 chapters\nBegin reading →\n1\nHaggai 1\n2\nHaggai 2\nSTUDY\nHaggai · Comparisons\n2 chapters and study sections\n\nCompare Haggai with the Saints Translation\n\nJewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison\nCatholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison\nProtestant King James Bible\nCompared with the Saints Translation\nOpen comparison\n\nGO STRAIGHT TO A CHAPTER\n\nKJV & Greek\n1\n2\nHebrew & Greek\n1\n2\nLatin Vulgate\n1\n2\nSaints Translation: sources and study approach\n\nHaggai contains 2 chapters. Use the chapter pages below to read the translation.\n\nEditorial guide\n\nRead the editorial guide for Haggai →\n\nCurrent Bespoke editorial guide\n\nAll 2 chapters, comprising 38 existing verse units, have received the Bespoke English editorial pass: 25 revised and 13 retained. Source-specific numbering, names, repetitions and verse anchors are preserved. The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.\n\nRahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending. All English verse units were individually reviewed, and the full displayed Greek running text was read chapter by chapter with focused comparison of the recorded features. This does not constitute exhaustive critical-text verification.\n\nThe newer Bespoke PDF governs this reading edition. Saints Translation literal-smooth and all comparison/study streams remain separate and unchanged. Notes are separated from Scripture. Earlier source and wording notes are historical records and may quote superseded wording or pronouns; the dated current Bespoke notes explain this revision. The earlier editorial guide remains linked as a historical reference and does not override the newer PDF.\n\nAll 38 verse units remain in their original order: 15 and 23 per chapter. Dates, names, the fourfold shaking list, sword, choice things, peace of soul, named Greek capacities, verse anchors and links are preserved. The morning gains and threshing-floor clauses and temporal directions remain provisional questions for specialist review. Historical comparison and study streams remain separate and unchanged; the newer Bespoke PDF governs where the older guide conflicts.\n\nHaggai — Disparate Study\n\nRead both complete source readings before five commentary paragraphs for every Disparate entry in this book.\n\nExplore links from this page\nScripture\nFootnotes\n↑CC BY-SA 4.0 — creativecommons.org",
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "Whitespace and WordPress apostrophe typography only; visible verse numbers and preserved trailing footnote callouts excluded.",
+    "chapter_navigation": [
+      {
+        "text": "Haggai 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-1/"
+      },
+      {
+        "text": "Haggai 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-2/"
+      }
+    ],
+    "visual_capture": "Every saved reading page received rendered DOM text and navigation checks. Screenshot capture was unavailable because the browser reported a zero-width viewport; no visual screenshot inspection is claimed for this book."
+  },
+  "comparison_checks": [
+    {
+      "id": 23812,
+      "title": "Haggai — Study Edition",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/study/",
+      "before_content_hash": "0bcc4ab57cb68b7a17ed44648777327badd5cb09",
+      "after_content_hash": "0bcc4ab57cb68b7a17ed44648777327badd5cb09",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20750,
+      "title": "Haggai — King James Bible and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/kjv-comparison/",
+      "before_content_hash": "e5503078a6ecb44ba79c6b6d6d4919d35eed4d6d",
+      "after_content_hash": "e5503078a6ecb44ba79c6b6d6d4919d35eed4d6d",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20749,
+      "title": "Haggai — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/vulgate-comparison/",
+      "before_content_hash": "40fb12854fc827001d8133f69a2da1540e07298a",
+      "after_content_hash": "40fb12854fc827001d8133f69a2da1540e07298a",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 18642,
+      "title": "Haggai — Disparate Study",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/disparate-study/",
+      "before_content_hash": "f3d71b8bda6f97163c24efa9ae662749c9dbce69",
+      "after_content_hash": "f3d71b8bda6f97163c24efa9ae662749c9dbce69",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3830,
+      "title": "Haggai — Hebrew and Greek compared",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/comparison-edition/",
+      "before_content_hash": "05c6576352a3f65e51df58556ffe353d1782559f",
+      "after_content_hash": "05c6576352a3f65e51df58556ffe353d1782559f",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3045,
+      "title": "Haggai — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/editorial-guide/",
+      "before_content_hash": "45f55f3495d9056a1d7414e923f83f201210800c",
+      "after_content_hash": "45f55f3495d9056a1d7414e923f83f201210800c",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 38,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 3 edited pages and all 6 reference pages, plus 6 reference hash snapshots. This is a book archive, not a full-site backup."
+}

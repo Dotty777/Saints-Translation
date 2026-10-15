@@ -1,0 +1,49 @@
+HAGGAI — BESPOKE SAINTS ENGLISH TRANSLATION
+15 October 2026
+Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.
+Plain text Scripture only. Separated editorial notes and unresolved readings are in editorial-notes.json, source-checks.json and the HTML reader.
+
+
+HAGGAI 1
+
+1:1 In the second year under King Darius, in the sixth month, on the first day of the month, the word of the Lord came through Haggai the prophet, saying: “Speak now to Zerubbabel, the son of Shealtiel, from the tribe of Judah, and to Joshua, the son of Jehozadak, the high priest, saying:
+1:2 ‘Thus says the Lord Almighty: These people say, “The time has not arrived to rebuild the house of the Lord.”’”
+1:3 The word of the Lord came through Haggai the prophet, saying:
+1:4 “Is it time for you to live in your houses with recessed ceilings, while this house has been laid waste?
+1:5 And now, thus says the Lord Almighty: Set your hearts upon your ways.
+1:6 You sowed much and brought in little; you ate, but were not satisfied; you drank, but not to intoxication; you clothed yourselves, but were not warmed in them. The one gathering wages gathered them into a bundle with holes.
+1:7 Thus says the Lord Almighty: Place your hearts upon your ways.
+1:8 Go up onto the mountain, cut wood and rebuild the house. I will take pleasure in it and be glorified, said the Lord.
+1:9 You looked for much, and it came to little; it was brought into the house, and I blew it away. Therefore, thus says the Lord Almighty: Because My house is desolate, while each of you hurries to his own house,
+1:10 therefore heaven will hold back dew, and the earth will withhold its produce.
+1:11 I will bring a sword upon the land and the mountains, upon grain, wine and oil, and whatever the earth produces, upon people and livestock, and upon all the labors of their hands.”
+1:12 Zerubbabel, the son of Shealtiel, from the tribe of Judah, Joshua, the son of Jehozadak, the high priest, and all the remnant of the people listened to the voice of the Lord their God and the words of Haggai the prophet, as the Lord their God had sent him to them. The people feared before the Lord.
+1:13 Haggai, the messenger of the Lord, said to the people, “I am with you, says the Lord.”
+1:14 The Lord stirred up the spirit of Zerubbabel, the son of Shealtiel, from the tribe of Judah, the spirit of Joshua, the son of Jehozadak, the high priest, and the spirit of the remnant of all the people. They came in and were carrying out work on the house of the Lord Almighty, their God,
+1:15 on the twenty-fourth day of the sixth month, in the second year under King Darius.
+
+HAGGAI 2
+
+2:1 In the seventh month, on the twenty-first day of the month, the Lord spoke through Haggai the prophet, saying:
+2:2 “Speak now to Zerubbabel, the son of Shealtiel, from the tribe of Judah, to Joshua, the son of Jehozadak, the high priest, and to all the remnant of the people, saying:
+2:3 Who among you saw this house in its former glory? How do you see it now? As though it did not exist before you.
+2:4 But now be strong, Zerubbabel, says the Lord; be strong, Joshua, son of Jehozadak, the high priest; let all the people of the land be strong, says the Lord, and work, for I am with you, says the Lord Almighty,
+2:5 and My Spirit stands in your midst. Take courage.
+2:6 For thus says the Lord Almighty: Once more I will shake heaven and earth, the sea and the dry land.
+2:7 And I will shake all the nations, and the choice things of all the nations shall come; and I will fill this house with glory, says the Lord Almighty.
+2:8 The silver is Mine and the gold is Mine, says the Lord Almighty.
+2:9 For the latter glory of this house will be greater than the former, says the Lord Almighty; in this place I will give peace, says the Lord Almighty, and peace of soul as a possession for everyone building to raise this sanctuary.”
+2:10 On the twenty-fourth day of the ninth month, in the second year under Darius, the word of the Lord came to Haggai the prophet, saying:
+2:11 “Thus says the Lord Almighty: Ask the priests about the law, saying:
+2:12 If someone takes holy meat in the edge of his garment and the edge of his garment touches bread, cooked food, wine, oil or any food, will it become holy?” The priests answered, “No.”
+2:13 Haggai said, “If one defiled through a dead person touches any of these, will it be defiled?” The priests answered, “It will be defiled.”
+2:14 Haggai answered, “So is this people, and so is this nation before Me, says the Lord; so are all the works of their hands, and whoever approaches there will be defiled because of their morning gains. They will suffer because of their labors, and you hated those who rebuked at the gates.
+2:15 And now, please set your hearts on the time before this day, before stone was placed upon stone in the sanctuary of the Lord,
+2:16 on how things were with you: when you put twenty sata of barley into a bin, there were ten sata of barley; when you went to the wine vat to draw fifty metretai, there were twenty.
+2:17 I struck you with barrenness, damage from wind and hail—all the works of your hands—and you did not turn to Me, says the Lord.
+2:18 Please direct your hearts from this day onward; from the twenty-fourth day of the ninth month and from the day the sanctuary of the Lord was founded, put it in your hearts:
+2:19 whether it will yet be recognized on the threshing floor, and whether the vine, the fig tree, the pomegranate and the olive trees still bear no fruit. From this day I will bless.”
+2:20 The word of the Lord came a second time to Haggai the prophet on the twenty-fourth day of the month, saying:
+2:21 “Speak to Zerubbabel, the son of Shealtiel, from the tribe of Judah, saying: I am shaking heaven and earth, the sea and the dry land,
+2:22 and I will overturn the thrones of kings and destroy the strength of the kings of the nations. I will overturn chariots and riders; horses and their riders will fall, each with a sword against his brother.
+2:23 On that day, says the Lord Almighty, I will take you, Zerubbabel, the son of Shealtiel, My servant, says the Lord, and make you like a signet, for I have chosen you, says the Lord Almighty.”
