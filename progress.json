@@ -678,5 +678,26 @@
   "current_priority": "Finish the remaining Old Testament after Job: all Wisdom books and all Prophets, one book at a time, with staging verification and GitHub main uploads.",
   "old_testament_completed_book_records": 43,
   "old_testament_pending_book_revisions": 0,
-  "next_division": "Salvation"
+  "next_division": "Salvation",
+  "current_instruction": "After completing the Old Testament, continue all 27 New Testament books one at a time, with staging verification and uploads to GitHub main.",
+  "new_testament_source_status": {
+    "preferred_edition": "UBS6, with ECM consultation, as recommended by the newer Bespoke PDF",
+    "full_preferred_text_obtained": false,
+    "available_full_running_text": "Nestle–Aland 28 (NA28), German Bible Society online reader",
+    "existing_site_records": "NA28 governs recorded decisions; earlier drafts retain their documented base, including SBLGNT with selective NA28 comparison",
+    "decision": "Awaiting the user’s choice between provisional NA28 continuation and waiting for UBS6 access",
+    "matthew_audit": {
+      "chapters": 28,
+      "verse_units": 1068,
+      "full_original_page_backups": 31,
+      "comparison_pages": 2,
+      "preserved_historical_note_groups": 21,
+      "staging_changes": 0
+    },
+    "source_links": [
+      "https://www.die-bibel.de/en/bible/NA28/MAT.1",
+      "https://www.die-bibel.de/en/the-sixth-edition-of-the-greek-new-testament-ubs6"
+    ],
+    "access_checks": "The publisher’s browser edition picker displayed NA28 and UBS5, but not UBS6. Focused searches of the linked project Drive folder and accessible Drive files did not locate UBS6. A publisher sample is available, but it is not the full edition."
+  }
 }

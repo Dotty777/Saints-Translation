@@ -36,7 +36,7 @@ Book-by-book Bespoke Saints English editorial editions, change records and revie
 - [Hosea — 14 chapters](hosea/README.md): provisional editorial revision; 197 verse units, 67 wording changes. Staging verified on 15 October 2026.
 - [Joel — 4 chapters](joel/README.md): provisional editorial revision; 73 verse units, 29 wording changes. Staging verified on 15 October 2026.
 - [Amos — 9 chapters](amos/README.md): provisional editorial revision; 146 verse units, 91 wording changes. Staging verified on 15 October 2026.
-- [Obadiah — 1 chapters](obadiah/README.md): provisional editorial revision; 21 verse units, 17 wording changes. Staging verified on 15 October 2026.
+- [Obadiah — 1 chapter](obadiah/README.md): provisional editorial revision; 21 verse units, 17 wording changes. Staging verified on 15 October 2026.
 - [Jonah — 4 chapters](jonah/README.md): provisional editorial revision; 48 verse units, 16 wording changes. Staging verified on 15 October 2026.
 - [Micah — 7 chapters](micah/README.md): provisional editorial revision; 105 verse units, 59 wording changes. Staging verified on 15 October 2026.
 - [Nahum — 3 chapters](nahum/README.md): provisional editorial revision; 47 verse units, 27 wording changes. Staging verified on 15 October 2026.
@@ -47,22 +47,10 @@ Book-by-book Bespoke Saints English editorial editions, change records and revie
 - [Malachi — 3 chapters](malachi/README.md): provisional editorial revision; 55 verse units, 43 wording changes. Staging verified on 15 October 2026.
 - Law and Judgement and all seven Wisdom books are complete at the English editorial/staging stage. Isaiah, Jeremiah, Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi are complete at that stage; Matthew is next. 0 Old Testament books and 27 books overall remain pending the Bespoke pass.
 
-[progress.json](progress.json) lists the site's selected seventy-book working edition in its actual reading order: 43 Old Testament and 27 New Testament books. The current user instruction is to extend the Genesis–Exodus manner through every remaining book and keep updates in the current chat. The latest instruction prioritizes the remaining Old Testament: all seven Wisdom books and all sixteen Prophets. 43 Old Testament books are at the recorded editorial/staging stage; 0 remain. The full Bible revision is not yet complete.
+[progress.json](progress.json) lists the site's selected seventy-book working edition in its actual reading order: 43 Old Testament and 27 New Testament books. The current user instruction is to extend the Genesis–Exodus manner through every remaining book and keep updates in the current chat. The latest instruction is to continue all 27 New Testament books after the Old Testament, beginning with Matthew. 43 Old Testament books are at the recorded editorial/staging stage; 0 remain. The full Bible revision is not yet complete.
 
 The newer Bespoke policy governs. Rahlfs–Hanhart 2006 continuation is provisional and user-authorized for the relevant Old Testament books. Each book's declared source and any exceptions must be retained and checked before revision. Full apparatus, Göttingen, independent Greek and human read-aloud reviews remain pending. Saints Translation literal-smooth and other comparison streams remain separate. Files here do not deploy the WordPress live site.
 
 This progress list supersedes the next-book status in earlier book snapshots; their original records remain preserved. “Completed” means the recorded English pass, staging verification and archive, not independent specialist publication approval.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+Matthew’s 28 chapters and 1,068 verse units have been backed up and audited. No New Testament reading text has yet been revised in this continuation. The newer Bespoke PDF recommends UBS6 with ECM support; its complete text has not been obtained. The publisher’s NA28 running text is accessible. The source choice—provisional NA28 continuation or waiting for UBS6 access—is awaiting the user’s response.
