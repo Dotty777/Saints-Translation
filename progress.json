@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 28,
-  "pending_book_revisions": 42,
-  "next_book": "Jeremiah",
+  "completed_book_records": 29,
+  "pending_book_revisions": 41,
+  "next_book": "Ezekiel",
   "full_bible_complete": false,
   "books": [
     {
@@ -287,8 +287,12 @@
       "order": 29,
       "book": "Jeremiah",
       "staging_path": "/bible/providence/jeremiah/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "jeremiah/",
+      "chapters": 52,
+      "reading_sections": 52,
+      "verse_units": 1296,
+      "wording_changes": 568
     },
     {
       "order": 30,
@@ -582,11 +586,12 @@
   "division_progress": {
     "division": "Providence",
     "completed_books": [
-      "Isaiah"
+      "Isaiah",
+      "Jeremiah"
     ],
-    "pending_books": 15,
-    "next_book": "Jeremiah",
-    "status": "In progress; Isaiah English editorial and staging complete, specialist review pending"
+    "pending_books": 14,
+    "next_book": "Ezekiel",
+    "status": "In progress; Isaiah and Jeremiah English editorial and staging complete, specialist review pending"
   },
   "completed_divisions": [
     "Law",
@@ -594,7 +599,7 @@
     "Wisdom"
   ],
   "current_priority": "Finish the remaining Old Testament after Job: all Wisdom books and all Prophets, one book at a time, with staging verification and GitHub main uploads.",
-  "old_testament_completed_book_records": 28,
-  "old_testament_pending_book_revisions": 15,
+  "old_testament_completed_book_records": 29,
+  "old_testament_pending_book_revisions": 14,
   "next_division": "Providence"
 }
