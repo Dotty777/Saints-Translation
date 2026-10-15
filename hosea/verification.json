@@ -1,0 +1,2289 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 197 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 14,
+    "reading_sections": 14,
+    "changed_verse_units": 67,
+    "source_scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "dff4c0471b575f1c14d60301f42764f10caa00192691abe0636cd993ef6c85ac"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 9,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 25,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 5,
+      "changed": 2,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 19,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 5,
+      "chapter": 5,
+      "verse_units": 15,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 6,
+      "chapter": 6,
+      "verse_units": 11,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 7,
+      "chapter": 7,
+      "verse_units": 16,
+      "changed": 1,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 8,
+      "chapter": 8,
+      "verse_units": 14,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 9,
+      "chapter": 9,
+      "verse_units": 17,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 10,
+      "chapter": 10,
+      "verse_units": 15,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 11,
+      "chapter": 11,
+      "verse_units": 11,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 12,
+      "chapter": 12,
+      "verse_units": 15,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 13,
+      "chapter": 13,
+      "verse_units": 15,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 14,
+      "chapter": 14,
+      "verse_units": 10,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 2974,
+      "chapter": 1,
+      "modified": "2026-10-15T04:18:27",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "56c721983f8a5bd97415d3776c31acf03ef5a41e9b4a6d3f6d10912be8972542"
+    },
+    {
+      "id": 2975,
+      "chapter": 2,
+      "modified": "2026-10-15T04:18:33",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "49b43d1a06146769f03d5d16bd4cc938f6705ac035ed71a2d866b0a5dfa3e468"
+    },
+    {
+      "id": 2976,
+      "chapter": 3,
+      "modified": "2026-10-15T04:18:39",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "70fd5953d0af5f594ab7aff4e84a8ddac5a7f02734564b683ff405c75be4a4ff"
+    },
+    {
+      "id": 2977,
+      "chapter": 4,
+      "modified": "2026-10-15T04:18:45",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "3eefbfa043324280bded1f8c1b7aaf09312466174f774fc74c201ac3f6440e26"
+    },
+    {
+      "id": 2979,
+      "chapter": 5,
+      "modified": "2026-10-15T04:18:52",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "d73860924ec4cde8cb7cb75123a307726eaba7b6eeeaf0bb4afcabc642f645f7"
+    },
+    {
+      "id": 2978,
+      "chapter": 6,
+      "modified": "2026-10-15T04:19:00",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "133c5492fcabf288ab9c4286fa598d3e1fcd5ba9a57c0e566030b1bb4a5c0d90"
+    },
+    {
+      "id": 2981,
+      "chapter": 7,
+      "modified": "2026-10-15T04:19:05",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "669c191074415d7f44a8bc6563153d7e4ce7e2b35c4eb83576f3780804ae7c10"
+    },
+    {
+      "id": 2980,
+      "chapter": 8,
+      "modified": "2026-10-15T04:19:12",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "0dc60325a8e2ffc55503bcfa0305907f2445e62d1ab3287ad27358e34ca27677"
+    },
+    {
+      "id": 2982,
+      "chapter": 9,
+      "modified": "2026-10-15T04:20:48",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "16c8ee1dc98682690fcb6033fec37b4b69b150f7983eb99558b5843e5623b952"
+    },
+    {
+      "id": 2983,
+      "chapter": 10,
+      "modified": "2026-10-15T04:20:53",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "2e886a202d833331ad998574ef5ddde2f7085321287e77e9154b0d1722195626"
+    },
+    {
+      "id": 2984,
+      "chapter": 11,
+      "modified": "2026-10-15T04:20:59",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "a465fa41d5429da815036f80555af2c2c3408c44e7cd783d209790b8ff0b3739"
+    },
+    {
+      "id": 2985,
+      "chapter": 12,
+      "modified": "2026-10-15T04:21:05",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "1988f83233cacf4a6a7bb92321f23c0deb1c6ac5e0e17977fc7ba4a2f6965a45"
+    },
+    {
+      "id": 2986,
+      "chapter": 13,
+      "modified": "2026-10-15T04:21:10",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "1b819fc125c2ac9791836f02ecf12801b1914296aa75d0af4478b3bf23087f95"
+    },
+    {
+      "id": 2987,
+      "chapter": 14,
+      "modified": "2026-10-15T04:21:16",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "3edc23fead59297f27715fc64160005ae9c73d1620d5e8bc4f2682d1ea15e863"
+    },
+    {
+      "id": 2973,
+      "chapter": null,
+      "modified": "2026-10-15T04:21:21",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "f1bd607b4c27e6849b3d8a447ade94ecb2fe2991d24c9fc9fdf9c5184016ebf7"
+    }
+  ],
+  "browser_checks": {
+    "chapters": [
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-2/",
+            "label": "Next chapter, Hosea 2",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/daniel/bel-and-the-dragon/",
+            "text": "← Daniel — Bel and the Dragon"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/",
+            "text": "Hosea: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-2/",
+            "text": "Hosea 2 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/hosea/1/",
+            "text": "All 96 cross-references for Hosea 1, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v1-1",
+            "text": "1:1The word of the Lord that came to Hosea son of Beeri in the days of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah, and in the days of Jeroboam son of Joash, king of Israel."
+          },
+          {
+            "id": "v1-2",
+            "text": "1:2The beginning of the Lord’s word to Hosea. The Lord said to Hosea, “Go, take for yourself a woman of prostitution and children of prostitution, for the land will utterly prostitute itself away from following the Lord.”"
+          },
+          {
+            "id": "v1-3",
+            "text": "1:3He went and took Gomer daughter of Debelaim; she conceived and bore him a son."
+          },
+          {
+            "id": "v1-4",
+            "text": "1:4The Lord said to him, “Call him Jezreel, for in a little while I will avenge Jezreel’s blood upon Jehu’s house and put an end to the kingdom of Israel’s house."
+          },
+          {
+            "id": "v1-5",
+            "text": "1:5On that day I will shatter Israel’s bow in the Valley of Jezreel.”"
+          },
+          {
+            "id": "v1-6",
+            "text": "1:6She conceived again and bore a daughter. He said to him, “Call her Not Shown Mercy, for I will certainly no longer show mercy to Israel’s house, but I will surely set Myself against them."
+          },
+          {
+            "id": "v1-7",
+            "text": "1:7But I will show mercy to Judah’s sons and save them by the Lord their God. I will not save them by bow, sword, war, chariots, horses or horsemen.”"
+          },
+          {
+            "id": "v1-8",
+            "text": "1:8She weaned Not Shown Mercy, conceived again and bore a son."
+          },
+          {
+            "id": "v1-9",
+            "text": "1:9He said, “Call him Not My People, for you are not My people, and I am not yours.”"
+          }
+        ],
+        "chapter": 1,
+        "section": 1,
+        "page_id": 2974,
+        "title": "Hosea 1",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-1/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Hosea 1"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-1/",
+            "label": "Previous chapter, Hosea 1",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-3/",
+            "label": "Next chapter, Hosea 3",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-1/",
+            "text": "← Hosea 1"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/",
+            "text": "Hosea: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-3/",
+            "text": "Hosea 3 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/hosea/2/",
+            "text": "All 457 cross-references for Hosea 2, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v2-1",
+            "text": "2:1The number of Israel’s sons was like the sand of the sea, which will not be measured or counted. In the place where it was said to them, ‘You are not My people,’ there they will be called sons of the living God."
+          },
+          {
+            "id": "v2-2",
+            "text": "2:2Judah’s sons and Israel’s sons will gather together, appoint one authority for themselves and come up from the land, for great is Jezreel’s day."
+          },
+          {
+            "id": "v2-3",
+            "text": "2:3Say to your brother, ‘My People,’ and to your sister, ‘Shown Mercy.’"
+          },
+          {
+            "id": "v2-4",
+            "text": "2:4“Enter into judgment with your mother, enter into judgment! For she is not My wife and I am not her husband. I will remove her prostitution from My face and her adultery from between her breasts,"
+          },
+          {
+            "id": "v2-5",
+            "text": "2:5so that I may strip her naked and restore her as on the day of her birth. I will make her like a wilderness, set her like a waterless land and kill her with thirst."
+          },
+          {
+            "id": "v2-6",
+            "text": "2:6I will certainly show no mercy to her children, for they are children of prostitution."
+          },
+          {
+            "id": "v2-7",
+            "text": "2:7For their mother prostituted herself; she who bore them brought shame. She said, ‘I will follow my lovers, who give me my loaves and water, my garments and linen cloths, my oil and everything due to me.’"
+          },
+          {
+            "id": "v2-8",
+            "text": "2:8Therefore look, I block her way with thorns and will build up her roads, and she will certainly not find her path."
+          },
+          {
+            "id": "v2-9",
+            "text": "2:9She will pursue her lovers but certainly not catch them; she will seek them but certainly not find them. She will say, ‘I will go and return to my former husband, for it was better for me then than now.’"
+          },
+          {
+            "id": "v2-10",
+            "text": "2:10She did not know that it was I who gave her grain, wine and oil and multiplied silver for her; but she made silver and gold objects for Baal."
+          },
+          {
+            "id": "v2-11",
+            "text": "2:11Therefore I will return and recover My grain at its season and My wine at its time; I will take away My garments and linen cloths so that they do not cover her shame."
+          },
+          {
+            "id": "v2-12",
+            "text": "2:12Now I will uncover her uncleanness before her lovers, and certainly no one will deliver her from My hand."
+          },
+          {
+            "id": "v2-13",
+            "text": "2:13I will turn away all her rejoicings, her festivals, new moons and Sabbaths, and all her festal assemblies."
+          },
+          {
+            "id": "v2-14",
+            "text": "2:14I will obliterate her vine and fig trees, of which she said, ‘These are my wages that my lovers gave me.’ I will make them a testimony, and the field’s beasts, heaven’s birds and the earth’s creeping things will devour them.”"
+          },
+          {
+            "id": "v2-15",
+            "text": "2:15“I will exact vengeance upon her for the days of the Baalim, when she sacrificed to them, put on her earrings and necklaces and went after her lovers, but forgot Me,” says the Lord."
+          },
+          {
+            "id": "v2-16",
+            "text": "2:16“Therefore look, I am leading her astray; I will place her in a wilderness and speak to her heart,"
+          },
+          {
+            "id": "v2-17",
+            "text": "2:17and from there I will give her her possessions and the Valley of Achor to open her understanding. There she will be humbled as in the days of her infancy and the days of her ascent from Egypt’s land."
+          },
+          {
+            "id": "v2-18",
+            "text": "2:18On that day,” says the Lord, “she will call Me ‘My Husband’ and no longer call Me ‘Baalim.’"
+          },
+          {
+            "id": "v2-19",
+            "text": "2:19I will remove the names of the Baalim from her mouth, and they will certainly no longer remember their names."
+          },
+          {
+            "id": "v2-20",
+            "text": "2:20On that day I will establish a covenant for them with the field’s beasts, heaven’s birds and the earth’s creeping things. I will shatter bow, sword and war from the land and settle you in hope."
+          },
+          {
+            "id": "v2-21",
+            "text": "2:21I will betroth you to Myself forever; I will betroth you to Myself in righteousness and judgment, in mercy and compassion,"
+          },
+          {
+            "id": "v2-22",
+            "text": "2:22and I will betroth you to Myself in faithfulness, and you will know the Lord."
+          },
+          {
+            "id": "v2-23",
+            "text": "2:23On that day,” says the Lord, “I will listen to heaven, and heaven will listen to the earth,"
+          },
+          {
+            "id": "v2-24",
+            "text": "2:24and the earth will listen to grain, wine and oil, and they will listen to Jezreel."
+          },
+          {
+            "id": "v2-25",
+            "text": "2:25I will sow her for Myself upon the land, show mercy to Not Shown Mercy and say to Not My People, ‘You are My people.’ He will say, ‘Thou art the Lord my God!’”"
+          }
+        ],
+        "chapter": 2,
+        "section": 2,
+        "page_id": 2975,
+        "title": "Hosea 2",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-2/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Hosea 2"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-2/",
+            "label": "Previous chapter, Hosea 2",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-4/",
+            "label": "Next chapter, Hosea 4",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-2/",
+            "text": "← Hosea 2"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/",
+            "text": "Hosea: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-4/",
+            "text": "Hosea 4 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/hosea/3/",
+            "text": "All 103 cross-references for Hosea 3, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v3-1",
+            "text": "3:1The Lord said to me, “Go again and love a woman who loves evil things and is an adulteress, just as God loves Israel’s sons, though they look toward foreign gods and love cakes with raisins.”"
+          },
+          {
+            "id": "v3-2",
+            "text": "3:2I hired her for myself for fifteen pieces of silver, a gomor of barley and a nebel of wine."
+          },
+          {
+            "id": "v3-3",
+            "text": "3:3I said to her, “You will remain with me many days; you must certainly not prostitute yourself or belong to another man, and I toward you.”"
+          },
+          {
+            "id": "v3-4",
+            "text": "3:4For Israel’s sons will remain many days without king or ruler, without sacrifice or altar, without priesthood or manifestations."
+          },
+          {
+            "id": "v3-5",
+            "text": "3:5After these things Israel’s sons will return and seek the Lord their God and David their king; they will be astonished at the Lord and His good things in the last days."
+          }
+        ],
+        "chapter": 3,
+        "section": 3,
+        "page_id": 2976,
+        "title": "Hosea 3",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-3/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Hosea 3"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-3/",
+            "label": "Previous chapter, Hosea 3",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-5/",
+            "label": "Next chapter, Hosea 5",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-3/",
+            "text": "← Hosea 3"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/",
+            "text": "Hosea: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-5/",
+            "text": "Hosea 5 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/hosea/4/",
+            "text": "All 332 cross-references for Hosea 4, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v4-1",
+            "text": "4:1Hear the Lord’s word, sons of Israel, for the Lord has a case against the land’s inhabitants: there is no truth, no mercy and no recognition of God upon the land."
+          },
+          {
+            "id": "v4-2",
+            "text": "4:2Cursing, falsehood, murder, theft and adultery have poured over the land, and they mix bloodshed with bloodshed."
+          },
+          {
+            "id": "v4-3",
+            "text": "4:3Therefore the land will mourn and diminish with all who inhabit it, with the field’s beasts, the earth’s creeping things and heaven’s birds; the sea’s fish will disappear,"
+          },
+          {
+            "id": "v4-4",
+            "text": "4:4so that no one brings a case and no one rebukes; but My people are like a priest being contradicted."
+          },
+          {
+            "id": "v4-5",
+            "text": "4:5You will grow weak by day, and a prophet will also grow weak with you; I likened your mother to night."
+          },
+          {
+            "id": "v4-6",
+            "text": "4:6My people were likened to one without knowledge. Because you thrust away recognition, I too will thrust you away from serving Me as priest. You forgot your God’s law, and I too will forget your children."
+          },
+          {
+            "id": "v4-7",
+            "text": "4:7According to their multitude, so they sinned against Me; I will turn their glory into dishonor."
+          },
+          {
+            "id": "v4-8",
+            "text": "4:8They will eat My people’s sins and take their souls amid their injustices."
+          },
+          {
+            "id": "v4-9",
+            "text": "4:9It will be as with the people, so with the priest; I will exact punishment upon him for his ways and repay him for his schemes."
+          },
+          {
+            "id": "v4-10",
+            "text": "4:10They will eat but certainly not be filled; they prostituted themselves but will certainly not prosper, because they abandoned keeping faith with the Lord."
+          },
+          {
+            "id": "v4-11",
+            "text": "4:11My people’s heart welcomed prostitution, wine and intoxicating drink."
+          },
+          {
+            "id": "v4-12",
+            "text": "4:12They inquired by signs, and by his rods they announced things to him; they were led astray by a spirit of prostitution and prostituted themselves away from their God."
+          },
+          {
+            "id": "v4-13",
+            "text": "4:13On the mountaintops they sacrificed, and on the hills they offered sacrifice, beneath oak, poplar and a tree providing shade, because shelter is good. Therefore your daughters will prostitute themselves and your daughters-in-law commit adultery."
+          },
+          {
+            "id": "v4-14",
+            "text": "4:14I will certainly not call your daughters to account when they prostitute themselves, or your daughters-in-law when they commit adultery, for the men themselves mixed with prostitutes and sacrificed with initiates; the people who understood became entangled with a prostitute."
+          },
+          {
+            "id": "v4-15",
+            "text": "4:15But you, Israel, do not be ignorant; and Judah, do not enter Gilgal or go up to the house of On, and do not swear by the living Lord."
+          },
+          {
+            "id": "v4-16",
+            "text": "4:16For Israel has run wild like a heifer running wild. Now the Lord will pasture them like a lamb in an open place."
+          },
+          {
+            "id": "v4-17",
+            "text": "4:17Ephraim, a partner of idols, set stumbling blocks for himself."
+          },
+          {
+            "id": "v4-18",
+            "text": "4:18He chose Canaanites. They prostituted themselves thoroughly; they loved dishonor arising from their arrogance."
+          },
+          {
+            "id": "v4-19",
+            "text": "4:19You are a whirlwind within its wings, and they will be put to shame because of their altars."
+          }
+        ],
+        "chapter": 4,
+        "section": 4,
+        "page_id": 2977,
+        "title": "Hosea 4",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-4/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Hosea 4"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-4/",
+            "label": "Previous chapter, Hosea 4",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-6/",
+            "label": "Next chapter, Hosea 6",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-4/",
+            "text": "← Hosea 4"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/",
+            "text": "Hosea: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-6/",
+            "text": "Hosea 6 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/hosea/5/",
+            "text": "All 258 cross-references for Hosea 5, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v5-1",
+            "text": "5:1Hear these things, priests; pay attention, house of Israel; listen, house of the king, for the judgment is against you. You became a trap at the lookout and like a net stretched over Itabyrion,"
+          },
+          {
+            "id": "v5-2",
+            "text": "5:2which those hunting game fixed in place. But I am your instructor."
+          },
+          {
+            "id": "v5-3",
+            "text": "5:3I know Ephraim, and Israel is not away from Me; for now Ephraim has prostituted himself and Israel is defiled."
+          },
+          {
+            "id": "v5-4",
+            "text": "5:4They did not direct their schemes toward returning to their God, for a spirit of prostitution is within them, and they did not recognize the Lord."
+          },
+          {
+            "id": "v5-5",
+            "text": "5:5Israel’s arrogance will be humbled before his face. Israel and Ephraim will weaken in their injustices, and Judah too will weaken with them."
+          },
+          {
+            "id": "v5-6",
+            "text": "5:6With sheep and calves they will go to seek the Lord, but they will certainly not find Him, because He turned away from them,"
+          },
+          {
+            "id": "v5-7",
+            "text": "5:7because they abandoned the Lord, because foreign children were born to them. Now blight will devour them and their allotments."
+          },
+          {
+            "id": "v5-8",
+            "text": "5:8Blow a trumpet on the hills; sound out on the heights; proclaim in the house of On! Benjamin was beside himself;"
+          },
+          {
+            "id": "v5-9",
+            "text": "5:9Ephraim was brought to ruin in days of rebuke. Among Israel’s tribes I revealed trustworthy things."
+          },
+          {
+            "id": "v5-10",
+            "text": "5:10Judah’s rulers became like people moving boundaries; upon them I will pour My onrush like water."
+          },
+          {
+            "id": "v5-11",
+            "text": "5:11Ephraim oppressed his adversary and trampled judgment, because he began to follow worthless things."
+          },
+          {
+            "id": "v5-12",
+            "text": "5:12I am like turmoil to Ephraim and like a goad to Judah’s house."
+          },
+          {
+            "id": "v5-13",
+            "text": "5:13Ephraim saw his illness and Judah his pain; Ephraim went to the Assyrians and sent ambassadors to King Jarim. But he could not heal you, and pain will certainly not cease among you."
+          },
+          {
+            "id": "v5-14",
+            "text": "5:14For I am like a panther to Ephraim and like a lion to Judah’s house. I seize and will go away and take, and there will be no one to rescue."
+          },
+          {
+            "id": "v5-15",
+            "text": "5:15I will go and return to My place until they disappear; they will seek My face, and in their affliction they will rise early toward Me, saying,"
+          }
+        ],
+        "chapter": 5,
+        "section": 5,
+        "page_id": 2979,
+        "title": "Hosea 5",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-5/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Hosea 5"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-5/",
+            "label": "Previous chapter, Hosea 5",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-7/",
+            "label": "Next chapter, Hosea 7",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-5/",
+            "text": "← Hosea 5"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/",
+            "text": "Hosea: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-7/",
+            "text": "Hosea 7 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/hosea/6/",
+            "text": "All 196 cross-references for Hosea 6, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v6-1",
+            "text": "6:1“Let us go and return to the Lord our God, because He has seized us and will heal us; He will strike and dress our wounds."
+          },
+          {
+            "id": "v6-2",
+            "text": "6:2He will restore us to health after two days; on the third day we will rise and live before Him."
+          },
+          {
+            "id": "v6-3",
+            "text": "6:3We will know; we will pursue knowledge of the Lord. We will find Him ready like dawn, and He will come to us like rain, early and late upon the land.”"
+          },
+          {
+            "id": "v6-4",
+            "text": "6:4What shall I do with you, Ephraim? What shall I do with you, Judah? Your mercy is like a morning cloud and like morning dew passing away."
+          },
+          {
+            "id": "v6-5",
+            "text": "6:5Therefore I mowed down your prophets; I killed them with the words of My mouth, and My judgment will go forth like light."
+          },
+          {
+            "id": "v6-6",
+            "text": "6:6For I desire mercy, and not sacrifice, and knowledge of God rather than whole burnt offerings."
+          },
+          {
+            "id": "v6-7",
+            "text": "6:7But they are like a person transgressing a covenant; there he despised Me."
+          },
+          {
+            "id": "v6-8",
+            "text": "6:8Gilead is a city working worthless things, stirring up water,"
+          },
+          {
+            "id": "v6-9",
+            "text": "6:9and your strength is that of a pirate. Priests concealed the Lord’s road; they murdered Shechem, because they committed lawlessness."
+          },
+          {
+            "id": "v6-10",
+            "text": "6:10In Israel’s house I saw dreadful things, there Ephraim’s prostitution; Israel and Judah were defiled."
+          },
+          {
+            "id": "v6-11",
+            "text": "6:11Begin harvesting for yourself when I turn back My people’s captivity,"
+          }
+        ],
+        "chapter": 6,
+        "section": 6,
+        "page_id": 2978,
+        "title": "Hosea 6",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-6/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Hosea 6"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-6/",
+            "label": "Previous chapter, Hosea 6",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-8/",
+            "label": "Next chapter, Hosea 8",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-6/",
+            "text": "← Hosea 6"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/",
+            "text": "Hosea: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-8/",
+            "text": "Hosea 8 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/hosea/7/",
+            "text": "All 276 cross-references for Hosea 7, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v7-1",
+            "text": "7:1when I heal Israel. Ephraim’s injustice and Samaria’s wickedness will be uncovered, because they practiced falsehood. A thief will enter upon him, a robber stripping him on his road,"
+          },
+          {
+            "id": "v7-2",
+            "text": "7:2so that they sing together as people singing together with their heart. I remembered all their evils; now their schemes have surrounded them; they have come before My face."
+          },
+          {
+            "id": "v7-3",
+            "text": "7:3With their evils they gladdened kings, and with their falsehoods, rulers."
+          },
+          {
+            "id": "v7-4",
+            "text": "7:4All are adulterers, like an oven burning for the baking of something scorched by flame, from the kneading of fat until it ferments."
+          },
+          {
+            "id": "v7-5",
+            "text": "7:5On your kings’ days the rulers began to rage from wine; he stretched out his hand with pestilent men,"
+          },
+          {
+            "id": "v7-6",
+            "text": "7:6because their hearts were kindled like an oven as they battered people. All night Ephraim was filled with sleep; morning came, and he was kindled like fire’s blaze."
+          },
+          {
+            "id": "v7-7",
+            "text": "7:7All grew hot like an oven and devoured their judges. All their kings fell; there was no one among them calling to Me."
+          },
+          {
+            "id": "v7-8",
+            "text": "7:8Ephraim mingled among his peoples; Ephraim became a cake baked in ashes and not turned."
+          },
+          {
+            "id": "v7-9",
+            "text": "7:9Foreigners devoured his strength, but he did not recognize it; gray hairs blossomed upon him, but he did not know it."
+          },
+          {
+            "id": "v7-10",
+            "text": "7:10Israel’s arrogance will be humbled before his face, yet they did not return to the Lord their God or seek Him in all these things."
+          },
+          {
+            "id": "v7-11",
+            "text": "7:11Ephraim was like a senseless dove without understanding; he called on Egypt, and they went to the Assyrians."
+          },
+          {
+            "id": "v7-12",
+            "text": "7:12Whenever they go, I will cast My net over them; I will bring them down like heaven’s birds. I will discipline them when their affliction is heard."
+          },
+          {
+            "id": "v7-13",
+            "text": "7:13Woe to them, because they sprang away from Me! They are miserable, because they acted impiously toward Me. I redeemed them, but they spoke falsehoods against Me."
+          },
+          {
+            "id": "v7-14",
+            "text": "7:14Their hearts did not cry to Me; they only howled on their beds. They cut themselves over grain and wine. They were disciplined through Me,"
+          },
+          {
+            "id": "v7-15",
+            "text": "7:15and I strengthened their arms, but they devised evil against Me."
+          },
+          {
+            "id": "v7-16",
+            "text": "7:16They turned away toward nothing; they became like a drawn bow. Their rulers will fall by the sword because of their tongues’ lack of discipline. This is their contempt in Egypt’s land."
+          }
+        ],
+        "chapter": 7,
+        "section": 7,
+        "page_id": 2981,
+        "title": "Hosea 7",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-7/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Hosea 7"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-7/",
+            "label": "Previous chapter, Hosea 7",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-9/",
+            "label": "Next chapter, Hosea 9",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-7/",
+            "text": "← Hosea 7"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/",
+            "text": "Hosea: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-9/",
+            "text": "Hosea 9 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/hosea/8/",
+            "text": "All 219 cross-references for Hosea 8, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v8-1",
+            "text": "8:1Into their bosom like earth, like an eagle against the Lord’s house, because they transgressed My covenant and acted impiously against My law."
+          },
+          {
+            "id": "v8-2",
+            "text": "8:2They will cry to Me, ‘God, we know Thee!’"
+          },
+          {
+            "id": "v8-3",
+            "text": "8:3Because Israel turned away good things, they pursued an enemy."
+          },
+          {
+            "id": "v8-4",
+            "text": "8:4They reigned for themselves and not through Me; they ruled and did not make it known to Me. They made their silver and gold into idols for themselves, so that they might be destroyed."
+          },
+          {
+            "id": "v8-5",
+            "text": "8:5Rub away your calf, Samaria! My anger was provoked against them. How long will they be incapable of being cleansed"
+          },
+          {
+            "id": "v8-6",
+            "text": "8:6in Israel? A craftsman made it, and it is no god, because your calf was leading people astray, Samaria."
+          },
+          {
+            "id": "v8-7",
+            "text": "8:7Because they sowed wind-blasted things, their overthrow will receive them: a sheaf without strength to make flour. Even if it does make flour, foreigners will devour it."
+          },
+          {
+            "id": "v8-8",
+            "text": "8:8Israel was swallowed up; now he became among the nations like a useless vessel."
+          },
+          {
+            "id": "v8-9",
+            "text": "8:9Because they went up to the Assyrians; Ephraim flourished by himself, and they loved gifts."
+          },
+          {
+            "id": "v8-10",
+            "text": "8:10Therefore they will be handed over among the nations. Now I will receive them, and they will pause a little from anointing a king and rulers."
+          },
+          {
+            "id": "v8-11",
+            "text": "8:11Because Ephraim multiplied altars, beloved altars became occasions of sin for him."
+          },
+          {
+            "id": "v8-12",
+            "text": "8:12I will write down for him a multitude and his ordinances; the beloved altars were reckoned as foreign things."
+          },
+          {
+            "id": "v8-13",
+            "text": "8:13Because even if they offer a sacrifice and eat meat, the Lord will not accept them. Now He will remember their injustices and punish their sins. They returned to Egypt and will eat unclean things among the Assyrians."
+          },
+          {
+            "id": "v8-14",
+            "text": "8:14Israel forgot his Maker, and they built sacred precincts; Judah multiplied walled cities. I will send fire into his cities, and it will devour their foundations."
+          }
+        ],
+        "chapter": 8,
+        "section": 8,
+        "page_id": 2980,
+        "title": "Hosea 8",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-8/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Hosea 8"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-8/",
+            "label": "Previous chapter, Hosea 8",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-10/",
+            "label": "Next chapter, Hosea 10",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-8/",
+            "text": "← Hosea 8"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/",
+            "text": "Hosea: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-10/",
+            "text": "Hosea 10 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/hosea/9/",
+            "text": "All 319 cross-references for Hosea 9, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v9-1",
+            "text": "9:1Do not rejoice, Israel, or be glad like the peoples, because you prostituted yourself away from your God; you loved gifts on every threshing floor of grain."
+          },
+          {
+            "id": "v9-2",
+            "text": "9:2Threshing floor and winepress did not know them, and wine deceived them."
+          },
+          {
+            "id": "v9-3",
+            "text": "9:3They did not dwell in the Lord’s land; Ephraim dwelt in Egypt, and among the Assyrians they will eat unclean things."
+          },
+          {
+            "id": "v9-4",
+            "text": "9:4They did not pour wine to the Lord or make it pleasant to Him. Their sacrifices are like bread of mourning to them; all who eat them will be defiled, because their loaves for their own lives will not enter the Lord’s house."
+          },
+          {
+            "id": "v9-5",
+            "text": "9:5What will you do on a day of assembly and on the day of the Lord’s festival?"
+          },
+          {
+            "id": "v9-6",
+            "text": "9:6Therefore look, they will go away from Egypt’s misery; Memphis will receive them, and Machmas will bury them. Destruction will inherit their silver; thorns will be in their dwellings."
+          },
+          {
+            "id": "v9-7",
+            "text": "9:7The days of vengeance have come; the days of your repayment have come. Israel will be afflicted like the deranged prophet, a spirit-bearing man. Because your injustices were many, your madness increased."
+          },
+          {
+            "id": "v9-8",
+            "text": "9:8Ephraim’s watchman is with God; a prophet, a crooked trap upon all his ways. They fixed madness in the Lord’s house."
+          },
+          {
+            "id": "v9-9",
+            "text": "9:9They were corrupted as in the hill’s days. He will remember his injustices; He will punish his sins."
+          },
+          {
+            "id": "v9-10",
+            "text": "9:10Like a cluster of grapes in a wilderness I found Israel, and like an early lookout in a fig tree I saw their fathers. They went to Beel-phegor and became estranged into shame, and the beloved became like the detested."
+          },
+          {
+            "id": "v9-11",
+            "text": "9:11Ephraim flew away like a bird; their glories are from births, labor pains and conceptions,"
+          },
+          {
+            "id": "v9-12",
+            "text": "9:12because even if they rear their children, they will be bereaved among humankind. Indeed, woe is upon them: My flesh is from them."
+          },
+          {
+            "id": "v9-13",
+            "text": "9:13Ephraim, as I saw them, presented their children for a hunt; and Ephraim must bring his children out to piercing."
+          },
+          {
+            "id": "v9-14",
+            "text": "9:14Give them, Lord—what wilt Thou give them? Give them a childless womb and dry breasts."
+          },
+          {
+            "id": "v9-15",
+            "text": "9:15All their evils are at Gilgal, because there I hated them. Because of their wicked practices I will expel them from My house. I will certainly love them no longer; all their rulers are disobedient."
+          },
+          {
+            "id": "v9-16",
+            "text": "9:16Ephraim suffered; he dried up at his roots; he will certainly bear fruit no longer. Even if they give birth, I will kill the desired offspring of their womb."
+          },
+          {
+            "id": "v9-17",
+            "text": "9:17God will thrust them away because they did not listen to Him, and they will be wanderers among the nations."
+          }
+        ],
+        "chapter": 9,
+        "section": 9,
+        "page_id": 2982,
+        "title": "Hosea 9",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-9/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Hosea 9"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-9/",
+            "label": "Previous chapter, Hosea 9",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-11/",
+            "label": "Next chapter, Hosea 11",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-9/",
+            "text": "← Hosea 9"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/",
+            "text": "Hosea: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-11/",
+            "text": "Hosea 11 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/hosea/10/",
+            "text": "All 229 cross-references for Hosea 10, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v10-1",
+            "text": "10:1Israel is a vine with luxuriant branches, its fruit thriving. According to the abundance of his fruits he multiplied altars; according to his land’s good things he built pillars."
+          },
+          {
+            "id": "v10-2",
+            "text": "10:2They divided their hearts; now they will disappear. He will demolish their altars, and their pillars will suffer devastation."
+          },
+          {
+            "id": "v10-3",
+            "text": "10:3Because now they will say, ‘We have no king, because we did not fear the Lord; and the king—what will he do for us?’"
+          },
+          {
+            "id": "v10-4",
+            "text": "10:4Speaking words, false pretexts, he will make a covenant; judgment will spring up like wild grass on the field’s fallow ground."
+          },
+          {
+            "id": "v10-5",
+            "text": "10:5Samaria’s inhabitants will dwell beside the calf of the house of On, because its people mourned over it; just as they embittered it, they will rejoice over its glory, because it was deported from it."
+          },
+          {
+            "id": "v10-6",
+            "text": "10:6They bound it and carried it to the Assyrians as guest-gifts for King Jarim. He will receive Ephraim as a gift, and Israel will be ashamed of his counsel."
+          },
+          {
+            "id": "v10-7",
+            "text": "10:7Samaria cast off her king like a twig on the water’s surface."
+          },
+          {
+            "id": "v10-8",
+            "text": "10:8The shrines of On, Israel’s sins, will be removed; thorns and thistles will grow on their altars. They will say to the mountains, ‘Cover us!’ and to the hills, ‘Fall upon us!’"
+          },
+          {
+            "id": "v10-9",
+            "text": "10:9From when the hills existed, Israel sinned; there they stood. Will war against the children of injustice certainly not overtake them on the hill?"
+          },
+          {
+            "id": "v10-10",
+            "text": "10:10He came to discipline them, and peoples will gather against them when they are disciplined for their two injustices."
+          },
+          {
+            "id": "v10-11",
+            "text": "10:11Ephraim is a heifer trained to love strife, but I will come upon the finest part of her neck. I will mount Ephraim and pass over Judah in silence; Jacob will strengthen him."
+          },
+          {
+            "id": "v10-12",
+            "text": "10:12Sow for yourselves in righteousness; reap life’s fruit. Shine a light of knowledge for yourselves; seek the Lord until produce of righteousness comes to you."
+          },
+          {
+            "id": "v10-13",
+            "text": "10:13Why did you pass over impiety in silence and reap its injustices, eating false fruit? Because you hoped in your chariots, in the multitude of your force."
+          },
+          {
+            "id": "v10-14",
+            "text": "10:14Destruction will arise among your people, and all your walled places will vanish. As the ruler Salaman from the house of Jerobaal, in days of war they dashed a mother to the ground upon children."
+          },
+          {
+            "id": "v10-15",
+            "text": "10:15So I will do to you, house of Israel, because of your evils. At dawn they were cast off; Israel’s king was cast off."
+          }
+        ],
+        "chapter": 10,
+        "section": 10,
+        "page_id": 2983,
+        "title": "Hosea 10",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-10/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Hosea 10"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-10/",
+            "label": "Previous chapter, Hosea 10",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-12/",
+            "label": "Next chapter, Hosea 12",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-10/",
+            "text": "← Hosea 10"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/",
+            "text": "Hosea: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-12/",
+            "text": "Hosea 12 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/hosea/11/",
+            "text": "All 207 cross-references for Hosea 11, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v11-1",
+            "text": "11:1Because Israel was an infant, I loved him, and out of Egypt I summoned his children."
+          },
+          {
+            "id": "v11-2",
+            "text": "11:2As I summoned them, so they departed from My presence; they sacrificed to the Baalim and burned incense to carved images."
+          },
+          {
+            "id": "v11-3",
+            "text": "11:3I bound Ephraim’s feet together; I took him up on My arm, but they did not know that I have healed them."
+          },
+          {
+            "id": "v11-4",
+            "text": "11:4Amid human destruction I stretched them out in bonds of My love. I will be to them like a man slapping his cheeks; I will look toward him and be able to act for him."
+          },
+          {
+            "id": "v11-5",
+            "text": "11:5Ephraim dwelt in Egypt, and Assur himself was his king, because he did not wish to return."
+          },
+          {
+            "id": "v11-6",
+            "text": "11:6A sword grew weak in his cities and ceased in his hands, and they will eat from their schemes."
+          },
+          {
+            "id": "v11-7",
+            "text": "11:7His people hang suspended from his dwelling, and God will be angry at his precious things and will certainly not exalt him."
+          },
+          {
+            "id": "v11-8",
+            "text": "11:8How shall I deal with you, Ephraim? Shall I shield you, Israel? How shall I deal with you? Shall I make you like Adama and like Seboim? My heart turned within itself; My change of mind was stirred together."
+          },
+          {
+            "id": "v11-9",
+            "text": "11:9I will certainly not act according to My furious anger; I will certainly not abandon Ephraim to be erased. For I am God and not a human being, holy within you, and I will not enter a city."
+          },
+          {
+            "id": "v11-10",
+            "text": "11:10I will walk after the Lord. He will roar like a lion, because He Himself will howl, and children of waters will be astonished."
+          },
+          {
+            "id": "v11-11",
+            "text": "11:11They will be astonished like a bird from Egypt and like a dove from the Assyrians’ land, and I will restore them to their houses, says the Lord."
+          }
+        ],
+        "chapter": 11,
+        "section": 11,
+        "page_id": 2984,
+        "title": "Hosea 11",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-11/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Hosea 11"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-11/",
+            "label": "Previous chapter, Hosea 11",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-13/",
+            "label": "Next chapter, Hosea 13",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-11/",
+            "text": "← Hosea 11"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/",
+            "text": "Hosea: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-13/",
+            "text": "Hosea 13 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/hosea/12/",
+            "text": "All 231 cross-references for Hosea 12, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v12-1",
+            "text": "12:1Ephraim surrounded Me with falsehood, and Israel’s house and Judah with impieties. Now God knew them, and he will be called God’s holy people."
+          },
+          {
+            "id": "v12-2",
+            "text": "12:2But Ephraim is an evil spirit; he pursued scorching heat all day, multiplied empty and worthless things, made a covenant with the Assyrians, and traded oil into Egypt."
+          },
+          {
+            "id": "v12-3",
+            "text": "12:3The Lord has a case against Judah, to exact punishment on Jacob according to his ways; He will repay him according to his practices."
+          },
+          {
+            "id": "v12-4",
+            "text": "12:4In the womb he tripped up his brother, and in his labors he prevailed against God"
+          },
+          {
+            "id": "v12-5",
+            "text": "12:5and prevailed with an angel and was able. They wept and entreated Me; in the house of On they found Me, and there he was spoken to."
+          },
+          {
+            "id": "v12-6",
+            "text": "12:6The Lord God Almighty will be his memorial."
+          },
+          {
+            "id": "v12-7",
+            "text": "12:7You will return in your God; keep mercy and judgment, and draw near to your God continually."
+          },
+          {
+            "id": "v12-8",
+            "text": "12:8Canaan—in his hand is a balance of injustice; he loved to dominate."
+          },
+          {
+            "id": "v12-9",
+            "text": "12:9Ephraim said, ‘Indeed I have become rich; I have found refreshment for myself.’ All his labors will not be found for him because of the injustices in which he sinned."
+          },
+          {
+            "id": "v12-10",
+            "text": "12:10But I, the Lord your God, brought you up from Egypt’s land; I will still settle you in tents as on a festival day."
+          },
+          {
+            "id": "v12-11",
+            "text": "12:11I will speak to prophets; I multiplied visions and was represented in likenesses through prophets."
+          },
+          {
+            "id": "v12-12",
+            "text": "12:12If Gilead does not exist—then the rulers sacrificing at Gilgal were false, and their altars are like tortoises upon the field’s fallow ground."
+          },
+          {
+            "id": "v12-13",
+            "text": "12:13Jacob withdrew to Syria’s plain; Israel served for a wife, and for a wife he kept guard."
+          },
+          {
+            "id": "v12-14",
+            "text": "12:14Through a prophet the Lord brought Israel up from Egypt, and through a prophet he was preserved."
+          },
+          {
+            "id": "v12-15",
+            "text": "12:15Ephraim provoked anger and exasperation; his blood will be poured upon him, and the Lord will repay him for his reproach."
+          }
+        ],
+        "chapter": 12,
+        "section": 12,
+        "page_id": 2985,
+        "title": "Hosea 12",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-12/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Hosea 12"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-12/",
+            "label": "Previous chapter, Hosea 12",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-14/",
+            "label": "Next chapter, Hosea 14",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-12/",
+            "text": "← Hosea 12"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/",
+            "text": "Hosea: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-14/",
+            "text": "Hosea 14 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/hosea/13/",
+            "text": "All 227 cross-references for Hosea 13, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v13-1",
+            "text": "13:1According to Ephraim’s word, he received ordinances in Israel, assigned them to Baal and died."
+          },
+          {
+            "id": "v13-2",
+            "text": "13:2He still continued to sin, and they made themselves a cast image from their silver according to the likeness of idols, works completed for them by craftsmen. They say, ‘Sacrifice human beings, for calves have run out!’"
+          },
+          {
+            "id": "v13-3",
+            "text": "13:3Therefore they will be like a morning cloud and like morning dew passing away, like chaff blown from a threshing floor and like vapor from locusts."
+          },
+          {
+            "id": "v13-4",
+            "text": "13:4But I am the Lord your God, who establishes heaven and creates earth, whose hands created all heaven’s host. I did not display them to you so that you should follow them. I brought you up from Egypt’s land; you shall know no god except Me, and there is none who saves apart from Me."
+          },
+          {
+            "id": "v13-5",
+            "text": "13:5I shepherded you in the wilderness, in an uninhabited land,"
+          },
+          {
+            "id": "v13-6",
+            "text": "13:6according to their pastures. They were filled to fullness, and their hearts were lifted up; for this reason they forgot Me."
+          },
+          {
+            "id": "v13-7",
+            "text": "13:7I will be like a panther to them and like a leopard along the Assyrians’ road."
+          },
+          {
+            "id": "v13-8",
+            "text": "13:8I will meet them like a bear in distress and tear open their heart’s enclosure. There forest lion cubs will devour them; field beasts will tear them apart."
+          },
+          {
+            "id": "v13-9",
+            "text": "13:9In your destruction, Israel, who will help?"
+          },
+          {
+            "id": "v13-10",
+            "text": "13:10Where is this king of yours? Let him save you in all your cities; let him judge you, the one of whom you said, ‘Give me a king and a ruler.’"
+          },
+          {
+            "id": "v13-11",
+            "text": "13:11I gave you a king in My anger, and in My fury I held"
+          },
+          {
+            "id": "v13-12",
+            "text": "13:12a bundle of injustice. Ephraim—his sin is hidden."
+          },
+          {
+            "id": "v13-13",
+            "text": "13:13Pangs like those of a woman giving birth will come upon him. This son of yours is not prudent, because he will certainly not endure amid the crushing of children."
+          },
+          {
+            "id": "v13-14",
+            "text": "13:14I will rescue them from Hades’ hand and redeem them from death. Where is your punishment, Death? Where is your sting, Hades? Consolation is hidden from My eyes."
+          },
+          {
+            "id": "v13-15",
+            "text": "13:15Because this one will make a division among brothers. The Lord will bring a scorching wind from the wilderness upon him and dry up his channels and desolate his springs; it will dry his land and all his desirable vessels."
+          }
+        ],
+        "chapter": 13,
+        "section": 13,
+        "page_id": 2986,
+        "title": "Hosea 13",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-13/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Hosea 13"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-13/",
+            "label": "Previous chapter, Hosea 13",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-1/",
+            "label": "Next chapter, Joel 1",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-13/",
+            "text": "← Hosea 13"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/",
+            "text": "Hosea: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/joel/chapter-1/",
+            "text": "Joel 1 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/hosea/14/",
+            "text": "All 236 cross-references for Hosea 14, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v14-1",
+            "text": "14:1Samaria will disappear because she opposed her God. They will fall by the sword; their nursing infants will be dashed to the ground, and their pregnant women will be ripped open."
+          },
+          {
+            "id": "v14-2",
+            "text": "14:2Return, Israel, to the Lord your God, because you grew weak in your injustices."
+          },
+          {
+            "id": "v14-3",
+            "text": "14:3Take words with you and return to the Lord your God. Speak to Him so that you do not receive injustice but receive good things, and we will repay the fruit of our lips."
+          },
+          {
+            "id": "v14-4",
+            "text": "14:4Assur will certainly not save us; we will not mount a horse, and we will certainly no longer call the works of our hands “Our gods.” The One in you will have mercy on an orphan."
+          },
+          {
+            "id": "v14-5",
+            "text": "14:5I will heal their dwellings; I will love them openly, because My anger turned away from them."
+          },
+          {
+            "id": "v14-6",
+            "text": "14:6I will be like dew to Israel; he will blossom like a lily and put down his roots like Lebanon."
+          },
+          {
+            "id": "v14-7",
+            "text": "14:7His branches will spread, and he will be like an olive tree laden with fruit; his fragrance will be like Lebanon."
+          },
+          {
+            "id": "v14-8",
+            "text": "14:8They will return and settle beneath his shelter; they will live and be filled to intoxication with grain. His memorial will blossom like a vine, like Lebanon’s wine."
+          },
+          {
+            "id": "v14-9",
+            "text": "14:9As for Ephraim, what has he still to do with idols? I humbled him, and I will strengthen him. I am like a thickly shading juniper; from Me your fruit is found."
+          },
+          {
+            "id": "v14-10",
+            "text": "14:10Who is wise and will understand these things, or discerning and will recognize them? For the Lord’s ways are straight; the righteous will walk in them, but the impious will grow weak in them."
+          }
+        ],
+        "chapter": 14,
+        "section": 14,
+        "page_id": 2987,
+        "title": "Hosea 14",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-14/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Hosea 14"
+      }
+    ],
+    "index": {
+      "links": [
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-1/",
+          "text": "Chapters 1–3Hosea’s marriage as a sign"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-4/",
+          "text": "Chapters 4–10Israel’s unfaithfulness"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-11/",
+          "text": "Chapters 11–14God’s unfailing love and restoration"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-2/#v2-19",
+          "text": "Hosea 2:19"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-6/#v6-6",
+          "text": "Hosea 6:6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-11/#v11-1",
+          "text": "Hosea 11:1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/study/",
+          "text": "Open the Hosea study edition →"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/#saints-ref-1-1",
+          "text": "[1]"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/#",
+          "text": "Suggest a correction"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-1/",
+          "text": "Begin reading →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-1/",
+          "text": "1Hosea 1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-2/",
+          "text": "2Hosea 2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-3/",
+          "text": "3Hosea 3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-4/",
+          "text": "4Hosea 4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-5/",
+          "text": "5Hosea 5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-6/",
+          "text": "6Hosea 6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-7/",
+          "text": "7Hosea 7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-8/",
+          "text": "8Hosea 8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-9/",
+          "text": "9Hosea 9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-10/",
+          "text": "10Hosea 10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-11/",
+          "text": "11Hosea 11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-12/",
+          "text": "12Hosea 12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-13/",
+          "text": "13Hosea 13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-14/",
+          "text": "14Hosea 14"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/2/",
+          "text": "Begin comparing →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/2/",
+          "text": "1Chapter 1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/3/",
+          "text": "2Chapter 2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/4/",
+          "text": "3Chapter 3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/5/",
+          "text": "4Chapter 4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/6/",
+          "text": "5Chapter 5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/7/",
+          "text": "6Chapter 6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/8/",
+          "text": "7Chapter 7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/9/",
+          "text": "8Chapter 8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/10/",
+          "text": "9Chapter 9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/11/",
+          "text": "10Chapter 10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/12/",
+          "text": "11Chapter 11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/13/",
+          "text": "12Chapter 12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/14/",
+          "text": "13Chapter 13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/15/",
+          "text": "14Chapter 14"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/",
+          "text": "Jewish–Hebrew Masoretic TextCompared with the Saints TranslationOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/vulgate-comparison/",
+          "text": "Catholic Latin VulgateCompared with the Saints TranslationOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/kjv-comparison/",
+          "text": "Protestant King James BibleCompared with the Saints TranslationOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/kjv-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/kjv-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/kjv-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/kjv-comparison/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/kjv-comparison/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/kjv-comparison/7/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/kjv-comparison/8/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/kjv-comparison/9/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/kjv-comparison/10/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/kjv-comparison/11/",
+          "text": "10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/kjv-comparison/12/",
+          "text": "11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/kjv-comparison/13/",
+          "text": "12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/kjv-comparison/14/",
+          "text": "13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/kjv-comparison/15/",
+          "text": "14"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/7/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/8/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/9/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/10/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/11/",
+          "text": "10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/12/",
+          "text": "11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/13/",
+          "text": "12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/14/",
+          "text": "13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/15/",
+          "text": "14"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/vulgate-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/vulgate-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/vulgate-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/vulgate-comparison/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/vulgate-comparison/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/vulgate-comparison/7/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/vulgate-comparison/8/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/vulgate-comparison/9/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/vulgate-comparison/10/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/vulgate-comparison/11/",
+          "text": "10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/vulgate-comparison/12/",
+          "text": "11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/vulgate-comparison/13/",
+          "text": "12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/vulgate-comparison/14/",
+          "text": "13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/vulgate-comparison/15/",
+          "text": "14"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-1/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-2/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-3/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-4/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-5/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-6/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-7/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-8/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-9/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-10/",
+          "text": "10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-11/",
+          "text": "11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-12/",
+          "text": "12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-13/",
+          "text": "13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-14/",
+          "text": "14"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/editorial-guide/",
+          "text": "Read the editorial guide"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/disparate-study/",
+          "text": "Hosea — Disparate Study"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/disparate-studies/",
+          "text": "Explore the Providence study guide →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-1/",
+          "text": "Chapters 1–3Hosea’s marriage as a sign"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-4/",
+          "text": "Chapters 4–10Israel’s unfaithfulness"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-11/",
+          "text": "Chapters 11–14God’s unfailing love and restoration"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-2/#v2-19",
+          "text": "Hosea 2:19"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-6/#v6-6",
+          "text": "Hosea 6:6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-11/#v11-1",
+          "text": "Hosea 11:1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/study/",
+          "text": "Open the Hosea study edition →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/editorial-guide/",
+          "text": "Read the editorial guide"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/disparate-study/",
+          "text": "Hosea — Disparate Study"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/disparate-studies/",
+          "text": "Explore the Providence study guide →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/#saints-ref-1-cite-1",
+          "text": "↑"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        }
+      ],
+      "text": "Hosea\n\nBespoke Saints English Translation · 14 chapters · Provisional editorial edition · 15 October 2026\n\nDraft for review. Only editors can see this introduction. Approve all introductions under Settings → Saints Study.\n\nINTRODUCTION\n\nIntroducing Hosea\n\nHosea portrays God’s faithful love for an unfaithful Israel through the prophet’s own troubled marriage. It holds together stern judgement and tender compassion.\n\nSETTING\nHosea preached in the northern kingdom of Israel in its last decades before the Assyrian conquest, amid idolatry and political turmoil.\nAUTHOR\nTraditionally attributed to Hosea son of Beeri; scholars generally accept a core from him with some later Judean editing.\nDATE\nHosea’s ministry c. 750–722 BC.\nOutline\nChapters 1–3\nHosea’s marriage as a sign\nChapters 4–10\nIsrael’s unfaithfulness\nChapters 11–14\nGod’s unfailing love and restoration\nKey passages\nHosea 2:19 — Betrothed for ever\nHosea 6:6 — Mercy, not sacrifice\nHosea 11:1 — Out of Egypt I called my son\nThemes\nCovenant as marriage\nIdolatry as unfaithfulness\nSteadfast love (hesed)\nRepentance and healing\nRead in the light of Christ\n\nMatthew applies ‘out of Egypt I called my son’ to Christ, and Jesus himself quoted ‘mercy, not sacrifice’; the Fathers read the faithful husband as Christ, bridegroom of the Church.\n\nOpen the Hosea study edition →\n\nIntroduction by Saints.Bible · CC BY-SA 4.0[1] · Suggest a correction\n\nFind a chapter\n\n28 links. Choose a section to browse.\n\nREAD\nHosea · Reading\n14 chapters\nBegin reading →\n1\nHosea 1\n2\nHosea 2\n3\nHosea 3\n4\nHosea 4\n5\nHosea 5\n6\nHosea 6\n7\nHosea 7\n8\nHosea 8\n9\nHosea 9\n10\nHosea 10\n11\nHosea 11\n12\nHosea 12\n13\nHosea 13\n14\nHosea 14\nSTUDY\nHosea · Comparisons\n14 chapters and study sections\n\nCompare Hosea with the Saints Translation\n\nJewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison\nCatholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison\nProtestant King James Bible\nCompared with the Saints Translation\nOpen comparison\n\nGO STRAIGHT TO A CHAPTER\n\nKJV & Greek\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\nHebrew & Greek\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\nLatin Vulgate\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\nSaints Translation: sources and study approach\nEditorial guide\n\nRead the editorial guide\n\nCurrent Bespoke editorial guide\n\nAll 14 chapters, comprising 197 existing verse units, have received the Bespoke English editorial pass: 67 revised and 130 retained. Source-specific numbering, names, repetitions and verse anchors are preserved. The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.\n\nRahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending. All English verse units were individually reviewed, and the full displayed Greek running text was read chapter by chapter with focused comparison of the recorded features. This does not constitute exhaustive critical-text verification.\n\nThe newer Bespoke PDF governs this reading edition. Saints Translation literal-smooth and all comparison/study streams remain separate and unchanged. Notes are separated from Scripture. Earlier source and wording notes are historical records and may quote superseded wording or pronouns; the dated current Bespoke notes explain this revision. The earlier editorial guide remains linked as a historical reference and does not override the newer PDF.\n\nThe existing Greek-based numbering and verse gaps remain intact. Difficult readings, source-specific dates, figures, names and repetitions have not been harmonized to familiar English versions. The nine-verse opening chapter, the full creation passage at 13:4 and all Greek-specific chapter boundaries remain intact. Unresolved syntax, imagery and speaker/addressee questions are separately queued for specialist review. Historical lexical and comparative notes, footnote anchors, images and navigation are preserved.\n\nHosea — Disparate Study\n\nRead all 40 classified Disparate entries with complete Hebrew–English and Greek–English readings, Jewish and Christian interpretation, and qualified explanations of their differences.\n\nExplore the Providence study guide →\n\nExplore links from this page\nScripture\nFootnotes\n↑CC BY-SA 4.0 — creativecommons.org",
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/",
+      "all_14_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "Whitespace and WordPress apostrophe typography only; visible verse numbers and preserved trailing footnote callouts excluded.",
+    "chapter_navigation": [
+      {
+        "text": "Hosea 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-1/"
+      },
+      {
+        "text": "Hosea 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-2/"
+      },
+      {
+        "text": "Hosea 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-3/"
+      },
+      {
+        "text": "Hosea 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-4/"
+      },
+      {
+        "text": "Hosea 5",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-5/"
+      },
+      {
+        "text": "Hosea 6",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-6/"
+      },
+      {
+        "text": "Hosea 7",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-7/"
+      },
+      {
+        "text": "Hosea 8",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-8/"
+      },
+      {
+        "text": "Hosea 9",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-9/"
+      },
+      {
+        "text": "Hosea 10",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-10/"
+      },
+      {
+        "text": "Hosea 11",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-11/"
+      },
+      {
+        "text": "Hosea 12",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-12/"
+      },
+      {
+        "text": "Hosea 13",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-13/"
+      },
+      {
+        "text": "Hosea 14",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/chapter-14/"
+      }
+    ],
+    "visual_capture": "Screenshots of saved Hosea chapters 2 and 14 were captured and visually inspected. Every reading page received rendered DOM text and navigation checks; visual inspection of all 14 chapters is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 23753,
+      "title": "Hosea — Study Edition",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/study/",
+      "before_content_hash": "150a30a142077d5555be369de9ef1d63105a2e83",
+      "after_content_hash": "150a30a142077d5555be369de9ef1d63105a2e83",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20732,
+      "title": "Hosea — King James Bible and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/kjv-comparison/",
+      "before_content_hash": "38153a3651d6b02f10ef663d0d13cb2477bf0a5b",
+      "after_content_hash": "38153a3651d6b02f10ef663d0d13cb2477bf0a5b",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20731,
+      "title": "Hosea — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/vulgate-comparison/",
+      "before_content_hash": "a639a5e10640337c9dc0fc19c48aa330992a6e87",
+      "after_content_hash": "a639a5e10640337c9dc0fc19c48aa330992a6e87",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 18667,
+      "title": "Hosea — Disparate Study",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/disparate-study/",
+      "before_content_hash": "617ecf257c0c2eb691a772b5fd6d5343fc49742a",
+      "after_content_hash": "617ecf257c0c2eb691a772b5fd6d5343fc49742a",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3794,
+      "title": "Hosea — Hebrew and Greek compared",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/comparison-edition/",
+      "before_content_hash": "58bcdb3c9d00703a595d459859fd38bb9e6cd518",
+      "after_content_hash": "58bcdb3c9d00703a595d459859fd38bb9e6cd518",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 2988,
+      "title": "Hosea — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/hosea/editorial-guide/",
+      "before_content_hash": "4c0437828f5966afe92469c69d5d30c9cdf0bf36",
+      "after_content_hash": "4c0437828f5966afe92469c69d5d30c9cdf0bf36",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 197,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 15 edited pages and all 6 reference pages, plus 6 reference hash snapshots. This is a book archive, not a full-site backup."
+}
