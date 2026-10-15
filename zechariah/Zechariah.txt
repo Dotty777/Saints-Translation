@@ -1,0 +1,258 @@
+ZECHARIAH — BESPOKE SAINTS ENGLISH TRANSLATION
+15 October 2026
+Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.
+Plain text Scripture only. Separated editorial notes and unresolved readings are in editorial-notes.json, source-checks.json and the HTML reader.
+
+
+ZECHARIAH 1
+
+1:1 In the eighth month of the second year under Darius, the word of the Lord came to Zechariah, Berechiah’s son, son of Addo, the prophet, saying:
+1:2 “The Lord was angry with your fathers with great anger.
+1:3 You shall say to them: Thus says the Lord Almighty: Return to Me, and I will return to you, says the Lord.
+1:4 Do not become like your fathers, against whom the former prophets brought charges, saying, ‘Thus says the Lord Almighty: Turn away from your evil ways and your evil practices.’ But they did not listen attentively to Me, says the Lord.
+1:5 Your fathers—where are they? And the prophets—surely they will not live forever?
+1:6 Yet receive My words and My ordinances, all that I, in My Spirit, command My servants the prophets, who overtook your fathers.” And they answered and said, “As the Lord Almighty has arrayed Himself to act according to your ways and practices, so He acted toward you.”
+1:7 On the twenty-fourth day of the eleventh month—which is the month Sabat—in the second year under Darius, the word of the Lord came to Zechariah, Berechiah’s son, son of Addo, the prophet, saying:
+1:8 I saw in the night: look, a man mounted on a flame-red horse! He stood between the two shaded mountains, and behind him were flame-red, gray, dappled and white horses.
+1:9 I said, “What are these, lord?” The angel speaking within me said to me, “I will show you what these are.”
+1:10 The man standing between the mountains answered and said to me, “These are the ones the Lord has sent out to travel around the earth.”
+1:11 They answered the angel of the Lord standing between the mountains, “We have traveled around all the earth, and look, all the earth is inhabited and quiet.”
+1:12 The angel of the Lord answered, “Lord Almighty, how long wilt Thou refuse mercy to Jerusalem and Judah’s cities, which Thou hast overlooked this seventieth year?”
+1:13 The Lord Almighty answered the angel speaking within me with good words and comforting speeches.
+1:14 The angel speaking within me said to me, “Cry out: Thus says the Lord Almighty: I have been jealous for Jerusalem and Zion with great jealousy,
+1:15 and I am angry with great anger at the nations joining in assault, because I was a little angry, but they joined in attacking to bring evils.
+1:16 Therefore thus says the Lord: I will return to Jerusalem in compassion, and My house will be rebuilt in her, says the Lord Almighty, and a measure will again be extended over Jerusalem.”
+1:17 The angel speaking within me said to me, “Cry out: Thus says the Lord Almighty: Cities will again overflow with good things; the Lord will again have mercy on Zion and again choose Jerusalem.”
+
+ZECHARIAH 2
+
+2:1 I lifted my eyes and saw: look, four horns!
+2:2 I said to the angel speaking within me, “What are these, lord?” He said to me, “These are the horns that scattered Judah and Israel.”
+2:3 The Lord showed me four craftsmen.
+2:4 I said, “What are these coming to do?” He said to me, “These horns that scattered Judah also shattered Israel, and none of them lifted a head. These entered to sharpen them for their hands—the four horns, the nations lifting a horn against the Lord’s land to scatter it.”
+2:5 I lifted my eyes and saw: look, a man with a land-measuring cord in his hand!
+2:6 I said to him, “Where are you going?” He said to me, “To measure Jerusalem, to see how wide it is and how long.”
+2:7 Look, the angel speaking within me was standing, and another angel was going out to meet him,
+2:8 and said to him, “Run and speak to that young man: Jerusalem will be inhabited fruitfully because of the multitude of people and animals within her.
+2:9 I will be a wall of fire around her, says the Lord, and I will be glory within her.”
+2:10 “Oh! Oh! Flee from the northern land,” says the Lord, “because I will gather you from the four winds of heaven,” says the Lord.
+2:11 Escape safely to Zion, you who dwell in daughter Babylon!
+2:12 For thus says the Lord Almighty: “After glory He has sent me against the nations that plundered you, for whoever touches you is like one touching the pupil of his eye.
+2:13 Look, I am bringing My hand against them, and they will become spoils for those serving them; you will know that the Lord Almighty has sent me.”
+2:14 “Delight and rejoice, daughter Zion, for look, I am coming and will dwell within you,” says the Lord.
+2:15 Many nations will take refuge with the Lord on that day and become His people. They will dwell within you, and you will recognize that the Lord Almighty has sent me to you.
+2:16 The Lord will inherit Judah as His portion on the holy land and again choose Jerusalem.
+2:17 Let all flesh be reverent before the Lord, for He has risen from His holy clouds.
+
+ZECHARIAH 3
+
+3:1 He showed me Joshua the high priest standing before the angel of the Lord, with the slanderer standing at his right hand to oppose him.
+3:2 The Lord said to the slanderer, “May the Lord rebuke you, slanderer! May the Lord, who chose Jerusalem, rebuke you! Look, is this not like a brand pulled from fire?”
+3:3 Joshua was clothed in filthy garments and standing before the angel.
+3:4 He answered and said to those standing before him, “Remove the filthy garments from him.” He said to him, “Look, I have taken away your lawless deeds; clothe him in a robe reaching to the feet,
+3:5 and put a clean turban on his head.” They clothed him in garments and put a clean turban on his head, while the angel of the Lord stood by.
+3:6 The angel of the Lord solemnly testified to Joshua, saying:
+3:7 “Thus says the Lord Almighty: If you walk in My ways and keep My commands, you will govern My house. If you also guard My court, I will give you those who move about among these standing here.
+3:8 Listen now, Joshua the high priest, you and your neighbors sitting before you, for they are men who watch for portents. Look, I am bringing My servant, Rising.
+3:9 For the stone I set before Joshua—on the one stone are seven eyes. Look, I am digging a pit, says the Lord Almighty, and I will feel out all the injustice of that land in one day.
+3:10 On that day, says the Lord Almighty, each of you will invite his neighbor beneath a vine and beneath a fig tree.”
+
+ZECHARIAH 4
+
+4:1 The angel speaking within me returned and roused me as when someone is awakened from sleep,
+4:2 and said to me, “What do you see?” I said, “I see a lampstand entirely of gold, with its lamp-bowl above it, seven lamps upon it, and seven pouring channels for the lamps above it.
+4:3 Two olive trees stand over it, one to the right of the lamp-bowl and one to the left.”
+4:4 I asked the angel speaking within me, “What are these, lord?”
+4:5 The angel speaking within me answered me, “Do you not know what these are?” I said, “No, lord.”
+4:6 He answered me, “This is the Lord’s word to Zerubbabel: Not by great power or by strength, but by My Spirit, says the Lord Almighty.
+4:7 Who are you, great mountain, before Zerubbabel, to set things straight? I will bring out the stone of inheritance—an equality of grace, its grace.”
+4:8 The word of the Lord came to me, saying:
+4:9 “Zerubbabel’s hands laid this house’s foundation, and his hands will complete it. You will recognize that the Lord Almighty has sent me to you.
+4:10 For who treated the small days with contempt? They will rejoice and see the tin stone in Zerubbabel’s hand. These seven are the Lord’s eyes, looking over all the earth.”
+4:11 I answered him, “What are these two olive trees to the lampstand’s right and left?”
+4:12 I asked a second time, “What are the two olive branches in the hands of the two golden nozzles that pour upon and draw up the golden pouring channels?”
+4:13 He said to me, “Do you not know what these are?” I said, “No, lord.”
+4:14 He said, “These two sons of richness stand beside the Lord of all the earth.”
+
+ZECHARIAH 5
+
+5:1 I turned and lifted my eyes and saw: look, a flying sickle!
+5:2 He said to me, “What do you see?” I said, “I see a flying sickle, twenty cubits long and ten cubits wide.”
+5:3 He said to me, “This is the curse going out over the whole earth, because every thief will be punished by this with death, and every false swearer will be punished by this with death.
+5:4 I will bring it out, says the Lord Almighty. It will enter the thief’s house and the house of whoever swears falsely by My name; it will lodge within his house and destroy it completely, its timbers and its stones.”
+5:5 The angel speaking within me came out and said to me, “Look up with your eyes and see what this is that is coming out.”
+5:6 I said, “What is it?” He said, “This is the measure coming out.” He said, “This is their injustice throughout the earth.”
+5:7 Look, a talent of lead was being lifted out, and look, one woman was sitting inside the measure!
+5:8 He said, “This is Lawlessness.” He threw her into the measure and threw the lead stone into her mouth.
+5:9 I lifted my eyes and saw: look, two women coming out, with wind in their wings! They had wings like a hoopoe’s wings, and they lifted the measure between earth and heaven.
+5:10 I said to the angel speaking within me, “Where are they carrying the measure?”
+5:11 He said to me, “To build a house for it in Babylon’s land and prepare it; they will place it there on its prepared setting.”
+
+ZECHARIAH 6
+
+6:1 I turned and lifted my eyes and saw: look, four chariots coming out from between two mountains! The mountains were bronze mountains.
+6:2 The first chariot had flame-red horses, and the second chariot black horses,
+6:3 the third chariot white horses, and the fourth chariot dappled, gray horses.
+6:4 I answered and said to the angel speaking within me, “What are these, lord?”
+6:5 The angel speaking within me answered, “These are the four winds of heaven; they go out to stand beside the Lord of all the earth.
+6:6 The one with the black horses was going out toward the northern land; the white ones were going out behind them, and the dappled ones were going out toward the southern land,
+6:7 and the gray ones were going out and looking to go and travel around the earth.” He said, “Go and travel around the earth!” And they traveled around the earth.
+6:8 He cried out and said to me, “Look, those going out toward the northern land have brought My wrath to rest in the northern land.”
+6:9 The word of the Lord came to me, saying:
+6:10 “Take the things from the captivity, from its rulers, from its useful people and from those who have known it; you shall go that day into the house of Josiah son of Zephaniah, who has come from Babylon,
+6:11 take silver and gold, make crowns and put them on the head of Joshua son of Josedek, the high priest,
+6:12 and say to him: Thus says the Lord Almighty: Look, a man whose name is Rising! From beneath him he will rise, and he will build the Lord’s house.
+6:13 He himself will receive excellence, sit and rule on his throne; the priest will be at his right hand, and peaceful counsel will be between both.
+6:14 The crown will be for those who endure, for its useful people and those who have known it, for the favor of Zephaniah’s son and for a psalm in the Lord’s house.
+6:15 Those far away from them will come and build in the Lord’s house, and you will know that the Lord Almighty has sent me to you. This will happen if you truly listen to the voice of the Lord your God.”
+
+ZECHARIAH 7
+
+7:1 In the fourth year under King Darius, the word of the Lord came to Zechariah on the fourth day of the ninth month, which is Chaseleu,
+7:2 and Sarasar, King Arbeseer and his men sent to Bethel to appease the Lord,
+7:3 saying to the priests in the house of the Lord Almighty and to the prophets, “The holy offering has come here in the fifth month, as I have already done for many years.”
+7:4 The word of the Lord of hosts came to me, saying:
+7:5 “Say to all the land’s people and to the priests: If you fast or mourn at the fifth or seventh observances—and look, seventy years—surely you have not fasted a fast for Me?
+7:6 If you eat or drink, are you not yourselves eating and yourselves drinking?
+7:7 Are these not the words the Lord spoke through the former prophets, when Jerusalem was inhabited and flourishing, with her cities around her, and the hill country and plain were inhabited?”
+7:8 The word of the Lord came to Zechariah, saying:
+7:9 “Thus says the Lord Almighty: Render righteous judgment; show mercy and compassion, each to his brother.
+7:10 Do not oppress widow, orphan, newcomer or poor person, and let no one harbor resentment for his brother’s wrong in your hearts.”
+7:11 But they refused to pay attention, turned a senseless back and made their ears heavy so as not to listen,
+7:12 and made their heart disobedient, so as not to listen to My law and the words the Lord Almighty sent by His Spirit through the former prophets. Great anger came from the Lord Almighty.
+7:13 It will be as He spoke and they did not listen to Him: so they will cry out, and I will certainly not listen, says the Lord Almighty.
+7:14 I will cast them out among all the nations they did not know, and the land behind them will be obliterated, without anyone passing through or returning. They made a choice land a desolation.
+
+ZECHARIAH 8
+
+8:1 The word of the Lord Almighty came, saying:
+8:2 “Thus says the Lord Almighty: I have been jealous for Jerusalem and Zion with great jealousy; with great wrath I have been jealous for her.
+8:3 Thus says the Lord: I will return to Zion and dwell within Jerusalem. Jerusalem will be called the True City, and the mountain of the Lord Almighty a Holy Mountain.
+8:4 Thus says the Lord Almighty: Old men and old women will again sit in Jerusalem’s squares, each holding a staff in hand because of many days.
+8:5 The city’s squares will be filled with boys and girls playing in her squares.
+8:6 Thus says the Lord Almighty: If it is impossible before this people’s remnant in those days, surely it will not also be impossible before Me? says the Lord Almighty.
+8:7 Thus says the Lord Almighty: Look, I am rescuing My people from the eastern land and from the western land,
+8:8 and I will bring them in and dwell within Jerusalem. They will be My people, and I will be their God in truth and righteousness.
+8:9 Thus says the Lord Almighty: Let your hands be strong, you who hear these words in these days from the prophets’ mouth, from the day when the house of the Lord Almighty was founded, and from when the temple was built.
+8:10 Before those days people’s wages will bring no benefit, and animals’ hire will not exist; those going out or coming in will have no peace because of affliction. I will send everyone out against his neighbor.
+8:11 Now I do not act toward this people’s remnant as in the former days, says the Lord Almighty,
+8:12 but I will show peace: the vine will give its fruit, the earth its produce, and heaven its dew. I will give My people’s remnant all these as an inheritance.
+8:13 As you were under a curse among the nations, house of Judah and house of Israel, so I will preserve you, and you will be in blessing. Take courage and be strong in your hands.
+8:14 For thus says the Lord Almighty: As I intended to harm you when your fathers provoked Me, says the Lord Almighty, and I did not change My mind,
+8:15 so I have arrayed Myself and intended in these days to do good to Jerusalem and Judah’s house. Take courage.
+8:16 These are the things you shall do: speak truth, each to his neighbor, and render peaceful judgment in your gates.
+8:17 Do not reckon your neighbor’s wrong in your hearts, and do not love a false oath, for I hate all these things, says the Lord Almighty.”
+8:18 The word of the Lord Almighty came to me, saying:
+8:19 “Thus says the Lord Almighty: The fourth fast, the fifth fast, the seventh fast and the tenth fast will become joy, gladness and good festivals for Judah’s house. You will rejoice; love truth and peace.
+8:20 Thus says the Lord Almighty: Many peoples and residents of many cities will yet come.
+8:21 Residents of five cities will come together into one city, saying, ‘Let us go to entreat the Lord’s presence and seek the presence of the Lord Almighty. I too will go.’
+8:22 Many peoples and many nations will come to seek the presence of the Lord Almighty in Jerusalem and appease the Lord’s presence.
+8:23 Thus says the Lord Almighty: In those days, when ten men from all the nations’ languages take hold and grasp the fringe of a Jewish man’s garment, saying, ‘We will go with you, for we have heard that God is with you all.’”
+
+ZECHARIAH 9
+
+9:1 An oracle of the Lord’s word: in Sedrach’s land and Damascus is His sacrifice, because the Lord watches human beings and all Israel’s tribes,
+9:2 and Emath within its borders, Tyre and Sidon, because they were exceedingly wise.
+9:3 Tyre built herself fortifications, stored silver like dust and gathered gold like the mud of the roads.
+9:4 Therefore the Lord will inherit her and strike her strength into the sea; she will be consumed by fire.
+9:5 Ashkelon will see and fear; Gaza will suffer greatly, and Akkaron too, because she was ashamed at her downfall. A king will perish from Gaza, and Ashkelon will certainly not be inhabited.
+9:6 Foreigners will dwell in Azotus, and I will bring down the foreigners’ arrogance.
+9:7 I will remove their blood from their mouth and their detestable things from between their teeth. This one too will remain for our God; they will be like a commander of a thousand in Judah, and Akkaron like the Jebusite.
+9:8 I will take a stand for My house to prevent passing through or returning. No one driving them out will come upon them again, for now I have seen with My own eyes.
+9:9 Rejoice greatly, daughter Zion; proclaim, daughter Jerusalem. Behold, your king comes to you, righteous and saving, gentle, and mounted upon a beast of burden and a young colt.
+9:10 He will destroy chariots from Ephraim and the horse from Jerusalem; the battle bow will be destroyed, and abundance and peace from the nations. He will rule waters as far as the sea and the earth’s river outlets.
+9:11 You, by covenant blood, released your prisoners from a pit with no water.
+9:12 You will settle in a stronghold, prisoners of the gathering; in exchange for one day of your sojourn I will repay you double.
+9:13 For I bent you, Judah, as a bow for Myself; I filled Ephraim, and I will rouse your children, Zion, against the Greeks’ children and handle you like a fighter’s sword.
+9:14 The Lord will be over them; a missile will go out like lightning. The Lord Almighty will sound a trumpet and go in the tumult of His threat.
+9:15 The Lord Almighty will shield them. They will consume them, bury them with sling stones and drink them down like wine; they will fill the altar like bowls.
+9:16 The Lord will save them on that day, His people like sheep, because holy stones roll over His land.
+9:17 For whatever is good of him and whatever is beautiful from him: grain for young men and fragrant wine for virgins.
+
+ZECHARIAH 10
+
+10:1 Ask the Lord for rain in its season, early and late. The Lord made appearances and will give them winter rain, to each person vegetation in the field.
+10:2 For those making pronouncements spoke troubles, the diviners false visions; they were telling false dreams and giving vain comfort. Therefore they were carried away like sheep and mistreated, because there was no healing.
+10:3 My wrath was provoked against the shepherds, and I will attend to the lambs. The Lord God Almighty will attend to His flock, Judah’s house, and make them like His splendid horse in battle.
+10:4 From him he looked, and from him he appointed; from him a bow in wrath. From him everyone driving out will come forth together.
+10:5 They will be like fighters trampling mud in the roads in battle; they will draw up for combat because the Lord is with them, and horse riders will be put to shame.
+10:6 I will strengthen Judah’s house and save Joseph’s house. I will settle them because I have loved them; they will be as though I had not turned them away, for I am the Lord their God and will listen to them.
+10:7 They will be like Ephraim’s fighters, and their heart will rejoice as with wine. Their children will see and be glad; their heart will rejoice in the Lord.
+10:8 I will signal to them and receive them, for I will redeem them; they will multiply as they were once many.
+10:9 I will sow them among peoples, and those far away will remember Me; they will nourish their children and return.
+10:10 I will bring them back from Egypt’s land and receive them from the Assyrians. I will bring them into Gilead and Lebanon, and not even one of them will be left behind.
+10:11 They will pass through a narrow sea and strike waves in the sea; all the rivers’ depths will dry up. All the Assyrians’ arrogance will be removed, and Egypt’s scepter will be taken away.
+10:12 I will strengthen them in the Lord their God, and they will boast in His name, says the Lord.
+
+ZECHARIAH 11
+
+11:1 Open your doors, Lebanon, and let fire devour your cedars!
+11:2 Let the pine wail, for the cedar has fallen, because the mighty have suffered greatly! Wail, Bashan’s oaks, for the thick-grown forest has been torn down!
+11:3 A sound of shepherds lamenting, for their greatness has suffered! A sound of lions roaring, for the Jordan’s proud swelling has suffered!
+11:4 Thus says the Lord Almighty: “Shepherd the sheep destined for slaughter,
+11:5 which their buyers were slaughtering without regret; their sellers said, ‘Blessed be the Lord; we have become rich!’ Their shepherds felt nothing for them.
+11:6 Therefore I will no longer spare the land’s residents, says the Lord. Look, I am handing over human beings, each into his neighbor’s hands and his king’s hands. They will cut the land to pieces, and I will certainly not rescue from their hand.”
+11:7 I will shepherd the sheep destined for slaughter into Canaan’s land. I will take two staffs for myself—I called one Beauty and the other Measuring Cord—and I will shepherd the sheep.
+11:8 I will remove the three shepherds in one month. My soul will be burdened over them, for their souls also roared against me.
+11:9 I said, “I will not shepherd you. Let the dying die, and let the failing fail; let those remaining each devour his neighbor’s flesh.”
+11:10 I will take my beautiful staff and throw it away, to dissolve my covenant that I made with all the peoples.
+11:11 It will be dissolved on that day, and the Canaanites—the sheep being guarded—will know that it is the Lord’s word.
+11:12 I will say to them, “If it is good before you, weigh out and give my wages, or refuse.” They weighed out my wages: thirty silver pieces.
+11:13 The Lord said to me, “Put them into the smelting furnace and examine whether it is approved, as I was tested on their behalf.” I took the thirty silver pieces and threw them into the Lord’s house, into the smelting furnace.
+11:14 I threw away the second staff, Measuring Cord, to dissolve the possession between Judah and Israel.
+11:15 The Lord said to me, “Take again for yourself the shepherding equipment of an inexperienced shepherd.
+11:16 Look, I am raising up a shepherd over the land: he will certainly not attend to what is failing, seek what is scattered, heal what is broken or guide what is whole. He will devour the flesh of the choice ones and wrench their ankle bones.
+11:17 Oh, you who shepherd worthless things and have abandoned the sheep! A sword against his arms and his right eye! His arm will utterly wither, and his right eye will be completely blinded.”
+
+ZECHARIAH 12
+
+12:1 An oracle of the Lord’s word concerning Israel. The Lord says—He who stretches out heaven, founds earth and forms a person’s spirit within him:
+12:2 “Look, I am making Jerusalem like shaking entranceways for all the peoples around, and in Judea there will be a siege against Jerusalem.
+12:3 On that day I will make Jerusalem a trampled stone for all the nations. Everyone trampling her will mock in mockery, and all the earth’s nations will gather against her.
+12:4 On that day, says the Lord Almighty, I will strike every horse with bewilderment and its rider with madness. Over Judah’s house I will open My eyes, and I will strike all the peoples’ horses with blindness.
+12:5 Judah’s commanders of thousands will say in their hearts, ‘We will find for ourselves Jerusalem’s residents in the Lord Almighty, their God.’
+12:6 On that day I will make Judah’s commanders of thousands like a firebrand among wood and a flaming torch among stalks. They will consume all the surrounding peoples to right and left, and Jerusalem will again dwell by herself.
+12:7 The Lord will save Judah’s dwellings as from the beginning, so that the boasting of David’s house and Jerusalem’s residents’ exaltation will not magnify itself over Judah.
+12:8 On that day the Lord will shield Jerusalem’s residents. The weak among them will be like David’s house on that day, and David’s house like God’s house, like the angel of the Lord before them.
+12:9 On that day I will seek to remove all the nations coming against Jerusalem.
+12:10 I will pour upon David’s house and Jerusalem’s residents a spirit of grace and compassion. They will look toward Me because they danced in mockery, and mourn over him as over a beloved one; they will suffer grief as over a firstborn.
+12:11 On that day mourning in Jerusalem will grow great, like mourning over a pomegranate grove cut down in a plain,
+12:12 and the land will mourn tribe by tribe, each tribe by itself and their wives by themselves: the tribe of David’s house by itself and their wives by themselves; the tribe of Nathan’s house by itself and their wives by themselves;
+12:13 the tribe of Levi’s house by itself and their wives by themselves; the tribe of Simeon by itself and their wives by themselves;
+12:14 all the tribes remaining, each tribe by itself and their wives by themselves.
+
+ZECHARIAH 13
+
+13:1 On that day every place will be opened in David’s house.
+13:2 On that day, says the Lord, I will destroy the idols’ names from the land, and there will no longer be remembrance of them. I will remove the false prophets and the unclean spirit from the land.
+13:3 If a person still prophesies, his father and mother who begot him will say to him, ‘You shall not live, because you spoke falsehoods in the Lord’s name.’ His father and mother who begot him will bind his feet when he prophesies.
+13:4 On that day the prophets will be ashamed, each because of his vision when he prophesies; they will wear a hairy skin because they lied.
+13:5 He will say, ‘I am no prophet; I am a man who works the earth, because a man begot me from my youth.’
+13:6 I will say to him, ‘What are these wounds between your hands?’ He will say, ‘The ones with which I was struck in my beloved house.’
+13:7 Sword, awake against My shepherds, against the man who is My fellow citizen, says the Lord Almighty! Strike the shepherds and tear away the sheep; I will bring My hand against the shepherds.
+13:8 Throughout the land, says the Lord, the two parts will be destroyed and fail, but the third will remain in it.
+13:9 I will lead the third through fire, refine them with fire as silver is refined and test them as gold is tested. He will call on My name, and I will listen to him and say, ‘This is My people,’ and he will say, ‘The Lord is my God.’”
+
+ZECHARIAH 14
+
+14:1 Look, days of the Lord are coming, and your spoils will be divided within you.
+14:2 I will gather all the nations against Jerusalem for war. The city will be captured, the houses plundered and the women violated. Half the city will go into captivity, but the remnant of My people will certainly not be destroyed from the city.
+14:3 The Lord will go out and draw up for battle among those nations, as on the day of His battle formation on a day of war.
+14:4 On that day His feet will stand on the Mount of Olives opposite Jerusalem to the east. The Mount of Olives will split, half of it toward the east and half toward the sea—a very great chasm; half the mountain will incline north and half south.
+14:5 The ravine of My mountains will be blocked; the mountain ravine will be joined as far as Iasol and blocked as it was blocked in the days of the earthquake, in the days of Oziah king of Judah. The Lord my God will come, and all the holy ones with Him.
+14:6 On that day there will be no light, cold or ice.
+14:7 It will last one day, and that day is known to the Lord, neither day nor night; toward evening there will be light.
+14:8 On that day living water will go out from Jerusalem, half into the first sea and half into the last sea; it will be so in summer and spring.
+14:9 The Lord will be king over all the earth. On that day the Lord will be one, and His name one,
+14:10 encircling all the land and the wilderness from Gabe to Remmon south of Jerusalem. Rama will remain in its place, from Benjamin’s Gate to the place of the First Gate, to the Gate of Corners and to Ananeel’s Tower, to the king’s wine vats.
+14:11 They will dwell in her; there will no longer be anything accursed, and Jerusalem will dwell confidently.
+14:12 This will be the downfall with which the Lord will strike all the peoples who marched against Jerusalem: their flesh will melt while they stand on their feet; their eyes will flow from their sockets, and their tongue will melt in their mouth.
+14:13 On that day great bewilderment from the Lord will be upon them. Each will seize his neighbor’s hand, and his hand will grapple with his neighbor’s hand.
+14:14 Judah will draw up for battle in Jerusalem and gather the strength of all the surrounding peoples: gold, silver and clothing in very great abundance.
+14:15 This will also be the downfall of horses, mules, camels, donkeys and every animal in those camps, according to this downfall.
+14:16 Whoever remains from all the nations that came against Jerusalem will go up each year to bow before the King, the Lord Almighty, and celebrate the Festival of Tent-Pitching.
+14:17 Whoever among all the earth’s tribes does not go up to Jerusalem to bow before the King, the Lord Almighty—these will be added to those.
+14:18 If Egypt’s tribe does not go up or come there, upon these too will be the downfall with which the Lord will strike all the nations that do not go up to celebrate the Festival of Tent-Pitching.
+14:19 This will be Egypt’s sin and the sin of all the nations that do not go up to celebrate the Festival of Tent-Pitching.
+14:20 On that day what is upon the horse’s bridle will be holy to the Lord Almighty, and the cauldrons in the Lord’s house will be like bowls before the altar.
+14:21 Every cauldron in Jerusalem and Judah will be holy to the Lord Almighty. All who sacrifice will come, take some of them and boil in them. No Canaanite will remain in the house of the Lord Almighty on that day.

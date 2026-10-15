@@ -1,0 +1,2358 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 211 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 14,
+    "reading_sections": 14,
+    "changed_verse_units": 90,
+    "source_scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "6714a6300fc3416c33f6c8fa042993f504e452e7bd88628c960c0b4e29bc9780"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 17,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 17,
+      "changed": 11,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 10,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 14,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 5,
+      "chapter": 5,
+      "verse_units": 11,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 6,
+      "chapter": 6,
+      "verse_units": 15,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 7,
+      "chapter": 7,
+      "verse_units": 14,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 8,
+      "chapter": 8,
+      "verse_units": 23,
+      "changed": 14,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 9,
+      "chapter": 9,
+      "verse_units": 17,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 10,
+      "chapter": 10,
+      "verse_units": 12,
+      "changed": 1,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 11,
+      "chapter": 11,
+      "verse_units": 17,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 12,
+      "chapter": 12,
+      "verse_units": 14,
+      "changed": 2,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 13,
+      "chapter": 13,
+      "verse_units": 9,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 14,
+      "chapter": 14,
+      "verse_units": 21,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 3055,
+      "chapter": 1,
+      "modified": "2026-10-15T05:35:12",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "1f1c03d2dc408845a3e190b05381d2589948c7df84aa57db26cb06c1bc1568f5"
+    },
+    {
+      "id": 3054,
+      "chapter": 2,
+      "modified": "2026-10-15T05:35:21",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "a7aa386db6bdaccdf1ff7c26e571bc8033331410910f51116540ccc183de55c0"
+    },
+    {
+      "id": 3056,
+      "chapter": 3,
+      "modified": "2026-10-15T05:35:28",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "9df9b17779afc7dfc94193cf7a0e56afc12470e12ae9bfcf4987800ed6285d01"
+    },
+    {
+      "id": 3057,
+      "chapter": 4,
+      "modified": "2026-10-15T05:35:33",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "9b8fdd331f1ed16e2db3178a997f2419b19ec10779f261b1aabc118eab7a0fc2"
+    },
+    {
+      "id": 3058,
+      "chapter": 5,
+      "modified": "2026-10-15T05:36:09",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "db5274e17aa25ce3e23ddb93e02e462105683832e360bfde4427182b71a8434a"
+    },
+    {
+      "id": 3059,
+      "chapter": 6,
+      "modified": "2026-10-15T05:36:58",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "63da676bcd6716dcc0665a5f855be7521eb08792cc25900dcfd4ce215a3d6f87"
+    },
+    {
+      "id": 3060,
+      "chapter": 7,
+      "modified": "2026-10-15T05:37:04",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "916a00f45889ecd760faa55253b37dbf657041f3f6e280387801e8cec059ae79"
+    },
+    {
+      "id": 3064,
+      "chapter": 8,
+      "modified": "2026-10-15T05:37:09",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "c6970948e5d9e066565d41dc43a4b2bcbd7e6b6ba07c8567dd9d50f3aafbf852"
+    },
+    {
+      "id": 3061,
+      "chapter": 9,
+      "modified": "2026-10-15T05:37:16",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "0b21336d42bc533218db2469b261242d29b46e6d34c6cb721ad533ab30290b5b"
+    },
+    {
+      "id": 3062,
+      "chapter": 10,
+      "modified": "2026-10-15T05:37:21",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "3b8b7d490fd65aa9360b0d0c6dc5c64582fd61affd7c11729009a74b07a673b7"
+    },
+    {
+      "id": 3063,
+      "chapter": 11,
+      "modified": "2026-10-15T05:38:04",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "30cc313a5def1df546ed87cd2ab5f3aeab9d61b169d13af59f615ca0ebe4cf8d"
+    },
+    {
+      "id": 3066,
+      "chapter": 12,
+      "modified": "2026-10-15T05:38:11",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "d6d54605dcfd2eb32c13268b95155ee06dfab446be5cbbb11f1b002091ef4ff5"
+    },
+    {
+      "id": 3068,
+      "chapter": 13,
+      "modified": "2026-10-15T05:38:16",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "e8b5e934fdba483d885e32e6ef0d4a1948c7e3ba99e3bcf2d2321a537da5346f"
+    },
+    {
+      "id": 3071,
+      "chapter": 14,
+      "modified": "2026-10-15T05:38:22",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "26f7e6320584182388df95413caa9da9c600b5ee04304a7d5b0d33346ce56e70"
+    },
+    {
+      "id": 3053,
+      "chapter": null,
+      "modified": "2026-10-15T05:38:28",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "a2a00ef4979ced5bb46595fb17f8322ed9023a2b292468fb468c9905355a8b59"
+    }
+  ],
+  "browser_checks": {
+    "chapters": [
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-2/",
+            "label": "Previous chapter, Haggai 2",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-2/",
+            "label": "Next chapter, Zechariah 2",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-2/",
+            "text": "← Haggai 2"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/",
+            "text": "Zechariah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-2/",
+            "text": "Zechariah 2 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/zechariah/1/",
+            "text": "All 319 cross-references for Zechariah 1, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v1-1",
+            "text": "1:1In the eighth month of the second year under Darius, the word of the Lord came to Zechariah, Berechiah’s son, son of Addo, the prophet, saying:"
+          },
+          {
+            "id": "v1-2",
+            "text": "1:2“The Lord was angry with your fathers with great anger."
+          },
+          {
+            "id": "v1-3",
+            "text": "1:3You shall say to them: Thus says the Lord Almighty: Return to Me, and I will return to you, says the Lord."
+          },
+          {
+            "id": "v1-4",
+            "text": "1:4Do not become like your fathers, against whom the former prophets brought charges, saying, ‘Thus says the Lord Almighty: Turn away from your evil ways and your evil practices.’ But they did not listen attentively to Me, says the Lord."
+          },
+          {
+            "id": "v1-5",
+            "text": "1:5Your fathers—where are they? And the prophets—surely they will not live forever?"
+          },
+          {
+            "id": "v1-6",
+            "text": "1:6Yet receive My words and My ordinances, all that I, in My Spirit, command My servants the prophets, who overtook your fathers.” And they answered and said, “As the Lord Almighty has arrayed Himself to act according to your ways and practices, so He acted toward you.”"
+          },
+          {
+            "id": "v1-7",
+            "text": "1:7On the twenty-fourth day of the eleventh month—which is the month Sabat—in the second year under Darius, the word of the Lord came to Zechariah, Berechiah’s son, son of Addo, the prophet, saying:"
+          },
+          {
+            "id": "v1-8",
+            "text": "1:8I saw in the night: look, a man mounted on a flame-red horse! He stood between the two shaded mountains, and behind him were flame-red, gray, dappled and white horses."
+          },
+          {
+            "id": "v1-9",
+            "text": "1:9I said, “What are these, lord?” The angel speaking within me said to me, “I will show you what these are.”"
+          },
+          {
+            "id": "v1-10",
+            "text": "1:10The man standing between the mountains answered and said to me, “These are the ones the Lord has sent out to travel around the earth.”"
+          },
+          {
+            "id": "v1-11",
+            "text": "1:11They answered the angel of the Lord standing between the mountains, “We have traveled around all the earth, and look, all the earth is inhabited and quiet.”"
+          },
+          {
+            "id": "v1-12",
+            "text": "1:12The angel of the Lord answered, “Lord Almighty, how long wilt Thou refuse mercy to Jerusalem and Judah’s cities, which Thou hast overlooked this seventieth year?”"
+          },
+          {
+            "id": "v1-13",
+            "text": "1:13The Lord Almighty answered the angel speaking within me with good words and comforting speeches."
+          },
+          {
+            "id": "v1-14",
+            "text": "1:14The angel speaking within me said to me, “Cry out: Thus says the Lord Almighty: I have been jealous for Jerusalem and Zion with great jealousy,"
+          },
+          {
+            "id": "v1-15",
+            "text": "1:15and I am angry with great anger at the nations joining in assault, because I was a little angry, but they joined in attacking to bring evils."
+          },
+          {
+            "id": "v1-16",
+            "text": "1:16Therefore thus says the Lord: I will return to Jerusalem in compassion, and My house will be rebuilt in her, says the Lord Almighty, and a measure will again be extended over Jerusalem.”"
+          },
+          {
+            "id": "v1-17",
+            "text": "1:17The angel speaking within me said to me, “Cry out: Thus says the Lord Almighty: Cities will again overflow with good things; the Lord will again have mercy on Zion and again choose Jerusalem.”"
+          }
+        ],
+        "chapter": 1,
+        "section": 1,
+        "page_id": 3055,
+        "title": "Zechariah 1",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-1/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Zechariah 1"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-1/",
+            "label": "Previous chapter, Zechariah 1",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-3/",
+            "label": "Next chapter, Zechariah 3",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-1/",
+            "text": "← Zechariah 1"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/",
+            "text": "Zechariah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-3/",
+            "text": "Zechariah 3 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/zechariah/2/",
+            "text": "All 282 cross-references for Zechariah 2, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v2-1",
+            "text": "2:1I lifted my eyes and saw: look, four horns!"
+          },
+          {
+            "id": "v2-2",
+            "text": "2:2I said to the angel speaking within me, “What are these, lord?” He said to me, “These are the horns that scattered Judah and Israel.”"
+          },
+          {
+            "id": "v2-3",
+            "text": "2:3The Lord showed me four craftsmen."
+          },
+          {
+            "id": "v2-4",
+            "text": "2:4I said, “What are these coming to do?” He said to me, “These horns that scattered Judah also shattered Israel, and none of them lifted a head. These entered to sharpen them for their hands—the four horns, the nations lifting a horn against the Lord’s land to scatter it.”"
+          },
+          {
+            "id": "v2-5",
+            "text": "2:5I lifted my eyes and saw: look, a man with a land-measuring cord in his hand!"
+          },
+          {
+            "id": "v2-6",
+            "text": "2:6I said to him, “Where are you going?” He said to me, “To measure Jerusalem, to see how wide it is and how long.”"
+          },
+          {
+            "id": "v2-7",
+            "text": "2:7Look, the angel speaking within me was standing, and another angel was going out to meet him,"
+          },
+          {
+            "id": "v2-8",
+            "text": "2:8and said to him, “Run and speak to that young man: Jerusalem will be inhabited fruitfully because of the multitude of people and animals within her."
+          },
+          {
+            "id": "v2-9",
+            "text": "2:9I will be a wall of fire around her, says the Lord, and I will be glory within her.”"
+          },
+          {
+            "id": "v2-10",
+            "text": "2:10“Oh! Oh! Flee from the northern land,” says the Lord, “because I will gather you from the four winds of heaven,” says the Lord."
+          },
+          {
+            "id": "v2-11",
+            "text": "2:11Escape safely to Zion, you who dwell in daughter Babylon!"
+          },
+          {
+            "id": "v2-12",
+            "text": "2:12For thus says the Lord Almighty: “After glory He has sent me against the nations that plundered you, for whoever touches you is like one touching the pupil of his eye."
+          },
+          {
+            "id": "v2-13",
+            "text": "2:13Look, I am bringing My hand against them, and they will become spoils for those serving them; you will know that the Lord Almighty has sent me.”"
+          },
+          {
+            "id": "v2-14",
+            "text": "2:14“Delight and rejoice, daughter Zion, for look, I am coming and will dwell within you,” says the Lord."
+          },
+          {
+            "id": "v2-15",
+            "text": "2:15Many nations will take refuge with the Lord on that day and become His people. They will dwell within you, and you will recognize that the Lord Almighty has sent me to you."
+          },
+          {
+            "id": "v2-16",
+            "text": "2:16The Lord will inherit Judah as His portion on the holy land and again choose Jerusalem."
+          },
+          {
+            "id": "v2-17",
+            "text": "2:17Let all flesh be reverent before the Lord, for He has risen from His holy clouds."
+          }
+        ],
+        "chapter": 2,
+        "section": 2,
+        "page_id": 3054,
+        "title": "Zechariah 2",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-2/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Zechariah 2"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-2/",
+            "label": "Previous chapter, Zechariah 2",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-4/",
+            "label": "Next chapter, Zechariah 4",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-2/",
+            "text": "← Zechariah 2"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/",
+            "text": "Zechariah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-4/",
+            "text": "Zechariah 4 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/zechariah/3/",
+            "text": "All 196 cross-references for Zechariah 3, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v3-1",
+            "text": "3:1He showed me Joshua the high priest standing before the angel of the Lord, with the slanderer standing at his right hand to oppose him."
+          },
+          {
+            "id": "v3-2",
+            "text": "3:2The Lord said to the slanderer, “May the Lord rebuke you, slanderer! May the Lord, who chose Jerusalem, rebuke you! Look, is this not like a brand pulled from fire?”"
+          },
+          {
+            "id": "v3-3",
+            "text": "3:3Joshua was clothed in filthy garments and standing before the angel."
+          },
+          {
+            "id": "v3-4",
+            "text": "3:4He answered and said to those standing before him, “Remove the filthy garments from him.” He said to him, “Look, I have taken away your lawless deeds; clothe him in a robe reaching to the feet,"
+          },
+          {
+            "id": "v3-5",
+            "text": "3:5and put a clean turban on his head.” They clothed him in garments and put a clean turban on his head, while the angel of the Lord stood by."
+          },
+          {
+            "id": "v3-6",
+            "text": "3:6The angel of the Lord solemnly testified to Joshua, saying:"
+          },
+          {
+            "id": "v3-7",
+            "text": "3:7“Thus says the Lord Almighty: If you walk in My ways and keep My commands, you will govern My house. If you also guard My court, I will give you those who move about among these standing here."
+          },
+          {
+            "id": "v3-8",
+            "text": "3:8Listen now, Joshua the high priest, you and your neighbors sitting before you, for they are men who watch for portents. Look, I am bringing My servant, Rising."
+          },
+          {
+            "id": "v3-9",
+            "text": "3:9For the stone I set before Joshua—on the one stone are seven eyes. Look, I am digging a pit, says the Lord Almighty, and I will feel out all the injustice of that land in one day."
+          },
+          {
+            "id": "v3-10",
+            "text": "3:10On that day, says the Lord Almighty, each of you will invite his neighbor beneath a vine and beneath a fig tree.”"
+          }
+        ],
+        "chapter": 3,
+        "section": 3,
+        "page_id": 3056,
+        "title": "Zechariah 3",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-3/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Zechariah 3"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-3/",
+            "label": "Previous chapter, Zechariah 3",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-5/",
+            "label": "Next chapter, Zechariah 5",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-3/",
+            "text": "← Zechariah 3"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/",
+            "text": "Zechariah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-5/",
+            "text": "Zechariah 5 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/zechariah/4/",
+            "text": "All 172 cross-references for Zechariah 4, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v4-1",
+            "text": "4:1The angel speaking within me returned and roused me as when someone is awakened from sleep,"
+          },
+          {
+            "id": "v4-2",
+            "text": "4:2and said to me, “What do you see?” I said, “I see a lampstand entirely of gold, with its lamp-bowl above it, seven lamps upon it, and seven pouring channels for the lamps above it."
+          },
+          {
+            "id": "v4-3",
+            "text": "4:3Two olive trees stand over it, one to the right of the lamp-bowl and one to the left.”"
+          },
+          {
+            "id": "v4-4",
+            "text": "4:4I asked the angel speaking within me, “What are these, lord?”"
+          },
+          {
+            "id": "v4-5",
+            "text": "4:5The angel speaking within me answered me, “Do you not know what these are?” I said, “No, lord.”"
+          },
+          {
+            "id": "v4-6",
+            "text": "4:6He answered me, “This is the Lord’s word to Zerubbabel: Not by great power or by strength, but by My Spirit, says the Lord Almighty."
+          },
+          {
+            "id": "v4-7",
+            "text": "4:7Who are you, great mountain, before Zerubbabel, to set things straight? I will bring out the stone of inheritance—an equality of grace, its grace.”"
+          },
+          {
+            "id": "v4-8",
+            "text": "4:8The word of the Lord came to me, saying:"
+          },
+          {
+            "id": "v4-9",
+            "text": "4:9“Zerubbabel’s hands laid this house’s foundation, and his hands will complete it. You will recognize that the Lord Almighty has sent me to you."
+          },
+          {
+            "id": "v4-10",
+            "text": "4:10For who treated the small days with contempt? They will rejoice and see the tin stone in Zerubbabel’s hand. These seven are the Lord’s eyes, looking over all the earth.”"
+          },
+          {
+            "id": "v4-11",
+            "text": "4:11I answered him, “What are these two olive trees to the lampstand’s right and left?”"
+          },
+          {
+            "id": "v4-12",
+            "text": "4:12I asked a second time, “What are the two olive branches in the hands of the two golden nozzles that pour upon and draw up the golden pouring channels?”"
+          },
+          {
+            "id": "v4-13",
+            "text": "4:13He said to me, “Do you not know what these are?” I said, “No, lord.”"
+          },
+          {
+            "id": "v4-14",
+            "text": "4:14He said, “These two sons of richness stand beside the Lord of all the earth.”"
+          }
+        ],
+        "chapter": 4,
+        "section": 4,
+        "page_id": 3057,
+        "title": "Zechariah 4",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-4/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Zechariah 4"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-4/",
+            "label": "Previous chapter, Zechariah 4",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-6/",
+            "label": "Next chapter, Zechariah 6",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-4/",
+            "text": "← Zechariah 4"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/",
+            "text": "Zechariah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-6/",
+            "text": "Zechariah 6 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/zechariah/5/",
+            "text": "All 102 cross-references for Zechariah 5, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v5-1",
+            "text": "5:1I turned and lifted my eyes and saw: look, a flying sickle!"
+          },
+          {
+            "id": "v5-2",
+            "text": "5:2He said to me, “What do you see?” I said, “I see a flying sickle, twenty cubits long and ten cubits wide.”"
+          },
+          {
+            "id": "v5-3",
+            "text": "5:3He said to me, “This is the curse going out over the whole earth, because every thief will be punished by this with death, and every false swearer will be punished by this with death."
+          },
+          {
+            "id": "v5-4",
+            "text": "5:4I will bring it out, says the Lord Almighty. It will enter the thief’s house and the house of whoever swears falsely by My name; it will lodge within his house and destroy it completely, its timbers and its stones.”"
+          },
+          {
+            "id": "v5-5",
+            "text": "5:5The angel speaking within me came out and said to me, “Look up with your eyes and see what this is that is coming out.”"
+          },
+          {
+            "id": "v5-6",
+            "text": "5:6I said, “What is it?” He said, “This is the measure coming out.” He said, “This is their injustice throughout the earth.”"
+          },
+          {
+            "id": "v5-7",
+            "text": "5:7Look, a talent of lead was being lifted out, and look, one woman was sitting inside the measure!"
+          },
+          {
+            "id": "v5-8",
+            "text": "5:8He said, “This is Lawlessness.” He threw her into the measure and threw the lead stone into her mouth."
+          },
+          {
+            "id": "v5-9",
+            "text": "5:9I lifted my eyes and saw: look, two women coming out, with wind in their wings! They had wings like a hoopoe’s wings, and they lifted the measure between earth and heaven."
+          },
+          {
+            "id": "v5-10",
+            "text": "5:10I said to the angel speaking within me, “Where are they carrying the measure?”"
+          },
+          {
+            "id": "v5-11",
+            "text": "5:11He said to me, “To build a house for it in Babylon’s land and prepare it; they will place it there on its prepared setting.”"
+          }
+        ],
+        "chapter": 5,
+        "section": 5,
+        "page_id": 3058,
+        "title": "Zechariah 5",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-5/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Zechariah 5"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-5/",
+            "label": "Previous chapter, Zechariah 5",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-7/",
+            "label": "Next chapter, Zechariah 7",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-5/",
+            "text": "← Zechariah 5"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/",
+            "text": "Zechariah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-7/",
+            "text": "Zechariah 7 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/zechariah/6/",
+            "text": "All 215 cross-references for Zechariah 6, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v6-1",
+            "text": "6:1I turned and lifted my eyes and saw: look, four chariots coming out from between two mountains! The mountains were bronze mountains."
+          },
+          {
+            "id": "v6-2",
+            "text": "6:2The first chariot had flame-red horses, and the second chariot black horses,"
+          },
+          {
+            "id": "v6-3",
+            "text": "6:3the third chariot white horses, and the fourth chariot dappled, gray horses."
+          },
+          {
+            "id": "v6-4",
+            "text": "6:4I answered and said to the angel speaking within me, “What are these, lord?”"
+          },
+          {
+            "id": "v6-5",
+            "text": "6:5The angel speaking within me answered, “These are the four winds of heaven; they go out to stand beside the Lord of all the earth."
+          },
+          {
+            "id": "v6-6",
+            "text": "6:6The one with the black horses was going out toward the northern land; the white ones were going out behind them, and the dappled ones were going out toward the southern land,"
+          },
+          {
+            "id": "v6-7",
+            "text": "6:7and the gray ones were going out and looking to go and travel around the earth.” He said, “Go and travel around the earth!” And they traveled around the earth."
+          },
+          {
+            "id": "v6-8",
+            "text": "6:8He cried out and said to me, “Look, those going out toward the northern land have brought My wrath to rest in the northern land.”"
+          },
+          {
+            "id": "v6-9",
+            "text": "6:9The word of the Lord came to me, saying:"
+          },
+          {
+            "id": "v6-10",
+            "text": "6:10“Take the things from the captivity, from its rulers, from its useful people and from those who have known it; you shall go that day into the house of Josiah son of Zephaniah, who has come from Babylon,"
+          },
+          {
+            "id": "v6-11",
+            "text": "6:11take silver and gold, make crowns and put them on the head of Joshua son of Josedek, the high priest,"
+          },
+          {
+            "id": "v6-12",
+            "text": "6:12and say to him: Thus says the Lord Almighty: Look, a man whose name is Rising! From beneath him he will rise, and he will build the Lord’s house."
+          },
+          {
+            "id": "v6-13",
+            "text": "6:13He himself will receive excellence, sit and rule on his throne; the priest will be at his right hand, and peaceful counsel will be between both."
+          },
+          {
+            "id": "v6-14",
+            "text": "6:14The crown will be for those who endure, for its useful people and those who have known it, for the favor of Zephaniah’s son and for a psalm in the Lord’s house."
+          },
+          {
+            "id": "v6-15",
+            "text": "6:15Those far away from them will come and build in the Lord’s house, and you will know that the Lord Almighty has sent me to you. This will happen if you truly listen to the voice of the Lord your God.”"
+          }
+        ],
+        "chapter": 6,
+        "section": 6,
+        "page_id": 3059,
+        "title": "Zechariah 6",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-6/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Zechariah 6"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-6/",
+            "label": "Previous chapter, Zechariah 6",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-8/",
+            "label": "Next chapter, Zechariah 8",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-6/",
+            "text": "← Zechariah 6"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/",
+            "text": "Zechariah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-8/",
+            "text": "Zechariah 8 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/zechariah/7/",
+            "text": "All 236 cross-references for Zechariah 7, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v7-1",
+            "text": "7:1In the fourth year under King Darius, the word of the Lord came to Zechariah on the fourth day of the ninth month, which is Chaseleu,"
+          },
+          {
+            "id": "v7-2",
+            "text": "7:2and Sarasar, King Arbeseer and his men sent to Bethel to appease the Lord,"
+          },
+          {
+            "id": "v7-3",
+            "text": "7:3saying to the priests in the house of the Lord Almighty and to the prophets, “The holy offering has come here in the fifth month, as I have already done for many years.”"
+          },
+          {
+            "id": "v7-4",
+            "text": "7:4The word of the Lord of hosts came to me, saying:"
+          },
+          {
+            "id": "v7-5",
+            "text": "7:5“Say to all the land’s people and to the priests: If you fast or mourn at the fifth or seventh observances—and look, seventy years—surely you have not fasted a fast for Me?"
+          },
+          {
+            "id": "v7-6",
+            "text": "7:6If you eat or drink, are you not yourselves eating and yourselves drinking?"
+          },
+          {
+            "id": "v7-7",
+            "text": "7:7Are these not the words the Lord spoke through the former prophets, when Jerusalem was inhabited and flourishing, with her cities around her, and the hill country and plain were inhabited?”"
+          },
+          {
+            "id": "v7-8",
+            "text": "7:8The word of the Lord came to Zechariah, saying:"
+          },
+          {
+            "id": "v7-9",
+            "text": "7:9“Thus says the Lord Almighty: Render righteous judgment; show mercy and compassion, each to his brother."
+          },
+          {
+            "id": "v7-10",
+            "text": "7:10Do not oppress widow, orphan, newcomer or poor person, and let no one harbor resentment for his brother’s wrong in your hearts.”"
+          },
+          {
+            "id": "v7-11",
+            "text": "7:11But they refused to pay attention, turned a senseless back and made their ears heavy so as not to listen,"
+          },
+          {
+            "id": "v7-12",
+            "text": "7:12and made their heart disobedient, so as not to listen to My law and the words the Lord Almighty sent by His Spirit through the former prophets. Great anger came from the Lord Almighty."
+          },
+          {
+            "id": "v7-13",
+            "text": "7:13It will be as He spoke and they did not listen to Him: so they will cry out, and I will certainly not listen, says the Lord Almighty."
+          },
+          {
+            "id": "v7-14",
+            "text": "7:14I will cast them out among all the nations they did not know, and the land behind them will be obliterated, without anyone passing through or returning. They made a choice land a desolation."
+          }
+        ],
+        "chapter": 7,
+        "section": 7,
+        "page_id": 3060,
+        "title": "Zechariah 7",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-7/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Zechariah 7"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-7/",
+            "label": "Previous chapter, Zechariah 7",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-9/",
+            "label": "Next chapter, Zechariah 9",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-7/",
+            "text": "← Zechariah 7"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/",
+            "text": "Zechariah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-9/",
+            "text": "Zechariah 9 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/zechariah/8/",
+            "text": "All 357 cross-references for Zechariah 8, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v8-1",
+            "text": "8:1The word of the Lord Almighty came, saying:"
+          },
+          {
+            "id": "v8-2",
+            "text": "8:2“Thus says the Lord Almighty: I have been jealous for Jerusalem and Zion with great jealousy; with great wrath I have been jealous for her."
+          },
+          {
+            "id": "v8-3",
+            "text": "8:3Thus says the Lord: I will return to Zion and dwell within Jerusalem. Jerusalem will be called the True City, and the mountain of the Lord Almighty a Holy Mountain."
+          },
+          {
+            "id": "v8-4",
+            "text": "8:4Thus says the Lord Almighty: Old men and old women will again sit in Jerusalem’s squares, each holding a staff in hand because of many days."
+          },
+          {
+            "id": "v8-5",
+            "text": "8:5The city’s squares will be filled with boys and girls playing in her squares."
+          },
+          {
+            "id": "v8-6",
+            "text": "8:6Thus says the Lord Almighty: If it is impossible before this people’s remnant in those days, surely it will not also be impossible before Me? says the Lord Almighty."
+          },
+          {
+            "id": "v8-7",
+            "text": "8:7Thus says the Lord Almighty: Look, I am rescuing My people from the eastern land and from the western land,"
+          },
+          {
+            "id": "v8-8",
+            "text": "8:8and I will bring them in and dwell within Jerusalem. They will be My people, and I will be their God in truth and righteousness."
+          },
+          {
+            "id": "v8-9",
+            "text": "8:9Thus says the Lord Almighty: Let your hands be strong, you who hear these words in these days from the prophets’ mouth, from the day when the house of the Lord Almighty was founded, and from when the temple was built."
+          },
+          {
+            "id": "v8-10",
+            "text": "8:10Before those days people’s wages will bring no benefit, and animals’ hire will not exist; those going out or coming in will have no peace because of affliction. I will send everyone out against his neighbor."
+          },
+          {
+            "id": "v8-11",
+            "text": "8:11Now I do not act toward this people’s remnant as in the former days, says the Lord Almighty,"
+          },
+          {
+            "id": "v8-12",
+            "text": "8:12but I will show peace: the vine will give its fruit, the earth its produce, and heaven its dew. I will give My people’s remnant all these as an inheritance."
+          },
+          {
+            "id": "v8-13",
+            "text": "8:13As you were under a curse among the nations, house of Judah and house of Israel, so I will preserve you, and you will be in blessing. Take courage and be strong in your hands."
+          },
+          {
+            "id": "v8-14",
+            "text": "8:14For thus says the Lord Almighty: As I intended to harm you when your fathers provoked Me, says the Lord Almighty, and I did not change My mind,"
+          },
+          {
+            "id": "v8-15",
+            "text": "8:15so I have arrayed Myself and intended in these days to do good to Jerusalem and Judah’s house. Take courage."
+          },
+          {
+            "id": "v8-16",
+            "text": "8:16These are the things you shall do: speak truth, each to his neighbor, and render peaceful judgment in your gates."
+          },
+          {
+            "id": "v8-17",
+            "text": "8:17Do not reckon your neighbor’s wrong in your hearts, and do not love a false oath, for I hate all these things, says the Lord Almighty.”"
+          },
+          {
+            "id": "v8-18",
+            "text": "8:18The word of the Lord Almighty came to me, saying:"
+          },
+          {
+            "id": "v8-19",
+            "text": "8:19“Thus says the Lord Almighty: The fourth fast, the fifth fast, the seventh fast and the tenth fast will become joy, gladness and good festivals for Judah’s house. You will rejoice; love truth and peace."
+          },
+          {
+            "id": "v8-20",
+            "text": "8:20Thus says the Lord Almighty: Many peoples and residents of many cities will yet come."
+          },
+          {
+            "id": "v8-21",
+            "text": "8:21Residents of five cities will come together into one city, saying, ‘Let us go to entreat the Lord’s presence and seek the presence of the Lord Almighty. I too will go.’"
+          },
+          {
+            "id": "v8-22",
+            "text": "8:22Many peoples and many nations will come to seek the presence of the Lord Almighty in Jerusalem and appease the Lord’s presence."
+          },
+          {
+            "id": "v8-23",
+            "text": "8:23Thus says the Lord Almighty: In those days, when ten men from all the nations’ languages take hold and grasp the fringe of a Jewish man’s garment, saying, ‘We will go with you, for we have heard that God is with you all.’”"
+          }
+        ],
+        "chapter": 8,
+        "section": 8,
+        "page_id": 3064,
+        "title": "Zechariah 8",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-8/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Zechariah 8"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-8/",
+            "label": "Previous chapter, Zechariah 8",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-10/",
+            "label": "Next chapter, Zechariah 10",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-8/",
+            "text": "← Zechariah 8"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/",
+            "text": "Zechariah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-10/",
+            "text": "Zechariah 10 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/zechariah/9/",
+            "text": "All 359 cross-references for Zechariah 9, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v9-1",
+            "text": "9:1An oracle of the Lord’s word: in Sedrach’s land and Damascus is His sacrifice, because the Lord watches human beings and all Israel’s tribes,"
+          },
+          {
+            "id": "v9-2",
+            "text": "9:2and Emath within its borders, Tyre and Sidon, because they were exceedingly wise."
+          },
+          {
+            "id": "v9-3",
+            "text": "9:3Tyre built herself fortifications, stored silver like dust and gathered gold like the mud of the roads."
+          },
+          {
+            "id": "v9-4",
+            "text": "9:4Therefore the Lord will inherit her and strike her strength into the sea; she will be consumed by fire."
+          },
+          {
+            "id": "v9-5",
+            "text": "9:5Ashkelon will see and fear; Gaza will suffer greatly, and Akkaron too, because she was ashamed at her downfall. A king will perish from Gaza, and Ashkelon will certainly not be inhabited."
+          },
+          {
+            "id": "v9-6",
+            "text": "9:6Foreigners will dwell in Azotus, and I will bring down the foreigners’ arrogance."
+          },
+          {
+            "id": "v9-7",
+            "text": "9:7I will remove their blood from their mouth and their detestable things from between their teeth. This one too will remain for our God; they will be like a commander of a thousand in Judah, and Akkaron like the Jebusite."
+          },
+          {
+            "id": "v9-8",
+            "text": "9:8I will take a stand for My house to prevent passing through or returning. No one driving them out will come upon them again, for now I have seen with My own eyes."
+          },
+          {
+            "id": "v9-9",
+            "text": "9:9Rejoice greatly, daughter Zion; proclaim, daughter Jerusalem. Behold, your king comes to you, righteous and saving, gentle, and mounted upon a beast of burden and a young colt."
+          },
+          {
+            "id": "v9-10",
+            "text": "9:10He will destroy chariots from Ephraim and the horse from Jerusalem; the battle bow will be destroyed, and abundance and peace from the nations. He will rule waters as far as the sea and the earth’s river outlets."
+          },
+          {
+            "id": "v9-11",
+            "text": "9:11You, by covenant blood, released your prisoners from a pit with no water."
+          },
+          {
+            "id": "v9-12",
+            "text": "9:12You will settle in a stronghold, prisoners of the gathering; in exchange for one day of your sojourn I will repay you double."
+          },
+          {
+            "id": "v9-13",
+            "text": "9:13For I bent you, Judah, as a bow for Myself; I filled Ephraim, and I will rouse your children, Zion, against the Greeks’ children and handle you like a fighter’s sword."
+          },
+          {
+            "id": "v9-14",
+            "text": "9:14The Lord will be over them; a missile will go out like lightning. The Lord Almighty will sound a trumpet and go in the tumult of His threat."
+          },
+          {
+            "id": "v9-15",
+            "text": "9:15The Lord Almighty will shield them. They will consume them, bury them with sling stones and drink them down like wine; they will fill the altar like bowls."
+          },
+          {
+            "id": "v9-16",
+            "text": "9:16The Lord will save them on that day, His people like sheep, because holy stones roll over His land."
+          },
+          {
+            "id": "v9-17",
+            "text": "9:17For whatever is good of him and whatever is beautiful from him: grain for young men and fragrant wine for virgins."
+          }
+        ],
+        "chapter": 9,
+        "section": 9,
+        "page_id": 3061,
+        "title": "Zechariah 9",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-9/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Zechariah 9"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-9/",
+            "label": "Previous chapter, Zechariah 9",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-11/",
+            "label": "Next chapter, Zechariah 11",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-9/",
+            "text": "← Zechariah 9"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/",
+            "text": "Zechariah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-11/",
+            "text": "Zechariah 11 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/zechariah/10/",
+            "text": "All 301 cross-references for Zechariah 10, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v10-1",
+            "text": "10:1Ask the Lord for rain in its season, early and late. The Lord made appearances and will give them winter rain, to each person vegetation in the field."
+          },
+          {
+            "id": "v10-2",
+            "text": "10:2For those making pronouncements spoke troubles, the diviners false visions; they were telling false dreams and giving vain comfort. Therefore they were carried away like sheep and mistreated, because there was no healing."
+          },
+          {
+            "id": "v10-3",
+            "text": "10:3My wrath was provoked against the shepherds, and I will attend to the lambs. The Lord God Almighty will attend to His flock, Judah’s house, and make them like His splendid horse in battle."
+          },
+          {
+            "id": "v10-4",
+            "text": "10:4From him he looked, and from him he appointed; from him a bow in wrath. From him everyone driving out will come forth together."
+          },
+          {
+            "id": "v10-5",
+            "text": "10:5They will be like fighters trampling mud in the roads in battle; they will draw up for combat because the Lord is with them, and horse riders will be put to shame."
+          },
+          {
+            "id": "v10-6",
+            "text": "10:6I will strengthen Judah’s house and save Joseph’s house. I will settle them because I have loved them; they will be as though I had not turned them away, for I am the Lord their God and will listen to them."
+          },
+          {
+            "id": "v10-7",
+            "text": "10:7They will be like Ephraim’s fighters, and their heart will rejoice as with wine. Their children will see and be glad; their heart will rejoice in the Lord."
+          },
+          {
+            "id": "v10-8",
+            "text": "10:8I will signal to them and receive them, for I will redeem them; they will multiply as they were once many."
+          },
+          {
+            "id": "v10-9",
+            "text": "10:9I will sow them among peoples, and those far away will remember Me; they will nourish their children and return."
+          },
+          {
+            "id": "v10-10",
+            "text": "10:10I will bring them back from Egypt’s land and receive them from the Assyrians. I will bring them into Gilead and Lebanon, and not even one of them will be left behind."
+          },
+          {
+            "id": "v10-11",
+            "text": "10:11They will pass through a narrow sea and strike waves in the sea; all the rivers’ depths will dry up. All the Assyrians’ arrogance will be removed, and Egypt’s scepter will be taken away."
+          },
+          {
+            "id": "v10-12",
+            "text": "10:12I will strengthen them in the Lord their God, and they will boast in His name, says the Lord."
+          }
+        ],
+        "chapter": 10,
+        "section": 10,
+        "page_id": 3062,
+        "title": "Zechariah 10",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-10/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Zechariah 10"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-10/",
+            "label": "Previous chapter, Zechariah 10",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-12/",
+            "label": "Next chapter, Zechariah 12",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-10/",
+            "text": "← Zechariah 10"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/",
+            "text": "Zechariah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-12/",
+            "text": "Zechariah 12 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/zechariah/11/",
+            "text": "All 303 cross-references for Zechariah 11, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v11-1",
+            "text": "11:1Open your doors, Lebanon, and let fire devour your cedars!"
+          },
+          {
+            "id": "v11-2",
+            "text": "11:2Let the pine wail, for the cedar has fallen, because the mighty have suffered greatly! Wail, Bashan’s oaks, for the thick-grown forest has been torn down!"
+          },
+          {
+            "id": "v11-3",
+            "text": "11:3A sound of shepherds lamenting, for their greatness has suffered! A sound of lions roaring, for the Jordan’s proud swelling has suffered!"
+          },
+          {
+            "id": "v11-4",
+            "text": "11:4Thus says the Lord Almighty: “Shepherd the sheep destined for slaughter,"
+          },
+          {
+            "id": "v11-5",
+            "text": "11:5which their buyers were slaughtering without regret; their sellers said, ‘Blessed be the Lord; we have become rich!’ Their shepherds felt nothing for them."
+          },
+          {
+            "id": "v11-6",
+            "text": "11:6Therefore I will no longer spare the land’s residents, says the Lord. Look, I am handing over human beings, each into his neighbor’s hands and his king’s hands. They will cut the land to pieces, and I will certainly not rescue from their hand.”"
+          },
+          {
+            "id": "v11-7",
+            "text": "11:7I will shepherd the sheep destined for slaughter into Canaan’s land. I will take two staffs for myself—I called one Beauty and the other Measuring Cord—and I will shepherd the sheep."
+          },
+          {
+            "id": "v11-8",
+            "text": "11:8I will remove the three shepherds in one month. My soul will be burdened over them, for their souls also roared against me."
+          },
+          {
+            "id": "v11-9",
+            "text": "11:9I said, “I will not shepherd you. Let the dying die, and let the failing fail; let those remaining each devour his neighbor’s flesh.”"
+          },
+          {
+            "id": "v11-10",
+            "text": "11:10I will take my beautiful staff and throw it away, to dissolve my covenant that I made with all the peoples."
+          },
+          {
+            "id": "v11-11",
+            "text": "11:11It will be dissolved on that day, and the Canaanites—the sheep being guarded—will know that it is the Lord’s word."
+          },
+          {
+            "id": "v11-12",
+            "text": "11:12I will say to them, “If it is good before you, weigh out and give my wages, or refuse.” They weighed out my wages: thirty silver pieces."
+          },
+          {
+            "id": "v11-13",
+            "text": "11:13The Lord said to me, “Put them into the smelting furnace and examine whether it is approved, as I was tested on their behalf.” I took the thirty silver pieces and threw them into the Lord’s house, into the smelting furnace."
+          },
+          {
+            "id": "v11-14",
+            "text": "11:14I threw away the second staff, Measuring Cord, to dissolve the possession between Judah and Israel."
+          },
+          {
+            "id": "v11-15",
+            "text": "11:15The Lord said to me, “Take again for yourself the shepherding equipment of an inexperienced shepherd."
+          },
+          {
+            "id": "v11-16",
+            "text": "11:16Look, I am raising up a shepherd over the land: he will certainly not attend to what is failing, seek what is scattered, heal what is broken or guide what is whole. He will devour the flesh of the choice ones and wrench their ankle bones."
+          },
+          {
+            "id": "v11-17",
+            "text": "11:17Oh, you who shepherd worthless things and have abandoned the sheep! A sword against his arms and his right eye! His arm will utterly wither, and his right eye will be completely blinded.”"
+          }
+        ],
+        "chapter": 11,
+        "section": 11,
+        "page_id": 3063,
+        "title": "Zechariah 11",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-11/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Zechariah 11"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-11/",
+            "label": "Previous chapter, Zechariah 11",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-13/",
+            "label": "Next chapter, Zechariah 13",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-11/",
+            "text": "← Zechariah 11"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/",
+            "text": "Zechariah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-13/",
+            "text": "Zechariah 13 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/zechariah/12/",
+            "text": "All 273 cross-references for Zechariah 12, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v12-1",
+            "text": "12:1An oracle of the Lord’s word concerning Israel. The Lord says—He who stretches out heaven, founds earth and forms a person’s spirit within him:"
+          },
+          {
+            "id": "v12-2",
+            "text": "12:2“Look, I am making Jerusalem like shaking entranceways for all the peoples around, and in Judea there will be a siege against Jerusalem."
+          },
+          {
+            "id": "v12-3",
+            "text": "12:3On that day I will make Jerusalem a trampled stone for all the nations. Everyone trampling her will mock in mockery, and all the earth’s nations will gather against her."
+          },
+          {
+            "id": "v12-4",
+            "text": "12:4On that day, says the Lord Almighty, I will strike every horse with bewilderment and its rider with madness. Over Judah’s house I will open My eyes, and I will strike all the peoples’ horses with blindness."
+          },
+          {
+            "id": "v12-5",
+            "text": "12:5Judah’s commanders of thousands will say in their hearts, ‘We will find for ourselves Jerusalem’s residents in the Lord Almighty, their God.’"
+          },
+          {
+            "id": "v12-6",
+            "text": "12:6On that day I will make Judah’s commanders of thousands like a firebrand among wood and a flaming torch among stalks. They will consume all the surrounding peoples to right and left, and Jerusalem will again dwell by herself."
+          },
+          {
+            "id": "v12-7",
+            "text": "12:7The Lord will save Judah’s dwellings as from the beginning, so that the boasting of David’s house and Jerusalem’s residents’ exaltation will not magnify itself over Judah."
+          },
+          {
+            "id": "v12-8",
+            "text": "12:8On that day the Lord will shield Jerusalem’s residents. The weak among them will be like David’s house on that day, and David’s house like God’s house, like the angel of the Lord before them."
+          },
+          {
+            "id": "v12-9",
+            "text": "12:9On that day I will seek to remove all the nations coming against Jerusalem."
+          },
+          {
+            "id": "v12-10",
+            "text": "12:10I will pour upon David’s house and Jerusalem’s residents a spirit of grace and compassion. They will look toward Me because they danced in mockery, and mourn over him as over a beloved one; they will suffer grief as over a firstborn."
+          },
+          {
+            "id": "v12-11",
+            "text": "12:11On that day mourning in Jerusalem will grow great, like mourning over a pomegranate grove cut down in a plain,"
+          },
+          {
+            "id": "v12-12",
+            "text": "12:12and the land will mourn tribe by tribe, each tribe by itself and their wives by themselves: the tribe of David’s house by itself and their wives by themselves; the tribe of Nathan’s house by itself and their wives by themselves;"
+          },
+          {
+            "id": "v12-13",
+            "text": "12:13the tribe of Levi’s house by itself and their wives by themselves; the tribe of Simeon by itself and their wives by themselves;"
+          },
+          {
+            "id": "v12-14",
+            "text": "12:14all the tribes remaining, each tribe by itself and their wives by themselves."
+          }
+        ],
+        "chapter": 12,
+        "section": 12,
+        "page_id": 3066,
+        "title": "Zechariah 12",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-12/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Zechariah 12"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-12/",
+            "label": "Previous chapter, Zechariah 12",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-14/",
+            "label": "Next chapter, Zechariah 14",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-12/",
+            "text": "← Zechariah 12"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/",
+            "text": "Zechariah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-14/",
+            "text": "Zechariah 14 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/zechariah/13/",
+            "text": "All 229 cross-references for Zechariah 13, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v13-1",
+            "text": "13:1On that day every place will be opened in David’s house."
+          },
+          {
+            "id": "v13-2",
+            "text": "13:2On that day, says the Lord, I will destroy the idols’ names from the land, and there will no longer be remembrance of them. I will remove the false prophets and the unclean spirit from the land."
+          },
+          {
+            "id": "v13-3",
+            "text": "13:3If a person still prophesies, his father and mother who begot him will say to him, ‘You shall not live, because you spoke falsehoods in the Lord’s name.’ His father and mother who begot him will bind his feet when he prophesies."
+          },
+          {
+            "id": "v13-4",
+            "text": "13:4On that day the prophets will be ashamed, each because of his vision when he prophesies; they will wear a hairy skin because they lied."
+          },
+          {
+            "id": "v13-5",
+            "text": "13:5He will say, ‘I am no prophet; I am a man who works the earth, because a man begot me from my youth.’"
+          },
+          {
+            "id": "v13-6",
+            "text": "13:6I will say to him, ‘What are these wounds between your hands?’ He will say, ‘The ones with which I was struck in my beloved house.’"
+          },
+          {
+            "id": "v13-7",
+            "text": "13:7Sword, awake against My shepherds, against the man who is My fellow citizen, says the Lord Almighty! Strike the shepherds and tear away the sheep; I will bring My hand against the shepherds."
+          },
+          {
+            "id": "v13-8",
+            "text": "13:8Throughout the land, says the Lord, the two parts will be destroyed and fail, but the third will remain in it."
+          },
+          {
+            "id": "v13-9",
+            "text": "13:9I will lead the third through fire, refine them with fire as silver is refined and test them as gold is tested. He will call on My name, and I will listen to him and say, ‘This is My people,’ and he will say, ‘The Lord is my God.’”"
+          }
+        ],
+        "chapter": 13,
+        "section": 13,
+        "page_id": 3068,
+        "title": "Zechariah 13",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-13/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Zechariah 13"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-13/",
+            "label": "Previous chapter, Zechariah 13",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-1/",
+            "label": "Next chapter, Malachi 1",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-13/",
+            "text": "← Zechariah 13"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/",
+            "text": "Zechariah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-1/",
+            "text": "Malachi 1 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/zechariah/14/",
+            "text": "All 382 cross-references for Zechariah 14, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v14-1",
+            "text": "14:1Look, days of the Lord are coming, and your spoils will be divided within you."
+          },
+          {
+            "id": "v14-2",
+            "text": "14:2I will gather all the nations against Jerusalem for war. The city will be captured, the houses plundered and the women violated. Half the city will go into captivity, but the remnant of My people will certainly not be destroyed from the city."
+          },
+          {
+            "id": "v14-3",
+            "text": "14:3The Lord will go out and draw up for battle among those nations, as on the day of His battle formation on a day of war."
+          },
+          {
+            "id": "v14-4",
+            "text": "14:4On that day His feet will stand on the Mount of Olives opposite Jerusalem to the east. The Mount of Olives will split, half of it toward the east and half toward the sea—a very great chasm; half the mountain will incline north and half south."
+          },
+          {
+            "id": "v14-5",
+            "text": "14:5The ravine of My mountains will be blocked; the mountain ravine will be joined as far as Iasol and blocked as it was blocked in the days of the earthquake, in the days of Oziah king of Judah. The Lord my God will come, and all the holy ones with Him."
+          },
+          {
+            "id": "v14-6",
+            "text": "14:6On that day there will be no light, cold or ice."
+          },
+          {
+            "id": "v14-7",
+            "text": "14:7It will last one day, and that day is known to the Lord, neither day nor night; toward evening there will be light."
+          },
+          {
+            "id": "v14-8",
+            "text": "14:8On that day living water will go out from Jerusalem, half into the first sea and half into the last sea; it will be so in summer and spring."
+          },
+          {
+            "id": "v14-9",
+            "text": "14:9The Lord will be king over all the earth. On that day the Lord will be one, and His name one,"
+          },
+          {
+            "id": "v14-10",
+            "text": "14:10encircling all the land and the wilderness from Gabe to Remmon south of Jerusalem. Rama will remain in its place, from Benjamin’s Gate to the place of the First Gate, to the Gate of Corners and to Ananeel’s Tower, to the king’s wine vats."
+          },
+          {
+            "id": "v14-11",
+            "text": "14:11They will dwell in her; there will no longer be anything accursed, and Jerusalem will dwell confidently."
+          },
+          {
+            "id": "v14-12",
+            "text": "14:12This will be the downfall with which the Lord will strike all the peoples who marched against Jerusalem: their flesh will melt while they stand on their feet; their eyes will flow from their sockets, and their tongue will melt in their mouth."
+          },
+          {
+            "id": "v14-13",
+            "text": "14:13On that day great bewilderment from the Lord will be upon them. Each will seize his neighbor’s hand, and his hand will grapple with his neighbor’s hand."
+          },
+          {
+            "id": "v14-14",
+            "text": "14:14Judah will draw up for battle in Jerusalem and gather the strength of all the surrounding peoples: gold, silver and clothing in very great abundance."
+          },
+          {
+            "id": "v14-15",
+            "text": "14:15This will also be the downfall of horses, mules, camels, donkeys and every animal in those camps, according to this downfall."
+          },
+          {
+            "id": "v14-16",
+            "text": "14:16Whoever remains from all the nations that came against Jerusalem will go up each year to bow before the King, the Lord Almighty, and celebrate the Festival of Tent-Pitching."
+          },
+          {
+            "id": "v14-17",
+            "text": "14:17Whoever among all the earth’s tribes does not go up to Jerusalem to bow before the King, the Lord Almighty—these will be added to those."
+          },
+          {
+            "id": "v14-18",
+            "text": "14:18If Egypt’s tribe does not go up or come there, upon these too will be the downfall with which the Lord will strike all the nations that do not go up to celebrate the Festival of Tent-Pitching."
+          },
+          {
+            "id": "v14-19",
+            "text": "14:19This will be Egypt’s sin and the sin of all the nations that do not go up to celebrate the Festival of Tent-Pitching."
+          },
+          {
+            "id": "v14-20",
+            "text": "14:20On that day what is upon the horse’s bridle will be holy to the Lord Almighty, and the cauldrons in the Lord’s house will be like bowls before the altar."
+          },
+          {
+            "id": "v14-21",
+            "text": "14:21Every cauldron in Jerusalem and Judah will be holy to the Lord Almighty. All who sacrifice will come, take some of them and boil in them. No Canaanite will remain in the house of the Lord Almighty on that day."
+          }
+        ],
+        "chapter": 14,
+        "section": 14,
+        "page_id": 3071,
+        "title": "Zechariah 14",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-14/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 14,
+        "selected_chapter": "Zechariah 14"
+      }
+    ],
+    "index": {
+      "links": [
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-1/",
+          "text": "Chapters 1–6\nEight night visions"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-7/",
+          "text": "Chapters 7–8\nFasting and future joy"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-9/",
+          "text": "Chapters 9–11\nThe coming king and shepherd"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-12/",
+          "text": "Chapters 12–14\nThe pierced one and the Day of the Lord"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-4/#v4-6",
+          "text": "Zechariah 4:6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-9/#v9-9",
+          "text": "Zechariah 9:9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-12/#v12-10",
+          "text": "Zechariah 12:10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/study/",
+          "text": "Open the Zechariah study edition →"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/#saints-ref-1-1",
+          "text": "[1]"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/#",
+          "text": "Suggest a correction"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-1/",
+          "text": "Begin reading →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-1/",
+          "text": "1\nZechariah 1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-2/",
+          "text": "2\nZechariah 2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-3/",
+          "text": "3\nZechariah 3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-4/",
+          "text": "4\nZechariah 4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-5/",
+          "text": "5\nZechariah 5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-6/",
+          "text": "6\nZechariah 6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-7/",
+          "text": "7\nZechariah 7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-8/",
+          "text": "8\nZechariah 8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-9/",
+          "text": "9\nZechariah 9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-10/",
+          "text": "10\nZechariah 10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-11/",
+          "text": "11\nZechariah 11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-12/",
+          "text": "12\nZechariah 12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-13/",
+          "text": "13\nZechariah 13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-14/",
+          "text": "14\nZechariah 14"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/2/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/2/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/3/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/4/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/5/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/6/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/7/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/8/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/9/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/10/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/11/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/12/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/13/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/14/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/15/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/",
+          "text": "Jewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/vulgate-comparison/",
+          "text": "Catholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/kjv-comparison/",
+          "text": "Protestant King James Bible\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/kjv-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/kjv-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/kjv-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/kjv-comparison/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/kjv-comparison/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/kjv-comparison/7/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/kjv-comparison/8/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/kjv-comparison/9/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/kjv-comparison/10/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/kjv-comparison/11/",
+          "text": "10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/kjv-comparison/12/",
+          "text": "11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/kjv-comparison/13/",
+          "text": "12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/kjv-comparison/14/",
+          "text": "13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/kjv-comparison/15/",
+          "text": "14"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/7/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/8/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/9/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/10/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/11/",
+          "text": "10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/12/",
+          "text": "11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/13/",
+          "text": "12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/14/",
+          "text": "13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/15/",
+          "text": "14"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/vulgate-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/vulgate-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/vulgate-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/vulgate-comparison/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/vulgate-comparison/6/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/vulgate-comparison/7/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/vulgate-comparison/8/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/vulgate-comparison/9/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/vulgate-comparison/10/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/vulgate-comparison/11/",
+          "text": "10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/vulgate-comparison/12/",
+          "text": "11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/vulgate-comparison/13/",
+          "text": "12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/vulgate-comparison/14/",
+          "text": "13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/vulgate-comparison/15/",
+          "text": "14"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-1/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-2/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-3/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-4/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-5/",
+          "text": "5"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-6/",
+          "text": "6"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-7/",
+          "text": "7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-8/",
+          "text": "8"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-9/",
+          "text": "9"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-10/",
+          "text": "10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-11/",
+          "text": "11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-12/",
+          "text": "12"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-13/",
+          "text": "13"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-14/",
+          "text": "14"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/editorial-guide/",
+          "text": "Read the editorial guide for Zechariah →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/disparate-study/",
+          "text": "Zechariah — Disparate Study"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/disparate-studies/",
+          "text": "Explore the Providence study guide →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-1/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-7/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-9/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-12/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-4/#v4-6",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-9/#v9-9",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-12/#v12-10",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/study/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/editorial-guide/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/disparate-study/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/disparate-studies/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/#saints-ref-1-cite-1",
+          "text": "↑"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        }
+      ],
+      "text": "Zechariah\n\nBespoke Saints English Translation · 14 chapters · Provisional editorial edition · 15 October 2026\n\nDraft for review. Only editors can see this introduction. Approve all introductions under Settings → Saints Study.\n\nINTRODUCTION\n\nIntroducing Zechariah\n\nZechariah encourages the rebuilding of the temple through night visions, then looks ahead to a humble king, a pierced one and the Lord’s universal reign. It is among the prophets most quoted in the Passion narratives.\n\nSETTING\nAddressed to the returned exiles in Jerusalem under Zerubbabel and Joshua, it called them to repentance and hope.\nAUTHOR\nAttributed to Zechariah son of Berechiah. Many scholars regard chapters 9–14 as the work of a later prophet or prophets.\nDATE\nChapters 1–8 date to 520–518 BC; chapters 9–14 are often dated later.\nOutline\nChapters 1–6\nEight night visions\nChapters 7–8\nFasting and future joy\nChapters 9–11\nThe coming king and shepherd\nChapters 12–14\nThe pierced one and the Day of the Lord\nKey passages\nZechariah 4:6 — Not by might, but by my Spirit\nZechariah 9:9 — Your king, humble on a donkey\nZechariah 12:10 — Looking on the pierced one\nThemes\nReturn and repentance\nGod’s presence in Zion\nThe humble king\nThe rejected shepherd\nThe Lord’s universal reign\nRead in the light of Christ\n\nThe Gospels cite Zechariah for Christ’s entry into Jerusalem, the thirty pieces of silver, the struck shepherd and the pierced side.\n\nOpen the Zechariah study edition →\n\nIntroduction by Saints.Bible · CC BY-SA 4.0[1] · Suggest a correction\n\nFind a chapter\n\n28 links. Choose a section to browse.\n\nREAD\nZechariah · Reading\n14 chapters\nBegin reading →\n1\nZechariah 1\n2\nZechariah 2\n3\nZechariah 3\n4\nZechariah 4\n5\nZechariah 5\n6\nZechariah 6\n7\nZechariah 7\n8\nZechariah 8\n9\nZechariah 9\n10\nZechariah 10\n11\nZechariah 11\n12\nZechariah 12\n13\nZechariah 13\n14\nZechariah 14\nSTUDY\nZechariah · Comparisons\n14 chapters and study sections\n\nCompare Zechariah with the Saints Translation\n\nJewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison\nCatholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison\nProtestant King James Bible\nCompared with the Saints Translation\nOpen comparison\n\nGO STRAIGHT TO A CHAPTER\n\nKJV & Greek\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\nHebrew & Greek\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\nLatin Vulgate\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\nSaints Translation: sources and study approach\nEditorial guide\n\nRead the editorial guide for Zechariah →\n\nCurrent Bespoke editorial guide\n\nAll 14 chapters, comprising 211 existing verse units, have received the Bespoke English editorial pass: 90 revised and 121 retained. Source-specific numbering, names, repetitions and verse anchors are preserved. The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.\n\nRahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending. All English verse units were individually reviewed, and the full displayed Greek running text was read chapter by chapter with focused comparison of the recorded features. This does not constitute exhaustive critical-text verification.\n\nThe newer Bespoke PDF governs this reading edition. Saints Translation literal-smooth and all comparison/study streams remain separate and unchanged. Notes are separated from Scripture. Earlier source and wording notes are historical records and may quote superseded wording or pronouns; the dated current Bespoke notes explain this revision. The earlier editorial guide remains linked as a historical reference and does not override the newer PDF.\n\nAll 211 verse units retain their inherited chapter order, including the horns and craftsmen at 2:1–4. Verse anchors, links, chapter emblems, names, repeated images and meaningful changes in speaker, number and tense remain intact. Mountains, flying sickle, Rising, crowns/crown, choice source readings in 9:9, smelting furnace, danced in mockery, plural shepherds and blocked ravine are retained. Difficult clauses are recorded for specialist review rather than silently harmonized. The newer Bespoke PDF governs; historical comparison and study streams remain separate and unchanged.\n\nZechariah — Disparate Study\n\nRead all 33 classified Disparate entries with complete Hebrew–English and Greek–English readings, Jewish and Christian interpretation, and qualified explanations of their differences.\n\nExplore the Providence study guide →\n\nExplore links from this page\nScripture\nFootnotes\n↑CC BY-SA 4.0 — creativecommons.org",
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "Whitespace and WordPress apostrophe typography only; visible verse numbers and preserved trailing footnote callouts excluded.",
+    "chapter_navigation": [
+      {
+        "text": "Zechariah 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-1/"
+      },
+      {
+        "text": "Zechariah 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-2/"
+      },
+      {
+        "text": "Zechariah 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-3/"
+      },
+      {
+        "text": "Zechariah 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-4/"
+      },
+      {
+        "text": "Zechariah 5",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-5/"
+      },
+      {
+        "text": "Zechariah 6",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-6/"
+      },
+      {
+        "text": "Zechariah 7",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-7/"
+      },
+      {
+        "text": "Zechariah 8",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-8/"
+      },
+      {
+        "text": "Zechariah 9",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-9/"
+      },
+      {
+        "text": "Zechariah 10",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-10/"
+      },
+      {
+        "text": "Zechariah 11",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-11/"
+      },
+      {
+        "text": "Zechariah 12",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-12/"
+      },
+      {
+        "text": "Zechariah 13",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-13/"
+      },
+      {
+        "text": "Zechariah 14",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-14/"
+      }
+    ],
+    "visual_capture": "Every saved reading page received rendered DOM text and navigation checks. Screenshot capture was unavailable because the browser reported a zero-width viewport; no visual screenshot inspection is claimed for this book."
+  },
+  "comparison_checks": [
+    {
+      "id": 23829,
+      "title": "Zechariah — Study Edition",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/study/",
+      "before_content_hash": "660c8ce81c3b80961bd149e29016f47b8279672f",
+      "after_content_hash": "660c8ce81c3b80961bd149e29016f47b8279672f",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20752,
+      "title": "Zechariah — King James Bible and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/kjv-comparison/",
+      "before_content_hash": "9bc54e22b4f12a441f4e164384c11a2e010176bd",
+      "after_content_hash": "9bc54e22b4f12a441f4e164384c11a2e010176bd",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20751,
+      "title": "Zechariah — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/vulgate-comparison/",
+      "before_content_hash": "08873574e1dfa35a44f1e5faff787018c190385a",
+      "after_content_hash": "08873574e1dfa35a44f1e5faff787018c190385a",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 18671,
+      "title": "Zechariah — Disparate Study",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/disparate-study/",
+      "before_content_hash": "09a0a8333bec5d9711c923d835846d618aecda12",
+      "after_content_hash": "09a0a8333bec5d9711c923d835846d618aecda12",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3872,
+      "title": "Zechariah — Hebrew and Greek compared",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/comparison-edition/",
+      "before_content_hash": "ce0fcac68158a56560ed829197a8e976989ebd87",
+      "after_content_hash": "ce0fcac68158a56560ed829197a8e976989ebd87",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3069,
+      "title": "Zechariah — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/editorial-guide/",
+      "before_content_hash": "d7e9369de87826814535c47c4cd1def68aec2436",
+      "after_content_hash": "d7e9369de87826814535c47c4cd1def68aec2436",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 211,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 15 edited pages and all 6 reference pages, plus 6 reference hash snapshots. This is a book archive, not a full-site backup."
+}

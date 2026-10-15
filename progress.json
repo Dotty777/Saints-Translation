@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 41,
-  "pending_book_revisions": 29,
-  "next_book": "Zechariah",
+  "completed_book_records": 42,
+  "pending_book_revisions": 28,
+  "next_book": "Malachi",
   "full_bible_complete": false,
   "books": [
     {
@@ -436,8 +436,12 @@
       "order": 42,
       "book": "Zechariah",
       "staging_path": "/bible/providence/zechariah/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "zechariah/",
+      "chapters": 14,
+      "reading_sections": 14,
+      "verse_units": 211,
+      "wording_changes": 90
     },
     {
       "order": 43,
@@ -653,10 +657,11 @@
       "Nahum",
       "Habakkuk",
       "Zephaniah",
-      "Haggai"
+      "Haggai",
+      "Zechariah"
     ],
-    "pending_books": 2,
-    "next_book": "Zechariah",
+    "pending_books": 1,
+    "next_book": "Malachi",
     "status": "English editorial and staging complete for listed books; specialist review pending"
   },
   "completed_divisions": [
@@ -665,7 +670,7 @@
     "Wisdom"
   ],
   "current_priority": "Finish the remaining Old Testament after Job: all Wisdom books and all Prophets, one book at a time, with staging verification and GitHub main uploads.",
-  "old_testament_completed_book_records": 41,
-  "old_testament_pending_book_revisions": 2,
+  "old_testament_completed_book_records": 42,
+  "old_testament_pending_book_revisions": 1,
   "next_division": "Providence"
 }
