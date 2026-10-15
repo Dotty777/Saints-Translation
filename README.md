@@ -46,7 +46,8 @@ Book-by-book Bespoke Saints English editorial editions, change records and revie
 - [Zechariah — 14 chapters](zechariah/README.md): provisional editorial revision; 211 verse units, 90 wording changes. Staging verified on 15 October 2026.
 - [Malachi — 3 chapters](malachi/README.md): provisional editorial revision; 55 verse units, 43 wording changes. Staging verified on 15 October 2026.
 - [Matthew — 28 chapters](matthew/README.md): provisional editorial revision; 1068 verse units, 228 wording changes. Staging verified on 15 October 2026.
-- Law and Judgement and all seven Wisdom books, together with all Providence books, are complete at the English editorial/staging stage: 43 Old Testament books. Matthew is the first completed New Testament book. Mark is next; 26 books remain pending the Bespoke pass.
+- [Mark — 16 chapters](mark/README.md): provisional editorial revision; 673 verse units, 124 wording changes. Staging verified on 15 October 2026.
+- Law and Judgement and all seven Wisdom books, together with all Providence books, are complete at the English editorial/staging stage: 43 Old Testament books. Completed New Testament books at this stage: Matthew, Mark. Luke is next; 25 books remain pending the Bespoke pass.
 
 [progress.json](progress.json) lists the site's selected seventy-book working edition in its actual reading order: 43 Old Testament and 27 New Testament books. The current user instruction is to extend the Genesis–Exodus manner through every remaining book and keep updates in the current chat. The latest instruction is to continue all 27 New Testament books after the Old Testament, beginning with Matthew. 43 Old Testament books are at the recorded editorial/staging stage; 0 remain. The full Bible revision is not yet complete.
 
@@ -54,4 +55,4 @@ The newer Bespoke policy governs. Rahlfs–Hanhart 2006 continuation is provisio
 
 This progress list supersedes the next-book status in earlier book snapshots; their original records remain preserved. “Completed” means the recorded English pass, staging verification and archive, not independent specialist publication approval.
 
-Matthew’s 28 chapters and 1,068 verse units have completed the provisional English editorial pass, staging save/readback and reader verification. The user authorized NA28 provisionally on 15 October 2026. The newer Bespoke PDF recommends UBS6 with ECM support; its complete text has not been obtained. Full UBS6/ECM and apparatus comparison, independent Greek review and human read-aloud review remain pending. Mark is next. This record does not claim independent scholarly approval.
+New Testament continuation uses the user-authorized provisional NA28 base (approved 15 October 2026). 2 books have completed the English editorial pass, staging save/readback and reader verification; 25 await that pass. The newer Bespoke PDF recommends UBS6 with ECM support; its complete text has not been obtained. Full UBS6/ECM and apparatus comparison, independent Greek review and human read-aloud review remain pending. Luke is next. This record does not claim independent scholarly approval.

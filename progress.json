@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 44,
-  "pending_book_revisions": 26,
-  "next_book": "Mark",
+  "completed_book_records": 45,
+  "pending_book_revisions": 25,
+  "next_book": "Luke",
   "full_bible_complete": false,
   "books": [
     {
@@ -469,8 +469,12 @@
       "order": 45,
       "book": "Mark",
       "staging_path": "/bible/salvation/mark/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "mark/",
+      "chapters": 16,
+      "reading_sections": 16,
+      "verse_units": 673,
+      "wording_changes": 124
     },
     {
       "order": 46,
@@ -652,10 +656,11 @@
   "division_progress": {
     "division": "Salvation",
     "completed_books": [
-      "Matthew"
+      "Matthew",
+      "Mark"
     ],
-    "pending_books": 3,
-    "next_book": "Mark",
+    "pending_books": 2,
+    "next_book": "Luke",
     "status": "English editorial and staging complete for listed books; specialist review pending"
   },
   "completed_divisions": [
@@ -688,8 +693,14 @@
       "https://www.die-bibel.de/en/bible/NA28/MAT.1",
       "https://www.die-bibel.de/en/the-sixth-edition-of-the-greek-new-testament-ubs6"
     ],
-    "access_checks": "The publisher’s browser edition picker displayed NA28 and UBS5, but not UBS6. Focused searches of the linked project Drive folder and accessible Drive files did not locate UBS6. A publisher sample is available, but it is not the full edition."
+    "access_checks": "The publisher’s browser edition picker displayed NA28 and UBS5, but not UBS6. Focused searches of the linked project Drive folder and accessible Drive files did not locate UBS6. A publisher sample is available, but it is not the full edition.",
+    "book_audits": {
+      "Mark": {
+        "staging_changes": 17,
+        "status": "All 16 chapters and index saved and verified; 673 rendered verse units matched the reviewed draft; 124 wording changes."
+      }
+    }
   },
-  "new_testament_completed_book_records": 1,
-  "new_testament_pending_book_revisions": 26
+  "new_testament_completed_book_records": 2,
+  "new_testament_pending_book_revisions": 25
 }
