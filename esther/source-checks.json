@@ -1,0 +1,100 @@
+{
+  "book": "Esther",
+  "date": "2026-10-14",
+  "edition": "Rahlfs–Hanhart 2006; German Bible Society online running text",
+  "authorization": "User authorized provisional continuation with Rahlfs–Hanhart; Göttingen not obtained.",
+  "scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+  "historical_records": "Existing index and reference records were consulted as historical reference, not proof of fresh complete Greek verification.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed. Chapter 5 also includes six continuation paragraphs.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/ESG.1",
+      "focus": "1:1d–1k,1s,4–8,13,16,19–22",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary third-person verbs; retained the dream images, repeated Look, Artaxerxes and Astin, India-only boundary, six-day drinking feast and unusual feast furnishings.",
+      "pending": "1:4–7 wedding, furnishings and garnet-cup value; 1:11 royal appearance; complete apparatus and name forms remain for specialist review."
+    },
+    {
+      "chapter": 2,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed. Chapter 5 also includes six continuation paragraphs.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/ESG.2",
+      "focus": "2:1–4,7,12–20",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized pleases in the selection of the queen. Preserved the difficult memory statement, Aminadab, as a wife, the twelve-month treatment, Adar date, remission and instruction to fear God.",
+      "pending": "2:1 memory construction, 2:7 foster-child/wife wording, 2:12–14 narrative tense/aspect and 2:18 remission require specialist review."
+    },
+    {
+      "chapter": 3,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed. Chapter 5 also includes six continuation paragraphs.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/ESG.3",
+      "focus": "3:1–3,7–13g",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address and verbs, rendered obeisance as bowing down, and clarified open to travel in the first royal letter. Kept Bougaean, the fourteenth-day lot, root-and-branch destruction and Hades without harmonization.",
+      "pending": "3:1 Bougaean, 3:13b civilized/traversable kingdom, 3:13c royal honor and the decree chronology need specialist review."
+    },
+    {
+      "chapter": 4,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed. Chapter 5 also includes six continuation paragraphs.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/ESG.4",
+      "focus": "4:8,11,13–17z",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address while making the singular instruction to Mordecai and plural fasting command clear. Preserved Thou/Thee/Thy in both prayers, with dost rule/dost hold sway; changed third-person has and ordinary possessive my. Kept the mouths, hands, lion, king of flesh, slave-woman language and explicit bodily images.",
+      "pending": "4:16 singular/plural shift; 4:17f inheritance chronology, 4:17k tangled-hair image, 4:17m ancestors, and 4:17q those who do not exist need specialist review."
+    },
+    {
+      "chapter": 5,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed. Chapter 5 also includes six continuation paragraphs.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/ESG.5",
+      "focus": "5:1–2b,3–8,14",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary royal address, including one of the six continuation paragraphs, and used yours as the independent possessive. Preserved both grouped verse labels and all six paragraphs of the expanded audience, brother imagery, shared decree, golden rod on the neck, angel simile, tomorrow I will do the same and the tree.",
+      "pending": "5:1–2 grouped-unit alignment, devotion garments, shared decree and 5:8 tomorrow wording need specialist review. The historical Study Edition contradicts itself about whether the expanded audience is present; it remains unchanged and is flagged for a separate authorized review."
+    },
+    {
+      "chapter": 6,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed. Chapter 5 also includes six continuation paragraphs.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/ESG.6",
+      "focus": "6:1,3–13",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address and third-person verbs. Preserved the Lord removing sleep, the teacher, memorial records, repeated honor formula, falling-word image and a living God.",
+      "pending": "6:1 teacher and memorial wording, 6:10 falling-word image, 6:13 emphatic fall and complete apparatus remain pending."
+    },
+    {
+      "chapter": 7,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed. Chapter 5 also includes six continuation paragraphs.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/ESG.7",
+      "focus": "7:2–10",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address and has; used yours for the independent possessive. Preserved the Greek inclusion of actual slavery, slanderer, changed face, tree and fastening language.",
+      "pending": "7:4 I let it pass and slanderer/court wording, 7:8 accusation and face change, and 7:9 fastening require specialist review."
+    },
+    {
+      "chapter": 8,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed. Chapter 5 also includes six continuation paragraphs.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/ESG.8",
+      "focus": "8:5–12x,15–17",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address and third-person references to God. Clarified such abundance, malicious false reasoning and the causal clause about divine judgment. Preserved the first-month date, full decree, Haman as Macedonian, sons of the Most High, household execution, repeated display wording and circumcision.",
+      "pending": "8:12c abundance, 8:12g–i syntax, 8:12r whole-household chronology and stake, 8:12u named festivals, and full apparatus need specialist review."
+    },
+    {
+      "chapter": 9,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed. Chapter 5 also includes six continuation paragraphs.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/ESG.9",
+      "focus": "9:7–10,12–16,19,22–32",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized the king’s question and independent yours. Preserved the names, plundering at 9:10 and its denial later, fifteen thousand, Phrourai, whole-month wedding feasts and the difficult health statement.",
+      "pending": "9:22 wedding feasts, 9:26 Phrourai etymology, 9:31 against themselves/health, numbered gaps and full apparatus remain pending."
+    },
+    {
+      "chapter": 10,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed. Chapter 5 also includes six continuation paragraphs.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/ESG.10",
+      "focus": "10:1–3l",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained the existing English throughout, including the dream interpretation, spring/river imagery, two dragons, two lots, repeated Lord/God and the closing translation notice.",
+      "pending": "10:3 deputy and course of affairs, 10:3c spring/river syntax, 10:3l authenticity and colophon interpretation need specialist review."
+    }
+  ]
+}

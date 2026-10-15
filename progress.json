@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 18,
-  "pending_book_revisions": 52,
-  "next_book": "Esther",
+  "completed_book_records": 19,
+  "pending_book_revisions": 51,
+  "next_book": "Job",
   "full_bible_complete": false,
   "books": [
     {
@@ -178,8 +178,13 @@
       "order": 19,
       "book": "Esther",
       "staging_path": "/bible/judgement/esther/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "esther/",
+      "chapters": 10,
+      "verse_units": 246,
+      "wording_changes": 59,
+      "continuation_paragraphs": 6,
+      "changed_continuation_paragraphs": 1
     },
     {
       "order": 20,
@@ -555,9 +560,10 @@
       "1 Maccabees",
       "2 Maccabees",
       "Ezra",
-      "Nehemiah"
+      "Nehemiah",
+      "Esther"
     ],
-    "pending_books": 2,
-    "next_book": "Esther"
+    "pending_books": 1,
+    "next_book": "Job"
   }
 }
