@@ -1,0 +1,617 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 47 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 3,
+    "reading_sections": 3,
+    "changed_verse_units": 27,
+    "source_scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "ad589ba3b08c38b95aec001cbf1bf2cc902b5347523846d61df6dc2171bfef97"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 14,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 14,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 19,
+      "changed": 14,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 3049,
+      "chapter": 1,
+      "modified": "2026-10-15T05:12:03",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "4a162d14c8e01caaf0c225fa87cf5faacaaa329551806515c33e3a6ae29e9614"
+    },
+    {
+      "id": 3050,
+      "chapter": 2,
+      "modified": "2026-10-15T05:12:10",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "f5a9c5d4d55f7048b38b51990d594bc6c7e5960e93b3949c0468546f8684f50b"
+    },
+    {
+      "id": 3052,
+      "chapter": 3,
+      "modified": "2026-10-15T05:12:16",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "3049130146723da729124abdd7579c6fb92ebd31a5f4737d1e8b4654add2ee60"
+    },
+    {
+      "id": 3038,
+      "chapter": null,
+      "modified": "2026-10-15T05:12:21",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "ab22873d27d7ec9d71c65e14c2c7302fb9cbd77fdebdee9b46b7eabd6e135a1f"
+    }
+  ],
+  "browser_checks": {
+    "chapters": [
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-7/",
+            "label": "Previous chapter, Micah 7",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-2/",
+            "label": "Next chapter, Nahum 2",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-7/",
+            "text": "← Micah 7"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/",
+            "text": "Nahum: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-2/",
+            "text": "Nahum 2 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/nahum/1/",
+            "text": "All 271 cross-references for Nahum 1, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v1-1",
+            "text": "1:1An oracle concerning Nineveh; the book of the vision of Nahum the Elkoshite."
+          },
+          {
+            "id": "v1-2",
+            "text": "1:2The Lord is a jealous and avenging God, the Lord avenging with fury, the Lord avenging Himself on His adversaries, and He Himself removes His enemies."
+          },
+          {
+            "id": "v1-3",
+            "text": "1:3The Lord is patient, and His strength is great; the Lord certainly will not acquit. His way is in consummation and shaking; clouds are the dust of His feet."
+          },
+          {
+            "id": "v1-4",
+            "text": "1:4He threatens the sea and dries it up, and makes all the rivers desolate. Bashan and Carmel have dwindled, and Lebanon’s flowering things have failed."
+          },
+          {
+            "id": "v1-5",
+            "text": "1:5Mountains shook before Him and hills were shaken; the whole earth recoiled before Him, and all who dwell in it."
+          },
+          {
+            "id": "v1-6",
+            "text": "1:6Who will stand before His anger? Who will resist His furious wrath? His fury melts rulers, and rocks were crushed before Him."
+          },
+          {
+            "id": "v1-7",
+            "text": "1:7The Lord is good to those who wait for Him in a day of affliction, and He knows those who revere Him."
+          },
+          {
+            "id": "v1-8",
+            "text": "1:8With an advancing flood He will make a complete end of those who rise up, and darkness will pursue His enemies."
+          },
+          {
+            "id": "v1-9",
+            "text": "1:9What do you devise against the Lord? He will make a complete end; He will not exact vengeance twice upon the same thing in affliction."
+          },
+          {
+            "id": "v1-10",
+            "text": "1:10For it will be laid waste to their foundation, consumed like an entwining thorn-vine and like stubble full of dryness."
+          },
+          {
+            "id": "v1-11",
+            "text": "1:11From you will come a scheme, devising evil things in opposition to the Lord."
+          },
+          {
+            "id": "v1-12",
+            "text": "1:12Thus says the Lord who rules many waters: Even so they will be separated, and your report will no longer be heard."
+          },
+          {
+            "id": "v1-13",
+            "text": "1:13And now I will crush his rod away from you and tear apart your bonds."
+          },
+          {
+            "id": "v1-14",
+            "text": "1:14The Lord will command concerning you: No more will be sown from your name. From the house of your god I will destroy carved and cast images. I will make your burial, for they are swift."
+          }
+        ],
+        "chapter": 1,
+        "section": 1,
+        "page_id": 3049,
+        "title": "Nahum 1",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-1/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 3,
+        "selected_chapter": "Nahum 1"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-1/",
+            "label": "Previous chapter, Nahum 1",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-3/",
+            "label": "Next chapter, Nahum 3",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-1/",
+            "text": "← Nahum 1"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/",
+            "text": "Nahum: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-3/",
+            "text": "Nahum 3 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/nahum/2/",
+            "text": "All 143 cross-references for Nahum 2, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v2-1",
+            "text": "2:1Look, upon the mountains are the feet of one bringing good news and announcing peace! Celebrate your feasts, Judah; repay your vows. For they will no longer pass through you into decay. It has been completed; it has been removed."
+          },
+          {
+            "id": "v2-2",
+            "text": "2:2One who breathes into your face has come up, rescuing from affliction. Watch the road; hold your waist firm; act courageously with great strength,"
+          },
+          {
+            "id": "v2-3",
+            "text": "2:3because the Lord turned away Jacob’s arrogance, as Israel’s arrogance; for those shaking them out shook out both them and their vine branches; they ruined"
+          },
+          {
+            "id": "v2-4",
+            "text": "2:4the weapons of their might from among people, mighty men playing in fire. The reins of their chariots are on the day of his preparation, and the horsemen will be thrown into uproar"
+          },
+          {
+            "id": "v2-5",
+            "text": "2:5in the roads, and the chariots will be thrown into confusion and entangled in the squares; their appearance is like torches of fire and lightning flashing past."
+          },
+          {
+            "id": "v2-6",
+            "text": "2:6Their nobles will remember and flee by day; they will weaken on their journey, hurry to the walls and prepare their defenses."
+          },
+          {
+            "id": "v2-7",
+            "text": "2:7The river gates were opened, and the royal palace collapsed."
+          },
+          {
+            "id": "v2-8",
+            "text": "2:8The foundation was uncovered, and she was going up, and her slave women were being led away like doves murmuring in their hearts."
+          },
+          {
+            "id": "v2-9",
+            "text": "2:9Nineveh—her waters are like a swimming pool; they were fleeing and did not stop, and there was no one looking back."
+          },
+          {
+            "id": "v2-10",
+            "text": "2:10They were plundering silver; they were plundering gold. There was no limit to her adornment; they have been weighed down beyond all her desirable vessels."
+          },
+          {
+            "id": "v2-11",
+            "text": "2:11Shaking out, tossing up and boiling over; broken hearts, loosening knees, pangs at every waist, and every face like the scorching of a pot."
+          },
+          {
+            "id": "v2-12",
+            "text": "2:12Where is the lions’ dwelling and the pasture that belonged to the cubs, where a lion went to enter there, a lion’s cub, and no one frightened them?"
+          },
+          {
+            "id": "v2-13",
+            "text": "2:13A lion seized enough for his cubs and strangled for his lions; he filled his nest with prey and his dwelling with plunder."
+          },
+          {
+            "id": "v2-14",
+            "text": "2:14Look, I am against you, says the Lord Almighty. I will burn your multitude in smoke; the sword will consume your lions. I will destroy your prey from the earth, and your deeds will never again be heard."
+          }
+        ],
+        "chapter": 2,
+        "section": 2,
+        "page_id": 3050,
+        "title": "Nahum 2",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-2/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 3,
+        "selected_chapter": "Nahum 2"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-2/",
+            "label": "Previous chapter, Nahum 2",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/habakkuk/chapter-1/",
+            "label": "Next chapter, Habakkuk 1",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-2/",
+            "text": "← Nahum 2"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/",
+            "text": "Nahum: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/habakkuk/chapter-1/",
+            "text": "Habakkuk 1 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/nahum/3/",
+            "text": "All 170 cross-references for Nahum 3, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v3-1",
+            "text": "3:1O city of bloodshed, wholly false, full of injustice! Prey will not be touched."
+          },
+          {
+            "id": "v3-2",
+            "text": "3:2The sound of whips and the sound of shaking wheels, of a pursuing horse and a jolting chariot,"
+          },
+          {
+            "id": "v3-3",
+            "text": "3:3and of a mounting horseman, a flashing sword and glittering weapons, a multitude of slain and a grievous fall! There was no limit to her nations, and they will weaken in their bodies"
+          },
+          {
+            "id": "v3-4",
+            "text": "3:4because of the multitude of prostitution. A prostitute, beautiful and pleasing, mistress of potions, selling nations through her prostitution and tribes through her potions,"
+          },
+          {
+            "id": "v3-5",
+            "text": "3:5look, I am against you, says the Lord God Almighty. I will expose your hind parts over your face and show nations your shame and kingdoms your dishonor,"
+          },
+          {
+            "id": "v3-6",
+            "text": "3:6and cast abomination upon you according to your impurities, and make you an example,"
+          },
+          {
+            "id": "v3-7",
+            "text": "3:7and everyone seeing you will spring away and say, “Miserable Nineveh! Who will lament her? Where shall I seek consolation for her?”"
+          },
+          {
+            "id": "v3-8",
+            "text": "3:8Prepare a portion; tune a string; prepare a portion, Amon, who dwells among rivers, water around her, whose dominion was the sea and whose walls were water,"
+          },
+          {
+            "id": "v3-9",
+            "text": "3:9and Ethiopia was her strength, and Egypt, and there is no limit to the flight; Libyans became her helpers."
+          },
+          {
+            "id": "v3-10",
+            "text": "3:10She too will go into deportation as a captive; they will dash her infants to the ground at the head of all her roads, cast lots for all her glorious things; and all her nobles will be bound in handcuffs."
+          },
+          {
+            "id": "v3-11",
+            "text": "3:11You too will become drunk and be overlooked; you too will seek a place to stand away from enemies."
+          },
+          {
+            "id": "v3-12",
+            "text": "3:12All your fortresses are fig trees having lookouts; if shaken, they will fall into the eater’s mouth."
+          },
+          {
+            "id": "v3-13",
+            "text": "3:13Look, your people within you are like women! The gates of your land will open wide to your enemies, and fire will consume your bars."
+          },
+          {
+            "id": "v3-14",
+            "text": "3:14Draw water for yourself for the siege, hold your fortresses firmly; step into mud, be trampled in straw, hold fast over the brick."
+          },
+          {
+            "id": "v3-15",
+            "text": "3:15There fire will consume you; a sword will destroy you, devouring you like a locust, and you will become heavy like a crawling locust."
+          },
+          {
+            "id": "v3-16",
+            "text": "3:16You multiplied your trading beyond the stars of heaven. A crawling locust rushed out and flew away."
+          },
+          {
+            "id": "v3-17",
+            "text": "3:17Your mixed company leaped away like a young locust, like a locust perched on a fence on frosty days. The sun rose, it leaped away, and it did not know its place. Woe to them!"
+          },
+          {
+            "id": "v3-18",
+            "text": "3:18Your shepherds slumbered; the Assyrian king put your rulers to sleep. Your people departed upon the mountains, and there was no one receiving them."
+          },
+          {
+            "id": "v3-19",
+            "text": "3:19There is no healing for your crushing; your wound has become inflamed. All who hear the report of you will clap their hands over you, for upon whom has your evil not continually come?"
+          }
+        ],
+        "chapter": 3,
+        "section": 3,
+        "page_id": 3052,
+        "title": "Nahum 3",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-3/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 3,
+        "selected_chapter": "Nahum 3"
+      }
+    ],
+    "index": {
+      "links": [
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/comparison-edition/",
+          "text": "Jewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/vulgate-comparison/",
+          "text": "Catholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/kjv-comparison/",
+          "text": "Protestant King James Bible\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-1/",
+          "text": "Chapter 1\nThe Lord’s justice and goodness"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-2/",
+          "text": "Chapter 2\nThe siege of Nineveh"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-3/",
+          "text": "Chapter 3\nWoe to the bloody city"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-1/#v1-3",
+          "text": "Nahum 1:3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-1/#v1-7",
+          "text": "Nahum 1:7"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-3/#v3-19",
+          "text": "Nahum 3:19"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/study/",
+          "text": "Open the Nahum study edition →"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/#saints-ref-1-1",
+          "text": "[1]"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/#",
+          "text": "Suggest a correction"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-1/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-2/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-3/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/editorial-guide/",
+          "text": "Read the editorial guide for Nahum →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/disparate-study/",
+          "text": "Nahum — Disparate Study"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-1/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-2/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-3/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-1/#v1-3",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-1/#v1-7",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-3/#v3-19",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/study/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/editorial-guide/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/disparate-study/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/#saints-ref-1-cite-1",
+          "text": "↑"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        }
+      ],
+      "text": "Nahum\n\nBespoke Saints English Translation · 3 chapters · Provisional editorial edition · 15 October 2026\n\nCompare Nahum with the Saints Translation\n\nJewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison\nCatholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison\nProtestant King James Bible\nCompared with the Saints Translation\nOpen comparison\nSaints Translation: sources and study approach\n\nDraft for review. Only editors can see this introduction. Approve all introductions under Settings → Saints Study.\n\nINTRODUCTION\n\nIntroducing Nahum\n\nNahum celebrates the coming fall of Nineveh, the capital of the brutal Assyrian empire. It proclaims that the Lord is slow to anger but will not leave the guilty unpunished.\n\nSETTING\nWritten for Judah, long oppressed by Assyria, it offered comfort that the tyrant’s power would end.\nAUTHOR\nAttributed to Nahum of Elkosh, of whom little else is known.\nDATE\nBetween the fall of Thebes (c. 663 BC) and the fall of Nineveh (612 BC).\nOutline\nChapter 1\nThe Lord’s justice and goodness\nChapter 2\nThe siege of Nineveh\nChapter 3\nWoe to the bloody city\nKey passages\nNahum 1:3 — Slow to anger, great in power\nNahum 1:7 — A stronghold in trouble\nNahum 3:19 — No healing for the wound\nThemes\nGod’s justice\nThe fall of tyrants\nComfort for the oppressed\nGod as refuge\nRead in the light of Christ\n\nChristian readers took the herald on the mountains bringing good news (cf. Isaiah 52 and Romans 10) as a figure of the gospel of Christ’s victory.\n\nOpen the Nahum study edition →\n\nIntroduction by Saints.Bible · CC BY-SA 4.0[1] · Suggest a correction\n\nChapters\n\n1 2 3\n\nEditorial guide\n\nRead the editorial guide for Nahum →\n\nCurrent Bespoke editorial guide\n\nAll 3 chapters, comprising 47 existing verse units, have received the Bespoke English editorial pass: 27 revised and 20 retained. Source-specific numbering, names, repetitions and verse anchors are preserved. The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.\n\nRahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending. All English verse units were individually reviewed, and the full displayed Greek running text was read chapter by chapter with focused comparison of the recorded features. This does not constitute exhaustive critical-text verification.\n\nThe newer Bespoke PDF governs this reading edition. Saints Translation literal-smooth and all comparison/study streams remain separate and unchanged. Notes are separated from Scripture. Earlier source and wording notes are historical records and may quote superseded wording or pronouns; the dated current Bespoke notes explain this revision. The earlier editorial guide remains linked as a historical reference and does not override the newer PDF.\n\nAll 47 verse units remain in their original order: 14, 14 and 19 per chapter. Source 2:1 corresponds to common English 1:15; source 2:2–14 corresponds to common English 2:1–13. Cross-verse clauses, repeated images, names, emblems, anchors and links remain intact. Prey preserves the lion/predation image. Difficult reins/preparation, swift burial, string/portion, fig-lookout and locust readings are recorded for specialist review; they have not been replaced from other witnesses. Historical notes remain separate and unchanged, and the newer Bespoke PDF governs where the older guide conflicts.\n\nNahum — Disparate Study\n\nRead both complete source readings before five commentary paragraphs for every Disparate entry in this book.\n\nExplore links from this page\nScripture\nFootnotes\n↑CC BY-SA 4.0 — creativecommons.org",
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "Whitespace and WordPress apostrophe typography only; visible verse numbers and preserved trailing footnote callouts excluded.",
+    "chapter_navigation": [
+      {
+        "text": "Nahum 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-1/"
+      },
+      {
+        "text": "Nahum 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-2/"
+      },
+      {
+        "text": "Nahum 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/chapter-3/"
+      }
+    ],
+    "visual_capture": "Every saved reading page received rendered DOM text and navigation checks. Screenshot capture was unavailable because the browser reported a zero-width viewport; no visual screenshot inspection is claimed for this book."
+  },
+  "comparison_checks": [
+    {
+      "id": 23739,
+      "title": "Nahum — Study Edition",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/study/",
+      "before_content_hash": "0ec22da4e0ed53571633a4af0ca485c66cfd4ec6",
+      "after_content_hash": "0ec22da4e0ed53571633a4af0ca485c66cfd4ec6",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20744,
+      "title": "Nahum — King James Bible and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/kjv-comparison/",
+      "before_content_hash": "09e1e588c40692750aef5063b266847ed081ba4e",
+      "after_content_hash": "09e1e588c40692750aef5063b266847ed081ba4e",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20743,
+      "title": "Nahum — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/vulgate-comparison/",
+      "before_content_hash": "91a0de5811c8c4ddcf40162d7a0abe0b39adb39c",
+      "after_content_hash": "91a0de5811c8c4ddcf40162d7a0abe0b39adb39c",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 18651,
+      "title": "Nahum — Disparate Study",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/disparate-study/",
+      "before_content_hash": "d17ddcd019472006cb19239838e82309c8394711",
+      "after_content_hash": "d17ddcd019472006cb19239838e82309c8394711",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3815,
+      "title": "Nahum — Hebrew and Greek compared",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/comparison-edition/",
+      "before_content_hash": "4a9bc7f748f74240edbe6cfcac59a6df4fc7b57f",
+      "after_content_hash": "4a9bc7f748f74240edbe6cfcac59a6df4fc7b57f",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3051,
+      "title": "Nahum — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/nahum/editorial-guide/",
+      "before_content_hash": "89b2cc67f6bc301c882dba3c183a15b1ce2d9915",
+      "after_content_hash": "89b2cc67f6bc301c882dba3c183a15b1ce2d9915",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 47,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 4 edited pages and all 6 reference pages, plus 6 reference hash snapshots. This is a book archive, not a full-site backup."
+}

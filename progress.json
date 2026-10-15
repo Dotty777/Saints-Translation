@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 37,
-  "pending_book_revisions": 33,
-  "next_book": "Nahum",
+  "completed_book_records": 38,
+  "pending_book_revisions": 32,
+  "next_book": "Habakkuk",
   "full_bible_complete": false,
   "books": [
     {
@@ -392,8 +392,12 @@
       "order": 38,
       "book": "Nahum",
       "staging_path": "/bible/providence/nahum/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "nahum/",
+      "chapters": 3,
+      "reading_sections": 3,
+      "verse_units": 47,
+      "wording_changes": 27
     },
     {
       "order": 39,
@@ -633,11 +637,12 @@
       "Amos",
       "Obadiah",
       "Jonah",
-      "Micah"
+      "Micah",
+      "Nahum"
     ],
-    "pending_books": 6,
-    "next_book": "Nahum",
-    "status": "In progress; Isaiah, Jeremiah, Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah, Jonah and Micah English editorial and staging complete, specialist review pending"
+    "pending_books": 5,
+    "next_book": "Habakkuk",
+    "status": "English editorial and staging complete for listed books; specialist review pending"
   },
   "completed_divisions": [
     "Law",
@@ -645,7 +650,7 @@
     "Wisdom"
   ],
   "current_priority": "Finish the remaining Old Testament after Job: all Wisdom books and all Prophets, one book at a time, with staging verification and GitHub main uploads.",
-  "old_testament_completed_book_records": 37,
-  "old_testament_pending_book_revisions": 6,
+  "old_testament_completed_book_records": 38,
+  "old_testament_pending_book_revisions": 5,
   "next_division": "Providence"
 }
