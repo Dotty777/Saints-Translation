@@ -1,0 +1,2284 @@
+JOB — BESPOKE SAINTS ENGLISH TRANSLATION
+14 October 2026
+Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.
+Plain text Scripture only. Separated editorial notes and unresolved readings are in editorial-notes.json, source-checks.json and the HTML reader.
+
+
+JOB 1
+
+1:1 A certain man lived in the land of Ausitis whose name was Job. That man was true, blameless, righteous, and God-fearing, keeping away from every evil deed.
+1:2 He had seven sons and three daughters.
+1:3 His livestock numbered seven thousand sheep, three thousand camels, five hundred pairs of oxen, and five hundred grazing female donkeys. He had a very large body of servants and great enterprises in the land. That man was of noble standing among those from the sunrise.
+1:4 His sons would gather with one another and hold a drinking feast each day, taking their three sisters along to eat and drink with them.
+1:5 When the days of the drinking feast had ended, Job would send for them and purify them, rising in the morning and offering sacrifices for them according to their number, and one calf as a sin offering for their lives. For Job said, “Perhaps my sons have conceived evil thoughts toward God in their minds.” So Job did this continually.
+1:6 When that day came, behold, the angels of God came to stand before the Lord, and the devil came with them.
+1:7 The Lord said to the devil, “Where have you come from?” The devil answered the Lord, “I have come after going around the earth and walking through the world beneath heaven.”
+1:8 The Lord said to him, “Have you paid attention in your mind to My servant Job? For among those on earth there is no man like him—blameless, true, God-fearing, keeping away from every evil deed.”
+1:9 The devil answered before the Lord, “Does Job worship God for nothing?
+1:10 Hast Thou not fenced in what is outside him and what is inside his house, and everything around all that belongs to him? Thou hast blessed the works of his hands and made his livestock numerous in the land.
+1:11 But stretch out Thy hand and touch everything he has; surely he will curse Thee to Thy face.”
+1:12 Then the Lord said to the devil, “Behold, everything he has I give into your hand, but do not touch him.” And the devil went out from the Lord.
+1:13 When that day came, Job’s sons and his daughters were drinking wine in the house of their elder brother.
+1:14 Behold, a messenger came to Job and said to him, “The pairs of oxen were plowing, and the female donkeys were grazing beside them.
+1:15 The raiders came and carried them away, and killed the servants with swords. I alone was saved and came to report to you.”
+1:16 While this one was still speaking, another messenger came and said to Job, “Fire fell from heaven and burned up the sheep and likewise consumed the shepherds. I alone was saved and came to report to you.”
+1:17 While this one was still speaking, another messenger came and said to Job, “The horsemen formed three companies against us, surrounded the camels and carried them away, and killed the servants with swords. I alone was saved and came to report to you.”
+1:18 While this one was still speaking, another messenger came, saying to Job, “While your sons and daughters were eating and drinking with their elder brother,
+1:19 a great wind suddenly came from the wilderness and struck the four corners of the house. The house fell on your children, and they died. I alone was saved and came to report to you.”
+1:20 Then Job rose, tore his garments, and cut off the hair of his head. He fell to the ground, bowed in worship, and said:
+1:21 “I myself came out naked from my mother’s womb, and naked I shall depart there: the Lord gave, and the Lord took away; as it seemed good to the Lord, so it happened: blessed be the name of the Lord.”
+1:22 In all these things that happened to him, Job did not sin at all before the Lord or attribute foolishness to God.
+
+JOB 2
+
+2:1 When that day came, the angels of God came to stand before the Lord, and the devil came among them to stand before the Lord.
+2:2 The Lord said to the devil, “Where are you coming from?” Then the devil said before the Lord, “I have come after traveling through the world beneath heaven and walking through all of it.”
+2:3 The Lord said to the devil, “Have you then paid attention to My servant Job? For among those on earth there is no man like him—innocent, true, blameless, God-fearing, keeping away from every evil. He still holds to innocence, but you said to destroy his belongings for nothing.”
+2:4 The devil replied to the Lord, “Skin for skin! Whatever a person has, he will pay for his life.
+2:5 But indeed, stretch out Thy hand and touch his bones and his flesh; surely he will curse Thee to Thy face.”
+2:6 The Lord said to the devil, “Behold, I hand him over to you; only preserve his life.”
+2:7 The devil went out from the Lord and struck Job with a grievous ulcer from his feet to his head.
+2:8 He took a potsherd to scrape off the discharge, and sat on the dung heap outside the city.
+2:9 After much time had passed, his wife said to him, “How long will you persist, saying,
+2:9a ‘Behold, I will wait a little while longer, expecting the hope of my deliverance’?
+2:9b For behold, your memorial has vanished from the earth: sons and daughters, the pangs and pains of my womb, for whom I labored in vain with hardships.
+2:9c You yourself sit amid the decay of worms, spending the night in the open air,
+2:9d while I am a wanderer and a hired servant, going from place to place and from house to house, waiting for the sun to set so that I may rest from the hardships and pains that now hold me fast.
+2:9e But say some word to the Lord and die.”
+2:10 He looked at her and said, “You have spoken like one of the foolish women. If we received good things from the Lord’s hand, shall we not bear the bad things?” In all these things that happened to him, Job did not sin at all with his lips before God.
+2:11 His three friends heard of all the bad things that had come upon him and came to him, each from his own country: Eliphaz king of the Temanites, Bildad ruler of the Shuhites, and Zophar king of the Minaeans. They came to him together to comfort him and visit him.
+2:12 When they saw him from far away, they did not recognize him. Crying out loudly, they wept, each tearing his own robe and sprinkling earth upon himself.
+2:13 They sat beside him seven days and seven nights, and none of them spoke, for they saw that his affliction was terrible and exceedingly great.
+
+JOB 3
+
+3:1 After this Job opened his mouth and cursed his day,
+3:2 saying:
+3:3 “May the day perish on which I was born,
+and the night in which they said, ‘Behold, a male child!’
+3:4 May that day be darkness;
+may the Lord above not seek it out,
+and may no brightness come upon it.
+3:5 May darkness and death’s shadow take possession of it;
+may gloom come upon it.
+3:6 May that day and night be cursed;
+may darkness carry it away.
+May it not belong among the days of the year
+or be numbered among the days of the months.
+3:7 But may that night be pain,
+and may neither gladness nor joy come upon it.
+3:8 But may the one who curses that day curse it,
+the one who is about to subdue the great sea creature.
+3:9 May the stars of that night be darkened;
+may it wait and not come into light,
+and may it not see the morning star rising,
+3:10 because it did not close the gates of my mother’s womb;
+for it would have removed pain from my eyes.
+3:11 For why did I not die in the womb,
+come out from the belly and immediately perish?
+3:12 Why did knees meet me?
+Why did I suck breasts?
+3:13 Now I would have lain down and been quiet;
+I would have slept and rested
+3:14 with kings, counselors of the earth,
+who exulted in swords,
+3:15 or with rulers who had much gold,
+who filled their houses with silver,
+3:16 or like a miscarriage coming out of a mother’s womb,
+or like infants who never saw light.
+3:17 There the ungodly kindled the fury of anger;
+there those worn out in body rested.
+3:18 Together the age-old ones
+did not hear a tax collector’s voice.
+3:19 Small and great are there,
+and the servant does not fear his master.
+3:20 For why has light been given to those in bitterness,
+and life to souls in pain,
+3:21 who long for death and do not obtain it,
+digging for it as for treasures,
+3:22 and become overjoyed if they obtain it?
+3:23 Death is rest for a man,
+for God has shut him in.
+3:24 For sighing comes to me before my food,
+and I weep, gripped by fear.
+3:25 For the fear I thought about came upon me,
+and what I had feared met me.
+3:26 I had no peace, no quiet, no rest;
+yet wrath came upon me.”
+
+JOB 4
+
+4:1 Then Eliphaz the Temanite replied:
+4:2 “Have you not often been spoken to amid trouble?
+Who will endure the force of your words?
+4:3 For if you admonished many
+and encouraged a weak person’s hands,
+4:4 and raised up the weak with words
+and put courage into powerless knees,
+4:5 yet now pain has come upon you and touched you, and you have become agitated.
+4:6 Is not your fear in foolishness,
+and your hope and the innocence of your way as well?
+4:7 Remember, then: who perished while pure,
+or when were true people utterly uprooted?
+4:8 As I have seen those who plow improper things,
+those who sow them will reap pains for themselves.
+4:9 By the Lord’s command they will perish;
+by the breath of His anger they will disappear.
+4:10 The lion’s strength, the lioness’s voice,
+and the boasting of dragons were extinguished.
+4:11 The ant-lion perished for lack of food,
+and lion cubs abandoned one another.
+4:12 But if some true word had been among your words,
+none of these evils would have met you.
+Will not my ear receive extraordinary things from Him?
+4:13 There were terrors and a nocturnal sound,
+fear falling upon people;
+4:14 a shudder and trembling met me
+and shook my bones greatly.
+4:15 A spirit came upon my face,
+and my hair and flesh shuddered.
+4:16 I stood up and did not recognize it;
+I looked, and there was no form before my eyes,
+but I heard a breeze and a voice:
+4:17 ‘What then? Can a mortal be pure before the Lord,
+or a man blameless on account of his works?
+4:18 If He places no trust in His servants
+and finds something crooked in His angels,
+4:19 as for those who inhabit houses of clay,
+from which we ourselves also are, of the same clay,
+He struck them as one does a moth.
+4:20 From morning until evening they are no more;
+because they cannot help themselves, they perished.
+4:21 For He blew upon them, and they withered;
+they perished because they had no wisdom.’
+
+JOB 5
+
+5:1 “Call, then, to see whether anyone will answer you,
+or whether you will see any of the holy angels.
+5:2 For anger kills a fool,
+and jealousy puts one who has gone astray to death.
+5:3 I have seen fools taking root,
+but immediately their way of life was devoured.
+5:4 May their sons be far from deliverance;
+may they be battered at the doors of weaker people, with no one to rescue them.
+5:5 For the righteous will eat what they gathered,
+and they themselves will not be rescued from evils;
+may their strength be drained away.
+5:6 For toil will certainly not come out of the earth,
+nor will pain sprout from mountains;
+5:7 but a human being is born to toil,
+and a vulture’s young fly to the heights.
+5:8 But indeed, I will entreat the Lord;
+I will call upon the Lord, the Master of all,
+5:9 who does great and unsearchable things,
+glorious and extraordinary things beyond numbering,
+5:10 who gives rain upon the earth
+and sends water upon the world beneath heaven,
+5:11 who raises the lowly to a height
+and rouses those who have perished,
+5:12 who changes the counsels of the unscrupulous,
+and their hands will certainly do nothing true.
+5:13 He catches the wise in their understanding
+and throws the counsel of the devious into confusion.
+5:14 By day darkness will meet them;
+may they grope at noon as in the night.
+5:15 May they perish in war,
+but may the powerless escape from a ruler’s hand.
+5:16 May the powerless have hope,
+and may an unjust person’s mouth be stopped.
+5:17 Happy is the person whom the Lord reproved;
+do not refuse the Almighty’s admonition.
+5:18 For He causes pain and restores again;
+He struck, and His hands healed.
+5:19 Six times He will rescue you from distress;
+and the seventh time no evil will touch you.
+5:20 In famine He will rescue you from death,
+and in war He will release you from the hand of iron.
+5:21 He will hide you from the lash of the tongue,
+and you will not fear coming evils.
+5:22 You will laugh at unjust and lawless people;
+you will not fear wild beasts,
+5:23 for wild beasts will be at peace with you.
+5:24 Then you will know that your house will be at peace,
+and the livelihood of your tent will not fail.
+5:25 You will know that your offspring are many,
+and your children will be like all the vegetation of the field.
+5:26 You will come to the grave like ripe grain harvested at the proper time,
+or like a heap on the threshing floor gathered in its season.
+5:27 Behold, we have searched these things out in this way;
+these are the things we have heard.
+But know for yourself whether you have done anything.”
+
+JOB 6
+
+6:1 Then Job replied:
+6:2 “If only someone would weigh my anger
+and lift my pains together in a balance!
+6:3 It would indeed be heavier than the sand beside the sea;
+but, it seems, my words are worthless.
+6:4 For the Lord’s arrows are in my body;
+their fury drinks up my blood.
+When I begin to speak, they stab me.
+6:5 What then? Does a wild donkey cry out for nothing, rather than seeking food?
+Would an ox raise its voice at a manger when it has food?
+6:6 Will bread be eaten without salt?
+Is there any taste in empty words?
+6:7 For my soul cannot cease;
+I see my food as a stench, like the smell of a lion.
+6:8 If only He would grant it and my request would come,
+and the Lord would grant my hope!
+6:9 Let the Lord begin and wound me,
+but let Him not destroy me completely.
+6:10 May my city be a grave, on whose walls I used to leap; I will certainly not hold back.
+For I have not falsified the holy words of my God.
+6:11 For what is my strength, that I endure?
+What time remains to me, that my soul holds out?
+6:12 Is my strength the strength of stones?
+Is my flesh made of bronze?
+6:13 Had I not trusted in Him?
+But help is far from me.
+6:14 Mercy has disowned me,
+and the Lord’s care has overlooked me.
+6:15 Those nearest me paid no attention to me;
+like a failing winter torrent or a wave they passed me by.
+6:16 Those who regarded me with awe have now fallen upon me,
+like snow or ice frozen solid.
+6:17 Just as snow melts when heat comes and is no longer recognized as what it was,
+6:18 so I too was abandoned by everyone;
+I perished and became homeless.
+6:19 Look at the roads of the Temanites,
+the paths of the Sabeans, you who see clearly!
+6:20 Those who trust in cities and possessions
+will incur shame.
+6:21 But you too have come upon me without mercy,
+so that on seeing my wound you became afraid.
+6:22 What then? Did I ask you for anything,
+or do I need the strength you have,
+6:23 to save me from enemies
+or rescue me from the hand of rulers?
+6:24 Teach me, and I will be silent;
+if I have gone astray in anything, tell me.
+6:25 But, it seems, a truthful person’s words are worthless,
+for I am not asking you for strength.
+6:26 Your reproof will not stop me with words,
+for I will not endure even the sound of a word from you.
+6:27 Except that you fall upon an orphan
+and leap upon your friend.
+6:28 But now, looking into your faces, I will not lie.
+6:29 Sit down, then, and let there be no injustice;
+once again associate with the righteous person.
+6:30 For there is no injustice on my tongue;
+does not my throat ponder understanding?
+
+JOB 7
+
+7:1 “Is not a human being’s life on earth a trial,
+and his existence like that of a worker hired for the day?
+7:2 Or like a servant fearing his master and obtaining shade,
+or like a hired worker waiting for his wages,
+7:3 so I too endured empty months,
+and nights of pain have been given to me.
+7:4 If I lie down, I say, ‘When will it be day?’
+And when I rise, again, ‘When will it be evening?’
+I am filled with pains from evening until morning.
+7:5 My body is fouled with the decay of worms;
+I dissolve clods of earth as I scrape off the discharge.
+7:6 My life is lighter than chatter
+and has perished in empty hope.
+7:7 Remember, then, that my life is a breath,
+and my eye will no longer return to see good.
+7:8 The eye of the one who sees me will no longer look upon me;
+Thine eyes will be upon me, and I will be no more,
+7:9 like a cloud cleared away from heaven.
+For if a person goes down to Hades, he will never come up again,
+7:10 nor will he ever return again to his own house,
+nor will his place recognize him any longer.
+7:11 So I too will not restrain my mouth;
+I will speak in my distress;
+held fast, I will disclose the bitterness of my soul.
+7:12 Am I a sea or a dragon,
+that Thou didst post a guard over me?
+7:13 I said, ‘My bed will comfort me;
+on my couch I will privately bring up a matter with myself,’
+7:14 Thou frightenest me with dreams
+and overwhelmest me with visions.
+7:15 Thou wilt release my soul from my breath,
+and my bones from death.
+7:16 For I will not live for ever, so as to keep enduring;
+leave me alone, for my life is empty.
+7:17 For what is a human being, that Thou didst magnify him,
+or that Thou givest Thy mind to him,
+7:18 or that Thou visitest him until morning
+and judgest him for rest?
+7:19 How long wilt Thou not leave me alone,
+nor let me go until I swallow my saliva in pain?
+7:20 If I sinned, what can I do to Thee,
+Thou who understandest the human mind?
+Why hast Thou made me Thine accuser,
+and why am I a burden to Thee?
+7:21 Why hast Thou not brought about forgetfulness of my lawlessness
+and cleansing of my sin?
+But now I will depart into the earth;
+at daybreak I am no more.”
+
+JOB 8
+
+8:1 Then Bildad the Shuhite replied:
+8:2 “How long will you speak these things?
+The breath of your mouth is full of words.
+8:3 Will the Lord do wrong in judging,
+or will the Maker of all disturb what is right?
+8:4 If your sons sinned before Him,
+He sent them into the power of their lawlessness.
+8:5 But rise early to the Lord Almighty in supplication.
+8:6 If you are pure and true, He will hear your supplication
+and restore to you a righteous way of life.
+8:7 Then your first things will be few,
+but your last things beyond telling.
+8:8 For inquire of the former generation;
+search out the family of the fathers.
+8:9 For we are of yesterday and do not know;
+our life on earth is a shadow.
+8:10 Will these not teach you and tell you,
+and bring words out of the heart?
+8:11 Does papyrus flourish without water,
+or will a rush grow tall without a drink?
+8:12 While it is still on its root and unharvested,
+does not every plant wither before it drinks?
+8:13 So, then, will be the latter end of all who forget the Lord;
+for the hope of an ungodly person will perish.
+8:14 For his house will be uninhabited,
+and his tent will turn into a spider’s web.
+8:15 If he props up his house, it will certainly not stand;
+when he takes hold of it, it will certainly not endure.
+8:16 For he is moist beneath the sun,
+and his shoot will come out of his decay.
+8:17 He lies upon a heap of stones
+and will live among pebbles.
+8:18 If it swallows him up, the place will disown him.
+Have you not seen such things?
+8:19 For such is the overthrow of an ungodly person,
+and from the earth it will cause another to sprout.
+8:20 For the Lord will certainly not reject the innocent,
+but He will accept no gift of an ungodly person.
+8:21 He will fill the mouth of true people with laughter,
+and their lips with thanksgiving.
+8:22 Their enemies will be clothed with shame,
+and an ungodly person’s dwelling will be no more.”
+
+JOB 9
+
+9:1 Then Job replied:
+9:2 “Truly I know that it is so;
+for how can a mortal be righteous before the Lord?
+9:3 For if he wishes to enter judgment with Him, He certainly will not listen to him, lest he answer back to one of His words out of a thousand.
+9:4 For He is wise in understanding, mighty and great.
+Who grew hard against Him and endured?
+9:5 He wears the mountains out, and they do not know;
+He overturns them in anger.
+9:6 He shakes the world beneath heaven from its foundations,
+and its pillars sway.
+9:7 He speaks to the sun and it does not rise,
+and He seals up the stars.
+9:8 He alone stretched out heaven
+and walks on the sea as on ground.
+9:9 He makes the Pleiades, the Evening Star, and Arcturus,
+and the storehouses of the south.
+9:10 He does great and unsearchable things,
+glorious and extraordinary things beyond numbering.
+9:11 If He passes over me, I will not see;
+if He passes by me, even then I do not perceive Him.
+9:12 If He takes away, who will turn Him back?
+Who will say to Him, ‘What hast Thou done?’
+9:13 For He Himself has turned away anger;
+beneath Him the sea creatures under heaven bent down.
+9:14 But if He listens to me,
+He will surely sift my words.
+9:15 For even if I am righteous, He will not listen to me;
+I will plead for His judgment.
+9:16 Even if I call and He answers,
+I do not believe that He has heard me.
+9:17 Might He crush me with gloom?
+He has multiplied my injuries without cause.
+9:18 For He does not let me breathe,
+but has filled me with bitterness.
+9:19 For He prevails in strength.
+Who, then, will resist His judgment?
+9:20 For even if I am righteous, my mouth will act impiously;
+even if I am blameless, I will turn out crooked.
+9:21 For whether I acted impiously, I do not know in my soul;
+I know only that my life is being taken away.
+9:22 Therefore I said,
+‘Wrath destroys the great and the ruler,
+9:23 for the worthless meet an extraordinary death,
+but the righteous are mocked,
+9:24 for they have been handed over into an ungodly person’s hands.
+He covers the faces of its judges;
+if it is not He, who is it?’
+9:25 My life is swifter than a runner;
+they fled and did not see.
+9:26 Is there a trace of a ship’s way,
+or of an eagle flying in search of food?
+9:27 For even if I speak, I will forget while speaking;
+bowing my face, I will groan.
+9:28 I shake in all my limbs,
+for I know that Thou wilt not leave me innocent.
+9:29 Since I am ungodly,
+why did I not die?
+9:30 For if I wash myself with snow
+and purify myself with clean hands,
+9:31 Thou hast thoroughly dipped me in filth,
+and my robe abhorred me.
+9:32 For Thou art not a human being like me, with whom I could contend,
+so that we might come together for judgment.
+9:33 Would that our mediator were present,
+one to reprove and hear the cause between us both!
+9:34 Let him remove the rod from me,
+and let His terror not whirl me about,
+9:35 and I will certainly not fear, but will speak;
+for I am not conscious of being so.
+
+JOB 10
+
+10:1 “Weary in my soul and groaning, I will let my words loose upon Him;
+I will speak, held fast by the bitterness of my soul,
+10:2 and say to the Lord, ‘Do not teach me to act impiously!
+Why hast Thou judged me in this way?
+10:3 Is it good for Thee if I do wrong,
+that I disown the works of Thy hands,
+while Thou didst attend to the counsel of the ungodly?
+10:4 Dost Thou observe as a mortal sees,
+or look as a human being looks?
+10:5 Is Thy life human,
+or are Thy years those of a man,
+10:6 that Thou didst search out my lawlessness
+and investigate my sins?
+10:7 For Thou knowest that I did not act impiously;
+but who is there to rescue from Thy hands?
+10:8 Thy hands molded me and made me;
+afterward Thou didst change and strike me.
+10:9 Remember that Thou didst mold me as clay,
+and Thou art turning me back again into earth.
+10:10 Didst Thou not milk me out like milk
+and curdle me just like cheese?
+10:11 Thou didst clothe me with skin and flesh
+and thread me together with bones and sinews.
+10:12 Thou didst place life and mercy beside me,
+and Thy care guarded my spirit.
+10:13 Thou holdest these things within Thyself;
+I know that Thou canst do all things, and nothing is impossible for Thee.
+10:14 For if I sin, Thou guardest me,
+and Thou hast not acquitted me of lawlessness.
+10:15 For if I am ungodly, alas for me!
+If I am righteous, I cannot look up,
+for I am full of dishonor.
+10:16 For I am hunted like a lion for slaughter;
+changing again, Thou destroyest me terribly,
+10:17 renewing my examination against me.
+Thou didst deal with me in great anger
+and bring trials upon me.
+10:18 Why, then, didst Thou bring me out of the womb?
+Why did I not die with no eye seeing me,
+10:19 and become as though I had not existed?
+For why was I not taken from the womb to the tomb?
+10:20 Is not the time of my life short?
+Let me rest a little
+10:21 before I go where I will not return,
+to a dark and gloomy land,
+10:22 to a land of everlasting darkness,
+where there is no brightness
+and no seeing the life of mortals.’”
+
+JOB 11
+
+11:1 Then Zophar the Minaean replied:
+11:2 “The one who says much will hear an answer in return.
+Does an eloquent person also think himself righteous?
+Blessed is the one born of woman who lives a short life.
+11:3 Do not speak at such length,
+for there is no one to contend with you.
+11:4 For do not say, ‘I am pure in my works
+and blameless before Him.’
+11:5 But how might the Lord speak to you?
+He will open His lips to speak with you.
+11:6 Then He will tell you the power of wisdom,
+for it will be twice what you have.
+Then you will know that what has come to you from the Lord is worthy of the sins you committed.
+11:7 Will you find a trace of the Lord,
+or have you reached the furthest things the Almighty made?
+11:8 Heaven is high—what will you do?
+What do you know of things deeper than those in Hades,
+11:9 or longer than the measure of earth,
+or than the breadth of the sea?
+11:10 If He overturns everything,
+who will say to Him, ‘What hast Thou done?’
+11:11 For He knows the works of the lawless;
+when He sees improper things, He will not overlook them.
+11:12 But a person vainly swims in words;
+a mortal born of woman is like a donkey of the wilderness.
+11:13 For if you make your heart pure
+and turn your hands upward toward Him,
+11:14 if anything lawless is in your hands, put it far from you,
+and let injustice not lodge in your dwelling.
+11:15 For then your face will shine like pure water;
+you will take off filth and will not fear.
+11:16 You will forget toil like a wave that has passed,
+and you will not be terrified.
+11:17 Your prayer will be like the morning star,
+and from noon life will rise for you.
+11:18 You will be confident, for you have hope;
+out of anxiety and care, peace will appear to you.
+11:19 For you will be quiet, and no one will wage war against you;
+many will change their ways and entreat you.
+11:20 But deliverance will abandon them,
+for their hope is destruction,
+and the eyes of the ungodly will waste away.”
+
+JOB 12
+
+12:1 Then Job replied:
+12:2 “So you are the people!
+Surely wisdom will die with you!
+12:3 I too have a heart like yours.
+12:4 For a righteous and blameless man became an object of mockery.
+12:5 For at an appointed time he was prepared to fall beneath others,
+and for his houses to be plundered by the lawless.
+12:6 But indeed, let no wicked person trust that he will be innocent,
+nor those who provoke the Lord suppose that there will be no examination of them.
+12:7 But ask the four-footed animals, to see whether they will tell you,
+and the birds of heaven, to see whether they will report to you.
+12:8 Speak fully to the earth, to see whether it will tell you;
+and the fish of the sea will explain to you.
+12:9 Who among all these did not know
+that the Lord’s hand made these things?
+12:10 Is not the life of all living things in His hand,
+and the breath of every human being?
+12:11 For the ear discerns words,
+and the throat tastes food.
+12:12 In much time is wisdom,
+and in a long life knowledge.
+12:13 With Him are wisdom and power;
+to Him belong counsel and understanding.
+12:14 If He throws down, who will build?
+If He shuts people in, who will open?
+12:15 If He restrains water, He will dry the earth;
+if He lets it loose, He destroys it by overturning it.
+12:16 With Him are might and strength;
+to Him belong knowledge and understanding.
+12:17 He leads counselors away captive
+and throws the earth’s judges into confusion.
+12:18 He seats kings on thrones
+and bound their waists with a belt.
+12:19 He sends priests away captive
+and overthrows the earth’s rulers.
+12:20 He changes the lips of the faithful
+and knows the elders’ understanding.
+12:21 He pours dishonor upon rulers
+and heals the lowly.
+12:22 He uncovers deep things from darkness
+and brings death’s shadow into light.
+12:23 He leads nations astray and destroys them;
+He lays nations low and guides them.
+12:24 He changes the hearts of the earth’s rulers
+and leads them astray on a road they did not know.
+12:25 May they grope in darkness and not light;
+may they wander like one who is drunk.
+
+JOB 13
+
+13:1 “Behold, my eye has seen these things,
+and my ear has heard them.
+13:2 I know as much as you know,
+and I am not less intelligent than you.
+13:3 But indeed, I will speak to the Lord;
+I will argue before Him, if He is willing.
+13:4 But you are unjust physicians
+and healers of evils, all of you.
+13:5 May you be silent;
+it will turn out to be wisdom for you.
+13:6 Hear the reproof of my mouth;
+attend to the judgment of my lips.
+13:7 Are you not speaking before the Lord,
+and uttering deceit before Him?
+13:8 Will you shrink back?
+Become judges yourselves.
+13:9 Fine indeed, if He examines you!
+For if, doing everything, you attach yourselves to Him,
+13:10 He will reprove you nonetheless.
+Even if you secretly admire persons,
+13:11 will not His terrors whirl you about,
+and fear from Him fall upon you?
+13:12 Your boasting will turn out like ashes,
+and your body will be clay.
+13:13 Be silent, so that I may speak
+and rest from anger,
+13:14 taking my flesh up in my teeth,
+while I will put my life in my hand.
+13:15 If the Mighty One subdues me, as He has already begun,
+I will surely speak and plead before Him.
+13:16 This will turn out to be deliverance for me,
+for deceit will not enter before Him.
+13:17 Listen, listen to my words,
+for I will declare while you hear.
+13:18 Behold, I am near my judgment;
+I know that I will be shown righteous.
+13:19 For who is there to enter judgment with me?
+For now I will be silent and fail.
+13:20 But grant me two things;
+then I will not hide from Thy face:
+13:21 Keep Thy hand away from me,
+and let Thy terror not overwhelm me.
+13:22 Then Thou wilt call, and I will answer Thee;
+or Thou wilt speak, and I will give Thee a reply.
+13:23 How many are my sins and lawless deeds?
+Teach me what they are.
+13:24 Why dost Thou hide from me
+and regard me as opposed to Thee?
+13:25 Wilt Thou be wary of a leaf moved by wind,
+or oppose me as grass carried by a breeze?
+13:26 For Thou didst record evils against me
+and put the sins of youth around me.
+13:27 Thou didst put my foot in a restraint
+and watch all my works;
+Thou didst reach to the roots of my feet.
+13:28 It grows old like a wineskin,
+or like a moth-eaten garment.
+
+JOB 14
+
+14:1 “For a mortal born of woman is short-lived and full of wrath.
+14:2 Like a flower that blossomed, he fell away;
+he fled like a shadow and will not remain.
+14:3 Didst Thou not take account of this one also, and bring him into judgment before Thee?
+14:4 For who will be clean from filth? No one.
+14:5 Even if his life on earth is one day, his months are numbered with Thee;
+Thou didst set a time, and he will certainly not go beyond it.
+14:6 Leave him alone so that he may be quiet and take pleasure in life like a hired worker.
+14:7 For a tree has hope: if it is cut down, it will blossom again, and its shoot will not fail.
+14:8 For even if its root grows old in earth and its trunk dies in rock,
+14:9 from the scent of water it will blossom and produce a harvest like a newly planted tree.
+14:10 But a man who has died is gone;
+a mortal who has fallen is no more.
+14:11 For in time a sea diminishes, and a river, left desolate, dries up.
+14:12 But a person who lies down will certainly not rise until heaven is no longer stitched together;
+they will not wake from their sleep.
+14:13 If only Thou hadst guarded me in Hades and hidden me until Thy wrath ceased, and set a time for me at which Thou wouldst remember me!
+14:14 For if a person dies, he will live, having completed the days of his life. I will wait until I come to be again.
+14:15 Then Thou wilt call, and I will answer Thee. Do not reject the works of Thy hands.
+14:16 Thou didst number my practices, and not one of my sins will pass Thee by.
+14:17 Thou didst seal my lawless deeds in a bag and mark whether I transgressed in anything unwillingly.
+14:18 And indeed, a falling mountain will fall apart, and a rock will grow worn away from its place.
+14:19 Waters wore stones smooth, and waters flooded the flat surface of the earth’s soil;
+Thou didst destroy a person’s endurance.
+14:20 Thou didst thrust him away completely, and he departed;
+Thou didst set Thy face against him and send him out.
+14:21 When his sons become many, he does not know;
+if they become few, he does not understand.
+14:22 Only his flesh felt pain, and his soul mourned.”
+
+JOB 15
+
+15:1 Then Eliphaz the Temanite replied:
+15:2 “Will a wise person give an answer from understanding of spirit
+and fill himself with pain of the belly,
+15:3 arguing with words that ought not be spoken,
+with speeches in which there is no benefit?
+15:4 Did you not also reject fear
+and complete such words before the Lord?
+15:5 You are guilty through the words of your mouth,
+and you did not discern the words of rulers.
+15:6 May your own mouth reprove you, not I;
+your lips will testify against you.
+15:7 What then? Were you the first of human beings to come to be,
+or were you formed before the hills?
+15:8 Have you heard the Lord’s command,
+and has wisdom arrived at you?
+15:9 For what do you know that we do not know?
+What do you understand that we do not also understand?
+15:10 Among us are both an elder and an ancient one,
+weightier in days than your father.
+15:11 You have been scourged for few of the sins you committed;
+you have spoken far too much.
+15:12 What did your heart dare,
+or what did your eyes bring on,
+15:13 that you burst out in anger before the Lord
+and brought such words out of your mouth?
+15:14 For what mortal can be blameless,
+or one born of woman be righteous?
+15:15 If He puts no trust in holy ones,
+and heaven is not pure before Him,
+15:16 let alone the loathsome and unclean man,
+who drinks injustice as a drink.
+15:17 I will report to you—hear me;
+what I have seen I will report to you,
+15:18 what wise people will say;
+they did not conceal their fathers.
+15:19 To them alone the land was given,
+and no foreigner came upon them.
+15:20 An ungodly person’s whole life is in anxiety,
+and numbered years are given to a ruler.
+15:21 His fear is in his ears;
+when he thinks he is already at peace, his overthrow will come.
+15:22 Let him not trust that he will turn back from darkness,
+for he has already been assigned to the hands of iron,
+15:23 and he has been assigned as food for vultures.
+He knows within himself that he remains destined to fall.
+A dark day will whirl him about,
+15:24 and distress and affliction will hold him fast,
+like a general falling in the front rank,
+15:25 because he raised his hands against the Lord
+and stiffened his neck before the Lord Almighty,
+15:26 and ran against Him in insolence,
+with the thick back of his shield,
+15:27 because he covered his face with his fat
+and made a collar upon his thighs.
+15:28 May he lodge in deserted cities
+and enter uninhabited houses;
+what those people prepared, others will carry away.
+15:29 He will certainly not become rich, nor will his belongings remain;
+he will not cast a shadow upon the earth
+15:30 nor will he escape darkness.
+May wind wither his shoot,
+and may his flower fall away.
+15:31 Let him not trust that he will endure,
+for empty things will result for him.
+15:32 His cutting will be destroyed before its time,
+and his shoot will not grow dense.
+15:33 May he be harvested like an unripe grape before its time;
+may he fall like an olive blossom.
+15:34 For death is the testimony of an ungodly person,
+and fire will burn the houses of those who take bribes.
+15:35 He will conceive pains in the womb;
+empty things will result for him,
+and his belly will bear deceit.”
+
+JOB 16
+
+16:1 Then Job replied:
+16:2 “I have heard many such things;
+you are all comforters of evils.
+16:3 What then? Is there any order in words of wind?
+What will trouble you, that you answer?
+16:4 I too will speak as you do, if your life were put in place of mine.
+Then I will leap upon you with words
+and shake my head against you.
+16:5 May there be strength in my mouth;
+I will not spare the movement of my lips.
+16:6 For if I speak, I will not feel pain from the wound;
+and if I remain silent, how will I be wounded any less?
+16:7 But now He has made me exhausted, foolish, and decayed,
+16:8 and Thou didst seize me; it became a testimony.
+My falsehood rose up within me
+and answered against my face.
+16:9 Dealing in anger, He cast me down
+and gnashed His teeth at me;
+the arrows of His raiders fell upon me.
+16:10 He sprang upon me with points of eyes;
+He struck my jaw with a sharp point,
+and together they rushed down upon me.
+16:11 For the Lord handed me into an unjust person’s hands
+and cast me upon the ungodly.
+16:12 While I was at peace, He scattered me;
+He took me by the hair and tore me apart,
+and set me up like a target.
+16:13 They surrounded me with spears,
+striking my kidneys without sparing;
+they poured my gall onto the earth.
+16:14 They cast me down, fall upon fall;
+in their strength they ran against me.
+16:15 I sewed sackcloth upon my hide,
+and my strength was extinguished in earth.
+16:16 My belly is burned up from weeping,
+and a shadow lies upon my eyelids.
+16:17 Yet there was nothing unjust in my hands,
+and my prayer is pure.
+16:18 Earth, do not cover the blood of my flesh,
+and let there be no place for my cry!
+16:19 Even now, behold, my witness is in the heavens,
+and the one who knows with me is in the highest places.
+16:20 May my supplication reach the Lord,
+and may my eye drip tears before Him.
+16:21 May there be a hearing for a man before the Lord,
+and may a son of man plead for his neighbor.
+16:22 The numbered years have come,
+and I will travel a way on which I will not return.
+
+JOB 17
+
+17:1 “I perish, carried along by wind;
+I need burial and do not obtain it.
+17:2 Weary, I plead—
+and what have I done?
+17:3 Strangers stole my belongings.
+Who is this one? Let him bind himself to my hand.
+17:4 For Thou didst hide their heart from understanding;
+therefore Thou wilt certainly not exalt them.
+17:5 He will announce evils as a portion,
+and my eyes wasted away over sons.
+17:6 Thou madest me a tale among nations,
+and I became a laughingstock to them.
+17:7 For my eyes are hardened from anger,
+and I have been greatly besieged by everyone.
+17:8 Astonishment seized true people at this;
+may a righteous person rise against a lawbreaker.
+17:9 May a faithful person hold his own way,
+and one clean of hands take up courage.
+17:10 But indeed, all of you, press on, and come now;
+for I find nothing true among you.
+17:11 My days passed in a stench,
+and the joints of my heart were torn apart.
+17:12 They made night into day;
+light is near in the face of darkness.
+17:13 For if I wait, Hades is my house,
+and in gloom my bedding is spread.
+17:14 I called upon death to be my father,
+and decay to be my mother and sister.
+17:15 Where, then, is my hope any longer?
+Will I see my good things?
+17:16 Will they go down with me to Hades,
+or will we descend together upon a mound of earth?”
+
+JOB 18
+
+18:1 Then Bildad the Shuhite replied:
+18:2 “How long before you stop?
+Hold back, so that we ourselves may speak.
+18:3 Why have we been silent before you like four-footed animals?
+18:4 Wrath has dealt with you.
+What then? If you die, will the world beneath heaven be uninhabited,
+or will mountains be overturned from their foundations?
+18:5 The light of the ungodly will be extinguished,
+and their flame will not come forth.
+18:6 His light is darkness in his dwelling,
+and the lamp above him will be extinguished.
+18:7 May the least people hunt down his belongings,
+and may his counsel stumble.
+18:8 His foot has been thrown into a trap;
+may he be entangled in a net.
+18:9 May traps come upon him;
+the thirsty will be made strong against him.
+18:10 His cord is hidden in the earth,
+and his capture upon the paths.
+18:11 May pains destroy him all around,
+and may many come about his feet in severe famine.
+18:12 An extraordinary fall has been prepared for him.
+18:13 May the branches of his feet be devoured;
+death will devour his beautiful things.
+18:14 May healing burst away from his dwelling,
+and may distress hold him on a royal charge.
+18:15 It will lodge in his tent during his night;
+his splendid things will be strewn with sulfur.
+18:16 Below, his roots will dry up;
+above, his harvest will fall.
+18:17 May his memorial perish from the earth,
+yet he has a name on the outer face of the land.
+18:18 May he thrust him from light into darkness.
+18:19 He will not be recognized among his people,
+nor will his house be preserved beneath heaven,
+but others will live in what was his.
+18:20 Those who came last groaned over him,
+and astonishment seized those who came first.
+18:21 These are the houses of the unjust,
+and this is the place of those who do not know the Lord.”
+
+JOB 19
+
+19:1 Then Job replied:
+19:2 “How long will you weary my soul
+and tear me down with words?
+19:3 Know only that the Lord made me like this.
+You speak against me; without shame you press upon me.
+19:4 Yes, indeed, I truly went astray,
+and error lodges with me—
+19:4a to speak a word that ought not have been spoken;
+my words wander and are not timely.
+19:5 But leave off magnifying yourselves against me
+and leaping upon me with reproach.
+19:6 Know, then, that the Lord is the One who disturbed me
+and raised His stronghold against me.
+19:7 Behold, I laugh in reproach and will not speak;
+I will cry out, but judgment is nowhere.
+19:8 I have been walled in all around and cannot pass through;
+He placed darkness before my face.
+19:9 He stripped glory from me
+and took the crown from my head.
+19:10 He tore me apart all around, and I was gone;
+He cut off my hope like a tree.
+19:11 He dealt with me terribly in anger
+and regarded me like an enemy.
+19:12 His trials came together against me on my roads;
+men lying in wait encircled me.
+19:13 My brothers withdrew from me;
+they recognized strangers rather than me,
+and my friends became merciless.
+19:14 Those nearest me did not acknowledge me,
+and those who knew my name forgot me.
+19:15 Neighbors of the house and my maidservants—
+I was a foreigner before them.
+19:16 I called my servant, but he did not answer;
+my mouth made entreaty.
+19:17 I entreated my wife
+and called with flattering words to the sons of my concubines.
+19:18 They disowned me for ever;
+whenever I rise, they speak against me.
+19:19 Those who knew me abhorred me;
+those I had loved rose against me.
+19:20 My flesh decayed within my skin,
+and my bones are held in my teeth.
+19:21 Have mercy on me, have mercy on me, friends,
+for the Lord’s hand is the one that touched me!
+19:22 Why do you pursue me just as the Lord does
+and never become filled with my flesh?
+19:23 For who might grant that my words be written
+and placed in a book for ever,
+19:24 with an iron stylus and lead,
+or engraved in rocks?
+19:25 For I know that the one who is to release me upon earth is everlasting.
+19:26 May he raise my skin, which endures these things;
+for these things were accomplished for me by the Lord,
+19:27 things that I know with myself,
+that my eye has seen, and no other;
+everything has been accomplished within my breast.
+19:28 But if you also say, ‘What shall we say against him?’
+and, ‘We will find a root of the matter in him,’
+19:29 you too must beware of a covering,
+for wrath will come upon the lawless,
+and then they will know where their substance is.”
+
+JOB 20
+
+20:1 Then Zophar the Minaean replied:
+20:2 “I did not expect you to answer back like this,
+and you all do not understand more than I do.
+20:3 I will hear correction that puts me to shame,
+and a spirit from understanding answers me.
+20:4 Did you not know these things from long ago,
+since a human was placed upon the earth?
+20:5 For the delight of the ungodly is a terrible fall,
+and the joy of the lawless is destruction,
+20:6 even if his gifts rise to heaven
+and his sacrifice touches the clouds.
+20:7 For when he thinks he has become firmly established,
+then he will perish utterly;
+those who saw him will say, ‘Where is he?’
+20:8 Like a dream that has flown away, he will certainly not be found;
+he flew off like a nighttime apparition.
+20:9 An eye glanced past him and will not do so again,
+and his place will no longer perceive him.
+20:10 May lesser men destroy his sons,
+and may his hands blaze with pains.
+20:11 His bones were filled with his youth,
+and it will lie with him upon the mound.
+20:12 If evil becomes sweet in his mouth,
+he will hide it under his tongue;
+20:13 he will not spare it and will not abandon it,
+and he will hold it inside his throat.
+20:14 And he will certainly not be able to help himself;
+an asp’s gall is in his belly.
+20:15 Wealth gathered unjustly will be vomited up;
+an angel will drag it from his house.
+20:16 May he suck the fury of dragons,
+and may a serpent’s tongue destroy him.
+20:17 May he not see the milking of grazing herds,
+nor pastures of honey and butter.
+20:18 He toiled for wealth in empty and futile things,
+wealth he will not taste,
+like gristly meat that cannot be chewed or swallowed.
+20:19 For he shattered the houses of many powerless people;
+he seized a dwelling and did not establish it.
+20:20 There is no deliverance for his possessions;
+in his desire he will not be saved.
+20:21 There is no remainder of his food;
+therefore his good things will not flourish.
+20:22 When he thinks he is already filled,
+he will be afflicted,
+and every constraint will come upon him.
+20:23 If somehow he might fill his belly,
+may He send a fury of wrath upon him
+and shower pains upon him.
+20:24 He will certainly not be saved from the hand of iron;
+may a bronze bow wound him.
+20:25 May an arrow pass through his body,
+and may lightning bolts walk among his dwellings;
+terrors are upon him.
+20:26 May every darkness remain for him;
+an unkindled fire will consume him,
+and may a stranger harm his house.
+20:27 May heaven uncover his lawless deeds,
+and may earth rise against him.
+20:28 May destruction drag his house utterly away;
+may a day of wrath come upon him.
+20:29 This is an ungodly person’s portion from the Lord,
+and the possession of his belongings from the Overseer.”
+
+JOB 21
+
+21:1 Then Job replied:
+21:2 “Listen, listen to my words,
+so that this consolation from you may not be mine.
+21:3 Lift me up, and I will speak;
+then you will not laugh at me.
+21:4 For what then? Is my reproof from a human?
+Or why should I not become angry?
+21:5 Look at me and be amazed,
+placing a hand upon your cheek.
+21:6 For whenever I remember, I am agitated,
+and pains grip my flesh.
+21:7 Why do the ungodly live
+and grow old even in wealth?
+21:8 Their offspring are to their liking,
+and their children are before their eyes.
+21:9 Their houses flourish, and fear is nowhere;
+a scourge from the Lord is not upon them.
+21:10 Their cow did not calve prematurely;
+their pregnant animal was preserved and did not miscarry.
+21:11 They remain like everlasting sheep,
+and their children play,
+21:12 taking up a psaltery and lyre;
+they delight in the sound of a song.
+21:13 They finished their life amid good things
+and fell asleep in the rest of Hades.
+21:14 Yet he says to the Lord, ‘Go away from me!
+I do not wish to know Thy ways.
+21:15 What is the Mighty One, that we should serve Him?
+And what benefit is there in meeting Him?’
+21:16 For their good things were in their hands,
+and He does not look upon the works of the ungodly.
+21:17 Nevertheless, even the lamp of the ungodly will be extinguished;
+overthrow will come upon them,
+and pangs will grip them because of wrath.
+21:18 They will be like straw before the wind,
+or like dust that a storm swept away.
+21:19 May his possessions fail his sons;
+He will repay the man himself, and he will know.
+21:20 May his eyes see his own slaughter,
+and may he not be delivered from the Lord.
+21:21 For what is his desire in his house after him?
+The numbers of his months have been divided.
+21:22 Is it not the Lord who teaches understanding and knowledge?
+He Himself will judge murders.
+21:23 This one will die in the strength of his integrity,
+entirely comfortable and prosperous;
+21:24 his inward parts are full of fat,
+and his marrow spreads abundantly.
+21:25 But another dies in bitterness of soul,
+never having eaten anything good.
+21:26 Together they sleep upon the earth,
+and decay covered them.
+21:27 So I know you:
+you press upon me with insolence.
+21:28 For you will say, ‘Where is the ruler’s house,
+and where is the shelter of the ungodly’s dwellings?’
+21:29 Ask those passing along the road,
+and do not reject their signs,
+21:30 for the wicked person is relieved for the day of destruction;
+they will be led away for the day of his wrath.
+21:31 Who will declare his way to his face?
+And what he himself did—who will repay him?
+21:32 He himself was carried to tombs
+and kept vigil upon a coffin.
+21:33 The pebbles of the stream became sweet to him;
+every human will go after him,
+and those before him are countless.
+21:34 How can you console me with empty things?
+There is no relief for me from you.”
+
+JOB 22
+
+22:1 Then Eliphaz the Temanite replied:
+22:2 “Is it not the Lord who teaches understanding and knowledge?
+22:3 For what does it matter to the Lord
+if you were blameless in your works?
+Or what benefit is there if you make your way sincere?
+22:4 Will He reprove you out of consideration for you
+and enter together with you into judgment?
+22:5 Is not your wickedness great,
+and are not your sins countless?
+22:6 You took pledges from your brothers for nothing
+and removed the clothing of the naked.
+22:7 You did not even give the thirsty water to drink,
+but deprived the hungry of a morsel.
+22:8 You showed partiality to certain people
+and settled them upon the land.
+22:9 You sent widows away empty
+and mistreated orphans.
+22:10 Therefore traps encircled you,
+and a terrible war threw you into turmoil;
+22:11 light became darkness for you,
+and water covered you as you slept.
+22:12 Does not the One dwelling on high observe?
+He humbled those carried away by insolence.
+22:13 And you said, ‘What has the Strong One known?
+Will He judge down through the gloom?
+22:14 Clouds are His concealment, and He will not be seen;
+He will pass around the circle of heaven.’
+22:15 Will you guard the age-old path
+that unjust men trod,
+22:16 who were seized before their time?
+Their foundations are a river flowing over,
+22:17 those who say, ‘What will the Lord do to us?
+Or what will the Almighty bring upon us?’
+22:18 Yet He is the One who filled their houses with good things,
+and the counsel of the ungodly is far from Him.
+22:19 The righteous saw and laughed,
+and the blameless person sneered.
+22:20 ‘Surely their substance was obliterated,
+and fire will devour their remainder.’
+22:21 Become firm, then, if you endure;
+then your fruit will be among good things.
+22:22 Receive an utterance from His mouth,
+and take up His words in your heart.
+22:23 If you turn back and humble yourself before the Lord,
+you have put injustice far from your dwelling.
+22:24 You will place it upon a mound, in a rock,
+and, like a rock, the torrents of Ophir.
+22:25 Then the Almighty will be your helper against enemies,
+and He will render you pure like silver refined by fire.
+22:26 Then you will speak freely before the Lord,
+looking up cheerfully toward heaven.
+22:27 When you pray to Him, He will hear you,
+and He will enable you to fulfill your vows.
+22:28 He will restore a dwelling of righteousness to you,
+and brightness will be upon your ways.
+22:29 For He humbled him, and you will say, ‘He was arrogant’;
+He will save the one with downcast eyes.
+22:30 He will rescue an innocent person;
+and be saved through your clean hands.”
+
+JOB 23
+
+23:1 Then Job replied:
+23:2 “Indeed, I know that the reproof is from my own hand,
+and His hand has become heavy upon my groaning.
+23:3 Who, then, might know that I could find Him
+and come to an end?
+23:4 I would state my own case
+and fill my mouth with arguments.
+23:5 I would know the words He will say to me
+and perceive what things He will report to me.
+23:6 Even if He comes against me with great strength,
+He will not then deal with me by threat.
+23:7 For truth and reproof come from Him;
+may He bring my case to its conclusion.
+23:8 For I will go toward the first things, and I am no more;
+what do I know about the things at the end?
+23:9 When He acted on the left, I did not grasp it;
+He will wrap around the right, and I will not see.
+23:10 For He already knows my way,
+and He tested me like gold.
+23:11 I will go out in His commands;
+for I guarded His ways and will certainly not turn aside
+23:12 from His commands; I will certainly not transgress,
+and in my breast I hid His words.
+23:13 But if He Himself judged in this way,
+who is there who contradicted Him?
+For whatever He Himself wished, He also did.
+23:15 Therefore I am agitated about Him;
+being admonished, I was concerned about Him.
+23:15a For this reason, may I be deeply troubled before His face;
+I will consider and be terrified by Him.
+23:16 The Lord softened my heart,
+and the Almighty agitated me.
+23:17 For I did not know that darkness would come upon me,
+and gloom covered what lay before my face.
+
+JOB 24
+
+24:1 “Why did the hours escape the Lord’s notice,
+24:2 while the ungodly crossed a boundary,
+seizing a flock together with its shepherd?
+24:3 They led away the orphans’ pack animal
+and took a widow’s cow as a pledge.
+24:4 They diverted powerless people from a righteous road;
+together the meek of the earth hid.
+24:5 They departed like donkeys in a field,
+going out beyond me to their own activity;
+bread became sweet to him for the young.
+24:6 They harvested a field before its time, though it was not theirs;
+the powerless worked the ungodly’s vineyards without pay or food.
+24:7 They made many lie down naked without garments
+and took away the covering of their lives.
+24:8 They become wet from the mountain showers;
+because they have no shelter, they clasped a rock.
+24:9 They snatched an orphan from the breast
+and humbled one who had fallen.
+24:10 They unjustly made people lie down naked
+and took the morsel from the hungry.
+24:11 They unjustly lay in ambush in narrow places
+and did not know a righteous road.
+24:12 People were driven from a city and their own houses;
+the life of infants groaned loudly.
+Why has He Himself not made an inspection of these things?
+24:13 While they were upon the earth, they did not recognize it;
+they did not know the road of righteousness
+or walk in its paths.
+24:14 Knowing their works, He handed them over to darkness,
+and at night he will be like a thief.
+24:15 The adulterer’s eye watched for darkness,
+saying, ‘No eye will notice me,’
+and he made a concealment for his face.
+24:16 He dug into houses in darkness;
+by day they sealed themselves in;
+they did not recognize light.
+24:17 For morning is a shadow of death to them all;
+for he will recognize the disturbances of death’s shadow.
+24:18 He is light upon the surface of water;
+may their portion upon the earth be cursed.
+24:19 May their plants appear dried up upon the earth,
+for they snatched an armful from orphans.
+24:20 Then sin remembered him,
+and he vanished like a mist of dew.
+May what he did be repaid to him,
+and may every unjust person be crushed like incurable wood.
+24:21 For he did no good to a barren woman
+and had no mercy on a woman,
+24:22 and in anger he overthrew the powerless.
+Therefore, when he rises, he will certainly have no confidence concerning his own life;
+24:23 when weakened, let him not hope to recover;
+instead he will fall by disease.
+24:24 For his exaltation mistreated many;
+he withered like mallow in scorching heat,
+or like an ear of grain that falls of itself from the stalk.
+24:25 If it is not so, who is there who says I speak falsely
+and will reduce my words to nothing?”
+
+JOB 25
+
+25:1 Then Bildad the Shuhite replied:
+25:2 “For what prelude or fear comes from Him,
+the One who makes the whole in the highest?
+25:3 For could anyone suppose that there is a reprieve for raiders?
+Upon whom will an ambush from Him not come?
+25:4 For how will a mortal be righteous before the Lord?
+Or who, being born of woman, could cleanse himself?
+25:5 If He gives the moon a command, it does not shine;
+the stars are not pure before Him.
+25:6 Leave it, then: a human is decay,
+and a son of humanity a worm.”
+
+JOB 26
+
+26:1 Then Job replied:
+26:2 “To whom do you attach yourself, or whom are you about to help?
+Is it not the One with great strength and a mighty arm?
+26:3 Whom have you advised? Is it not the One with all wisdom?
+Or whom will you follow? Is it not the One with the greatest power?
+26:4 To whom did you announce words?
+And whose is the breath that came out of you?
+26:5 Will giants be brought to birth
+beneath water and its neighbors?
+26:6 Hades is naked before Him,
+and destruction has no covering.
+26:7 He stretches the north over nothing
+and hangs the earth upon nothing,
+26:8 binding water in His clouds,
+and no cloud burst beneath it.
+26:9 He holds the face of a throne,
+spreading His cloud over it.
+26:10 He circled a command upon the waters’ face,
+until the completion of light with darkness.
+26:11 The pillars of heaven were spread out
+and were astonished at His rebuke.
+26:12 By strength He calmed the sea,
+and by knowledge He wounded the great sea creature.
+26:13 The bars of heaven have feared Him,
+and by a command He killed the rebellious dragon.
+26:14 Behold, these are parts of His way,
+and we will hear a mere drop of speech concerning Him.
+But the strength of His thunder—who knows when He will act?”
+
+JOB 27
+
+27:1 Job continued and said in his prelude:
+27:2 “As the Lord lives, who has judged me in this way,
+and the Almighty, who embittered my soul,
+27:3 surely, while my breath is still within me
+and divine spirit remains in my nostrils,
+27:4 my lips will not speak lawless things,
+nor will my soul devise unjust things.
+27:5 May I never declare you righteous until I die;
+for I will not give up my innocence.
+27:6 Holding to righteousness, I will certainly not let it go;
+for I am not conscious of having done improper things.
+27:7 Nevertheless, may my enemies be like the overthrow of the ungodly,
+and those rising against me like the destruction of the lawless.
+27:8 For what hope does the ungodly person have because he holds on?
+Trusting in the Lord, will he really be saved?
+27:9 Will the Lord hear his plea?
+Or when constraint comes upon him,
+27:10 does he have any freedom of speech before Him?
+Or when he calls upon Him, will He hear him?
+27:11 But I will indeed announce to you what is in the Lord’s hand;
+about what is with the Almighty I will not lie.
+27:12 Behold, you all know
+that you pile empty things upon empty things.
+27:13 This is an ungodly person’s portion from the Lord;
+the possession of powerful men will come upon them from the Almighty.
+27:14 If his sons become many, they will be for slaughter;
+even if they reach manhood, they will beg.
+27:15 Those remaining to him will end in death,
+and no one will have mercy on their widows.
+27:16 If he gathers silver like earth
+and prepares gold in quantities like clay,
+27:17 the righteous will acquire all these things,
+and truthful people will possess his money.
+27:18 His house turned out like moths
+and like a spider.
+27:19 A rich man lay down and will not do so again;
+he opened his eyes, and he is not.
+27:20 Pains met him like water,
+and gloom stole him away at night.
+27:21 A scorching wind will take him up, and he will depart;
+it will winnow him from his place.
+27:22 He will hurl against him and will not spare;
+from his hand he will flee in haste.
+27:23 He will clap his hands over him
+and hiss him out of his place.”
+
+JOB 28
+
+28:1 “For silver has a place from which it comes,
+and gold a place from which it is filtered.
+28:2 For iron comes from earth,
+and copper is quarried like stone.
+28:3 He set an order for darkness,
+and He examines every limit:
+stone, darkness and a shadow of death,
+28:4 a torrent’s breach away from dust;
+but those forgetting a righteous road grew weak among mortals.
+28:5 Earth—from it bread will come,
+and beneath it was turned as though by fire.
+28:6 Its stones are the place of sappheiros,
+and a mound—gold belongs to it.
+28:7 A path no bird knew,
+that a vulture’s eye did not glimpse,
+28:8 that sons of the arrogant did not tread,
+nor a lion pass over—
+28:9 He stretched His hand against sheer rock
+and overturned mountains from their roots.
+28:10 He broke open the eddies of rivers,
+and my eye saw every precious thing.
+28:11 He uncovered the depths of rivers
+and showed His own power in the light.
+28:12 But where was wisdom found,
+and what is the place of knowledge?
+28:13 A mortal does not know its way,
+and it will certainly not be found among humans.
+28:14 The abyss said, ‘It is not in me,’
+and the sea said, ‘It is not with me.’
+28:15 No one will give locked-up treasure in exchange for it,
+nor will silver be weighed as its exchange.
+28:16 It will not be weighed together with Ophir gold,
+precious onyx or sappheiros.
+28:17 Gold and glass will not equal it,
+nor will golden vessels be its exchange.
+28:18 Lofty things and gabis will not be mentioned;
+draw wisdom beyond the innermost things.
+28:19 Ethiopian topazion will not equal it;
+it will not be weighed together with pure gold.
+28:20 But where was wisdom found,
+and what is the place of understanding?
+28:21 It has escaped every human
+and was hidden from the birds of heaven.
+28:22 Destruction and Death said,
+‘We have heard its renown.’
+28:23 God established its way well,
+and He knows its place.
+28:24 For He observes the whole realm under heaven,
+knowing everything in the earth that He made:
+28:25 the weight of winds
+and measures of water;
+28:26 when He acted in this way, He counted rain
+and a path for sounds amid a shaking.
+28:27 Then He saw wisdom and expounded it;
+having prepared it, He traced it out.
+28:28 And He said to a human,
+‘Behold, reverence for God is wisdom,
+and abstaining from evils is knowledge.’”
+
+JOB 29
+
+29:1 Job continued and said in his prelude:
+29:2 “Who might place me in a month of former days,
+when God guarded me?
+29:3 As when His lamp shone above my head,
+when by His light I walked in darkness,
+29:4 when I was weighty in my ways,
+when God made an inspection of my house,
+29:5 when I was flourishing abundantly,
+and my children were around me,
+29:6 when my roads were flooded with butter,
+and my mountains were flooded with milk,
+29:7 when I went out early in the city,
+and my chair was set in the squares.
+29:8 Young men saw me and hid,
+and all the elders stood.
+29:9 Powerful men stopped speaking,
+placing a finger upon their mouths.
+29:10 Those who heard called me blessed,
+and their tongues clung to their throats.
+29:11 For an ear heard and called me blessed,
+and an eye that saw me turned aside.
+29:12 For I rescued a poor person from a powerful man’s hand
+and helped an orphan who had no helper.
+29:13 May the blessing of the perishing come upon me,
+and a widow’s mouth blessed me.
+29:14 I had clothed myself with righteousness,
+and I wrapped myself in justice like a double cloak.
+29:15 I was an eye for the blind
+and a foot for the lame.
+29:16 I was a father to the powerless,
+and I traced out a case I did not know.
+29:17 I crushed the molars of unjust people
+and tore the plunder from between their teeth.
+29:18 I said, ‘My age will grow old;
+like the trunk of a palm I will live a long time.
+29:19 My root is opened toward water,
+and dew will lodge in my harvest.
+29:20 My glory is new with me,
+and my bow will go in His hand.’
+29:21 When they heard me, they paid attention
+and kept silent at my counsel.
+29:22 They added nothing to my word,
+and became overjoyed whenever I spoke to them.
+29:23 Like thirsty earth awaiting rain,
+so they awaited my speech.
+29:24 If I smiled toward them, they would certainly not believe,
+and the light of my face did not fall away.
+29:25 I chose their way and sat as ruler;
+I encamped like a king among lightly equipped soldiers,
+in the manner of one consoling sufferers.”
+
+JOB 30
+
+30:1 “But now they laughed at me;
+now the least take turns admonishing me,
+whose fathers I disdained,
+whom I did not consider worthy of my grazing flocks’ dogs.
+30:2 And indeed, what use to me is their hands’ strength?
+Their completion perished,
+30:3 barren amid need and famine—
+those who fled a waterless place yesterday,
+constraint and misery,
+30:4 those who broke off salt plants beside what resounded,
+whose food was salt plants,
+dishonored and despised, lacking every good thing,
+who even chewed tree roots because of great hunger.
+30:5 Thieves rose against me,
+30:6 whose houses were holes in rocks.
+30:7 Among resounding things they will cry out—
+those who lived beneath wild brushwood,
+30:8 sons of foolish and dishonored people,
+whose name and renown were extinguished from the earth.
+30:9 But now I am their lyre,
+and they have me as their repeated tale.
+30:10 They abhorred me and stood far away,
+and they did not spare spit from my face.
+30:11 For He opened His quiver and mistreated me,
+and they released the bridle of my face.
+30:12 At the right hand of a shoot they rose;
+they stretched out their foot
+and made roads against me, the paths of their destruction.
+30:13 My paths were worn away,
+for He stripped off my robe.
+30:14 He struck me with His missiles;
+He has dealt with me as He wishes;
+I am befouled with pains.
+30:15 My pains return;
+my hope went away like wind,
+and my salvation like a cloud.
+30:16 And now my soul will be poured out upon me;
+days of pains hold me.
+30:17 By night my bones have been burned together,
+and my sinews have come apart.
+30:18 With great strength He seized my robe;
+He encircled me like the collar of my tunic.
+30:19 Thou regardest me as clay;
+my portion is in earth and ashes.
+30:20 I have cried to Thee, and Thou dost not hear me;
+they stood and observed me.
+30:21 Thou camest upon me without mercy;
+with a mighty hand Thou didst scourge me.
+30:22 Thou didst place me amid pains
+and cast me away from salvation.
+30:23 For I know that death will wear me away;
+for earth is the house of every mortal.
+30:24 If only I could master myself,
+or at least ask another, and he would do this for me.
+30:25 But I wept over every powerless person
+and groaned when I saw a man in constraints.
+30:26 While I held on for good things,
+behold, days of evils met me instead.
+30:27 My belly boiled over and will not be silent;
+days of poverty overtook me.
+30:28 I have gone about groaning without a muzzle;
+I have stood in an assembly, crying out.
+30:29 I have become a brother to sirens
+and a companion to ostriches.
+30:30 My skin has darkened greatly,
+and my bones are scorched from heat.
+30:31 My lyre became an expression of my suffering,
+and my song became weeping for me.”
+
+JOB 31
+
+31:1 “I established a covenant for my eyes,
+and I will not direct my attention toward a virgin.
+31:2 What did God apportion from above,
+and what is the Mighty One’s inheritance from the highest places?
+31:3 Is it not destruction for the unjust
+and alienation for those practicing lawlessness?
+31:4 Will He not see my way
+and count all my steps?
+31:5 If I had walked with mockers,
+and if my foot also hastened toward deceit,
+31:6 may He then set me in a righteous balance;
+the Lord knows my innocence.
+31:7 If my foot turned from the road,
+if my heart followed my eye,
+or if I touched gifts with my hands,
+31:8 may I then sow and others eat,
+and may I become rootless upon the earth.
+31:9 If my heart pursued another man’s wife,
+and I became one lying in wait at her doors,
+31:10 may my wife also please another,
+and may my infants be humbled.
+31:11 For defiling a man’s wife is an unrestrainable fury of wrath;
+31:12 for it is a fire burning through every part;
+wherever it comes, it destroys from the roots.
+31:13 If I also despised the case of my manservant or maidservant
+when they were in judgment against me,
+31:14 what will I do if the Lord makes an examination of me?
+If He also makes an inspection, what answer will I make?
+31:15 Were they not also formed in the womb just as I was?
+We were formed in the same belly.
+31:16 The powerless did not fail to obtain whatever need they had,
+and I did not waste away a widow’s eye.
+31:17 If I also ate my morsel alone
+and did not share with an orphan—
+31:18 for from my youth I nourished like a father,
+and from my mother’s womb I guided—
+31:19 if I also disregarded a naked person perishing
+and did not clothe him,
+31:20 if the powerless did not bless me,
+while their shoulders were warmed from the shearing of my lambs,
+31:21 if I lifted a hand against an orphan,
+trusting that abundant help remained for me,
+31:22 may my shoulder then come away from the collarbone,
+and my arm be shattered from my elbow.
+31:23 For fear of the Lord gripped me,
+and I will not endure because of His taking hold.
+31:24 If I appointed gold as my strength,
+or trusted in a costly stone,
+31:25 if I rejoiced because much wealth came to me,
+or laid my hand upon countless things,
+31:26 do I not see the shining sun fail,
+and the moon diminish?
+For it does not depend on them.
+31:27 And if my heart was secretly deceived,
+or I placed my hand upon my mouth and kissed it,
+31:28 may this also be reckoned to me as the greatest lawlessness,
+for I lied before the Lord Most High.
+31:29 If I rejoiced at my enemies’ fall,
+and my heart said, ‘Well done!’
+31:30 may my ear then hear my own curse,
+and may I be made a repeated tale among my people as I suffer.
+31:31 If my maidservants often said,
+‘Who could grant us to be filled with his flesh?’
+because I was exceedingly kind—
+31:32 a stranger did not lodge outside;
+my door stood open to everyone who came—
+31:33 if, having sinned unintentionally, I also hid my sin—
+31:34 for I did not shrink before the crowd’s great numbers
+so as not to confess before them—
+or if I let a powerless person go out my door with an empty fold,
+31:35 who could grant me someone who hears me?
+But if I had not feared the Lord’s hand,
+a written bond I held against someone—
+31:36 placing it upon my shoulders as a crown,
+I would read it aloud,
+31:37 and if I did not tear it up and return it,
+taking nothing from the debtor,
+31:38 if ever the earth groaned against me,
+and its furrows wept together,
+31:39 if I ate its strength alone without payment,
+or expelled the landowner’s life and caused grief,
+31:40 may nettles then come up for me instead of wheat,
+and bramble instead of barley.”
+And Job ceased speaking.
+
+JOB 32
+
+32:1 His three friends also ceased contradicting Job any further, for Job was righteous before them.
+32:2 Elihu son of Barachel the Buzite, of the kindred of Ram in the land of Ausitis, became angry. He was very angry with Job because Job declared himself righteous before the Lord.
+32:3 He was also very angry with the three friends, because they could not give Job a contrary answer and declared him ungodly.
+32:4 Elihu waited to give Job an answer, because they were older than he in days.
+32:5 Elihu saw that there was no answer in the mouth of the three men, and his anger blazed.
+32:6 Elihu son of Barachel the Buzite replied:
+“I am younger in time, and you are older;
+therefore I kept quiet, afraid to announce my own knowledge to you.
+32:7 I said, ‘Time is what speaks,
+and in many years people know wisdom.’
+32:8 But there is a spirit in mortals,
+and the Almighty’s breath is what teaches.
+32:9 The long-lived are not wise,
+nor do elders know judgment.
+32:10 Therefore I said, ‘Listen to me,
+and I will announce to you what I know.’
+32:11 Give ear to my words;
+for I will speak while you listen,
+until you examine words.
+32:12 I will also direct my understanding toward you;
+and behold, there was no one among you refuting Job,
+answering his words,
+32:13 so that you may not say,
+‘We found wisdom by attaching ourselves to the Lord.’
+32:14 But you allowed a human to speak such words.
+32:15 They were terrified and answered no more;
+they wore out their words.
+32:16 I waited, for they did not speak;
+because they stood still, they did not answer.”
+32:17 Then Elihu replied:
+32:18 “I will speak again, for I am full of words;
+the spirit of my belly is destroying me.
+32:19 My belly is like a tied wineskin of fermenting new wine,
+or like a smith’s bellows that has burst.
+32:20 I will speak so that I may rest,
+opening my lips.
+32:21 For I will certainly not be ashamed before a human,
+nor indeed will I be overawed by a mortal.
+32:22 For I do not know how to show partiality;
+otherwise moths will eat me too.”
+
+JOB 33
+
+33:1 “Nevertheless, Job, hear my words
+and give ear to my speech.
+33:2 For behold, I opened my mouth,
+and my tongue spoke.
+33:3 My heart is pure in words,
+and the understanding of my lips will perceive pure things.
+33:4 Divine spirit is what made me,
+and the Almighty’s breath is what teaches me.
+33:5 If you can, give me an answer to these things;
+stand firm; take your stand against me, and I against you.
+33:6 You have been fashioned from clay just as I have;
+we have been fashioned from the same material.
+33:7 My fear will not whirl you about,
+nor will my hand be heavy upon you.
+33:8 Nevertheless, you spoke in my ears;
+I have heard the sound of your words,
+33:9 for you say, ‘I am clean, having not sinned;
+I am blameless, for I did not act lawlessly.
+33:10 He found a reproach against me
+and regards me like an opponent.
+33:11 He placed my foot in a wooden restraint
+and guarded all my ways.’
+33:12 For how can you say, ‘I am righteous, and He has not heard me’?
+For the One above mortals is everlasting.
+33:13 You say, ‘Why has He not heard every word of my case?’
+33:14 For when the Lord speaks once,
+and at a second time—a dream,
+33:15 or in a nighttime meditation,
+as when terrible fear falls upon people
+amid drowsiness upon a bed,
+33:16 then He uncovers people’s minds;
+with such forms of fear He terrified them,
+33:17 to turn a human away from injustice,
+and He rescued his body from a fall.
+33:18 He spared his soul from death,
+and kept him from falling in war.
+33:19 Again He reproved him with weakness upon a bed,
+and the multitude of his bones grew numb,
+33:20 and he will certainly be unable to receive any edible food,
+although his soul will desire something to eat,
+33:21 until his flesh decays
+and exposes his bones empty.
+33:22 His soul drew near to death,
+and his life was in Hades.
+33:23 If there are a thousand death-bearing angels,
+one of them will certainly not wound him.
+If he understands in his heart to turn toward the Lord,
+announces his own blame to a human,
+and shows his lack of understanding,
+33:24 He will hold him back from falling into death,
+and renew his body like plaster upon a wall,
+and fill his bones with marrow;
+33:25 He will soften his flesh like an infant’s
+and restore him, grown to manhood, among humans.
+33:26 When he prays to the Lord, it will be acceptable to Him;
+he will enter with a pure face, with confession,
+and He will return righteousness to humans.
+33:27 Then the human will blame himself, saying,
+‘What things I carried through!
+He did not examine me as my sins deserved.
+33:28 Save my soul from coming into corruption,
+and my life will see light.’
+33:29 Behold, the Strong One works all these things
+in three ways with a man.
+33:30 But He rescued my soul from death,
+so that my life might praise Him in light.
+33:31 Give ear, Job, and hear me;
+be silent, and I myself will speak.
+33:32 If there are words, answer me;
+speak, for I want you to be justified.
+33:33 If not, listen to me;
+be silent, and I will teach you wisdom.”
+
+JOB 34
+
+34:1 Then Elihu replied:
+34:2 “Hear me, you wise;
+you who understand, give ear to what is good.
+34:3 For an ear tests words,
+and a throat tastes food.
+34:4 Let us choose judgment for ourselves;
+let us know among ourselves what is good.
+34:5 For Job has said, ‘I am righteous;
+the Lord removed my judgment,
+34:6 and He lied concerning my judgment;
+my arrow is violent, though I did no injustice.’
+34:7 What man is like Job,
+drinking mockery like water,
+34:8 without sinning or acting ungodly,
+or sharing a road with those doing lawless things,
+to travel with the ungodly?
+34:9 For do not say, ‘There will be no inspection of a man’;
+there is an inspection for him from the Lord.
+34:10 Therefore, you understanding in heart, hear me:
+may I never act ungodly before the Lord
+or disturb what is right before the Almighty.
+34:11 Instead, He repays a human as each one of them acts,
+and on a man’s path He will find him.
+34:12 Do you think the Lord will do improper things,
+or the Almighty disturb judgment?
+34:13 He is the One who made the earth;
+who is the One making the realm under heaven and everything within it?
+34:14 For if He wished to hold back
+and retain the spirit with Himself,
+34:15 all flesh will die together,
+and every mortal will go to earth,
+from which he was also formed.
+34:16 If you are not being admonished, hear these things;
+give ear to the sound of words.
+34:17 Look at the One who hates lawless things
+and destroys the wicked,
+who is eternally righteous.
+34:18 Ungodly is the one saying to a king, ‘You act lawlessly,’
+and to rulers, ‘Most ungodly one,’
+34:19 who did not stand in awe before an honored person,
+nor knows how to give honor to powerful men
+so as to admire their persons.
+34:20 Their crying out and asking a man for help will prove empty,
+for they dealt lawlessly while the powerless were turned aside.
+34:21 For He Himself observes human works,
+and nothing they do has escaped Him,
+34:22 and there will be no place
+for those doing lawless things to hide.
+34:23 For He will place no more upon a man;
+for the Lord observes everyone,
+34:24 He who comprehends unsearchable things,
+glorious and terrible things beyond number,
+34:25 He who makes their works known
+will turn night about, and they will be humbled.
+34:26 He extinguished the ungodly,
+and they are visible before Him,
+34:27 because they turned aside from God’s law
+and did not recognize His ordinances,
+34:28 so as to bring a needy person’s cry upon Him;
+He will hear the cry of the poor.
+34:29 He will provide quiet, and who will condemn?
+He will hide His face, and who will see Him?
+Upon a nation and upon a human alike,
+34:30 He makes a hypocritical human king
+because of a people’s perversity.
+34:31 For the one saying to the Strong One,
+‘I have received; I will not take pledges;
+34:32 apart from myself I will see; Thou, show me;
+if I practiced injustice, I will certainly not add to it’—
+34:33 will He repay it on your terms?
+For you will reject it, for you will choose, not I;
+speak what you have known.
+34:34 Therefore those understanding in heart will say these things,
+and a wise man has heard my word:
+34:35 ‘Job did not speak with understanding,
+and his words were not spoken with knowledge.’
+34:36 Nevertheless, learn, Job;
+do not give another answer like the foolish,
+34:37 so that we may not add to our sins;
+lawlessness will be reckoned against us
+as we speak many words before the Lord.”
+
+JOB 35
+
+35:1 Then Elihu replied:
+35:2 “Why have you reckoned this as judgment?
+Who are you to say, ‘I am righteous before the Lord’?
+35:3 Or will you say, ‘What will I do if I sin?’
+35:4 I will give you an answer,
+and your three friends.
+35:5 Look up into heaven and see;
+observe the clouds, how high they are above you.
+35:6 If you sinned, what will you accomplish?
+If you also acted lawlessly many times, what can you do?
+35:7 Since, then, you are righteous, what will you give Him,
+or what will He receive from your hand?
+35:8 Your ungodliness is for a man like you,
+and your righteousness for a son of humanity.
+35:9 Those oppressed by a multitude will cry out;
+they will shout because of the arm of many.
+35:10 Yet he did not say, ‘Where is God who made me,
+who appoints watches of the night,
+35:11 who distinguishes me from the four-footed beasts of earth
+and from the birds of heaven?’
+35:12 There they will cry out, and He will certainly not hear,
+also because of the insolence of evil people.
+35:13 For the Lord does not wish to see improper things;
+for the Almighty Himself observes
+35:14 those who carry through lawless things, and He will save me.
+Enter into judgment before Him,
+if you can praise Him as He is.
+35:15 And now, because He is not examining His anger
+and has not taken much notice of a transgression,
+35:16 Job vainly opens his mouth
+and weighs down words in ignorance.”
+
+JOB 36
+
+36:1 Elihu continued speaking:
+36:2 “Wait for me a little longer, so that I may teach you;
+for speech is still within me.
+36:3 Taking up my knowledge from afar,
+I will speak things just in relation to my works,
+36:4 in truth, and not unjust words;
+you understand unjustly.
+36:5 Know that the Lord will certainly not reject the innocent;
+mighty in strength of heart,
+36:6 He will certainly not give life to the ungodly,
+and He will give judgment to the poor.
+36:7 He will not take His eyes from a righteous person;
+with kings upon a throne
+He will seat them for victory, and they will be raised high.
+36:8 If, fettered in handcuffs,
+they are held in cords of poverty,
+36:9 He will announce to them their works
+and their transgressions, that they will become strong.
+36:10 But He will hear the righteous person,
+and He said that they will turn from injustice.
+36:11 If they listen and serve,
+they will finish their days amid good things
+and their years in splendor.
+36:12 But He does not preserve the ungodly,
+because they do not wish to know the Lord
+and because, when admonished, they were disobedient.
+36:13 Hypocrites in heart will arrange wrath;
+they will not cry out because He bound them.
+36:14 May their soul therefore die in youth,
+and their life be wounded by angels,
+36:15 because they afflicted the weak and powerless;
+He will set forth the judgment of the meek.
+36:16 Moreover, He deceived you out of an enemy’s mouth;
+an abyss, a pouring-down beneath it;
+and your table descended, full of fatness.
+36:17 Judgment will not be lacking from the righteous,
+36:18 and wrath will be upon the ungodly
+because of the impiety of gifts they accepted for injustices.
+36:19 Let your mind not willingly turn you away
+from the plea of the powerless who are in constraint,
+and all those strengthening might.
+36:20 Do not draw out the night
+for peoples to rise in their stead,
+36:21 but guard yourself from doing improper things;
+for you chose for this one out of poverty.
+36:22 Behold, the Strong One will strengthen by His strength;
+for who is a ruler like Him?
+36:23 Who is the one examining His works,
+or who said, ‘He did unjust things’?
+36:24 Remember that His works are great,
+which men began;
+36:25 every human saw within himself,
+as many mortals as are being wounded.
+36:26 Behold, the Strong One is great, and we will not know;
+the number of His years is also boundless.
+36:27 Drops of rain are numbered by Him,
+and they will be poured as rain into a cloud;
+36:28 old things will flow,
+and He shaded clouds over countless mortals.
+36:28a He appointed a time for cattle,
+and they know the order of their resting place.
+36:28b At all these things, is your mind not astonished,
+and is your heart not changed away from the body?
+36:29 And if one understands the extensions of a cloud,
+the evenness of His tent,
+36:30 behold, He stretches ēdō over it
+and covered the roots of the sea.
+36:31 For by these He will judge peoples;
+He will give food to the strong.
+36:32 He covered light upon hands
+and gave a command concerning it through one meeting it.
+36:33 He will announce His friend concerning Him;
+a possession also concerning injustice.
+
+JOB 37
+
+37:1 “At this my heart was troubled
+and flowed away from its place.
+37:2 Hear the report amid the anger of the Lord’s wrath,
+and a meditation will come out of His mouth.
+37:3 His rule is beneath all heaven,
+and His light upon the earth’s wings.
+37:4 After it a voice will cry out;
+He will thunder with the voice of His violence,
+and He will not exchange them, because he will hear His voice.
+37:5 The Strong One will thunder wonders with His voice;
+for He did great things that we did not know,
+37:6 commanding snow, ‘Come to be upon the earth,’
+and a rainstorm,
+and a storm of rains of His dominion.
+37:7 He seals upon every human hand,
+so that every human may know his own weakness.
+37:8 Wild animals went under shelter
+and rested upon their beds.
+37:9 From chambers come whirlwinds,
+and from the heights comes cold.
+37:10 From the Strong One’s breath frost will be given,
+and He steers the water however He wishes.
+37:11 A cloud covers what is chosen,
+and a cloud will scatter His light.
+37:12 He Himself will turn circuits
+in theeboulathō for their works;
+all that He commands them—
+these things have been ordered by Him upon the earth,
+37:13 whether for discipline, whether for His earth,
+or whether for mercy, He will find it.
+37:14 Give ear to these things, Job;
+stand; be instructed about the Lord’s power.
+37:15 We know that God established His works,
+making light out of darkness.
+37:16 He knows the division of clouds,
+and the terrible falls of the wicked.
+37:17 Your robe is warm,
+and there is quiet upon the earth.
+37:18 Acts of making firm are with Him for old things,
+strong like the appearance of a pouring.
+37:19 Why? Teach me what we will say to Him,
+and let us stop saying so much.
+37:20 Has a book or a scribe stood beside me,
+so that, standing, I might silence a human?
+37:21 Light is not visible to everyone;
+it shines afar in the old things,
+like the light from Him upon clouds.
+37:22 From the north come clouds gleaming gold;
+upon these are the Almighty’s great glory and honor.
+37:23 We do not find another like Him in strength;
+He judges righteous things—
+do you not think He hears?
+37:24 Therefore humans will fear Him,
+and those wise in heart will also fear Him.”
+
+JOB 38
+
+38:1 After Elihu ceased speaking, the Lord spoke to Job through a whirlwind and clouds:
+38:2 “Who is this who hides counsel from Me,
+holding words within his heart,
+and thinks he hides them from Me?
+38:3 Gird your waist like a man;
+I will question you, and you must answer Me.
+38:4 Where were you when I laid the earth’s foundation?
+Report to Me, if you understand.
+38:5 Who set its measures, if you know?
+Or who brought a cord upon it?
+38:6 Upon what have its rings been fixed,
+and who placed a cornerstone upon it,
+38:7 when stars came to be,
+and all My angels praised Me with a great voice?
+38:8 I fenced the sea with gates
+when it raged, coming out of its mother’s womb;
+38:9 I made a cloud its clothing
+and swaddled it in mist;
+38:10 I set boundaries for it,
+placing bars and gates around it;
+38:11 I said to it, ‘You will come this far and will not pass beyond;
+instead, your waves will be broken within you.’
+38:12 Was it in your time that I ordered morning brightness,
+and the dawn-bearer saw its own appointed place,
+38:13 to take hold of earth’s wings
+and shake the ungodly out of it?
+38:14 Or did you take earth and mold clay into a living creature,
+and set him speaking upon earth?
+38:15 Did you take light away from the ungodly
+and crush the arm of the arrogant?
+38:16 Did you come to the sea’s spring
+and walk in the tracks of the abyss?
+38:17 Do the gates of death open to you in fear,
+and did Hades’ gatekeepers cower when they saw you?
+38:18 Have you been instructed about the breadth of the realm under heaven?
+Tell Me, then, how great it is.
+38:19 In what land does light lodge,
+and what is the place of darkness,
+38:20 if you could lead Me to their boundaries,
+and if you also know their paths?
+38:21 I know, then, that you were born at that time,
+and the number of your years is great.
+38:22 Did you come to the treasures of snow,
+and have you seen the treasures of hail?
+38:23 It is stored away for you for an hour of enemies,
+for a day of war and battle.
+38:24 From where does frost come out,
+or the south wind scatter beneath heaven?
+38:25 Who prepared a flow for violent rain
+and a path for tumult,
+38:26 to rain upon land where there is no man,
+a wilderness where no human exists,
+38:27 to fill untrodden and uninhabited ground
+and make a growth of green plants sprout?
+38:28 Who is the father of rain,
+and who gave birth to lumps of dew?
+38:29 From whose belly does ice come forth,
+and who gave birth to frost in heaven,
+38:30 which descends like flowing water?
+And who fixed the face of the abyss?
+38:31 Did you understand the bond of the Pleiades
+and open Orion’s enclosure?
+38:32 Will you open mazourōth in its season,
+and lead the Evening Star by its hair—lead them?
+38:33 Do you know heaven’s turnings,
+or the things happening together beneath heaven?
+38:34 Will you call a cloud with your voice,
+and will it obey you with a violent trembling of water?
+38:35 Will you send thunderbolts, and will they go?
+Will they say to you, ‘What is it?’
+38:36 Who gave women wisdom in weaving
+or knowledge of embroidery?
+38:37 Who counts clouds with wisdom
+and inclined heaven toward earth?
+38:38 Dust has been poured like earth,
+and I have fastened it like a cube to stone.
+38:39 Will you hunt food for lions
+and fill the souls of dragons?
+38:40 For they have feared in their beds;
+they sit in woods, lying in ambush.
+38:41 Who prepared food for a raven?
+For its nestlings have cried to the Lord,
+wandering and seeking food.”
+
+JOB 39
+
+39:1 “Have you known the birth season of rock goat-deer,
+and watched the deer’s labor pains?
+39:2 Did you count their months completed for birth,
+and release their labor pains?
+39:3 Did you nourish their young beyond fear?
+Will you send away their birth pains?
+39:4 They will break away with their young and multiply in offspring;
+they will go out and certainly not return to them.
+39:5 Who is the one who let the wild donkey go free,
+and who loosened its bonds?
+39:6 I made its dwelling the wilderness,
+and its encampments the salt marsh,
+39:7 laughing at the city’s crowded bustle,
+and not hearing a tax collector’s reproach;
+39:8 it will examine mountains for its pasture
+and seek after every green thing.
+39:9 Will a one-horned beast be willing to serve you
+or sleep at your feeding trough?
+39:10 Will you bind its yoke with straps,
+or will it draw your furrows in a plain?
+39:11 Have you trusted it because its strength is great,
+and will you entrust your works to it?
+39:12 Will you believe that it will return your seed to you
+and bring in your threshing-floor grain?
+39:13 A wing of rejoicing creatures—neelasa—
+if it takes hold of asida and nessa;
+39:14 for she will leave her eggs on earth
+and warm them upon dust,
+39:15 and she forgot that a foot would scatter them
+and wild beasts of the field trample them;
+39:16 she hardened toward her children as though not her own;
+she toiled in vain without fear,
+39:17 for God kept wisdom silent for her
+and did not give her a share in understanding.
+39:18 At the proper time she will lift up on high
+and laugh at a horse and its rider.
+39:19 Did you clothe a horse with power
+and put fear upon its neck?
+39:20 Did you put full armor upon it,
+and clothe the glory of its breast with daring?
+39:21 Digging in the plain, it exults
+and goes out into the plain with strength;
+39:22 meeting a missile, it laughs
+and will certainly not turn away from iron.
+39:23 Bow and sword exult over it,
+39:24 and in wrath it will obliterate the earth;
+it will certainly not believe until a trumpet signals.
+39:25 When the trumpet signals, it says, ‘Well done!’
+From afar it smells war,
+with leaping and shouting.
+39:26 Is it by your knowledge that a hawk stands,
+spreading its wings, motionless,
+looking toward the south?
+39:27 Does an eagle rise high at your command,
+and does a vulture sit upon its nest and lodge
+39:28 upon a rocky projection and in a concealed place?
+39:29 Being there, it seeks food;
+its eyes watch from afar.
+39:30 Its nestlings are stained with blood,
+and wherever the dead are, they are immediately found.”
+
+JOB 40
+
+40:1 The Lord God answered Job and said:
+40:2 “Will he evade judgment with the Mighty One?
+Will the one reproving God answer it?”
+40:3 Then Job replied to the Lord:
+40:4 “Why am I still being judged,
+being admonished and reproving the Lord,
+hearing such things though I am nothing?
+What answer can I give to these things?
+I will place a hand over my mouth;
+40:5 I have spoken once,
+but a second time I will add nothing.”
+40:6 Again the Lord replied to Job from the cloud:
+40:7 “No, but gird your waist like a man;
+I will question you, and you must answer Me.
+40:8 Do not reject My judgment.
+Do you think I have dealt with you for any other purpose
+than that you may be shown righteous?
+40:9 Do you have an arm against the Lord,
+or thunder with a voice like His?
+40:10 Take up height and power;
+clothe yourself in glory and honor.
+40:11 Send out angels in wrath,
+and humble every insolent person;
+40:12 extinguish the arrogant,
+and make the ungodly decay immediately;
+40:13 hide them together outside in the earth,
+and fill their faces with dishonor;
+40:14 then I will acknowledge
+that your right hand is able to save.
+40:15 But look at beasts beside you;
+it eats grass like oxen.
+40:16 Behold, its strength is upon the loin,
+and its power upon the belly’s navel.
+40:17 It set its tail upright like a cypress,
+and its sinews are woven together.
+40:18 Its ribs are bronze ribs,
+and its spine is cast iron.
+40:19 This is the beginning of the Lord’s formation,
+made to be played with by His angels.
+40:20 Coming upon a sheer mountain,
+it brought joy to four-footed creatures in Tartarus.
+40:21 It sleeps beneath trees of every kind,
+beside papyrus, reed and flowering rush.
+40:22 Great trees are shaded in it,
+with shoots and branches of the chaste tree.
+40:23 If a flood comes, it will certainly not notice;
+it is confident that Jordan will strike against its mouth.
+40:24 He will receive it in its eye;
+catching in a snare, will he pierce a nose?
+40:25 Will you bring a dragon with a hook
+and place a muzzle around its nose?
+40:26 Will you fasten a ring in its nostril
+and pierce its lip with a band?
+40:27 Will it speak to you with a plea,
+softly with supplication?
+40:28 Will it establish a covenant with you,
+and will you take it as an everlasting slave?
+40:29 Will you play with it like a bird,
+or tie it like a little bird for a child?
+40:30 Will nations feed upon it,
+and will Phoenician clans divide it?
+40:31 All floating craft gathered together certainly cannot carry
+one hide from its tail,
+nor its head in fishermen’s boats.
+40:32 Will you lay a hand upon it,
+remembering the war taking place within its body?
+Let it happen no more.”
+
+JOB 41
+
+41:1 “Have you not seen it,
+nor marveled at what is said?
+41:2 Have you not feared because it has been prepared for Me?
+For who is the one who stood against Me?
+41:3 Who will stand against Me and endure,
+if the whole realm beneath heaven is Mine?
+41:4 I will not be silent because of it;
+regarding a word of power, he will pity his equal.
+41:5 Who will uncover the face of its clothing,
+and who could enter the fold of its breastplate?
+41:6 Who will open the gates of its face?
+Fear surrounds its teeth.
+41:7 Its inward parts are bronze shields,
+and its fastening is like emery stone.
+41:8 One sticks to another,
+and breath will certainly not pass through it;
+41:9 each will cling to its brother;
+they hold together and will certainly not be pulled apart.
+41:10 In its sneeze brightness shines,
+and its eyes have the appearance of the dawn-bearer.
+41:11 Burning torches go out from its mouth,
+and fire-hearths are hurled about.
+41:12 Smoke comes out of its nostrils,
+as from a furnace burning with a coal fire.
+41:13 Its soul is coals,
+and flame comes out of its mouth.
+41:14 Power lodges in its neck,
+and destruction runs before it.
+41:15 The flesh of its body is joined together;
+he pours down upon it; it will not be shaken.
+41:16 Its heart is fixed like stone
+and stands like an unhammered anvil.
+41:17 When it turns, fear falls upon four-footed beasts
+leaping upon the earth.
+41:18 If lances meet it, they will certainly accomplish nothing—
+an uplifted spear and a breastplate.
+41:19 For it regards iron as straw
+and bronze as decayed wood.
+41:20 A bronze bow will certainly not wound it;
+it regards a stone-thrower as grass.
+41:21 Hammers were reckoned as stalks,
+and it laughs at the shaking of a fire-bearing weapon.
+41:22 Its bedding is sharp spits,
+and all the sea’s gold beneath it is like immeasurable mud.
+41:23 It boils the abyss like a bronze cauldron
+and regards the sea like an ointment jar,
+41:24 and the Tartarus of the abyss like a captive;
+it reckoned the abyss a place for walking.
+41:25 There is nothing upon earth like it,
+made to be played with by My angels.
+41:26 It sees everything high,
+and it is king of all things in the waters.”
+
+JOB 42
+
+42:1 Then Job replied to the Lord:
+42:2 “I know that Thou canst do all things,
+and nothing is impossible for Thee.
+42:3 For who is the one hiding counsel from Thee,
+who withholds words and thinks he hides them from Thee?
+Who will announce to me what I did not know,
+great and wonderful things I did not understand?
+42:4 But hear me, Lord, so that I too may speak;
+I will question Thee, and Thou, teach me.
+42:5 Before, I had heard of Thee with my ear,
+but now my eye has seen Thee;
+42:6 therefore I despised myself and wasted away,
+and I regard myself as earth and ashes.”
+42:7 After the Lord had spoken all these words to Job, the Lord said to Eliphaz the Temanite, “You and your two friends sinned, for you spoke nothing true before Me, as My servant Job did.
+42:8 Now take seven calves and seven rams and go to My servant Job, and he will make an offering on your behalf. My servant Job will pray for you, for I will surely accept his person. Were it not for him, I would have destroyed you; for you did not speak truth against My servant Job.”
+42:9 Eliphaz the Temanite, Bildad the Shuhite and Zophar the Minaean went and did as the Lord commanded them, and He released their sin through Job.
+42:10 The Lord increased Job. When he also prayed for his friends, He forgave their sin. The Lord gave double what Job had formerly, for a doubling.
+42:11 All his brothers and sisters heard everything that had happened to him and came to him, along with all who had known him from the beginning. They ate and drank with him and consoled him, and marveled at all the Lord had brought upon him. Each gave him one ewe lamb and an unstamped gold piece of four drachmas.
+42:12 The Lord blessed Job’s latter things more than the former. His livestock were fourteen thousand sheep, six thousand camels, one thousand yoke of oxen and one thousand grazing female donkeys.
+42:13 Seven sons and three daughters were born to him.
+42:14 He called the first Hemera, the second Casia and the third Amalthea’s Horn.
+42:15 None were found beneath heaven better than Job’s daughters, and their father gave them an inheritance among their brothers.
+42:16 After the affliction, Job lived one hundred seventy years; in all, he lived two hundred forty-eight years. Job saw his sons and his sons’ sons, a fourth generation.
+42:17 Job died elderly and full of days.
+42:17a It is written that he will rise again with those whom the Lord raises.
+42:17b This is translated from the Syriac book: he lived in the land of Ausitis, on the borders of Idumea and Arabia, and his former name was Jobab.
+42:17c He took an Arabian wife and fathered a son named Ennon. His father was Zare, a son of the sons of Esau, and his mother was Bosorra, so that he was fifth from Abraham.
+42:17d These are the kings who reigned in Edom, the land he himself also ruled: first Balak son of Beor, whose city was called Dennaba; after Balak, Jobab, called Job; after him, Asom, a ruler from the land of Teman; after him, Adad son of Barad, who cut down Midian in the plain of Moab, whose city was called Geththaim.
+42:17e The friends who came to him were Eliphaz, from the sons of Esau, king of the Temanites; Bildad, ruler of the Shuhites; and Zophar, king of the Minaeans.

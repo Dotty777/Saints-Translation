@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 19,
-  "pending_book_revisions": 51,
-  "next_book": "Job",
+  "completed_book_records": 20,
+  "pending_book_revisions": 50,
+  "next_book": "Psalms",
   "full_bible_complete": false,
   "books": [
     {
@@ -190,8 +190,11 @@
       "order": 20,
       "book": "Job",
       "staging_path": "/bible/judgement/job/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "job/",
+      "chapters": 42,
+      "verse_units": 1083,
+      "wording_changes": 450
     },
     {
       "order": 21,
@@ -561,9 +564,24 @@
       "2 Maccabees",
       "Ezra",
       "Nehemiah",
-      "Esther"
+      "Esther",
+      "Job"
     ],
-    "pending_books": 1,
-    "next_book": "Job"
-  }
+    "pending_books": 0,
+    "next_book": null,
+    "status": "English editorial/staging stage complete; specialist review pending"
+  },
+  "completed_divisions": [
+    "Law",
+    "Judgement"
+  ],
+  "next_division": {
+    "division": "Wisdom",
+    "completed_books": [],
+    "pending_books": 7,
+    "next_book": "Psalms"
+  },
+  "current_priority": "Finish the remaining Old Testament after Job: all Wisdom books and all Prophets, one book at a time, with staging verification and GitHub main uploads.",
+  "old_testament_completed_book_records": 20,
+  "old_testament_pending_book_revisions": 23
 }

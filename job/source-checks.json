@@ -1,0 +1,388 @@
+{
+  "book": "Job",
+  "date": "2026-10-14",
+  "edition": "Rahlfs–Hanhart 2006; German Bible Society online running text",
+  "authorization": "User authorized provisional continuation with Rahlfs–Hanhart; Göttingen not obtained.",
+  "scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+  "historical_records": "Existing index and reference records were consulted as historical reference, not proof of fresh complete Greek verification.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.1",
+      "focus": "1:1,3–12,15–22",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize God’s address to the devil and ordinary human address; retain Thou/Thee/Thy when the devil speaks directly to God. Smooth the syntax of Job’s blessing while retaining its repeated Lord and the departure-there image.",
+      "pending": "1:3 eastern nobility/enterprises, 1:5 additional calf, 1:10 enclosure imagery, 1:11 blessing/curse euphemism and full apparatus need specialist review."
+    },
+    {
+      "chapter": 2,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.2",
+      "focus": "2:1–13, including 9a–e",
+      "running_text_read": "Chapter 2 running text recovered and read in the publisher’s browser page after two text-retrieval failures; no apparatus collation.",
+      "decision": "Modernize ordinary speech and third-person verbs; preserve direct divine address at 2:5, skin for skin, Job’s wife’s full expanded speech, the dung heap and the friends’ royal titles.",
+      "pending": "2:3 belongings, 2:5 blessing/curse euphemism, 2:9e word to the Lord, and the critical signs in the publisher’s running text require apparatus review."
+    },
+    {
+      "chapter": 3,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.3",
+      "focus": "3:3–10,14,17–26",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize third-person verbs and my eyes; preserve the singular day-curser, sea creature, morning star, swords, age-old ones, tax collector and repeated negations.",
+      "pending": "3:17 kindled/burned-out sense, 3:18 age-old ones, 3:23 rest and surrounding syntax remain for specialist review."
+    },
+    {
+      "chapter": 4,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.4",
+      "focus": "4:2–6,10–21",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address, third-person verbs and my ear/my eyes; smooth you admonished. Preserve the ant-lion, dragons, houses of clay and the inherited accusation and vision sequence. Final syntax review aligned encouraged with admonished.",
+      "pending": "4:2–6 conditional syntax and foolishness, 4:11 ant-lion, 4:12 extraordinary things, 4:18 angel wording and 4:19 moth image need specialist review."
+    },
+    {
+      "chapter": 5,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.5",
+      "focus": "5:1–18,20–21,24–27",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address and third-person descriptions of God. Retain the wishes against the wicked, vultures, hand of iron, lash of the tongue, numerical progression and threshing-floor image.",
+      "pending": "5:4 weaker people, 5:11 rousing the perished, 5:17–18 tense shifts, 5:24 tent livelihood and full apparatus remain pending."
+    },
+    {
+      "chapter": 6,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.6",
+      "focus": "6:2–19,24–30",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary plural address, third-person verbs and my anger. Preserve the weighing, arrows drinking blood, lion smell, city/grave, snow/ice and throat images, the negative petition at 6:9 and repeated worthless words.",
+      "pending": "6:7 food and stench, 6:9 negative petition, 6:10 city/grave, 6:16 ice comparison, 6:20 cities/possessions and 6:29 righteous-person reference need specialist review."
+    },
+    {
+      "chapter": 7,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.7",
+      "focus": "7:5–21",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retain Thou/Thee/Thy in direct address to God; modernize third-person sees and my eye, and use on my couch. Preserve chatter, dragon, saliva, accuser, release from breath and bones from death.",
+      "pending": "7:5 clods/discharge, 7:13 private speech, 7:15 release, 7:18 future/subjunctive force, 7:20 accuser and 7:21 dawn need specialist review."
+    },
+    {
+      "chapter": 8,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.8",
+      "focus": "8:2–7,11–22",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address and third-person verbs; preserve first/last things, papyrus drinking, moist growth from decay, stones, the disowning place and the refusal of an ungodly gift.",
+      "pending": "8:12 plant drinking, 8:16 decay, 8:18–19 subject/referents, 8:20 gift and full apparatus remain pending."
+    },
+    {
+      "chapter": 9,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.9",
+      "focus": "9:3–19,22–35",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retain direct divine address in the quoted question and Job’s appeal. Modernize third-person verbs and my injuries; use wears the mountains out. Preserve constellations, sea creatures, singular/plural shift at 9:25, washing, robe, mediator and rod imagery.",
+      "pending": "9:3 speaker/referents, 9:13 anger, 9:24 its judges, 9:25 plural they, 9:33–35 mediator and consciousness require specialist review."
+    },
+    {
+      "chapter": 10,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.10",
+      "focus": "10:2–22",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Preserve the sustained direct address to God, modernizing only the third-person human verbs and my examination. Retain milk/cheese, clay, sinews, lion, womb/tomb and the difficult accusations.",
+      "pending": "10:3 first-person accusation, 10:8 changing, 10:13 construction, 10:16–17 examination, and full apparatus remain pending."
+    },
+    {
+      "chapter": 11,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.11",
+      "focus": "11:2–20",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address while preserving Thou in the quotation addressed to God. Clarify speak at such length, open His lips to speak with you and sins you committed; retain swimming in words, wild donkey, doubled wisdom and morning-star prayer.",
+      "pending": "11:2 blessing, 11:5 question, 11:6 doubled wisdom, 11:13 tense and 11:17 prayer/morning star need specialist review."
+    },
+    {
+      "chapter": 12,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.12",
+      "focus": "12:2–25",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize address to people and third-person verbs. Preserve the heart, speaking animals/earth, ear/throat, captive counselors and priests, seating kings and the inherited tense shift to bound.",
+      "pending": "12:2–6 abbreviated clauses, 12:15–24 tense/aspect choices, 12:18 seating kings and 12:21 healing the lowly require specialist review."
+    },
+    {
+      "chapter": 13,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.13",
+      "focus": "13:1–15,17–28",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address, third-person verbs and my eye/my ear; retain divine address from 13:20 onward. Keep both exchanges initiated by God at 13:22, the twice-repeated Listen, physicians, teeth, leaf, roots and wineskin.",
+      "pending": "13:9–10 attaching/admiring persons, 13:15 Mighty One and subduing, 13:19 failing, 13:25 wary and 13:27–28 referents require specialist review."
+    },
+    {
+      "chapter": 14,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.14",
+      "focus": "14:3–22",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retain direct divine address and modernize third-person descriptions. Preserve the tree’s scent of water, heaven stitched together, Hades, the affirmative hope at 14:14, bag of sins and flowing waters.",
+      "pending": "14:12 stitched-heaven clause, 14:14 life/restoration statement, 14:17 unwilling transgression and 14:19 flat earth-surface wording need specialist review."
+    },
+    {
+      "chapter": 15,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.15",
+      "focus": "15:2–18,21–35",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address and third-person verbs; render the emphatic charge as spoken far too much. Keep punishment for few sins, elders, hands of iron, vultures, shield-back, thigh collar, botanical images and the wish forms. Use burst/brought in 15:13.",
+      "pending": "15:2 spirit/belly, 15:10 age, 15:18 fathers, 15:24 general and 15:27 collar image need specialist review."
+    },
+    {
+      "chapter": 16,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.16",
+      "focus": "16:2–22",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary speech while retaining Thou in the brief divine address at 16:8. Use my eyelids/my eye; preserve shifts between He, Thou and they, comforters of evils, eyes as points, kidneys, gall, skin and the heavenly witness.",
+      "pending": "16:3 singular address amid plurals, 16:6 pain statement, 16:8 falsehood, 16:9–10 subjects, 16:19 witness and 16:21 hearing need specialist review."
+    },
+    {
+      "chapter": 17,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.17",
+      "focus": "17:3–16",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retain direct divine address at 17:4 and 17:6; use my eyes and all of you. Preserve stolen belongings, hardened eyes, stench, Hades, kinship with death/decay and shifts from they to we.",
+      "pending": "17:3–5 referents, 17:12 light near darkness and 17:16 number shifts need specialist review."
+    },
+    {
+      "chapter": 18,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.18",
+      "focus": "18:2–21",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Make the negative question idiomatic as How long before you stop? Modernize ordinary address and third-person verbs. Retain thirsty ones, branches of feet, royal charge and the affirmative name clause.",
+      "pending": "18:9 thirsty ones, 18:13 branches, 18:14 royal charge, 18:17 affirmative name and 18:18 subject need specialist review."
+    },
+    {
+      "chapter": 19,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.19",
+      "focus": "19:2–29 including 4a",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address and verbs while retaining the Greek addition 4a, concubines’ sons, bones held in teeth, repeated Have mercy, everlasting deliverer wording and covering at 19:29.",
+      "pending": "19:12 trials, 19:20 teeth, 19:25–27 deliverance/resurrection syntax and 19:29 covering/substance need specialist review."
+    },
+    {
+      "chapter": 20,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.20",
+      "focus": "20:2–29",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address and verbs. Mark the Greek plural in the second clause of 20:2 with you all, while leaving the first address singular. Preserve asp, dragons, angel, gristly meat, iron hand, bronze bow, walking lightning and unkindled fire.",
+      "pending": "20:3 question, 20:4 temporal phrase, 20:9 eye/place, 20:17 milk/pasture wording and 20:23–28 wish forms need specialist review."
+    },
+    {
+      "chapter": 21,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.21",
+      "focus": "21:2–34",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary speech and third-person verbs, retain Thy in the quotation to the Lord, and correct covered to the past form in 21:26. Preserve repeated Listen, everlasting sheep, Hades rest, murder judgment, coffin vigil and sweet pebbles.",
+      "pending": "21:2 negative consolation, 21:16 subject, 21:21 divided months and 21:30–33 relief/vigil/pebbles require specialist review."
+    },
+    {
+      "chapter": 22,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.22",
+      "focus": "22:2–30",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize address to Job, remove awkward did plus infinitive in affirmative narrative clauses, and preserve past/perfect shifts. Retain river foundations, Ophir torrents, hardening/endurance, refined silver and final imperative. Final syntax review aligned removed with took in 22:6.",
+      "pending": "22:3 conditional tense, 22:16 foundations, 22:23 perfect, 22:24 missing object and 22:29–30 referents/imperative need specialist review."
+    },
+    {
+      "chapter": 23,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.23",
+      "focus": "23:2–17 including 15a; absence of 14 observed",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Use my own and modern third-person verbs. Preserve left/right, first/last, softened heart, inherited time shifts, added 15a and the existing absence of a 23:14 unit.",
+      "pending": "23:3 end, 23:8 first/last, 23:9 wrapped right and 23:11–12 divided syntax need specialist review."
+    },
+    {
+      "chapter": 24,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.24",
+      "focus": "24:1–25",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize remaining third-person verbs without smoothing away changes of subject or tense. Retain hours, shepherd with flock, breast, rock shelter, shadow of death, wood and mallow images.",
+      "pending": "24:5 beyond me, 24:12 infants, 24:14 and 17 subjects, 24:19 armful and 24:21–24 pronouns/aspect need specialist review."
+    },
+    {
+      "chapter": 25,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.25",
+      "focus": "25:2–6",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize third-person verbs and retain the short chapter’s prelude, raiders, commanded moon, decay and worm language.",
+      "pending": "25:2 elliptical whole, 25:3 raiders/ambush and 25:6 Leave it require specialist review."
+    },
+    {
+      "chapter": 26,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.26",
+      "focus": "26:2–14",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Use ordinary you for Job’s answer to his interlocutor and modern third-person verbs. Preserve giants, Hades, earth upon nothing, command circled over waters, wounded sea creature, killed rebellious dragon and drop of speech.",
+      "pending": "26:2–3 rhetorical direction, 26:5 neighbors, 26:9 throne face and 26:14 thunder syntax need specialist review."
+    },
+    {
+      "chapter": 27,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.27",
+      "focus": "27:2–23",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address, third-person verbs and my innocence/my enemies. Keep the oath, divine breath, empty things upon empty things, moths/spider and shifting subjects at the end.",
+      "pending": "27:8 holding on, 27:13 possession, 27:18 house comparison and 27:19–23 tense/subjects need specialist review."
+    },
+    {
+      "chapter": 28,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.28",
+      "focus": "28:1–28",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize third-person verbs and my eye. Join 28:25 to 26 with a semicolon and close the outer quotation at the end. Preserve repeated wisdom questions, sappheiros/gabis/topazion, gold/glass, earth/fire and divine acts.",
+      "pending": "28:3–4 stone/torrent syntax, 28:6 mound, 28:15 locked treasure, 28:18 gabis and inner things, and 28:26 sounds/shaking require specialist review."
+    },
+    {
+      "chapter": 29,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.29",
+      "focus": "29:2–25",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Use My age and retain the other inherited wording. Preserve lamp, butter/milk, blessing repetition, molars, palm trunk, bow in His hand and king among lightly equipped soldiers.",
+      "pending": "29:2 month, 29:4 weighty, 29:11 eye turning, 29:18 age, 29:20 bow referent and 29:25 soldiers require specialist review."
+    },
+    {
+      "chapter": 30,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.30",
+      "focus": "30:1–31",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retain direct address to God in 30:19–22 and modernize third-person wishes and has. Keep salt plants, resounding things, shoot, quiver, shifting subjects, sirens and ostriches.",
+      "pending": "30:2–4 completion/resounding, 30:7 resounding, 30:12 shoot, 30:20 they and 30:24 self-mastery need specialist review."
+    },
+    {
+      "chapter": 31,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.31",
+      "focus": "31:1–40",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Use my before nouns, modern third-person verbs and capitals at selected sentence starts in the oath. Preserve its long conditional sequence, infants, virgin, fiery adultery, balance, covenant, debt bond and agricultural imprecations.",
+      "pending": "31:12 aspect, 31:16 need, 31:18 implicit objects, 31:23 taking hold, 31:26 sun/moon, 31:31 flesh and 31:35–39 debt/landowner syntax require specialist review."
+    },
+    {
+      "chapter": 32,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.32",
+      "focus": "32:1–22",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address, third-person verbs and my own/my understanding. Preserve Elihu’s ancestry, three friends, spirit and breath, fermenting wineskin, smith’s bellows and moths.",
+      "pending": "32:3 condemnation, 32:9 categorical age statement, 32:11–16 speech transitions and 32:18 destroying spirit require specialist review."
+    },
+    {
+      "chapter": 33,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.33",
+      "focus": "33:4–33",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize address to Job, third-person verbs and my ears; end 33:21 with a period before the following past-tense statement. Preserve clay, wooden restraint, thousand death-bearing angels, plaster, marrow, confession and three ways.",
+      "pending": "33:14–18 dream/aspect, 33:23 angel and human subjects, 33:26 righteousness recipient and 33:29 three ways need specialist review."
+    },
+    {
+      "chapter": 34,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.34",
+      "focus": "34:2–37",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address and verbs; preserve Thou in the quoted appeal to the Strong One at 34:32. Retain no-sinning statement at 34:8, singular/plural shifts, hypocritical king, pledges and the concluding we/us. Reorder the emphatic prayer as Thou, show me.",
+      "pending": "34:6 arrow, 34:8 negation, 34:18–20 subjects, 34:23 omitted object, 34:31–33 pledges/recompense and 34:37 we/us require specialist review."
+    },
+    {
+      "chapter": 35,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.35",
+      "focus": "35:2–16",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address and third-person verbs; replace did sin/did act with simple past in the conditional. Preserve night watches, distinction from beasts/birds, save me and weighing words.",
+      "pending": "35:3 conditional, 35:9–12 speakers, 35:14 save me and 35:15 anger/inspection syntax require specialist review."
+    },
+    {
+      "chapter": 36,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.36",
+      "focus": "36:2–33 including 28a–b",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address and verbs, retain additions 28a–b and transliterated ēdō, and repair the sentence join at 36:24–25. Preserve arrows/angels, enemy-mouth deception, abyss/table, old things and difficult closing clauses.",
+      "pending": "36:3 works, 36:9 strength, 36:16 deception/abyss, 36:19–21 syntax, 36:24–25 subjects, 36:28 old things and 36:30–33 ēdō/friend/possession require specialist review."
+    },
+    {
+      "chapter": 37,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.37",
+      "focus": "37:1–24",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize third-person verbs and address to Job; capitalize the sentence start at 37:17. Preserve earth’s wings, thunder, repeated whether, theeboulathō, old things, book/scribe and northern golden clouds.",
+      "pending": "37:4 subjects, 37:6 storms, 37:11 chosen thing, 37:12 theeboulathō, 37:18 old things and 37:20 book/scribe require specialist review."
+    },
+    {
+      "chapter": 38,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.38",
+      "focus": "38:1–41",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Use ordinary you for the Lord’s address to Job and to the sea, My angels, modern verbs and you must answer Me for the emphatic command. Preserve earth’s rings/wings, dawn-bearer, clay creature, Hades gatekeepers, mazourōth, women’s weaving and dragons.",
+      "pending": "38:2 concealed counsel, 38:6 rings, 38:14 clay creature, 38:20 conditional, 38:32 plural them and 38:38 dust/cube syntax require specialist review."
+    },
+    {
+      "chapter": 39,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.39",
+      "focus": "39:1–30",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address and third-person animal descriptions. Preserve one-horned beast, neelasa/asida/nessa, tax collector, full horse armor, trumpet Well done and bloodied nestlings.",
+      "pending": "39:1 goat-deer, 39:3 offspring/fear, 39:13 transliterations and syntax, 39:16 hardening, 39:18 lifting up and 39:26 hawk pose need specialist review."
+    },
+    {
+      "chapter": 40,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.40",
+      "focus": "40:1–32",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize the Lord’s address to Job and use you must answer Me. Preserve beasts-to-it shift, cypress, bronze ribs, angels, Tartarus, Jordan, dragon covenant, Phoenicians and existing Greek chapter numbering.",
+      "pending": "40:2 judgment, 40:8 shown righteous, 40:15 number shift, 40:20 Tartarus, 40:24 subjects, 40:31 tail hide and 40:32 war require specialist review."
+    },
+    {
+      "chapter": 41,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.41",
+      "focus": "41:1–26",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernize ordinary address and third-person verbs; use My angels but retain independent Mine. Preserve dragon imagery, emery, brother comparison, fire-hearths, anvil, bronze bow, ointment jar, captive Tartarus and king of waters.",
+      "pending": "41:4 equal/pity, 41:7 inward shields, 41:15 pouring subject, 41:18 weapons and 41:21 fire-bearing weapon need specialist review."
+    },
+    {
+      "chapter": 42,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/JOB.42",
+      "focus": "42:2–17e",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retain Thou/Thee in Job’s prayer; modernize third-person verbs and divine first-person possessive My. Make hearing with ear/seeing with eye speak naturally while retaining singular imagery. Preserve doubled restitution, names, ages, four generations and all additions 17a–e.",
+      "pending": "42:3 speaker/question, 42:8 truth against Job, 42:10 doubling, 42:15 better, and 42:17b–e ancestry/names require specialist review."
+    }
+  ]
+}
