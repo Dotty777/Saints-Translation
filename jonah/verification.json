@@ -1,0 +1,708 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 48 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 4,
+    "reading_sections": 4,
+    "changed_verse_units": 16,
+    "source_scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "9fa13baa35043a2510bf5df8c4f373b8a98e8c7678a68f2630d44cde0a7371a9"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 16,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 11,
+      "changed": 2,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 10,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 11,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 3037,
+      "chapter": 1,
+      "modified": "2026-10-15T04:57:56",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "423c87b762904314c1ac64b8a468b0f4620651ead085b5272278d7aa47fdc126"
+    },
+    {
+      "id": 3034,
+      "chapter": 2,
+      "modified": "2026-10-15T04:58:02",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "71cc82186679329967656620a5c0d0ff20242370843a62cc3c7bfccf9ab54584"
+    },
+    {
+      "id": 3043,
+      "chapter": 3,
+      "modified": "2026-10-15T04:58:08",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "a85570b9ec58fd80fdc840ca2c16f1c5edfc5f6ca66bd23804a3d25d3280d375"
+    },
+    {
+      "id": 3046,
+      "chapter": 4,
+      "modified": "2026-10-15T04:58:14",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "0e413027319433cda64f0e01544568770ac26939fdf16430be2804ff8c5d7820"
+    },
+    {
+      "id": 3027,
+      "chapter": null,
+      "modified": "2026-10-15T04:58:19",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "78add4489b88abf5599b92880fb7d3d6a57b1ce452dbeff079cce8ae7ed71ee8"
+    }
+  ],
+  "browser_checks": {
+    "chapters": [
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/obadiah/chapter-1/",
+            "label": "Previous chapter, Obadiah 1",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-2/",
+            "label": "Next chapter, Jonah 2",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/obadiah/chapter-1/",
+            "text": "← Obadiah 1"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/",
+            "text": "Jonah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-2/",
+            "text": "Jonah 2 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/jonah/1/",
+            "text": "All 199 cross-references for Jonah 1, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v1-1",
+            "text": "1:1The word of the Lord came to Jonah, the son of Amittai, saying:"
+          },
+          {
+            "id": "v1-2",
+            "text": "1:2“Rise and go to Nineveh, the great city, and proclaim in it, for the outcry of its wickedness has come up to Me.”"
+          },
+          {
+            "id": "v1-3",
+            "text": "1:3But Jonah rose to flee to Tarshish from the presence of the Lord. He went down to Joppa, found a ship traveling to Tarshish, paid its fare and boarded it, to sail with them to Tarshish from the presence of the Lord."
+          },
+          {
+            "id": "v1-4",
+            "text": "1:4The Lord stirred up a wind upon the sea, and there was a great surge on the sea; the ship was in danger of being shattered."
+          },
+          {
+            "id": "v1-5",
+            "text": "1:5The sailors were afraid, and each was crying out to their god. They threw the equipment in the ship into the sea, to lighten their load. But Jonah had gone down into the hollow of the ship, and was sleeping and snoring."
+          },
+          {
+            "id": "v1-6",
+            "text": "1:6The ship’s officer approached him and said, “Why are you snoring? Rise and call upon your god, so that the god may bring us safely through and we may not perish.”"
+          },
+          {
+            "id": "v1-7",
+            "text": "1:7Each said to his neighbor, “Come, let us cast lots and learn on whose account this calamity is among us.” They cast lots, and the lot fell on Jonah."
+          },
+          {
+            "id": "v1-8",
+            "text": "1:8They said to him, “Tell us on whose account this calamity is among us. What is your occupation? Where do you come from? What country and what people are you from?”"
+          },
+          {
+            "id": "v1-9",
+            "text": "1:9He said to them, “I am a servant of the Lord, and I worship the Lord, the God of heaven, who made the sea and the dry land.”"
+          },
+          {
+            "id": "v1-10",
+            "text": "1:10The men were greatly afraid and said to him, “What is this you have done?” For the men knew that he was fleeing from the presence of the Lord, because he had told them."
+          },
+          {
+            "id": "v1-11",
+            "text": "1:11They said to him, “What shall we do to you, so that the sea may subside for us?” For the sea kept raising a greater surge."
+          },
+          {
+            "id": "v1-12",
+            "text": "1:12Jonah said to them, “Lift me up and throw me into the sea; then the sea will subside for you. For I know that this great surge is upon you because of me.”"
+          },
+          {
+            "id": "v1-13",
+            "text": "1:13But the men strained to return to land and could not, for the sea kept rising more fiercely against them."
+          },
+          {
+            "id": "v1-14",
+            "text": "1:14They cried out to the Lord and said, “By no means, Lord! May we not perish for this man’s life, and do not lay innocent blood upon us, for Thou, Lord, hast done as Thou didst wish.”"
+          },
+          {
+            "id": "v1-15",
+            "text": "1:15They took Jonah and threw him out into the sea, and the sea stopped its tossing."
+          },
+          {
+            "id": "v1-16",
+            "text": "1:16The men feared the Lord with great fear, offered a sacrifice to the Lord and made vows."
+          }
+        ],
+        "chapter": 1,
+        "section": 1,
+        "page_id": 3037,
+        "title": "Jonah 1",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-1/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 4,
+        "selected_chapter": "Jonah 1"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-1/",
+            "label": "Previous chapter, Jonah 1",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-3/",
+            "label": "Next chapter, Jonah 3",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-1/",
+            "text": "← Jonah 1"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/",
+            "text": "Jonah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-3/",
+            "text": "Jonah 3 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/jonah/2/",
+            "text": "All 144 cross-references for Jonah 2, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v2-1",
+            "text": "2:1The Lord commanded a great sea creature to swallow Jonah, and Jonah was in the sea creature’s belly three days and three nights."
+          },
+          {
+            "id": "v2-2",
+            "text": "2:2Jonah prayed to the Lord his God from the sea creature’s belly,"
+          },
+          {
+            "id": "v2-3",
+            "text": "2:3and said: “In my affliction I cried to the Lord my God, and He listened to me. From the belly of Hades Thou didst hear the voice of my cry."
+          },
+          {
+            "id": "v2-4",
+            "text": "2:4Thou didst cast me into the depths of the heart of the sea, and rivers encircled me. All Thy billows and Thy waves passed over me."
+          },
+          {
+            "id": "v2-5",
+            "text": "2:5I said, ‘I have been thrust away from Thine eyes. Shall I again look toward Thy holy sanctuary?’"
+          },
+          {
+            "id": "v2-6",
+            "text": "2:6Water poured around me up to my life; the uttermost abyss encircled me; my head sank into clefts of mountains."
+          },
+          {
+            "id": "v2-7",
+            "text": "2:7I descended into a land whose bars are everlasting restraints; and let the ruin of my life rise up, Lord my God."
+          },
+          {
+            "id": "v2-8",
+            "text": "2:8As my life was failing me, I remembered the Lord; may my prayer come to Thee, into Thy holy sanctuary."
+          },
+          {
+            "id": "v2-9",
+            "text": "2:9Those who guard vain and false things abandoned their mercy."
+          },
+          {
+            "id": "v2-10",
+            "text": "2:10But I, with a voice of praise and thanksgiving, will sacrifice to Thee. Whatever I vowed I will repay to Thee, for deliverance to the Lord!”"
+          },
+          {
+            "id": "v2-11",
+            "text": "2:11The sea creature was commanded, and it cast Jonah out onto dry land."
+          }
+        ],
+        "chapter": 2,
+        "section": 2,
+        "page_id": 3034,
+        "title": "Jonah 2",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-2/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 4,
+        "selected_chapter": "Jonah 2"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-2/",
+            "label": "Previous chapter, Jonah 2",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-4/",
+            "label": "Next chapter, Jonah 4",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-2/",
+            "text": "← Jonah 2"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/",
+            "text": "Jonah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-4/",
+            "text": "Jonah 4 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/jonah/3/",
+            "text": "All 88 cross-references for Jonah 3, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v3-1",
+            "text": "3:1The word of the Lord came to Jonah a second time, saying:"
+          },
+          {
+            "id": "v3-2",
+            "text": "3:2“Rise and go to Nineveh, the great city, and proclaim in it according to the former proclamation that I spoke to you.”"
+          },
+          {
+            "id": "v3-3",
+            "text": "3:3Jonah rose and went to Nineveh as the Lord had spoken. Now Nineveh was a city great before God, about a three-day journey."
+          },
+          {
+            "id": "v3-4",
+            "text": "3:4And Jonah began to enter the city, about a day’s journey, and he proclaimed and said, “Three more days, and Nineveh shall be overthrown.”"
+          },
+          {
+            "id": "v3-5",
+            "text": "3:5The people of Nineveh believed God, proclaimed a fast and put on sackcloth, from their greatest to their least."
+          },
+          {
+            "id": "v3-6",
+            "text": "3:6The word reached the king of Nineveh. He rose from his throne, took his robe off himself, wrapped himself in sackcloth and sat in ashes."
+          },
+          {
+            "id": "v3-7",
+            "text": "3:7It was proclaimed and declared in Nineveh from the king and his nobles: “Let people and livestock, cattle and sheep, taste nothing; let them not graze or drink water.”"
+          },
+          {
+            "id": "v3-8",
+            "text": "3:8People and livestock clothed themselves in sackcloth, and they cried earnestly to God. Each turned away from his evil way and from the injustice in their hands, saying:"
+          },
+          {
+            "id": "v3-9",
+            "text": "3:9“Who knows whether God will relent and turn from His fierce anger, so that we certainly do not perish?”"
+          },
+          {
+            "id": "v3-10",
+            "text": "3:10God saw their deeds, that they had turned from their evil ways. God relented concerning the calamity He had said He would bring upon them, and He did not do it."
+          }
+        ],
+        "chapter": 3,
+        "section": 3,
+        "page_id": 3043,
+        "title": "Jonah 3",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-3/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 4,
+        "selected_chapter": "Jonah 3"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-3/",
+            "label": "Previous chapter, Jonah 3",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-1/",
+            "label": "Next chapter, Micah 1",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-3/",
+            "text": "← Jonah 3"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/",
+            "text": "Jonah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/micah/chapter-1/",
+            "text": "Micah 1 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/jonah/4/",
+            "text": "All 101 cross-references for Jonah 4, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v4-1",
+            "text": "4:1Jonah was grieved with great grief and was disturbed."
+          },
+          {
+            "id": "v4-2",
+            "text": "4:2He prayed to the Lord and said, “O Lord, were these not my words while I was still in my own land? That is why I was quick to flee to Tarshish, for I knew that Thou art merciful and compassionate, patient, abundant in mercy, and relenting concerning calamities."
+          },
+          {
+            "id": "v4-3",
+            "text": "4:3And now, Master Lord, take my life from me, for it is better for me to die than to live.”"
+          },
+          {
+            "id": "v4-4",
+            "text": "4:4The Lord said to Jonah, “Are you deeply grieved?”"
+          },
+          {
+            "id": "v4-5",
+            "text": "4:5Jonah went out of the city and sat opposite the city. He made himself a shelter there and sat beneath it in the shade, until he could see what would happen to the city."
+          },
+          {
+            "id": "v4-6",
+            "text": "4:6The Lord God commanded a gourd, and it grew up above Jonah’s head, to provide shade over his head and shelter him from his troubles. Jonah rejoiced over the gourd with great joy."
+          },
+          {
+            "id": "v4-7",
+            "text": "4:7God commanded a worm at dawn the next day; it struck the gourd, and it dried up."
+          },
+          {
+            "id": "v4-8",
+            "text": "4:8As the sun rose, God commanded a burning, scorching wind. The sun struck Jonah’s head; he lost heart, renounced his life and said, “It is better for me to die than to live.”"
+          },
+          {
+            "id": "v4-9",
+            "text": "4:9God said to Jonah, “Are you deeply grieved about the gourd?” He said, “I am deeply grieved, even to death.”"
+          },
+          {
+            "id": "v4-10",
+            "text": "4:10The Lord said, “You spared the gourd, over which you did not toil and which you did not nurture, which came to be in a night and perished in a night."
+          },
+          {
+            "id": "v4-11",
+            "text": "4:11And shall I not spare Nineveh, the great city, in which dwell more than one hundred and twenty thousand people who do not know their right from their left, and much livestock?”"
+          }
+        ],
+        "chapter": 4,
+        "section": 4,
+        "page_id": 3046,
+        "title": "Jonah 4",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-4/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 4,
+        "selected_chapter": "Jonah 4"
+      }
+    ],
+    "index": {
+      "links": [
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/comparison-edition/",
+          "text": "Jewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/vulgate-comparison/",
+          "text": "Catholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/kjv-comparison/",
+          "text": "Protestant King James Bible\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-1/",
+          "text": "Chapter 1\nFlight and the storm"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-2/",
+          "text": "Chapter 2\nPrayer from the fish"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-3/",
+          "text": "Chapter 3\nNineveh repents"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-4/",
+          "text": "Chapter 4\nGod’s mercy questioned"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-1/#v1-3",
+          "text": "Jonah 1:3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-2/#v2-1",
+          "text": "Jonah 2:1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-3/#v3-10",
+          "text": "Jonah 3:10"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-4/#v4-11",
+          "text": "Jonah 4:11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/study/",
+          "text": "Open the Jonah study edition →"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/#saints-ref-1-1",
+          "text": "[1]"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/#",
+          "text": "Suggest a correction"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-1/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-2/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-3/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-4/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/editorial-guide/",
+          "text": "Read the editorial guide for Jonah →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/disparate-study/",
+          "text": "Jonah — Disparate Study"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-1/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-2/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-3/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-4/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-1/#v1-3",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-2/#v2-1",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-3/#v3-10",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-4/#v4-11",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/study/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/editorial-guide/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/disparate-study/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/#saints-ref-1-cite-1",
+          "text": "↑"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        }
+      ],
+      "text": "Jonah\n\nBespoke Saints English Translation · 4 chapters · Provisional editorial edition · 15 October 2026\n\nCompare Jonah with the Saints Translation\n\nJewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison\nCatholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison\nProtestant King James Bible\nCompared with the Saints Translation\nOpen comparison\nSaints Translation: sources and study approach\n\nDraft for review. Only editors can see this introduction. Approve all introductions under Settings → Saints Study.\n\nINTRODUCTION\n\nIntroducing Jonah\n\nJonah tells of a prophet who flees God’s call, is swallowed by a great fish and reluctantly preaches to Nineveh, which repents. It reveals God’s mercy extending even to Israel’s enemies.\n\nSETTING\nSet in Israel and in Nineveh, capital of Assyria, it challenged its hearers to share God’s compassion for the nations.\nAUTHOR\nJonah son of Amittai is the subject of the story; the author is not named. Many scholars date the book well after the prophet’s lifetime.\nDATE\nThe prophet lived in the 8th century BC; many scholars date the book to the post-exilic period.\nOutline\nChapter 1\nFlight and the storm\nChapter 2\nPrayer from the fish\nChapter 3\nNineveh repents\nChapter 4\nGod’s mercy questioned\nKey passages\nJonah 1:3 — Jonah flees\nJonah 2:1 — Prayer from the deep\nJonah 3:10 — God relents\nJonah 4:11 — Should I not pity Nineveh?\nThemes\nGod’s sovereignty over creation\nMercy for the nations\nRepentance\nThe reluctant servant\nRead in the light of Christ\n\nJesus pointed to the sign of Jonah as a figure of his three days in the tomb, and Jonah and the fish became one of the commonest resurrection images in early Christian art.\n\nOpen the Jonah study edition →\n\nIntroduction by Saints.Bible · CC BY-SA 4.0[1] · Suggest a correction\n\nChapters\n\n1 2 3 4\n\nEditorial guide\n\nRead the editorial guide for Jonah →\n\nCurrent Bespoke editorial guide\n\nAll 4 chapters, comprising 48 existing verse units, have received the Bespoke English editorial pass: 16 revised and 32 retained. Source-specific numbering, names, repetitions and verse anchors are preserved. The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.\n\nRahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending. All English verse units were individually reviewed, and the full displayed Greek running text was read chapter by chapter with focused comparison of the recorded features. This does not constitute exhaustive critical-text verification.\n\nThe newer Bespoke PDF governs this reading edition. Saints Translation literal-smooth and all comparison/study streams remain separate and unchanged. Notes are separated from Scripture. Earlier source and wording notes are historical records and may quote superseded wording or pronouns; the dated current Bespoke notes explain this revision. The earlier editorial guide remains linked as a historical reference and does not override the newer PDF.\n\nThe existing Greek-based numbering and verse gaps remain intact. Difficult readings, source-specific dates, figures, names and repetitions have not been harmonized to familiar English versions. The four chapters retain 16, 11, 10 and 11 verse units. The sea creature begins at 2:1 in this numbering. Three days at 3:4, Hades, gourd and the prayer forms of chapter 2 remain distinct from other witnesses. Unresolved syntax, imagery and speaker/addressee questions are separately queued for specialist review. Historical lexical and comparative notes, footnote anchors, images and navigation are preserved.\n\nJonah — Disparate Study\n\nRead both complete source readings before five commentary paragraphs for every Disparate entry in this book.\n\nExplore links from this page\nScripture\nFootnotes\n↑CC BY-SA 4.0 — creativecommons.org",
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/",
+      "all_4_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "Whitespace and WordPress apostrophe typography only; visible verse numbers and preserved trailing footnote callouts excluded.",
+    "chapter_navigation": [
+      {
+        "text": "Jonah 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-1/"
+      },
+      {
+        "text": "Jonah 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-2/"
+      },
+      {
+        "text": "Jonah 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-3/"
+      },
+      {
+        "text": "Jonah 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/chapter-4/"
+      }
+    ],
+    "visual_capture": "Every saved reading page received rendered DOM text and navigation checks. Screenshot capture was unavailable because the browser reported a zero-width viewport; no visual screenshot inspection is claimed for this book."
+  },
+  "comparison_checks": [
+    {
+      "id": 23757,
+      "title": "Jonah — Study Edition",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/study/",
+      "before_content_hash": "ee44e7af760d6925dbc18ab36758570c716b9228",
+      "after_content_hash": "ee44e7af760d6925dbc18ab36758570c716b9228",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20740,
+      "title": "Jonah — King James Bible and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/kjv-comparison/",
+      "before_content_hash": "48e5667bda45766b2dcfdac1ddfcc59db0d2eef9",
+      "after_content_hash": "48e5667bda45766b2dcfdac1ddfcc59db0d2eef9",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20739,
+      "title": "Jonah — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/vulgate-comparison/",
+      "before_content_hash": "067b64bd8f6ef20f597f11d76b5f596309a8c2a1",
+      "after_content_hash": "067b64bd8f6ef20f597f11d76b5f596309a8c2a1",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 18640,
+      "title": "Jonah — Disparate Study",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/disparate-study/",
+      "before_content_hash": "903be37cf355997b537e487c36c2890ef4fcd97c",
+      "after_content_hash": "903be37cf355997b537e487c36c2890ef4fcd97c",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3786,
+      "title": "Jonah — Hebrew and Greek compared",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/comparison-edition/",
+      "before_content_hash": "f4f682402db13ea048caaf8869268551e7bbf872",
+      "after_content_hash": "f4f682402db13ea048caaf8869268551e7bbf872",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3047,
+      "title": "Jonah — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/jonah/editorial-guide/",
+      "before_content_hash": "9950a8db860760ad3d27f514b386f843ef6cab52",
+      "after_content_hash": "9950a8db860760ad3d27f514b386f843ef6cab52",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 48,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 5 edited pages and all 6 reference pages, plus 6 reference hash snapshots. This is a book archive, not a full-site backup."
+}
