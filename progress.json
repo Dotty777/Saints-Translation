@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 21,
-  "pending_book_revisions": 49,
-  "next_book": "Proverbs",
+  "completed_book_records": 22,
+  "pending_book_revisions": 48,
+  "next_book": "Ecclesiastes",
   "full_bible_complete": false,
   "books": [
     {
@@ -210,8 +210,12 @@
       "order": 22,
       "book": "Proverbs",
       "staging_path": "/bible/wisdom/proverbs/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "proverbs/",
+      "chapters": 31,
+      "reading_sections": 34,
+      "verse_units": 939,
+      "wording_changes": 569
     },
     {
       "order": 23,
@@ -554,10 +558,11 @@
   "division_progress": {
     "division": "Wisdom",
     "completed_books": [
-      "Psalms"
+      "Psalms",
+      "Proverbs"
     ],
-    "pending_books": 6,
-    "next_book": "Proverbs",
+    "pending_books": 5,
+    "next_book": "Ecclesiastes",
     "status": "In progress; specialist review pending"
   },
   "completed_divisions": [
@@ -565,6 +570,6 @@
     "Judgement"
   ],
   "current_priority": "Finish the remaining Old Testament after Job: all Wisdom books and all Prophets, one book at a time, with staging verification and GitHub main uploads.",
-  "old_testament_completed_book_records": 21,
-  "old_testament_pending_book_revisions": 22
+  "old_testament_completed_book_records": 22,
+  "old_testament_pending_book_revisions": 21
 }

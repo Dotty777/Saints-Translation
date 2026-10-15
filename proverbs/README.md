@@ -1,0 +1,152 @@
+# Proverbs — Bespoke Saints English Translation
+
+All 31 chapters across 34 reading sections and the book index were saved and read back on the WordPress staging site on 14 October 2026. All 939 verse units received an English editorial review: 569 changed and 370 retained their wording. This is a provisional editorial edition; independent specialist approval remains pending.
+
+The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy address God directly; ordinary address uses you/your.
+
+Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending. The [German Bible Society running text](https://www.die-bibel.de/en/bible/LXX/PRO.1) was consulted in the scopes specified in source-checks.json. The full displayed Greek running text was read for all 31 chapters, with focused comparison of the features named in the chapter records. Exhaustive critical-text, printed-apparatus and manuscript verification is not claimed. Existing textual and reception records are historical evidence, not a fresh verification claim. No manuscript-image inspection or independent scholarly approval is claimed.
+
+## Read and review
+
+- [Proverbs.html](Proverbs.html): complete reader with chapter navigation, verse anchors, preserved poetry, chapter emblems, preserved historical wording notes and separated current notes. The emblems load from their original staging URLs. Download and open for the styled reading view.
+- [Proverbs.txt](Proverbs.txt) and [verses.json](verses.json): text and structured verse records.
+- [changes.json](changes.json): before/after wording and editorial decisions for every verse, including retained wording.
+- [editorial-notes.json](editorial-notes.json) and [source-checks.json](source-checks.json): chapter decisions, exact source consultation scopes and pending questions.
+- [verification.json](verification.json): structural checks, 35 exact saved-page readbacks, all 939 rendered verse comparisons, working chapter navigation, and unchanged-content checks for all 6 reference pages.
+- [original-staging-backup.zip](original-staging-backup.zip): original page records, reference hash snapshots, inventory and integrity manifest.
+- [verified-staging-content.zip](verified-staging-content.zip): actual saved-page records for every updated page.
+- [RESTORE.md](RESTORE.md): restoration guidance.
+
+Every original verse ID, link, navigation destination, image and existing textual/reception record is preserved. Notes remain separate from Scripture. The revision does not harmonize the selected Greek text with Hebrew or familiar English versions.
+
+Complete original content for all 35 edited pages and four reference pages, plus 6 reference hash snapshots. The large Vulgate and KJV comparison pages (20715 and 20716) could not be retrieved in full after repeated connector failures; their hashes and section records are preserved, and both remain unchanged. This is a book archive, not a full-site backup.
+
+## Chapter decisions and review queue
+
+**Chapter 1.** Ordinary son-address and Wisdom’s plural audience use you/your; third-person verb forms and negative syntax are modernized. Preserve the extended 1:7, crown of graces, bloodshed, Hades, repeated ruin clauses, and breath rather than importing a theological identification. Ongoing calling, rejection and sneering in 24–25,30 remain explicit. In 8–19 the son is singular; in 23–28 Wisdom addresses a plural audience.
+
+Pending: Review exits in 20, infant/innocent terminology in 32, and difficult extended clauses. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 2.** Preserve the conditional sequence, good counsel/holy thought, earthborn near Hades, the counterfactual in 20 and the repeated land promises in 21. Do not replace evil counsel in 17 with the woman from another source tradition; retain the feminine personification in 18. The address in 13 is plural, while son-address and the you of 16–17 are singular.
+
+Pending: Review the abrupt address/syntax in 13–16 and the years-of-life clause in 19. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 3.** Use ordinary you/your and modern verb forms. Preserve the plural acts of mercy/faithfulness with their inherited note, self-exaltation image, her in 6, scourging in 12, additions 16a and 22a, and the closing past/future distinction. Deeps preserves the plural abyss image in 20. Add clear quotation marks to the delayed-giving speech in 28.
+
+Pending: Review the relationship of clauses in 6 and 18 and the closing raised-up-dishonor wording. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 4.** Preserve absent verse 7, additions 27a–b, parental our word, crown/graces, springs and plural from these in the guarded-heart image. Modernize ordinary address and clarify the ongoing parental instruction in 4; children in 1–2 are plural, with a singular son addressed from 4 onward.
+
+Pending: Review day comes right in 18, fortify her in 8 and the antecedent of these in 23. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 5.** Keep the oil/throat image, named folly, Hades, plural houses, water/squares imagery, deer and colt, one among many, and the present/past sequence in 23. Make future regret and speech in 11–12 explicit; modernize ordinary son-address and verb forms.
+
+Pending: Review difficult water instructions in 15–18, one among many in 19, and the relationship of the prohibitive clauses and future regret in 9–12. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 6.** Use act as guarantor in 1 and 3 to clarify the pledge, retaining the friend/enemy and hand images. Preserve the entire bee addition, the spring/good-runner/bad-runner contrasts, bodily gestures, and the Greek unnumbered list in 16–19. The duration question in 9 uses natural English will you remain lying down. Retain married woman, alien tongue and legal-acquittal wording.
+
+Pending: Review the pronoun her in 22 and the phrase alien tongue in 24; no harmonization with the other comparison streams. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 7.** Preserve the woman as the window observer, her repeated house/feet imagery, the explicit talking in darkness, the peace sacrifice, Egyptian rugs, saffron and cinnamon, and ox/dog/deer/bird sequence. Clarify the long conditional sentence across 6–10 without changing verse boundaries. Ordinary addresses and verb forms are modernized.
+
+Pending: Review the idiomatic force of 6–10 and the plural house/ways construction in 27. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 8.** Keep the opening future You will proclaim, with a singular addressee, then the plural audience of Wisdom’s speech. Preserve created in 22, founded in 23, present gives me birth in 25, the throne upon winds, fitting things together with its inherited supplied-object note, the repeated day-by-day clauses and absent verse-33 label. Deeps keeps the plural abyss image; ongoing was marking out is explicit in 27. Do not resolve personified Wisdom’s theological identity through capitalization or pronouns.
+
+Pending: High priority: review 22–31, especially created/birth/fitting and supplied things, and the source-specific ways out to life in 35. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 9.** Preserve seven pillars, repeated own, plural loaves, holy ones with uncertain identity, the vineyard/winds/fruitlessness addition and the full foreign-water ending. Ordinary address and verb forms are modernized; the first-person shift in 16 remains. The audience in 5–6 is plural, while the son-address of 11–12 and 18a–d is singular.
+
+Pending: Review speaker transition in 16, the Hades ledge in 18 and difficult land/fruitlessness wording in 12c. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 10.** Modernize verb forms and the singular ordinary address in 19. Preserve addition 4a, past preservation versus present ruin in 5, fountain in the hand in 11, friendship covering those who do not love strife in 12, righteous lips concealing enmity in 18, and the repeated blessing upon the righteous head in 6 and 22.
+
+Pending: Review unrestrained in 8, discipline that goes unreproved in 17, and the mouth turning away in 32. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 11.** Preserve absent verse 4, non-perishing hope of the righteous in 7, the connected past-tense city clauses in 10–11, breath in 13, expanded 16, hands into a hand in 21, and optative May in 26. Quick-tempered/not dignified replaces the less familiar irascible/not becoming in 25 without changing the contrast.
+
+Pending: Review faithful in breath in 13, sound of security in 15, hands/hand in 21, and the force of the optative in 26. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 12.** Modernize third-person verbs, and clarify woman who does evil in 4. Preserve the worm/wood image, bodily inward affections with the inherited note, additions 11a and 13a, plural fruits/lips recompense, throne of discernment in 23, and the Greek closing path of those who remember wrongs.
+
+Pending: Review the gates/lives image in 13a, demonstrated faithfulness in 17, and the pure man/precious possession saying in 27. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 13.** Modernize third-person verb forms while retaining the present/past contrast in 16. Keep both lettered additions, the help/hope comparison in 12, rash king in 17, will be known in 20, inheritance of children’s children in 22 and the staff image in 24.
+
+Pending: Review the king/messenger saying in 17, will be known in 20 and the inheritance object in 22. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 14.** Retain plural wise women against singular foolish woman in 1, purification in 9, the Hades outcome in 12, extended mercy/faithfulness in 22, the perceptive-heart/moth image in 30 and trusting in one’s own piety in 32. Keep the uncertain he in 26 unchanged. Skill replaces dexterity in 35 for clearer English.
+
+Pending: Review the referent of he in 26 and the difficult heart and piety sayings in 10,30,32. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 15.** Preserve all additions and displaced sayings, the absent verse-31 label, fearlessness in 16, the present/past contrast in 25 and the closing answer her. In 1 English anger is a mass noun; the Greek final noun is plural, literally angers, distinct from its opening singular. In 18 battle is supplied from the preceding plural battles to clarify the feminine one about to arise, rather than imply a person. Small gain replaces the misleading modern sense of receipt in 29a.
+
+Pending: Review healing of a tongue/filled with spirit in 4, discipline recognized by passersby in 10, and the antecedent of her in 33. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 16.** Preserve the missing verse labels, repeated sacrificing sacrifices in 7, balance/weights in 11, king’s son in 15, nests of wisdom in 16, the extended saying in 17, worthless in 21 and the torch/furnace images in 28,30. Clarify the reflexive destruction clause in 26 without removing its force. The ending remains everything coming into the laps of the unjust; no casting-lots saying is imported.
+
+Pending: Review high of heart/hands into a hand in 5, nests in 16, the worthless saying in 21 and the difficult labor/destruction saying in 26. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 17.** Retain chosen hearts in 3, the obol coin in 6a, discipline/reward in 8, concern rather than a bear in 12 and righteousness giving authority to words in 14. The ordinary singular address in 17 uses yours; at all times and in times of need smooth the English. Acts as guarantor in 18 agrees with chapter 6. Preserve the connected 19–21 clauses and the fool asking for wisdom in 28.
+
+Pending: Review the force of chosen hearts in 3, the extended addition 16a, the guarantor comparison in 18 and the opening image of 24. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 18.** Preserve the source-specific fear/lazy saying in 8, healing oneself in work in 9, greatness of strength in 10, the righteous as his own accuser in 17, the supported brother in 19, the hand of the tongue in 21 and the past forms in 22. Keep addition 22a and the absent 23–24 labels. The inherited womanish men in 8 is retained provisionally for lexical review; no modern identity category is substituted.
+
+Pending: Priority lexical review of androgynoi in 8 and the syntax of 10,17. Independent specialist review must assess the inherited womanish wording without importing a modern identity category. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 19.** Preserve the absent opening labels 1–2, full extended saying in 7, prayers from a courtesan’s fee in 13, discipline leading to hope in 18, the fearless person in 23 and hands/lap/mouth in 24. Ordinary singular address uses you/your; acts as guarantor in 28 matches chapters 6 and 17. The difficult inherited womanish man in 15 remains provisional, as in 18:8.
+
+Pending: Priority lexical review of womanish in 15; also pestilentially in 19 and the difficult lodge/knowledge clause in 23. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 20.** Preserve the source order 9,9a–c,10–13,23–30 and all numbering gaps. Retain the lazy person reproached in 4, pure heart/sins in 9, singular ear and eye in 12, loaves in 13, the wheel image in 26, plural human beings in 27 and repeated store-chambers of the belly in 27,30. Ordinary address in 9c and 13 is singular and uses you/your.
+
+Pending: Review the syntax and antecedents of 11, the breath/searching relation in 27 and the exact force of bruises/crushing wounds in 30. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 21.** Preserve the present/perfect contrast in 1, missing verse 5, crooked ways sent by God in 8, plastered rooms/injustice in 9, assembly of giants in 16, the connected 17–18 sayings and the triple there is no in 30. In 14 English anger is a mass noun; the Greek noun is plural, literally angers. Quick-tempered in 19 and with a shameless face in 29 clarify English without replacing their images.
+
+Pending: Review toward wealth and cleansing-offering in 17–18, the treasure on a mouth in 20 and the final impious/counsel relation in 30. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 22.** Preserve the missing verse 6, all three additions, servants lending to masters in 7, past gave beside future nourishment in 9 and the rod/discipline far away in 15. Has given in 9a makes the completed giving explicit. Singular ordinary address in 17–28 uses you/your. Keep threefold copying, breadth of heart, face, sides and everlasting boundaries; makes an excuse in 13 clarifies the pretext.
+
+Pending: Review the ambiguous possessors in 9a, the repeated completion verb in 8/8a and threefold in 20. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 23.** Preserve the eagle/house return in 5, swallowed hair in 7, plural orphans in 10, bodily rod and rescue images in 13–14, absent verse 23, pierced jar in 27 and the expanded drinking passage. Ordinary singular address uses you/your. The opening commands in 31 address a plural audience; the following conditional you is singular, and 32 shifts to third-person he. Preserve the present strike and past felt/mocked/knew in 35.
+
+Pending: Review the unusual hair/eating syntax in 7, house/well in 27–28, the comparative barer than a pestle in 31 and the referent transition in 32. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 24.** Preserve both separated source blocks and additions 22a–e in their established positions. Keep steering, estate, gates, fashioned breath, seven falls, repeated word-receiving, king’s sword-tongue and bones/eaglets images. Ordinary address is singular except the plural wise audience in 23. Follow behind me and for the wrong he did me clarify 27,29 without settling the speaker identity.
+
+Pending: Review the difficult 7–10 chain, receiving/received in 22a, speaker of follow behind me in 27 and the cultivated-person comparison in 30–31. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 25.** Preserve Hezekiah/Judea, undifferentiated instructions, the kill command in 5, carnelian images in 11–12, conspicuous rains in 14, both additions and honor for glorious words in 27. Ordinary singular address uses you/your. The hungry/thirsty conditions in 21 are explicit modern English; feed/give drink and the coals image remain unchanged, with the inherited lexical note retained.
+
+Pending: Review undifferentiated in 1, the repeated benefits in 13, tooth/foot in 19 and disorderly/fallen in 26. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 26.** Preserve the differing instructions in 4–5, reproach drunk from feet in 6, slavery in 9, storm-tossed flesh in 10, addition 11a, the dog’s tail in 17 and healers in 18. Repair the incomplete English comparison in 11 while retaining all three own phrases and completed return. Make will be tripped up future in 18. Retain the chamber/body image and the weeping enemy.
+
+Pending: Review the difficult sayings in 6–10, healers/word in 18–19 and the well-known person in councils in 26. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 27.** Preserve ancestral friendship, past hid and future penalty in 12, the north-wind naming in 16, provoking a companion’s face in 17 with its inherited lexical note, both additions and the strong sayings closing in 27. Clarify that the addressee suffers misfortune in 10. Ordinary address is singular. The Greek futures in 23 are read as instructions in the inherited English; this imperatival reading is recorded for review.
+
+Pending: Review the wind-name saying in 16, the force of provoke in 17, fixed eye in 20a, future/imperatival force in 23 and the agricultural sayings in 25–27. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 28.** Preserve the connected rain comparison in 3–4, the law/wall image, explaining reproofs in 13, addition 17a and perfect has been helped in 18. Reorder 15 for grammatical English while retaining both predator images and the poor tyrant. Acts as guarantor for in 17 matches earlier passages. Will be cared for in 25 leaves the agent unstated. Bread in 19 is an English mass noun for the Greek plural loaves.
+
+Pending: Review the difficult prayer clause in 9, explaining reproofs in 13, reverence/fear in 14 and the contrasting disposals in 24. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 29.** Retain praise/joy and rule/groaning contrasts, the net around its maker’s feet, testimony in 14, terrified righteous in 16, interpreter in 18, the connected plural oath passage in 24–25 and the two distinct Lord/Master titles. Inspects both in 13 is concise English. Preserve present digs versus past dug in 22, and portion by portion in 11.
+
+Pending: Review the unusual opening comparison, the poor person’s mind in 7, the interpreter in 18 and the difficult conditional/past-tense oath sequence in 24–25. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 30.** Preserve both source blocks, unnamed speaker and I cease in 1, God having taught wisdom in 3, children plural in 4 and holy ones without settling their identity. Keep Thee only for prayer to God in 7; other ordinary address uses you/your. Evil offspring in 11–14 is a collective English expression for a singular Greek form. Keep the leech’s three daughters/fourth, Tartarus, all repetitions of three/four, animals, rooster and bodily milk/nostrils images.
+
+Pending: Review source-specific speaker claims in 1–4, the prayer addressee, offspring/discharge in 11–14, the leech list and exact animal identifications, and milk/butter language in 33. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+**Chapter 31.** Preserve both separated source blocks, God-spoken oracle without adding Lemuel, repeated What questions and counsel/wine language. Ordinary address to the son and woman uses you/your. Give in 6 and 31 addresses a plural audience, unlike the singular opening commands. Preserve courageous with its inherited note, mixed present/past verbs, Canaanites, 25–26 order, houses plural in 27, expanded 28 and husband praised in 31.
+
+Pending: Review the oracle syntax in 1–2, belated counsel in 3, mixed tenses throughout the woman’s poem, secure occupations in 27 and praise of the husband in 31. Independent Greek, Göttingen/apparatus and human read-aloud review pending.
+
+Saints Translation literal-smooth and all 6 study/comparison pages were left unchanged and passed content-hash checks. No live-site update was made. [Repository progress](../progress.json) supersedes next-book statements in earlier snapshots.
+
+[Read Proverbs on staging](https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/wisdom/proverbs/)
