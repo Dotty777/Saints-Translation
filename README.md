@@ -22,13 +22,15 @@ Book-by-book Bespoke Saints English editorial editions, change records and revie
 - [Nehemiah — 13 chapters](nehemiah/README.md): provisional editorial revision; 392 verse units, 37 wording changes. Staging verified on 14 October 2026.
 - [Esther — 10 chapters](esther/README.md): provisional editorial revision; 246 anchored verse units plus six continuation paragraphs; 59 anchored-unit changes and one continuation change. Staging verified on 14 October 2026.
 - [Job — 42 chapters](job/README.md): provisional editorial revision; 1083 verse units, 450 wording changes. Staging verified on 14 October 2026.
-- The Law division is complete at the English editorial/staging stage. Joshua, Judges, Ruth, 1 Samuel, 2 Samuel, 1 Kings, 2 Kings, 1 Chronicles, 2 Chronicles, 1 Maccabees, 2 Maccabees, Ezra, Nehemiah, Esther and Job are complete in the Judgement Division. Psalms begins the Wisdom division next; its seven books and 50 books overall remain pending the Bespoke pass.
+- [Psalms — all 151 Greek psalms](psalms/README.md): provisional editorial revision; 2534 verse units, 596 wording changes. Staging verified on 14 October 2026.
+- Law and Judgement are complete at the English editorial/staging stage. Psalms is the first completed Wisdom book. Proverbs is next; six Wisdom books, sixteen Prophets and 49 books overall remain pending the Bespoke pass.
 
-[progress.json](progress.json) lists the site's selected seventy-book working edition in its actual reading order: 43 Old Testament and 27 New Testament books. The current user instruction is to extend the Genesis–Exodus manner through every remaining book and keep updates in the current chat. The latest instruction prioritizes the remaining Old Testament: all seven Wisdom books and all sixteen Prophets. Twenty Old Testament books are at the recorded editorial/staging stage; twenty-three remain. The full Bible revision is not yet complete.
+[progress.json](progress.json) lists the site's selected seventy-book working edition in its actual reading order: 43 Old Testament and 27 New Testament books. The current user instruction is to extend the Genesis–Exodus manner through every remaining book and keep updates in the current chat. The latest instruction prioritizes the remaining Old Testament: all seven Wisdom books and all sixteen Prophets. Twenty-one Old Testament books are at the recorded editorial/staging stage; twenty-two remain. The full Bible revision is not yet complete.
 
 The newer Bespoke policy governs. Rahlfs–Hanhart 2006 continuation is provisional and user-authorized for the relevant Old Testament books. Each book's declared source and any exceptions must be retained and checked before revision. Full apparatus, Göttingen, independent Greek and human read-aloud reviews remain pending. Saints Translation literal-smooth and other comparison streams remain separate. Files here do not deploy the WordPress live site.
 
 This progress list supersedes the next-book status in earlier book snapshots; their original records remain preserved. “Completed” means the recorded English pass, staging verification and archive, not independent specialist publication approval.
+
 
 
 
