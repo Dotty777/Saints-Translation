@@ -1,0 +1,34 @@
+{
+  "book": "Habakkuk",
+  "date": "2026-10-15",
+  "edition": "Rahlfs–Hanhart 2006; German Bible Society online running text",
+  "authorization": "User authorized provisional continuation with Rahlfs–Hanhart; Göttingen not obtained.",
+  "scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+  "historical_records": "Existing index and reference records were consulted as historical reference, not proof of fresh complete Greek verification.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "url": "https://www.die-bibel.de/en/bible/LXX/HAB.1",
+      "focus": "Retain Thou/Thee/Thine and the matching second-person forms in direct prayer; modernize third-person verbs and ordinary address to despisers. Render Thou hast appointed at 1:12 to reflect the perfect result and Thou wilt not be able to at 1:13 to make the future explicit. Preserve the judge takes without a supplied object, scattered law, despisers/vanish, Chaldean warriors, wolves of Arabia, tyrants as toys, spirit/propitiation/my God, He formed me/his discipline, fish/creeping things, distinct fishing nets, choice foods and continual killing.",
+      "decision": "Retain Thou/Thee/Thine and the matching second-person forms in direct prayer; modernize third-person verbs and ordinary address to despisers. Render Thou hast appointed at 1:12 to reflect the perfect result and Thou wilt not be able to at 1:13 to make the future explicit. Preserve the judge takes without a supplied object, scattered law, despisers/vanish, Chaldean warriors, wolves of Arabia, tyrants as toys, spirit/propitiation/my God, He formed me/his discipline, fish/creeping things, distinct fishing nets, choice foods and continual killing.",
+      "running_text_read": "The publisher’s full displayed Greek running text was read through web retrieval for this chapter, with focused comparison of the recorded features. No printed-apparatus or manuscript collation.",
+      "pending": "Review the judge’s unstated object, claim at 1:7, collective nation/person-number treatment, spirit and propitiation at 1:11 and the pronouns/discipline clause at 1:12. No bribe, Rock, moral harmonization or identification of the spirit as the Holy Spirit is added. Independent Greek, Göttingen/apparatus and human read-aloud reviews remain pending."
+    },
+    {
+      "chapter": 2,
+      "url": "https://www.die-bibel.de/en/bible/LXX/HAB.2",
+      "focus": "Modernize ordinary address and third-person forms; nest the short quotation at 2:6 within the outer speech. Retain rock, speak within me, boxwood tablet and pursuit, masculine he/him for the awaited one, coming he will come, both first-person possessives and shall at 2:4, Hades/death, heavy collar, biters and him-to-you shift, reciprocal plunder, beetle, water covering them, turbid overthrow/caves, cup/tossing/shaking, false appearance/mute idols and revere the Lord.",
+      "decision": "Modernize ordinary address and third-person forms; restore the question boundary and explicit future They will say at 2:6, with the short quotation nested within the outer speech. Retain rock, speak within me, boxwood tablet and pursuit, masculine he/him for the awaited one, coming he will come, both first-person possessives and shall at 2:4, Hades/death, heavy collar, biters and him-to-you shift, reciprocal plunder, beetle, water covering them, turbid overthrow/caves, cup/tossing/shaking, false appearance/mute idols and revere the Lord.",
+      "running_text_read": "The publisher’s full displayed Greek running text was read through web retrieval for this chapter, with focused comparison of the recorded features. No printed-apparatus or manuscript collation.",
+      "pending": "Review boxwood as a material gloss, the pursued object, faith/trust/faithfulness and the relation of My at 2:4, the beetle, the referent of them at 2:14 and caves/turbid overthrow at 2:15. Hebrews, Galatians and other reception preserve their own wording; no alternative possessive or sea object is imported. Independent Greek, Göttingen/apparatus and human read-aloud reviews remain pending."
+    },
+    {
+      "chapter": 3,
+      "url": "https://www.die-bibel.de/en/bible/LXX/HAB.3",
+      "focus": "Modernize only third-person arrives/says/scatters; retain the direct prayer’s Thou/Thee/Thy/Thine, its unusual imagery and all Diapsalma markers. Preserve two living creatures and years/season, Teman and wooded mountain, horns in hands and mighty love, preceding word/sandals, everlasting journeys once at 3:7, riding as salvation, bow/scepters, peoples/abyss/appearance, missiles, plural anointed ones, death/heads/bonds, poor eater/bridles, horses disturbing water, prayer/trembling/sojourning, agricultural loss, rejoicing and completion/heights/His song.",
+      "decision": "Modernize only third-person arrives/says/scatters; retain the direct prayer’s Thou/Thee/Thy/Thine, its unusual imagery and all Diapsalma markers. Preserve two living creatures and years/season, Teman and wooded mountain, horns in hands and mighty love, preceding word/sandals, everlasting journeys once at 3:7, riding as salvation, bow/scepters, peoples/abyss/appearance, missiles, plural anointed ones, death/heads/bonds, poor eater/bridles, horses disturbing water, prayer/trembling/sojourning, agricultural loss, rejoicing and completion/heights/His song.",
+      "running_text_read": "The publisher’s full displayed Greek running text was read through web retrieval for this chapter, with focused comparison of the recorded features. No printed-apparatus or manuscript collation.",
+      "pending": "Review the creatures’ identification, mighty love, the change of speaker at 3:9–10, abyss/appearance, ruler/bridle clauses, bodily condition/sojourning and completion at 3:19. No deer, plague, named Paran, singular anointed figure or fixed typological interpretation is substituted for the selected Greek. Independent Greek, Göttingen/apparatus and human read-aloud reviews remain pending."
+    }
+  ]
+}
