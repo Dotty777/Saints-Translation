@@ -1,0 +1,315 @@
+EZRA — BESPOKE SAINTS ENGLISH TRANSLATION
+14 October 2026
+Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.
+Plain text Scripture only. Separated editorial notes and unresolved readings are in editorial-notes.json, source-checks.json and the HTML reader.
+
+
+EZRA 1
+
+1:1 In the first year of Cyrus king of the Persians, so that the Lord’s word through Jeremiah’s mouth might be fulfilled, the Lord stirred the spirit of Cyrus king of the Persians. He ordered a proclamation throughout his kingdom, also in writing, saying:
+1:2 “Thus says Cyrus king of the Persians: The Lord, God of heaven, has given me all the kingdoms of the earth, and He has charged me to build Him a house in Jerusalem in Judea.
+1:3 Who among you belongs to any of His people? His God will be with him, and he will go up to Jerusalem in Judea. Let him build the house of the God of Israel—He is the God in Jerusalem.
+1:4 As for everyone left behind, from whatever place he resides in, the men of his place will take him up with silver, gold, belongings and livestock, together with the freewill offering for the house of God in Jerusalem.”
+1:5 The leaders of the families of Judah and Benjamin, the priests and the Levites arose, of all those whose spirit God had stirred to go up and build the Lord’s house in Jerusalem.
+1:6 All those around them strengthened their hands with silver vessels, gold, belongings, livestock and gifts of hospitality, apart from the freewill offerings.
+1:7 King Cyrus brought out the vessels of the Lord’s house that Nebuchadnezzar had taken from Jerusalem and placed in the house of his god.
+1:8 Cyrus king of the Persians brought them out through Mithradates the gasbaren, who counted them out to Sasabasar, the ruler of Judah.
+1:9 This was their number: thirty gold cooling vessels, a thousand silver cooling vessels, twenty-nine miscellaneous items;
+1:10 thirty gold kephphoure, two hundred silver ones, and a thousand other vessels.
+1:11 All the gold and silver vessels numbered five thousand four hundred; all went up with Sasabasar from the deportation, out of Babylon to Jerusalem.
+
+EZRA 2
+
+2:1 These are the sons of the land who came up from the captivity of the deportation, whom Nabouchodonosor king of Babylon had deported to Babylon. They returned to Jerusalem and Judah, each man to his own city,
+2:2 who came with Zorobabel: Iesous, Neemias, Saraias, Reelias, Mardochaios, Balasan, Masphar, Bagoui, Reoum and Baana. The number of the men of the people of Israel:
+2:3 The sons of Phoros: two thousand one hundred and seventy-two.
+2:4 The sons of Saphatia: three hundred and seventy-two.
+2:5 The sons of Era: seven hundred and seventy-five.
+2:6 The sons of Phaathmoab, belonging to the sons of Iesoue and Ioab: two thousand eight hundred and twelve.
+2:7 The sons of Ailam: one thousand two hundred and fifty-four.
+2:8 The sons of Zathoua: nine hundred and forty-five.
+2:9 The sons of Zakchou: seven hundred and sixty.
+2:10 The sons of Banoui: six hundred and forty-two.
+2:11 The sons of Babi: six hundred and twenty-three.
+2:12 The sons of Asgad: three thousand two hundred and twenty-two.
+2:13 The sons of Adonikam: six hundred and sixty-six.
+2:14 The sons of Bagoi: two thousand and fifty-six.
+2:15 The sons of Adin: four hundred and fifty-four.
+2:16 The sons of Ater, belonging to Ezekia: ninety-eight.
+2:17 The sons of Basou: three hundred and twenty-three.
+2:18 The sons of Iora: one hundred and twelve.
+2:19 The sons of Asem: two hundred and twenty-three.
+2:20 The sons of Gaber: ninety-five.
+2:21 The sons of Bethlehem: one hundred and twenty-three.
+2:22 The sons of Netopha: fifty-six.
+2:23 The sons of Anathoth: one hundred and twenty-eight.
+2:24 The sons of Asmoth: forty-two.
+2:25 The sons of Kariathiarim, Kaphira and Beroth: seven hundred and forty-three.
+2:26 The sons of Arama and Gabaa: six hundred and twenty-one.
+2:27 The men of Machmas: one hundred and twenty-two.
+2:28 The men of Bethel and Aia: four hundred and twenty-three.
+2:29 The sons of Nabou: fifty-two.
+2:30 The sons of Magebos: one hundred and fifty-six.
+2:31 The sons of Elam-ar: one thousand two hundred and fifty-four.
+2:32 The sons of Eram: three hundred and twenty.
+2:33 The sons of Lod, Aroth and Ono: seven hundred and twenty-five.
+2:34 The sons of Jericho: three hundred and forty-five.
+2:35 The sons of Sanaa: three thousand six hundred and thirty.
+2:36 The priests: the sons of Iedoua, belonging to the house of Iesous: nine hundred and seventy-three.
+2:37 The sons of Emmer: one thousand and fifty-two.
+2:38 The sons of Phassour: one thousand two hundred and forty-seven.
+2:39 The sons of Erem: one thousand and seven.
+2:40 The Levites: the sons of Iesous and Kadmiel, belonging to the sons of Odouia: seventy-four.
+2:41 The singers: the sons of Asaph: one hundred and twenty-eight.
+2:42 The sons of the gatekeepers: the sons of Saloum, the sons of Ater, the sons of Telmon, the sons of Akoub, the sons of Atita and the sons of Sabaou: all together, one hundred and thirty-nine.
+2:43 The Nathinaians: the sons of Souia, the sons of Asouphe, the sons of Tabaoth;
+2:44 the sons of Keraos, the sons of Soea, the sons of Phadon;
+2:45 the sons of Labano, the sons of Agaba, the sons of Akaboth;
+2:46 the sons of Agab, the sons of Samalai, the sons of Anan;
+2:47 the sons of Kedel, the sons of Gaer, the sons of Reea;
+2:48 the sons of Rason, the sons of Nekoda, the sons of Gazem;
+2:49 the sons of Ousa, the sons of Phase, the sons of Basi;
+2:50 the sons of Asena, the sons of Maonim, the sons of Naphison;
+2:51 the sons of Bakbouk, the sons of Akipha, the sons of Arour;
+2:52 the sons of Basaloth, the sons of Maouda, the sons of Aresa;
+2:53 the sons of Barkous, the sons of Sisara, the sons of Thema;
+2:54 The sons of Nasoue, the sons of Atoupha.
+2:55 The sons of Abdeselma: the sons of Sati, the sons of Asepherath, the sons of Phadoura;
+2:56 the sons of Ieela, the sons of Darkon, the sons of Gedel;
+2:57 The sons of Saphatia, the sons of Atil, the sons of Phacherath-aseboin, the sons of Emi.
+2:58 All the Nathinin and the sons of Abdeselma: three hundred and ninety-two.
+2:59 These came up from Thelmeleth, Thelaresha, Charoub, Edan and Emmer, but they were unable to declare their family house and their descent, whether they were from Israel:
+2:60 the sons of Dalaia, the sons of Boua, the sons of Tobia and the sons of Nekoda: six hundred and fifty-two.
+2:61 And from the sons of the priests: the sons of Chabia, the sons of Akous and the sons of Berzellai, who had taken a wife from the daughters of Berzellai the Galaadite and was called by their name.
+2:62 These—the methoesim—sought their record, but they were not found, and they were excluded from the priesthood on grounds of descent.
+2:63 Athersatha told them not to eat of the most holy things until a priest arose with the illuminating things and the perfect things.
+2:64 The whole assembly, as one, was forty-two thousand three hundred and sixty,
+2:65 apart from their male slaves and female slaves, these being seven thousand three hundred and thirty-seven; and these male and female singers were two hundred.
+2:66 Their horses were seven hundred and thirty-six; their mules, two hundred and forty-five;
+2:67 their camels, four hundred and thirty-five; their donkeys, six thousand seven hundred and twenty.
+2:68 Some of the family leaders, when they came to the Lord’s house in Jerusalem, made freewill offerings for the house of God, to establish it on its prepared place.
+2:69 According to their ability, they gave to the treasury for the work: pure gold, sixty-one thousand minas; silver, five thousand minas; and one hundred priests’ kothonoi.
+2:70 The priests, the Levites, those from the people, the singers, the gatekeepers and the Nathinim settled in their cities, and all Israel in their cities.
+
+EZRA 3
+
+3:1 The seventh month arrived—the sons of Israel being in their cities—and the people gathered as one man in Jerusalem.
+3:2 Iesous son of Iosedek and his brothers the priests, and Zorobabel son of Salathiel and his brothers, arose and built the altar of the God of Israel, to offer whole burnt offerings upon it according to what is written in the law of Moses, the man of God.
+3:3 They prepared the altar on its prepared place, for terror from the peoples of the lands was upon them. A whole burnt offering went up upon it to the Lord, in the morning and toward evening.
+3:4 They kept the Festival of Booths according to what was written, with whole burnt offerings day by day in the number required by the ordinance, each day’s due on its own day,
+3:5 and afterward continual whole burnt offerings, those for the new moons and all the consecrated festivals, and for everyone freely presenting a freewill offering to the Lord.
+3:6 On day one of the seventh month they began offering whole burnt offerings to the Lord, though the Lord’s house had not been founded.
+3:7 They gave silver to the stonecutters and craftsmen, and food, drink and oil to the Sedanin and Sorin, to bring cedar timber from Lebanon to the sea at Joppa, according to the concession of Cyrus king of the Persians to them.
+3:8 In the second year after their arrival at the house of God in Jerusalem, in the second month, Zorobabel son of Salathiel, Iesous son of Iosedek, the rest of their brothers the priests and Levites, and all who had come from captivity to Jerusalem began. They set the Levites from twenty years old and upward over those doing the work in the Lord’s house.
+3:9 Iesous and his sons and his brothers, Kadmiel and his sons, sons of Judah, stood over those doing the work in the house of God; also the sons of Enadad, their sons and their brothers the Levites.
+3:10 They laid the foundation for building the Lord’s house, and the priests stood in their vestments with trumpets, and the Levites, sons of Asaph, with cymbals, to praise the Lord according to the directions of David king of Israel.
+3:11 They answered in praise and thanksgiving to the Lord: “For it is good, for His mercy toward Israel endures for ever.” All the people sounded a great cry of praise to the Lord at the founding of the Lord’s house.
+3:12 Many of the priests and Levites and leaders of the families—the elders who had seen the first house at its founding, and who saw this house before their eyes—wept with a loud voice; and the multitude cried aloud with joy to raise a song.
+3:13 The people could not distinguish the sound of the joyful signal from the sound of the people’s weeping, for the people cried out with a loud voice, and the sound was heard far away.
+
+EZRA 4
+
+4:1 Those who oppressed Judah and Benjamin heard that the sons of the deportation were building a house for the Lord, God of Israel.
+4:2 They approached Zorobabel and the family leaders and said to them, “We will build with you, for like you we seek your God, and to Him we have been sacrificing since the days of Asaraddon king of Assour, who brought us here.”
+4:3 Zorobabel, Iesous and the remaining leaders of Israel’s families said to them, “It is not for us and you to build a house for our God. We ourselves together will build for the Lord our God, as Cyrus king of the Persians commanded us.”
+4:4 The people of the land weakened the hands of the people of Judah and hindered them from building,
+4:5 hiring against them those who took counsel to scatter their plan, all the days of Cyrus king of the Persians and until the reign of Darius king of the Persians.
+4:6 In the reign of Asoueros, at the beginning of his reign, they wrote a letter against the inhabitants of Judah and Jerusalem.
+4:7 In the days of Arthasastha, Tabeel, together with the rest of his fellow slaves, wrote in peace for Mithradates to Arthasastha king of the Persians. The tax collector wrote a document in Syrian, and it was interpreted.
+4:8 Raoum the baaltam and Samsai the scribe wrote one letter against Jerusalem to Arthasastha the king.
+4:9 These things were decided by Raoum the baaltam, Samsai the scribe and the rest of our fellow slaves—the Dinaians, Apharsathachaians, Tarphallaians, Apharsaians, Archyaians, Babylonians and Sousanachaians, who are Elamites,
+4:10 and the remaining nations whom the great and honored Asennaphar had deported and settled in the cities of Somoron, and the remainder beyond the river.
+4:11 This is the wording of the letter they sent him: “To Arthasastha the king: your servants, men beyond the river.
+4:12 Let it be known to the king that the Jews who came up from you to us have arrived in Jerusalem. They are building the rebellious and wicked city; they have put its walls in order and raised its foundations.
+4:13 Now therefore let it be known to the king that if that city is rebuilt and its walls put in order, there will be no taxes for you, nor will they pay them; this harms kings.
+4:14 It is not permitted for us to look upon the king’s disgrace. Therefore we have sent and informed the king,
+4:15 so that a search may be made in the record book of your fathers. You will find and know that this city is rebellious and harms kings and countries, and that there have been flights of slaves within it from ages past. For these reasons this city was laid waste.
+4:16 We therefore inform the king that if that city is built and its walls put in order, you will have no peace.”
+4:17 The king sent peace to Raoum the baaltam, Samsai the scribe, their remaining fellow slaves living in Samaria and the others beyond the river, and he says:
+4:18 “The tax collector whom you sent to us was called before me.
+4:19 I issued a decision, and we searched and found that this city has risen against kings from ancient days, and rebellions and flights occur within it,
+4:20 and mighty kings arise over Jerusalem and hold power over the whole region west of the river, and full taxes and a share are given to them.
+4:21 Now issue a decision to stop those men, and that city shall no longer be built, so that, in accordance with the decision,
+4:22 you are on your guard against allowing slackness in this matter, lest destruction increase to the harm of kings.”
+4:23 Then King Arthasastha’s tax collector read before Raoum, Samsai the scribe and their fellow slaves. They hurried to Jerusalem and into Judah and stopped them with horses and force.
+4:24 Then the work of the house of God in Jerusalem ceased, and it remained idle until the second year of the reign of Darius king of the Persians.
+
+EZRA 5
+
+5:1 Haggai the prophet and Zacharias son of Addo prophesied a prophecy over the Jews in Judah and Jerusalem in the name of the God of Israel, over them.
+5:2 Then Zorobabel son of Salathiel and Iesous son of Iosedek arose and began building the house of God in Jerusalem. God’s prophets were with them, helping them.
+5:3 At that very time Thanthanai, governor beyond the river, Satharbouzana and their fellow slaves came against them and said, “Who issued you a decision to build this house and put this provision in order?”
+5:4 Then they said these things to them: “What are the names of the men building this city?”
+5:5 But God’s eyes were upon the captivity of Judah, and they did not stop them until a report had been carried to Darius; then word was sent to the tax collector about this.
+5:6 An account of the letter that Thanthanai, governor beyond the river, Satharbouzana and their fellow slaves the Apharsachaians beyond the river sent to Darius the king:
+5:7 They sent him a statement, and this is written in it: “To Darius the king: all peace.
+5:8 Let it be known to the king that we went to the country of Judea, to the house of the great God. It is being built with selected stones, and timber is being placed in the walls. That work is being done skillfully and is advancing well in their hands.
+5:9 Then we questioned those elders and said to them, ‘Who issued you a decision to build this house and put this provision in order?’
+5:10 We also asked them their names to make them known to you, so that we could write to you the names of the men who lead them.
+5:11 They answered us with this statement: ‘We are slaves of the God of heaven and earth, and we are building the house that was built many years before this. A great king of Israel built it and put it in order
+5:12 for them. But from the time our fathers provoked the God of heaven, He gave them into the hands of Nabouchodonosor king of Babylon, the Chaldean. He dismantled this house and deported the people to Babylon.
+5:13 But in the first year of Cyrus the king, King Cyrus issued a decision for this house of God to be built.
+5:14 And the gold and silver vessels of God’s house that Nabouchodonosor took from the house in Jerusalem and carried to the king’s sanctuary—King Cyrus took them from the king’s sanctuary and gave them to Sasabasar, the treasury keeper in charge of the treasury,
+5:15 and said to him, ‘Take all the vessels, go and place them in the house in Jerusalem, in their own place.’
+5:16 Then that Sasabasar came and laid the foundations of the house of God in Jerusalem. From that time until now it has been built, but it has not been completed.’
+5:17 Now, if it pleases the king, let a search be made in the treasury house of the king of Babylon, so that you may know that King Cyrus issued a decision to build that house of God in Jerusalem. When the king has learned about this, let him send word to us.”
+
+EZRA 6
+
+6:1 Then Darius the king issued a decision and made a search in the libraries where the treasury is kept in Babylon.
+6:2 A scroll was found in a city, in the citadel of the city of the Medes, and this was written in it: “Memorandum:
+6:3 In the first year of Cyrus the king, King Cyrus issued a decision concerning the house of God in Jerusalem: Let the house be built, and the place where they sacrifice the sacrifices. He set an elevation: sixty cubits high and sixty cubits wide,
+6:4 with three courses of strong stone and one wooden course. The expense will be paid from the king’s house.
+6:5 And let the silver and gold vessels of God’s house, which Nabouchodonosor took from the house in Jerusalem and carried to Babylon, be given back and go to the sanctuary in Jerusalem, to the place where they were set in God’s house.”
+6:6 “Now you shall give, governors beyond the river, Satharbouzana and their fellow slaves the Apharsachaians beyond the river; keeping far away from there,
+6:7 leave the work on God’s house alone. Let the leaders of the Jews and the elders of the Jews build that house of God on its site.
+6:8 I have issued a decision that you must not do anything with the elders of the Jews concerning the building of that house of God. From the king’s resources, from the taxes beyond the river, let the expense be diligently supplied to those men, so that it is not stopped.
+6:9 Whatever may be lacking—offspring of cattle and of rams, and lambs for whole burnt offerings to the God of heaven, wheat, salt, wine and oil—let it be given to them day by day according to the word of the priests in Jerusalem, whatever they ask,
+6:10 so that they may offer sweet fragrances to the God of heaven and pray for the life of the king and his sons.
+6:11 I have also issued a decision: for anyone who changes this word, a timber will be taken down from his house, and he will be raised upright and fastened upon it. His house will be dealt with according to me.
+6:12 The God whose name dwells there will overthrow every king and people who stretches out a hand to alter or destroy that house of God in Jerusalem. I, Darius, have issued the decision; it shall be carried out diligently.”
+6:13 Then Thanthanai, governor beyond the river, Satharbouzana and his fellow slaves acted diligently according to what Darius the king had sent.
+6:14 The elders of the Jews and the Levites were building through the prophecy of Haggai the prophet and Zacharias son of Addo. They rebuilt and put it in order by the decree of the God of Israel and by the decree of Cyrus, Darius and Arthasastha, kings of the Persians.
+6:15 They completed this house by the third day of the month of Adar, in the sixth year of the reign of Darius the king.
+6:16 The sons of Israel—the priests, the Levites and the remaining sons of the deportation—celebrated the dedication of God’s house with joy.
+6:17 For the dedication of God’s house they offered one hundred young bulls, two hundred rams, four hundred lambs, and twelve male goats for sin on behalf of all Israel, according to the number of Israel’s tribes.
+6:18 They stationed the priests in their divisions and the Levites in their allotted groups over the service of God in Jerusalem, according to the writing of the book of Moses.
+6:19 The sons of the deportation kept the Passover on the fourteenth day of the first month.
+6:20 For the priests and Levites had been purified, all clean to the last one. They slaughtered the Passover for all the sons of the deportation, for their brothers the priests and for themselves.
+6:21 The sons of Israel ate the Passover, those from the deportation and everyone separating himself from the uncleanness of the nations of the land to join them, to seek the Lord, God of Israel.
+6:22 They kept the Festival of Unleavened Bread for seven days with joy, for the Lord had made them joyful and turned the heart of the king of Assour toward them, to strengthen their hands in the works of the house of the God of Israel.
+
+EZRA 7
+
+7:1 After these events, in the reign of Arthasastha king of the Persians, Esdras went up, son of Saraias, son of Azarias, son of Elkia,
+7:2 son of Saloum, son of Saddouk, son of Achitob,
+7:3 son of Samaria, son of Esria, son of Mareroth,
+7:4 son of Zaraia, son of Saouia, son of Bokki,
+7:5 son of Abisoue, son of Phinees, son of Eleazar, son of Aaron the first priest—
+7:6 this Esdras came up from Babylon. He was a ready scribe in the law of Moses, which the Lord, God of Israel, had given. The king granted him his requests, because the hand of the Lord his God was upon him in everything he sought.
+7:7 Some of the sons of Israel, the priests and the Levites, together with the singers, gatekeepers and Nathinim, went up to Jerusalem in the seventh year of Arthasastha the king.
+7:8 They came to Jerusalem in the fifth month, in the seventh year of the king.
+7:9 On day one of the first month he laid the foundation for the ascent from Babylon; on the first day of the fifth month they came to Jerusalem, because the hand of his God was good upon him.
+7:10 For Esdras had set it in his heart to seek the law, to do it, and to teach ordinances and judgments in Israel.
+7:11 This is the account of the decree that Arthasastha gave Esdras the priest, the scribe of the book of the words of the Lord’s commandments and His ordinances for Israel:
+7:12 “Arthasastha, king of kings, to Esdras, scribe of the law of the God of heaven: The word and the answer are completed.
+7:13 I have issued a decision that anyone in my kingdom from the people of Israel, the priests and the Levites who freely wishes to go to Jerusalem is to go with you.
+7:14 He has been sent from the king and the seven advisers to inspect Judea and Jerusalem by the law of their God that is in your hand,
+7:15 and, for the Lord’s house, silver and gold that the king and the advisers have freely offered to the God of Israel who dwells in Jerusalem,
+7:16 and all the silver and gold you may find throughout the country of Babylon, with the voluntary offering of the people and priests who freely offer for the house of God in Jerusalem,
+7:17 and everything that comes in—readily enter this in this book: young bulls, rams, lambs, their sacrifices and their drink offerings. You shall offer them on the altar of the house of your God in Jerusalem.
+7:18 Whatever seems good to you and your brothers to do with the remaining silver and gold, do as is pleasing to your God.
+7:19 The vessels given to you for the service of God’s house, hand over before God in Jerusalem.
+7:20 Whatever else you think your God’s house needs, you shall provide from the king’s treasury houses.
+7:21 I, Arthasastha the king, have issued a decision to all the treasuries beyond the river: whatever Esdras the priest and scribe of the law of the God of heaven asks of you, let it be provided readily,
+7:22 up to one hundred talents of silver, one hundred kors of wheat, one hundred bads of wine, one hundred bads of oil, and salt for which there is no written amount.
+7:23 Let everything in the decision of the God of heaven be done. Take care that no one attempts anything against the house of the God of heaven, lest wrath come upon the kingdom of the king and his sons.
+7:24 It has also been made known to you: from any priests, Levites, singers, gatekeepers, Nathinim or ministers of this house of God, let there be no tax for you; you shall have no authority to enslave them.
+7:25 You, Esdras, according to the wisdom of God in your hand, appoint scribes and judges to judge all the people beyond the river, all who know the law of your God; and you shall make it known to the one who does not know.
+7:26 For anyone who does not readily carry out the law of God and the law of the king, judgment shall be executed against him, whether death, discipline, loss of property, or bonds.”
+7:27 Blessed be the Lord, the God of our fathers, who put it thus in the king’s heart, to glorify the Lord’s house in Jerusalem,
+7:28 and inclined mercy toward me in the eyes of the king, his advisers and all the king’s exalted officials. I was strengthened, as the good hand of God was upon me, and gathered leaders from Israel to go up with me.
+
+EZRA 8
+
+8:1 These are the leaders of their families, the guides who came up with me in the reign of Arthasastha king of Babylon:
+8:2 from the sons of Phinees, Gersom; from the sons of Ithamar, Daniel; from the sons of David, Atous;
+8:3 from the sons of Sachania; from the sons of Phoros, Zacharias, and with him the company of one hundred and fifty;
+8:4 from the sons of Phaathmoab, Eliana son of Zaraia, and with him two hundred males;
+8:5 from the sons of Zathoes, Sechenias son of Aziel, and with him three hundred males;
+8:6 from the sons of Adin, Obeth son of Ionathan, and with him fifty males;
+8:7 from the sons of Elam, Iesia son of Athelia, and with him seventy males;
+8:8 from the sons of Saphatia, Zabdia son of Michael, and with him eighty males;
+8:9 from the sons of Ioab, Abadia son of Iiel, and with him two hundred and eighteen males;
+8:10 from the sons of Baani, Salimouth son of Iosephia, and with him one hundred and sixty males;
+8:11 from the sons of Babi, Zacharia son of Babi, and with him seventy-eight males;
+8:12 from the sons of Asgad, Ioanan son of Akatan, and with him one hundred and ten males;
+8:13 from the sons of Adonikam, the last ones, and these are their names: Aliphalat, Iiel and Samaia, and with them sixty males;
+8:14 From the sons of Bago, Outhi, and with him seventy males.
+8:15 I gathered them at the river that runs toward Eui, and we camped there for three days. I examined the people and the priests, but found none of the sons of Levi there.
+8:16 I sent men to Eleazar, Ariel, Samaia, Alonam, Iarib, Elnathan, Nathan, Zacharia and Mesoulam, and to Ioarib and Elnathan, men of understanding,
+8:17 and brought them out under a ruler in the silver of the place. I put words in their mouths to speak to their brothers the Nathinim in the silver of the place, to bring us singers for the house of our God.
+8:18 They came to us, as the hand of our God was good upon us: a sachol man from the sons of Mooli son of Levi son of Israel; and at first his sons and his brothers came, eighteen in all;
+8:19 also Asebia and Osaia from the sons of Merari, his brothers and their sons, twenty in all;
+8:20 and from the Nathinim whom David and the leaders had given for the service of the Levites, two hundred and twenty Nathinim, all gathered by name.
+8:21 I proclaimed a fast there at the river Aoue, to humble ourselves before our God and seek from Him a straight way for ourselves, our children and all our possessions.
+8:22 For I was ashamed to ask the king for a force and horsemen to save us from an enemy on the road, because we had told the king, “The hand of our God is for good upon all who seek Him, but His might and His wrath are against all who abandon Him.”
+8:23 We fasted and sought from our God concerning this, and He heard us.
+8:24 I set apart twelve from the leaders of the priests, with Saraia, Asabia and ten of their brothers with them,
+8:25 and weighed out to them the silver, gold and vessels of the first offering for the house of our God, which the king, his advisers, his leaders and all Israel present there had lifted up.
+8:26 I weighed into their hands six hundred and fifty talents of silver, one hundred silver vessels, and one hundred talents of gold,
+8:27 and twenty gold kaphoure, a thousand chamanim for the journey, and various vessels of fine gleaming bronze, desirable in gold.
+8:28 I said to them, “You are holy to the Lord, and the vessels are holy. The silver and gold are freewill offerings to the Lord, the God of your fathers.
+8:29 Stay awake and guard them until you stand before the leaders of the priests and Levites and the family leaders in Jerusalem, at the tents of the Lord’s house.”
+8:30 The priests and Levites received the weight of silver, gold and vessels, to bring them to Jerusalem, to the house of our God.
+8:31 We set out from the river Aoue on the twelfth day of the first month to come to Jerusalem. The hand of our God was upon us, and He rescued us from the hand of an enemy and an adversary along the way.
+8:32 We came to Jerusalem and stayed there for three days.
+8:33 On the fourth day we weighed out the silver, gold and vessels in the house of our God into the hand of Merimoth son of Ouria the priest. With him was Eleazar son of Phinees, and with them were the Levites Iozabad son of Iesous and Noadia son of Banaia,
+8:34 everything by number and by weight, and the entire weight was recorded. At that time,
+8:35 those who had come from captivity, sons of the sojourning, offered whole burnt offerings to the God of Israel: twelve young bulls for all Israel, ninety-six rams, seventy-seven lambs and twelve male goats for sin—all as whole burnt offerings to the Lord.
+8:36 They delivered the king’s ordinance to the king’s administrators and the governors beyond the river, and they honored the people and the house of God.
+
+EZRA 9
+
+9:1 When these things were completed, the leaders approached me and said, “The people of Israel, the priests and the Levites have not separated themselves from the peoples of the lands in their repulsive practices: the Chanani, Ethi, Pherezi, Iebousi, Ammoni, Moabi, Moseri and Amori,
+9:2 because they have taken some of their daughters for themselves and their sons, and the holy seed has been led astray among the peoples of the lands. The leaders’ hand has been foremost in this covenant-breaking.”
+9:3 When I heard this word, I tore my garments, shook with agitation, plucked hair from my head and beard, and sat quietly.
+9:4 Everyone who pursued the word of the God of Israel gathered to me because of the deported community’s covenant-breaking, while I sat quietly until the evening sacrifice.
+9:5 At the evening sacrifice I rose from my humiliation. As I tore my garments, I shook with agitation; I bend upon my knees and stretch out my hands toward the Lord God,
+9:6 and said, “Lord, I am ashamed and abashed to lift my face toward Thee, for our lawless deeds have multiplied above our heads and our offenses have grown to heaven.
+9:7 From the days of our fathers until this day we have been in great offense. In our lawless deeds, we, our kings and our sons have been handed over into the hand of the kings of the nations—to the sword, captivity, plunder and shame of our face—as on this day.
+9:8 Now the Lord our God has shown us leniency, leaving some of us for deliverance and giving us a support in the place of His sanctuary, to enlighten our eyes and give us a little revival in our slavery.
+9:9 For we are slaves, and in our slavery the Lord our God has not abandoned us. He has inclined mercy toward us before the kings of the Persians, to give us revival, for them to raise up the house of our God and restore its desolate places, and to give us a fence in Judah and Jerusalem.
+9:10 What can we say, our God, after this? For we have abandoned Thy commandments,
+9:11 which Thou gavest us through Thy servants the prophets, saying, ‘The land you are entering to inherit is a land being moved amid the movement of the peoples of the nations, in their repulsive practices, with which they have filled it from mouth to mouth in their uncleanness.
+9:12 Now do not give your daughters to their sons, and do not take some of their daughters for your sons. You shall never seek their peace or good, so that you may become strong, eat the good things of the land and bequeath it to your sons for ever.’
+9:13 After everything that has come upon us through our evil deeds and our great offense—for there is none like our God, because Thou hast lightened our lawless deeds and given us deliverance—
+9:14 for we have returned to scattering Thy commandments and intermarrying with the peoples of the lands. Do not be provoked against us to the point of destruction, so that no remnant or survivor remains.
+9:15 Lord, God of Israel, Thou art righteous, for we have been left as survivors, as on this day. Here we are before Thee in our offenses, for because of this there is no standing before Thee.”
+
+EZRA 10
+
+10:1 As Esdras prayed and confessed, weeping and praying before the house of God, a very great assembly gathered to him from Israel—men, women and young men—for the people wept and raised their weeping.
+10:2 Sechenias son of Iiel, of the sons of Elam, answered Esdras, “We have broken covenant with our God and have settled foreign wives from the peoples of the land among us. Now there is patient hope for Israel concerning this.
+10:3 Now let us make a covenant with our God to put away all the wives and those born from them, as you may wish. Arise and frighten them with the commandments of our God, and let it be done according to the law.
+10:4 Arise, for the matter rests upon you, and we are with you. Be strong and act.”
+10:5 Esdras arose and made the leaders, the priests and Levites, and all Israel swear to act according to this word, and they swore.
+10:6 Esdras arose from before the house of God and went to the treasury chamber of Ioanan son of Elisoub. He went there, but ate no bread and drank no water, for he was mourning over the deported community’s covenant-breaking.
+10:7 They circulated a proclamation in Judah and Jerusalem to all the sons of the deported community, to assemble in Jerusalem:
+10:8 Whoever does not arrive within three days, according to the counsel of the leaders and elders, shall have all his property put under the ban, and he himself shall be separated from the assembly of the deported community.
+10:9 All the men of Judah and Benjamin gathered at Jerusalem within the three days. This was the ninth month. On the twentieth of the month all the people sat in the open square of the house of God, because of their commotion over the matter and because of the winter weather.
+10:10 Esdras the priest arose and said to them, “You have broken covenant and have settled foreign wives among you, adding to Israel’s offense.
+10:11 Now give praise to the Lord, the God of your fathers, and do what is pleasing before Him. Separate yourselves from the peoples of the land and from the foreign wives.”
+10:12 The whole assembly answered, “This word of yours is a great thing for us to carry out.
+10:13 But the people are many, the season is wintry, and there is no strength to stand outside. The work is not for one day or two, for we have multiplied our wrongdoing in this matter.
+10:14 Let our leaders stand for the whole assembly. Let all those in our cities who have settled foreign wives come at times set by appointment, with the elders of each city and judges, to turn the wrathful anger of our God away from us concerning this matter.”
+10:15 Only Ionathan son of Asael and Iazia son of Thekoue were with me concerning this, and Mesoulam and Sabathai the Levite were helping them.
+10:16 The sons of the deported community did so. Esdras the priest and men who were leaders of ancestral families were set apart by household, all of them by name, because they returned on the first day of the tenth month to examine the matter.
+10:17 They finished with all the men who had settled foreign wives by the first day of the first month.
+10:18 Among the sons of the priests who had settled foreign wives were found, from the sons of Iesous son of Iosedek and his brothers: Maasea, Eliezer, Iarib and Gadalia.
+10:19 They gave their hand in pledge to send out their wives and, for offense, a ram from the sheep concerning their offense.
+10:20 From the sons of Emmer: Anani and Zabdia.
+10:21 From the sons of Eram: Masaia, Elia, Samaia, Iiel and Ozia.
+10:22 From the sons of Phasour: Elioenai, Maasaia, Ismael, Nathanael, Iozabad and Elasa.
+10:23 From the Levites: Iozabad, Samou, Kolia—he is Kolitas—Phathaia, Iodom and Eliezer.
+10:24 From the singers: Elisaph. From the gatekeepers: Sellem, Telem and Odoue.
+10:25 From Israel, from the sons of Phoros: Ramia, Iazia, Melchia, Meamin, Eleazar, Asabia and Banaia.
+10:26 From the sons of Elam: Mathania, Zacharia, Iaiel, Abdia, Iarimoth and Elia.
+10:27 From the sons of Zathoua: Elioenai, Elisoub, Mathania, Iarmoth, Zabad and Oziza.
+10:28 From the sons of Babi: Ioanan, Anania, Zabou and Othali.
+10:29 From the sons of Banoui: Mesoulam, Malouch, Adaias, Iasoub, Salouia and Remoth.
+10:30 From the sons of Phaathmoab: Edene, Chalel, Banaia, Masea, Mathania, Beselel, Banoui and Manasse.
+10:31 From the sons of Eram: Eliezer, Iessia, Melchia, Samaia, Semeon,
+10:32 Benjamin, Malouch and Samaria.
+10:33 From the sons of Esam: Mathani, Mathatha, Zabed, Eliphaleth, Ierami, Manasse and Semei.
+10:34 From the sons of Bani: Moodi, Amram and Ouel;
+10:35 Banaia, Badaia and Chelia;
+10:36 Ouiechoa, Ieramoth and Eliasib;
+10:37 Mathania, Mathanai; and acted
+10:38 the sons of Banoui and the sons of Semei,
+10:39 and Selemia, Nathan and Adaia,
+10:40 Machnadabou, Sesi and Sarou,
+10:41 Ezerel, Selemia and Samaria,
+10:42 and Saloum, Amaria and Joseph.
+10:43 From the sons of Nabou: Iiel, Mathathia, Sedem, Zambina, Iadai, Ioel and Banaia.
+10:44 All these had taken foreign wives and had fathered sons from them.

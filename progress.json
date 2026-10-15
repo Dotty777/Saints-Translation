@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 16,
-  "pending_book_revisions": 54,
-  "next_book": "Ezra",
+  "completed_book_records": 17,
+  "pending_book_revisions": 53,
+  "next_book": "Nehemiah",
   "full_bible_complete": false,
   "books": [
     {
@@ -158,8 +158,11 @@
       "order": 17,
       "book": "Ezra",
       "staging_path": "/bible/judgement/ezra/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "ezra/",
+      "chapters": 10,
+      "verse_units": 280,
+      "wording_changes": 48
     },
     {
       "order": 18,
@@ -547,9 +550,10 @@
       "1 Chronicles",
       "2 Chronicles",
       "1 Maccabees",
-      "2 Maccabees"
+      "2 Maccabees",
+      "Ezra"
     ],
-    "pending_books": 4,
-    "next_book": "Ezra"
+    "pending_books": 3,
+    "next_book": "Nehemiah"
   }
 }

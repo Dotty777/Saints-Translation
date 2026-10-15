@@ -1,0 +1,1997 @@
+{
+  "editorial_review": {
+    "date": "2026-10-14",
+    "status": "All 280 existing English verse units individually read and editorially reviewed; approved as a provisional staging revision.",
+    "chapters": 10,
+    "changed_verse_units": 48,
+    "source_scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "26e0e2248a13f3894a13968038569e2eb1641263b3ad48b7f622407be0da2f95"
+  },
+  "preflight": [
+    {
+      "chapter": 1,
+      "verse_units": 11,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 2,
+      "verse_units": 70,
+      "changed": 0,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 3,
+      "verse_units": 13,
+      "changed": 1,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 4,
+      "verse_units": 24,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 5,
+      "verse_units": 17,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 6,
+      "verse_units": 22,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 7,
+      "verse_units": 28,
+      "changed": 13,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 8,
+      "verse_units": 36,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 9,
+      "verse_units": 15,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 10,
+      "verse_units": 44,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 2476,
+      "chapter": 1,
+      "modified": "2026-10-14T18:27:01",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "8e14e2ec7b2530eee9cb2033ab1e77552444a3e738c7de08df901af4c00d49b0"
+    },
+    {
+      "id": 2477,
+      "chapter": 2,
+      "modified": "2026-10-14T18:27:14",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "379c503788952b1551fd23471f6db815ed1e900bd79caaac3c032e343684dc0e"
+    },
+    {
+      "id": 2478,
+      "chapter": 3,
+      "modified": "2026-10-14T18:27:27",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "53bc0b52f239b944c34400d8044c55fec4a26cd25b8eeb389241b1c2591374cb"
+    },
+    {
+      "id": 2479,
+      "chapter": 4,
+      "modified": "2026-10-14T18:27:41",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "e204146bd5059fd6445ccf20fd9736ac9110d67655b8f217c662e3011fa5e4bf"
+    },
+    {
+      "id": 2480,
+      "chapter": 5,
+      "modified": "2026-10-14T18:28:10",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "15a6edbe2a0a3a6ce945a3300332a7659a2602fb7ebc40733b6d8dc48787f046"
+    },
+    {
+      "id": 2481,
+      "chapter": 6,
+      "modified": "2026-10-14T18:28:23",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "e619ae2cc07b02cea8a39fc88e8f3d585622660c28d92302f9db583c45b8e666"
+    },
+    {
+      "id": 2482,
+      "chapter": 7,
+      "modified": "2026-10-14T18:28:36",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "2f498b22808afb6c50048d532b7efa7b52a896aa1706e9499f1fc8aa0777e58f"
+    },
+    {
+      "id": 2483,
+      "chapter": 8,
+      "modified": "2026-10-14T18:28:50",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "ca27f1c11eb5354c59da1fd21b2dfdb54d4d24b034c4bbe3d37b2e087ba75e46"
+    },
+    {
+      "id": 2484,
+      "chapter": 9,
+      "modified": "2026-10-14T18:29:20",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "3d4853cdef682e391b206bfe2cacbff742fc0a33b7bdf637a98fab31b1d6a81e"
+    },
+    {
+      "id": 2485,
+      "chapter": 10,
+      "modified": "2026-10-14T18:29:32",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "2608d553fc70f4db88f7950ff00f0ea9e99bcc5cdbe4cce6daef27fdef718dd9"
+    },
+    {
+      "id": 2475,
+      "chapter": 0,
+      "modified": "2026-10-14T18:29:45",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "02898e88206844976a6a2bcb7aaf2ba006977dcb5fed262fda093942cc7b5b90"
+    }
+  ],
+  "browser_checks": {
+    "book": "Ezra",
+    "chapters": [
+      {
+        "chapter": 1,
+        "chapterOptions": [
+          {
+            "selected": true,
+            "text": "Ezra 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-10/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "Ezra 1",
+        "verses": [
+          {
+            "id": "v1-1",
+            "text": "1:1In the first year of Cyrus king of the Persians, so that the Lord’s word through Jeremiah’s mouth might be fulfilled, the Lord stirred the spirit of Cyrus king of the Persians. He ordered a proclamation throughout his kingdom, also in writing, saying:"
+          },
+          {
+            "id": "v1-2",
+            "text": "1:2“Thus says Cyrus king of the Persians: The Lord, God of heaven, has given me all the kingdoms of the earth, and He has charged me to build Him a house in Jerusalem in Judea."
+          },
+          {
+            "id": "v1-3",
+            "text": "1:3Who among you belongs to any of His people? His God will be with him, and he will go up to Jerusalem in Judea. Let him build the house of the God of Israel—He is the God in Jerusalem."
+          },
+          {
+            "id": "v1-4",
+            "text": "1:4As for everyone left behind, from whatever place he resides in, the men of his place will take him up with silver, gold, belongings and livestock, together with the freewill offering for the house of God in Jerusalem.”"
+          },
+          {
+            "id": "v1-5",
+            "text": "1:5The leaders of the families of Judah and Benjamin, the priests and the Levites arose, of all those whose spirit God had stirred to go up and build the Lord’s house in Jerusalem."
+          },
+          {
+            "id": "v1-6",
+            "text": "1:6All those around them strengthened their hands with silver vessels, gold, belongings, livestock and gifts of hospitality, apart from the freewill offerings."
+          },
+          {
+            "id": "v1-7",
+            "text": "1:7King Cyrus brought out the vessels of the Lord’s house that Nebuchadnezzar had taken from Jerusalem and placed in the house of his god."
+          },
+          {
+            "id": "v1-8",
+            "text": "1:8Cyrus king of the Persians brought them out through Mithradates the gasbaren, who counted them out to Sasabasar, the ruler of Judah."
+          },
+          {
+            "id": "v1-9",
+            "text": "1:9This was their number: thirty gold cooling vessels, a thousand silver cooling vessels, twenty-nine miscellaneous items;"
+          },
+          {
+            "id": "v1-10",
+            "text": "1:10thirty gold kephphoure, two hundred silver ones, and a thousand other vessels."
+          },
+          {
+            "id": "v1-11",
+            "text": "1:11All the gold and silver vessels numbered five thousand four hundred; all went up with Sasabasar from the deportation, out of Babylon to Jerusalem."
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "Ezra 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-1/"
+          },
+          {
+            "selected": true,
+            "text": "Ezra 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-10/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "Ezra 2",
+        "verses": [
+          {
+            "id": "v2-1",
+            "text": "2:1These are the sons of the land who came up from the captivity of the deportation, whom Nabouchodonosor king of Babylon had deported to Babylon. They returned to Jerusalem and Judah, each man to his own city,"
+          },
+          {
+            "id": "v2-2",
+            "text": "2:2who came with Zorobabel: Iesous, Neemias, Saraias, Reelias, Mardochaios, Balasan, Masphar, Bagoui, Reoum and Baana. The number of the men of the people of Israel:"
+          },
+          {
+            "id": "v2-3",
+            "text": "2:3The sons of Phoros: two thousand one hundred and seventy-two."
+          },
+          {
+            "id": "v2-4",
+            "text": "2:4The sons of Saphatia: three hundred and seventy-two."
+          },
+          {
+            "id": "v2-5",
+            "text": "2:5The sons of Era: seven hundred and seventy-five."
+          },
+          {
+            "id": "v2-6",
+            "text": "2:6The sons of Phaathmoab, belonging to the sons of Iesoue and Ioab: two thousand eight hundred and twelve."
+          },
+          {
+            "id": "v2-7",
+            "text": "2:7The sons of Ailam: one thousand two hundred and fifty-four."
+          },
+          {
+            "id": "v2-8",
+            "text": "2:8The sons of Zathoua: nine hundred and forty-five."
+          },
+          {
+            "id": "v2-9",
+            "text": "2:9The sons of Zakchou: seven hundred and sixty."
+          },
+          {
+            "id": "v2-10",
+            "text": "2:10The sons of Banoui: six hundred and forty-two."
+          },
+          {
+            "id": "v2-11",
+            "text": "2:11The sons of Babi: six hundred and twenty-three."
+          },
+          {
+            "id": "v2-12",
+            "text": "2:12The sons of Asgad: three thousand two hundred and twenty-two."
+          },
+          {
+            "id": "v2-13",
+            "text": "2:13The sons of Adonikam: six hundred and sixty-six."
+          },
+          {
+            "id": "v2-14",
+            "text": "2:14The sons of Bagoi: two thousand and fifty-six."
+          },
+          {
+            "id": "v2-15",
+            "text": "2:15The sons of Adin: four hundred and fifty-four."
+          },
+          {
+            "id": "v2-16",
+            "text": "2:16The sons of Ater, belonging to Ezekia: ninety-eight."
+          },
+          {
+            "id": "v2-17",
+            "text": "2:17The sons of Basou: three hundred and twenty-three."
+          },
+          {
+            "id": "v2-18",
+            "text": "2:18The sons of Iora: one hundred and twelve."
+          },
+          {
+            "id": "v2-19",
+            "text": "2:19The sons of Asem: two hundred and twenty-three."
+          },
+          {
+            "id": "v2-20",
+            "text": "2:20The sons of Gaber: ninety-five."
+          },
+          {
+            "id": "v2-21",
+            "text": "2:21The sons of Bethlehem: one hundred and twenty-three."
+          },
+          {
+            "id": "v2-22",
+            "text": "2:22The sons of Netopha: fifty-six."
+          },
+          {
+            "id": "v2-23",
+            "text": "2:23The sons of Anathoth: one hundred and twenty-eight."
+          },
+          {
+            "id": "v2-24",
+            "text": "2:24The sons of Asmoth: forty-two."
+          },
+          {
+            "id": "v2-25",
+            "text": "2:25The sons of Kariathiarim, Kaphira and Beroth: seven hundred and forty-three."
+          },
+          {
+            "id": "v2-26",
+            "text": "2:26The sons of Arama and Gabaa: six hundred and twenty-one."
+          },
+          {
+            "id": "v2-27",
+            "text": "2:27The men of Machmas: one hundred and twenty-two."
+          },
+          {
+            "id": "v2-28",
+            "text": "2:28The men of Bethel and Aia: four hundred and twenty-three."
+          },
+          {
+            "id": "v2-29",
+            "text": "2:29The sons of Nabou: fifty-two."
+          },
+          {
+            "id": "v2-30",
+            "text": "2:30The sons of Magebos: one hundred and fifty-six."
+          },
+          {
+            "id": "v2-31",
+            "text": "2:31The sons of Elam-ar: one thousand two hundred and fifty-four."
+          },
+          {
+            "id": "v2-32",
+            "text": "2:32The sons of Eram: three hundred and twenty."
+          },
+          {
+            "id": "v2-33",
+            "text": "2:33The sons of Lod, Aroth and Ono: seven hundred and twenty-five."
+          },
+          {
+            "id": "v2-34",
+            "text": "2:34The sons of Jericho: three hundred and forty-five."
+          },
+          {
+            "id": "v2-35",
+            "text": "2:35The sons of Sanaa: three thousand six hundred and thirty."
+          },
+          {
+            "id": "v2-36",
+            "text": "2:36The priests: the sons of Iedoua, belonging to the house of Iesous: nine hundred and seventy-three."
+          },
+          {
+            "id": "v2-37",
+            "text": "2:37The sons of Emmer: one thousand and fifty-two."
+          },
+          {
+            "id": "v2-38",
+            "text": "2:38The sons of Phassour: one thousand two hundred and forty-seven."
+          },
+          {
+            "id": "v2-39",
+            "text": "2:39The sons of Erem: one thousand and seven."
+          },
+          {
+            "id": "v2-40",
+            "text": "2:40The Levites: the sons of Iesous and Kadmiel, belonging to the sons of Odouia: seventy-four."
+          },
+          {
+            "id": "v2-41",
+            "text": "2:41The singers: the sons of Asaph: one hundred and twenty-eight."
+          },
+          {
+            "id": "v2-42",
+            "text": "2:42The sons of the gatekeepers: the sons of Saloum, the sons of Ater, the sons of Telmon, the sons of Akoub, the sons of Atita and the sons of Sabaou: all together, one hundred and thirty-nine."
+          },
+          {
+            "id": "v2-43",
+            "text": "2:43The Nathinaians: the sons of Souia, the sons of Asouphe, the sons of Tabaoth;"
+          },
+          {
+            "id": "v2-44",
+            "text": "2:44the sons of Keraos, the sons of Soea, the sons of Phadon;"
+          },
+          {
+            "id": "v2-45",
+            "text": "2:45the sons of Labano, the sons of Agaba, the sons of Akaboth;"
+          },
+          {
+            "id": "v2-46",
+            "text": "2:46the sons of Agab, the sons of Samalai, the sons of Anan;"
+          },
+          {
+            "id": "v2-47",
+            "text": "2:47the sons of Kedel, the sons of Gaer, the sons of Reea;"
+          },
+          {
+            "id": "v2-48",
+            "text": "2:48the sons of Rason, the sons of Nekoda, the sons of Gazem;"
+          },
+          {
+            "id": "v2-49",
+            "text": "2:49the sons of Ousa, the sons of Phase, the sons of Basi;"
+          },
+          {
+            "id": "v2-50",
+            "text": "2:50the sons of Asena, the sons of Maonim, the sons of Naphison;"
+          },
+          {
+            "id": "v2-51",
+            "text": "2:51the sons of Bakbouk, the sons of Akipha, the sons of Arour;"
+          },
+          {
+            "id": "v2-52",
+            "text": "2:52the sons of Basaloth, the sons of Maouda, the sons of Aresa;"
+          },
+          {
+            "id": "v2-53",
+            "text": "2:53the sons of Barkous, the sons of Sisara, the sons of Thema;"
+          },
+          {
+            "id": "v2-54",
+            "text": "2:54The sons of Nasoue, the sons of Atoupha."
+          },
+          {
+            "id": "v2-55",
+            "text": "2:55The sons of Abdeselma: the sons of Sati, the sons of Asepherath, the sons of Phadoura;"
+          },
+          {
+            "id": "v2-56",
+            "text": "2:56the sons of Ieela, the sons of Darkon, the sons of Gedel;"
+          },
+          {
+            "id": "v2-57",
+            "text": "2:57The sons of Saphatia, the sons of Atil, the sons of Phacherath-aseboin, the sons of Emi."
+          },
+          {
+            "id": "v2-58",
+            "text": "2:58All the Nathinin and the sons of Abdeselma: three hundred and ninety-two."
+          },
+          {
+            "id": "v2-59",
+            "text": "2:59These came up from Thelmeleth, Thelaresha, Charoub, Edan and Emmer, but they were unable to declare their family house and their descent, whether they were from Israel:"
+          },
+          {
+            "id": "v2-60",
+            "text": "2:60the sons of Dalaia, the sons of Boua, the sons of Tobia and the sons of Nekoda: six hundred and fifty-two."
+          },
+          {
+            "id": "v2-61",
+            "text": "2:61And from the sons of the priests: the sons of Chabia, the sons of Akous and the sons of Berzellai, who had taken a wife from the daughters of Berzellai the Galaadite and was called by their name."
+          },
+          {
+            "id": "v2-62",
+            "text": "2:62These—the methoesim—sought their record, but they were not found, and they were excluded from the priesthood on grounds of descent."
+          },
+          {
+            "id": "v2-63",
+            "text": "2:63Athersatha told them not to eat of the most holy things until a priest arose with the illuminating things and the perfect things."
+          },
+          {
+            "id": "v2-64",
+            "text": "2:64The whole assembly, as one, was forty-two thousand three hundred and sixty,"
+          },
+          {
+            "id": "v2-65",
+            "text": "2:65apart from their male slaves and female slaves, these being seven thousand three hundred and thirty-seven; and these male and female singers were two hundred."
+          },
+          {
+            "id": "v2-66",
+            "text": "2:66Their horses were seven hundred and thirty-six; their mules, two hundred and forty-five;"
+          },
+          {
+            "id": "v2-67",
+            "text": "2:67their camels, four hundred and thirty-five; their donkeys, six thousand seven hundred and twenty."
+          },
+          {
+            "id": "v2-68",
+            "text": "2:68Some of the family leaders, when they came to the Lord’s house in Jerusalem, made freewill offerings for the house of God, to establish it on its prepared place."
+          },
+          {
+            "id": "v2-69",
+            "text": "2:69According to their ability, they gave to the treasury for the work: pure gold, sixty-one thousand minas; silver, five thousand minas; and one hundred priests’ kothonoi."
+          },
+          {
+            "id": "v2-70",
+            "text": "2:70The priests, the Levites, those from the people, the singers, the gatekeepers and the Nathinim settled in their cities, and all Israel in their cities."
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "Ezra 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-2/"
+          },
+          {
+            "selected": true,
+            "text": "Ezra 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-10/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "Ezra 3",
+        "verses": [
+          {
+            "id": "v3-1",
+            "text": "3:1The seventh month arrived—the sons of Israel being in their cities—and the people gathered as one man in Jerusalem."
+          },
+          {
+            "id": "v3-2",
+            "text": "3:2Iesous son of Iosedek and his brothers the priests, and Zorobabel son of Salathiel and his brothers, arose and built the altar of the God of Israel, to offer whole burnt offerings upon it according to what is written in the law of Moses, the man of God."
+          },
+          {
+            "id": "v3-3",
+            "text": "3:3They prepared the altar on its prepared place, for terror from the peoples of the lands was upon them. A whole burnt offering went up upon it to the Lord, in the morning and toward evening."
+          },
+          {
+            "id": "v3-4",
+            "text": "3:4They kept the Festival of Booths according to what was written, with whole burnt offerings day by day in the number required by the ordinance, each day’s due on its own day,"
+          },
+          {
+            "id": "v3-5",
+            "text": "3:5and afterward continual whole burnt offerings, those for the new moons and all the consecrated festivals, and for everyone freely presenting a freewill offering to the Lord."
+          },
+          {
+            "id": "v3-6",
+            "text": "3:6On day one of the seventh month they began offering whole burnt offerings to the Lord, though the Lord’s house had not been founded."
+          },
+          {
+            "id": "v3-7",
+            "text": "3:7They gave silver to the stonecutters and craftsmen, and food, drink and oil to the Sedanin and Sorin, to bring cedar timber from Lebanon to the sea at Joppa, according to the concession of Cyrus king of the Persians to them."
+          },
+          {
+            "id": "v3-8",
+            "text": "3:8In the second year after their arrival at the house of God in Jerusalem, in the second month, Zorobabel son of Salathiel, Iesous son of Iosedek, the rest of their brothers the priests and Levites, and all who had come from captivity to Jerusalem began. They set the Levites from twenty years old and upward over those doing the work in the Lord’s house."
+          },
+          {
+            "id": "v3-9",
+            "text": "3:9Iesous and his sons and his brothers, Kadmiel and his sons, sons of Judah, stood over those doing the work in the house of God; also the sons of Enadad, their sons and their brothers the Levites."
+          },
+          {
+            "id": "v3-10",
+            "text": "3:10They laid the foundation for building the Lord’s house, and the priests stood in their vestments with trumpets, and the Levites, sons of Asaph, with cymbals, to praise the Lord according to the directions of David king of Israel."
+          },
+          {
+            "id": "v3-11",
+            "text": "3:11They answered in praise and thanksgiving to the Lord: “For it is good, for His mercy toward Israel endures for ever.” All the people sounded a great cry of praise to the Lord at the founding of the Lord’s house."
+          },
+          {
+            "id": "v3-12",
+            "text": "3:12Many of the priests and Levites and leaders of the families—the elders who had seen the first house at its founding, and who saw this house before their eyes—wept with a loud voice; and the multitude cried aloud with joy to raise a song."
+          },
+          {
+            "id": "v3-13",
+            "text": "3:13The people could not distinguish the sound of the joyful signal from the sound of the people’s weeping, for the people cried out with a loud voice, and the sound was heard far away."
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "Ezra 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-3/"
+          },
+          {
+            "selected": true,
+            "text": "Ezra 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-10/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "Ezra 4",
+        "verses": [
+          {
+            "id": "v4-1",
+            "text": "4:1Those who oppressed Judah and Benjamin heard that the sons of the deportation were building a house for the Lord, God of Israel."
+          },
+          {
+            "id": "v4-2",
+            "text": "4:2They approached Zorobabel and the family leaders and said to them, “We will build with you, for like you we seek your God, and to Him we have been sacrificing since the days of Asaraddon king of Assour, who brought us here.”"
+          },
+          {
+            "id": "v4-3",
+            "text": "4:3Zorobabel, Iesous and the remaining leaders of Israel’s families said to them, “It is not for us and you to build a house for our God. We ourselves together will build for the Lord our God, as Cyrus king of the Persians commanded us.”"
+          },
+          {
+            "id": "v4-4",
+            "text": "4:4The people of the land weakened the hands of the people of Judah and hindered them from building,"
+          },
+          {
+            "id": "v4-5",
+            "text": "4:5hiring against them those who took counsel to scatter their plan, all the days of Cyrus king of the Persians and until the reign of Darius king of the Persians."
+          },
+          {
+            "id": "v4-6",
+            "text": "4:6In the reign of Asoueros, at the beginning of his reign, they wrote a letter against the inhabitants of Judah and Jerusalem."
+          },
+          {
+            "id": "v4-7",
+            "text": "4:7In the days of Arthasastha, Tabeel, together with the rest of his fellow slaves, wrote in peace for Mithradates to Arthasastha king of the Persians. The tax collector wrote a document in Syrian, and it was interpreted."
+          },
+          {
+            "id": "v4-8",
+            "text": "4:8Raoum the baaltam and Samsai the scribe wrote one letter against Jerusalem to Arthasastha the king."
+          },
+          {
+            "id": "v4-9",
+            "text": "4:9These things were decided by Raoum the baaltam, Samsai the scribe and the rest of our fellow slaves—the Dinaians, Apharsathachaians, Tarphallaians, Apharsaians, Archyaians, Babylonians and Sousanachaians, who are Elamites,"
+          },
+          {
+            "id": "v4-10",
+            "text": "4:10and the remaining nations whom the great and honored Asennaphar had deported and settled in the cities of Somoron, and the remainder beyond the river."
+          },
+          {
+            "id": "v4-11",
+            "text": "4:11This is the wording of the letter they sent him: “To Arthasastha the king: your servants, men beyond the river."
+          },
+          {
+            "id": "v4-12",
+            "text": "4:12Let it be known to the king that the Jews who came up from you to us have arrived in Jerusalem. They are building the rebellious and wicked city; they have put its walls in order and raised its foundations."
+          },
+          {
+            "id": "v4-13",
+            "text": "4:13Now therefore let it be known to the king that if that city is rebuilt and its walls put in order, there will be no taxes for you, nor will they pay them; this harms kings."
+          },
+          {
+            "id": "v4-14",
+            "text": "4:14It is not permitted for us to look upon the king’s disgrace. Therefore we have sent and informed the king,"
+          },
+          {
+            "id": "v4-15",
+            "text": "4:15so that a search may be made in the record book of your fathers. You will find and know that this city is rebellious and harms kings and countries, and that there have been flights of slaves within it from ages past. For these reasons this city was laid waste."
+          },
+          {
+            "id": "v4-16",
+            "text": "4:16We therefore inform the king that if that city is built and its walls put in order, you will have no peace.”"
+          },
+          {
+            "id": "v4-17",
+            "text": "4:17The king sent peace to Raoum the baaltam, Samsai the scribe, their remaining fellow slaves living in Samaria and the others beyond the river, and he says:"
+          },
+          {
+            "id": "v4-18",
+            "text": "4:18“The tax collector whom you sent to us was called before me."
+          },
+          {
+            "id": "v4-19",
+            "text": "4:19I issued a decision, and we searched and found that this city has risen against kings from ancient days, and rebellions and flights occur within it,"
+          },
+          {
+            "id": "v4-20",
+            "text": "4:20and mighty kings arise over Jerusalem and hold power over the whole region west of the river, and full taxes and a share are given to them."
+          },
+          {
+            "id": "v4-21",
+            "text": "4:21Now issue a decision to stop those men, and that city shall no longer be built, so that, in accordance with the decision,"
+          },
+          {
+            "id": "v4-22",
+            "text": "4:22you are on your guard against allowing slackness in this matter, lest destruction increase to the harm of kings.”"
+          },
+          {
+            "id": "v4-23",
+            "text": "4:23Then King Arthasastha’s tax collector read before Raoum, Samsai the scribe and their fellow slaves. They hurried to Jerusalem and into Judah and stopped them with horses and force."
+          },
+          {
+            "id": "v4-24",
+            "text": "4:24Then the work of the house of God in Jerusalem ceased, and it remained idle until the second year of the reign of Darius king of the Persians."
+          }
+        ]
+      },
+      {
+        "chapter": 5,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "Ezra 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-4/"
+          },
+          {
+            "selected": true,
+            "text": "Ezra 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-10/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "Ezra 5",
+        "verses": [
+          {
+            "id": "v5-1",
+            "text": "5:1Haggai the prophet and Zacharias son of Addo prophesied a prophecy over the Jews in Judah and Jerusalem in the name of the God of Israel, over them."
+          },
+          {
+            "id": "v5-2",
+            "text": "5:2Then Zorobabel son of Salathiel and Iesous son of Iosedek arose and began building the house of God in Jerusalem. God’s prophets were with them, helping them."
+          },
+          {
+            "id": "v5-3",
+            "text": "5:3At that very time Thanthanai, governor beyond the river, Satharbouzana and their fellow slaves came against them and said, “Who issued you a decision to build this house and put this provision in order?”"
+          },
+          {
+            "id": "v5-4",
+            "text": "5:4Then they said these things to them: “What are the names of the men building this city?”"
+          },
+          {
+            "id": "v5-5",
+            "text": "5:5But God’s eyes were upon the captivity of Judah, and they did not stop them until a report had been carried to Darius; then word was sent to the tax collector about this."
+          },
+          {
+            "id": "v5-6",
+            "text": "5:6An account of the letter that Thanthanai, governor beyond the river, Satharbouzana and their fellow slaves the Apharsachaians beyond the river sent to Darius the king:"
+          },
+          {
+            "id": "v5-7",
+            "text": "5:7They sent him a statement, and this is written in it: “To Darius the king: all peace."
+          },
+          {
+            "id": "v5-8",
+            "text": "5:8Let it be known to the king that we went to the country of Judea, to the house of the great God. It is being built with selected stones, and timber is being placed in the walls. That work is being done skillfully and is advancing well in their hands."
+          },
+          {
+            "id": "v5-9",
+            "text": "5:9Then we questioned those elders and said to them, ‘Who issued you a decision to build this house and put this provision in order?’"
+          },
+          {
+            "id": "v5-10",
+            "text": "5:10We also asked them their names to make them known to you, so that we could write to you the names of the men who lead them."
+          },
+          {
+            "id": "v5-11",
+            "text": "5:11They answered us with this statement: ‘We are slaves of the God of heaven and earth, and we are building the house that was built many years before this. A great king of Israel built it and put it in order"
+          },
+          {
+            "id": "v5-12",
+            "text": "5:12for them. But from the time our fathers provoked the God of heaven, He gave them into the hands of Nabouchodonosor king of Babylon, the Chaldean. He dismantled this house and deported the people to Babylon."
+          },
+          {
+            "id": "v5-13",
+            "text": "5:13But in the first year of Cyrus the king, King Cyrus issued a decision for this house of God to be built."
+          },
+          {
+            "id": "v5-14",
+            "text": "5:14And the gold and silver vessels of God’s house that Nabouchodonosor took from the house in Jerusalem and carried to the king’s sanctuary—King Cyrus took them from the king’s sanctuary and gave them to Sasabasar, the treasury keeper in charge of the treasury,"
+          },
+          {
+            "id": "v5-15",
+            "text": "5:15and said to him, ‘Take all the vessels, go and place them in the house in Jerusalem, in their own place.’"
+          },
+          {
+            "id": "v5-16",
+            "text": "5:16Then that Sasabasar came and laid the foundations of the house of God in Jerusalem. From that time until now it has been built, but it has not been completed.’"
+          },
+          {
+            "id": "v5-17",
+            "text": "5:17Now, if it pleases the king, let a search be made in the treasury house of the king of Babylon, so that you may know that King Cyrus issued a decision to build that house of God in Jerusalem. When the king has learned about this, let him send word to us.”"
+          }
+        ]
+      },
+      {
+        "chapter": 6,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "Ezra 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-5/"
+          },
+          {
+            "selected": true,
+            "text": "Ezra 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-10/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "Ezra 6",
+        "verses": [
+          {
+            "id": "v6-1",
+            "text": "6:1Then Darius the king issued a decision and made a search in the libraries where the treasury is kept in Babylon."
+          },
+          {
+            "id": "v6-2",
+            "text": "6:2A scroll was found in a city, in the citadel of the city of the Medes, and this was written in it: “Memorandum:"
+          },
+          {
+            "id": "v6-3",
+            "text": "6:3In the first year of Cyrus the king, King Cyrus issued a decision concerning the house of God in Jerusalem: Let the house be built, and the place where they sacrifice the sacrifices. He set an elevation: sixty cubits high and sixty cubits wide,"
+          },
+          {
+            "id": "v6-4",
+            "text": "6:4with three courses of strong stone and one wooden course. The expense will be paid from the king’s house."
+          },
+          {
+            "id": "v6-5",
+            "text": "6:5And let the silver and gold vessels of God’s house, which Nabouchodonosor took from the house in Jerusalem and carried to Babylon, be given back and go to the sanctuary in Jerusalem, to the place where they were set in God’s house.”"
+          },
+          {
+            "id": "v6-6",
+            "text": "6:6“Now you shall give, governors beyond the river, Satharbouzana and their fellow slaves the Apharsachaians beyond the river; keeping far away from there,"
+          },
+          {
+            "id": "v6-7",
+            "text": "6:7leave the work on God’s house alone. Let the leaders of the Jews and the elders of the Jews build that house of God on its site."
+          },
+          {
+            "id": "v6-8",
+            "text": "6:8I have issued a decision that you must not do anything with the elders of the Jews concerning the building of that house of God. From the king’s resources, from the taxes beyond the river, let the expense be diligently supplied to those men, so that it is not stopped."
+          },
+          {
+            "id": "v6-9",
+            "text": "6:9Whatever may be lacking—offspring of cattle and of rams, and lambs for whole burnt offerings to the God of heaven, wheat, salt, wine and oil—let it be given to them day by day according to the word of the priests in Jerusalem, whatever they ask,"
+          },
+          {
+            "id": "v6-10",
+            "text": "6:10so that they may offer sweet fragrances to the God of heaven and pray for the life of the king and his sons."
+          },
+          {
+            "id": "v6-11",
+            "text": "6:11I have also issued a decision: for anyone who changes this word, a timber will be taken down from his house, and he will be raised upright and fastened upon it. His house will be dealt with according to me."
+          },
+          {
+            "id": "v6-12",
+            "text": "6:12The God whose name dwells there will overthrow every king and people who stretches out a hand to alter or destroy that house of God in Jerusalem. I, Darius, have issued the decision; it shall be carried out diligently.”"
+          },
+          {
+            "id": "v6-13",
+            "text": "6:13Then Thanthanai, governor beyond the river, Satharbouzana and his fellow slaves acted diligently according to what Darius the king had sent."
+          },
+          {
+            "id": "v6-14",
+            "text": "6:14The elders of the Jews and the Levites were building through the prophecy of Haggai the prophet and Zacharias son of Addo. They rebuilt and put it in order by the decree of the God of Israel and by the decree of Cyrus, Darius and Arthasastha, kings of the Persians."
+          },
+          {
+            "id": "v6-15",
+            "text": "6:15They completed this house by the third day of the month of Adar, in the sixth year of the reign of Darius the king."
+          },
+          {
+            "id": "v6-16",
+            "text": "6:16The sons of Israel—the priests, the Levites and the remaining sons of the deportation—celebrated the dedication of God’s house with joy."
+          },
+          {
+            "id": "v6-17",
+            "text": "6:17For the dedication of God’s house they offered one hundred young bulls, two hundred rams, four hundred lambs, and twelve male goats for sin on behalf of all Israel, according to the number of Israel’s tribes."
+          },
+          {
+            "id": "v6-18",
+            "text": "6:18They stationed the priests in their divisions and the Levites in their allotted groups over the service of God in Jerusalem, according to the writing of the book of Moses."
+          },
+          {
+            "id": "v6-19",
+            "text": "6:19The sons of the deportation kept the Passover on the fourteenth day of the first month."
+          },
+          {
+            "id": "v6-20",
+            "text": "6:20For the priests and Levites had been purified, all clean to the last one. They slaughtered the Passover for all the sons of the deportation, for their brothers the priests and for themselves."
+          },
+          {
+            "id": "v6-21",
+            "text": "6:21The sons of Israel ate the Passover, those from the deportation and everyone separating himself from the uncleanness of the nations of the land to join them, to seek the Lord, God of Israel."
+          },
+          {
+            "id": "v6-22",
+            "text": "6:22They kept the Festival of Unleavened Bread for seven days with joy, for the Lord had made them joyful and turned the heart of the king of Assour toward them, to strengthen their hands in the works of the house of the God of Israel."
+          }
+        ]
+      },
+      {
+        "chapter": 7,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "Ezra 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-6/"
+          },
+          {
+            "selected": true,
+            "text": "Ezra 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-10/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "Ezra 7",
+        "verses": [
+          {
+            "id": "v7-1",
+            "text": "7:1After these events, in the reign of Arthasastha king of the Persians, Esdras went up, son of Saraias, son of Azarias, son of Elkia,"
+          },
+          {
+            "id": "v7-2",
+            "text": "7:2son of Saloum, son of Saddouk, son of Achitob,"
+          },
+          {
+            "id": "v7-3",
+            "text": "7:3son of Samaria, son of Esria, son of Mareroth,"
+          },
+          {
+            "id": "v7-4",
+            "text": "7:4son of Zaraia, son of Saouia, son of Bokki,"
+          },
+          {
+            "id": "v7-5",
+            "text": "7:5son of Abisoue, son of Phinees, son of Eleazar, son of Aaron the first priest—"
+          },
+          {
+            "id": "v7-6",
+            "text": "7:6this Esdras came up from Babylon. He was a ready scribe in the law of Moses, which the Lord, God of Israel, had given. The king granted him his requests, because the hand of the Lord his God was upon him in everything he sought."
+          },
+          {
+            "id": "v7-7",
+            "text": "7:7Some of the sons of Israel, the priests and the Levites, together with the singers, gatekeepers and Nathinim, went up to Jerusalem in the seventh year of Arthasastha the king."
+          },
+          {
+            "id": "v7-8",
+            "text": "7:8They came to Jerusalem in the fifth month, in the seventh year of the king."
+          },
+          {
+            "id": "v7-9",
+            "text": "7:9On day one of the first month he laid the foundation for the ascent from Babylon; on the first day of the fifth month they came to Jerusalem, because the hand of his God was good upon him."
+          },
+          {
+            "id": "v7-10",
+            "text": "7:10For Esdras had set it in his heart to seek the law, to do it, and to teach ordinances and judgments in Israel."
+          },
+          {
+            "id": "v7-11",
+            "text": "7:11This is the account of the decree that Arthasastha gave Esdras the priest, the scribe of the book of the words of the Lord’s commandments and His ordinances for Israel:"
+          },
+          {
+            "id": "v7-12",
+            "text": "7:12“Arthasastha, king of kings, to Esdras, scribe of the law of the God of heaven: The word and the answer are completed."
+          },
+          {
+            "id": "v7-13",
+            "text": "7:13I have issued a decision that anyone in my kingdom from the people of Israel, the priests and the Levites who freely wishes to go to Jerusalem is to go with you."
+          },
+          {
+            "id": "v7-14",
+            "text": "7:14He has been sent from the king and the seven advisers to inspect Judea and Jerusalem by the law of their God that is in your hand,"
+          },
+          {
+            "id": "v7-15",
+            "text": "7:15and, for the Lord’s house, silver and gold that the king and the advisers have freely offered to the God of Israel who dwells in Jerusalem,"
+          },
+          {
+            "id": "v7-16",
+            "text": "7:16and all the silver and gold you may find throughout the country of Babylon, with the voluntary offering of the people and priests who freely offer for the house of God in Jerusalem,"
+          },
+          {
+            "id": "v7-17",
+            "text": "7:17and everything that comes in—readily enter this in this book: young bulls, rams, lambs, their sacrifices and their drink offerings. You shall offer them on the altar of the house of your God in Jerusalem."
+          },
+          {
+            "id": "v7-18",
+            "text": "7:18Whatever seems good to you and your brothers to do with the remaining silver and gold, do as is pleasing to your God."
+          },
+          {
+            "id": "v7-19",
+            "text": "7:19The vessels given to you for the service of God’s house, hand over before God in Jerusalem."
+          },
+          {
+            "id": "v7-20",
+            "text": "7:20Whatever else you think your God’s house needs, you shall provide from the king’s treasury houses."
+          },
+          {
+            "id": "v7-21",
+            "text": "7:21I, Arthasastha the king, have issued a decision to all the treasuries beyond the river: whatever Esdras the priest and scribe of the law of the God of heaven asks of you, let it be provided readily,"
+          },
+          {
+            "id": "v7-22",
+            "text": "7:22up to one hundred talents of silver, one hundred kors of wheat, one hundred bads of wine, one hundred bads of oil, and salt for which there is no written amount."
+          },
+          {
+            "id": "v7-23",
+            "text": "7:23Let everything in the decision of the God of heaven be done. Take care that no one attempts anything against the house of the God of heaven, lest wrath come upon the kingdom of the king and his sons."
+          },
+          {
+            "id": "v7-24",
+            "text": "7:24It has also been made known to you: from any priests, Levites, singers, gatekeepers, Nathinim or ministers of this house of God, let there be no tax for you; you shall have no authority to enslave them."
+          },
+          {
+            "id": "v7-25",
+            "text": "7:25You, Esdras, according to the wisdom of God in your hand, appoint scribes and judges to judge all the people beyond the river, all who know the law of your God; and you shall make it known to the one who does not know."
+          },
+          {
+            "id": "v7-26",
+            "text": "7:26For anyone who does not readily carry out the law of God and the law of the king, judgment shall be executed against him, whether death, discipline, loss of property, or bonds.”"
+          },
+          {
+            "id": "v7-27",
+            "text": "7:27Blessed be the Lord, the God of our fathers, who put it thus in the king’s heart, to glorify the Lord’s house in Jerusalem,"
+          },
+          {
+            "id": "v7-28",
+            "text": "7:28and inclined mercy toward me in the eyes of the king, his advisers and all the king’s exalted officials. I was strengthened, as the good hand of God was upon me, and gathered leaders from Israel to go up with me."
+          }
+        ]
+      },
+      {
+        "chapter": 8,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "Ezra 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-7/"
+          },
+          {
+            "selected": true,
+            "text": "Ezra 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-10/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "Ezra 8",
+        "verses": [
+          {
+            "id": "v8-1",
+            "text": "8:1These are the leaders of their families, the guides who came up with me in the reign of Arthasastha king of Babylon:"
+          },
+          {
+            "id": "v8-2",
+            "text": "8:2from the sons of Phinees, Gersom; from the sons of Ithamar, Daniel; from the sons of David, Atous;"
+          },
+          {
+            "id": "v8-3",
+            "text": "8:3from the sons of Sachania; from the sons of Phoros, Zacharias, and with him the company of one hundred and fifty;"
+          },
+          {
+            "id": "v8-4",
+            "text": "8:4from the sons of Phaathmoab, Eliana son of Zaraia, and with him two hundred males;"
+          },
+          {
+            "id": "v8-5",
+            "text": "8:5from the sons of Zathoes, Sechenias son of Aziel, and with him three hundred males;"
+          },
+          {
+            "id": "v8-6",
+            "text": "8:6from the sons of Adin, Obeth son of Ionathan, and with him fifty males;"
+          },
+          {
+            "id": "v8-7",
+            "text": "8:7from the sons of Elam, Iesia son of Athelia, and with him seventy males;"
+          },
+          {
+            "id": "v8-8",
+            "text": "8:8from the sons of Saphatia, Zabdia son of Michael, and with him eighty males;"
+          },
+          {
+            "id": "v8-9",
+            "text": "8:9from the sons of Ioab, Abadia son of Iiel, and with him two hundred and eighteen males;"
+          },
+          {
+            "id": "v8-10",
+            "text": "8:10from the sons of Baani, Salimouth son of Iosephia, and with him one hundred and sixty males;"
+          },
+          {
+            "id": "v8-11",
+            "text": "8:11from the sons of Babi, Zacharia son of Babi, and with him seventy-eight males;"
+          },
+          {
+            "id": "v8-12",
+            "text": "8:12from the sons of Asgad, Ioanan son of Akatan, and with him one hundred and ten males;"
+          },
+          {
+            "id": "v8-13",
+            "text": "8:13from the sons of Adonikam, the last ones, and these are their names: Aliphalat, Iiel and Samaia, and with them sixty males;"
+          },
+          {
+            "id": "v8-14",
+            "text": "8:14From the sons of Bago, Outhi, and with him seventy males."
+          },
+          {
+            "id": "v8-15",
+            "text": "8:15I gathered them at the river that runs toward Eui, and we camped there for three days. I examined the people and the priests, but found none of the sons of Levi there."
+          },
+          {
+            "id": "v8-16",
+            "text": "8:16I sent men to Eleazar, Ariel, Samaia, Alonam, Iarib, Elnathan, Nathan, Zacharia and Mesoulam, and to Ioarib and Elnathan, men of understanding,"
+          },
+          {
+            "id": "v8-17",
+            "text": "8:17and brought them out under a ruler in the silver of the place. I put words in their mouths to speak to their brothers the Nathinim in the silver of the place, to bring us singers for the house of our God."
+          },
+          {
+            "id": "v8-18",
+            "text": "8:18They came to us, as the hand of our God was good upon us: a sachol man from the sons of Mooli son of Levi son of Israel; and at first his sons and his brothers came, eighteen in all;"
+          },
+          {
+            "id": "v8-19",
+            "text": "8:19also Asebia and Osaia from the sons of Merari, his brothers and their sons, twenty in all;"
+          },
+          {
+            "id": "v8-20",
+            "text": "8:20and from the Nathinim whom David and the leaders had given for the service of the Levites, two hundred and twenty Nathinim, all gathered by name."
+          },
+          {
+            "id": "v8-21",
+            "text": "8:21I proclaimed a fast there at the river Aoue, to humble ourselves before our God and seek from Him a straight way for ourselves, our children and all our possessions."
+          },
+          {
+            "id": "v8-22",
+            "text": "8:22For I was ashamed to ask the king for a force and horsemen to save us from an enemy on the road, because we had told the king, “The hand of our God is for good upon all who seek Him, but His might and His wrath are against all who abandon Him.”"
+          },
+          {
+            "id": "v8-23",
+            "text": "8:23We fasted and sought from our God concerning this, and He heard us."
+          },
+          {
+            "id": "v8-24",
+            "text": "8:24I set apart twelve from the leaders of the priests, with Saraia, Asabia and ten of their brothers with them,"
+          },
+          {
+            "id": "v8-25",
+            "text": "8:25and weighed out to them the silver, gold and vessels of the first offering for the house of our God, which the king, his advisers, his leaders and all Israel present there had lifted up."
+          },
+          {
+            "id": "v8-26",
+            "text": "8:26I weighed into their hands six hundred and fifty talents of silver, one hundred silver vessels, and one hundred talents of gold,"
+          },
+          {
+            "id": "v8-27",
+            "text": "8:27and twenty gold kaphoure, a thousand chamanim for the journey, and various vessels of fine gleaming bronze, desirable in gold."
+          },
+          {
+            "id": "v8-28",
+            "text": "8:28I said to them, “You are holy to the Lord, and the vessels are holy. The silver and gold are freewill offerings to the Lord, the God of your fathers."
+          },
+          {
+            "id": "v8-29",
+            "text": "8:29Stay awake and guard them until you stand before the leaders of the priests and Levites and the family leaders in Jerusalem, at the tents of the Lord’s house.”"
+          },
+          {
+            "id": "v8-30",
+            "text": "8:30The priests and Levites received the weight of silver, gold and vessels, to bring them to Jerusalem, to the house of our God."
+          },
+          {
+            "id": "v8-31",
+            "text": "8:31We set out from the river Aoue on the twelfth day of the first month to come to Jerusalem. The hand of our God was upon us, and He rescued us from the hand of an enemy and an adversary along the way."
+          },
+          {
+            "id": "v8-32",
+            "text": "8:32We came to Jerusalem and stayed there for three days."
+          },
+          {
+            "id": "v8-33",
+            "text": "8:33On the fourth day we weighed out the silver, gold and vessels in the house of our God into the hand of Merimoth son of Ouria the priest. With him was Eleazar son of Phinees, and with them were the Levites Iozabad son of Iesous and Noadia son of Banaia,"
+          },
+          {
+            "id": "v8-34",
+            "text": "8:34everything by number and by weight, and the entire weight was recorded. At that time,"
+          },
+          {
+            "id": "v8-35",
+            "text": "8:35those who had come from captivity, sons of the sojourning, offered whole burnt offerings to the God of Israel: twelve young bulls for all Israel, ninety-six rams, seventy-seven lambs and twelve male goats for sin—all as whole burnt offerings to the Lord."
+          },
+          {
+            "id": "v8-36",
+            "text": "8:36They delivered the king’s ordinance to the king’s administrators and the governors beyond the river, and they honored the people and the house of God."
+          }
+        ]
+      },
+      {
+        "chapter": 9,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "Ezra 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-8/"
+          },
+          {
+            "selected": true,
+            "text": "Ezra 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-10/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "Ezra 9",
+        "verses": [
+          {
+            "id": "v9-1",
+            "text": "9:1When these things were completed, the leaders approached me and said, “The people of Israel, the priests and the Levites have not separated themselves from the peoples of the lands in their repulsive practices: the Chanani, Ethi, Pherezi, Iebousi, Ammoni, Moabi, Moseri and Amori,"
+          },
+          {
+            "id": "v9-2",
+            "text": "9:2because they have taken some of their daughters for themselves and their sons, and the holy seed has been led astray among the peoples of the lands. The leaders’ hand has been foremost in this covenant-breaking.”"
+          },
+          {
+            "id": "v9-3",
+            "text": "9:3When I heard this word, I tore my garments, shook with agitation, plucked hair from my head and beard, and sat quietly."
+          },
+          {
+            "id": "v9-4",
+            "text": "9:4Everyone who pursued the word of the God of Israel gathered to me because of the deported community’s covenant-breaking, while I sat quietly until the evening sacrifice."
+          },
+          {
+            "id": "v9-5",
+            "text": "9:5At the evening sacrifice I rose from my humiliation. As I tore my garments, I shook with agitation; I bend upon my knees and stretch out my hands toward the Lord God,"
+          },
+          {
+            "id": "v9-6",
+            "text": "9:6and said, “Lord, I am ashamed and abashed to lift my face toward Thee, for our lawless deeds have multiplied above our heads and our offenses have grown to heaven."
+          },
+          {
+            "id": "v9-7",
+            "text": "9:7From the days of our fathers until this day we have been in great offense. In our lawless deeds, we, our kings and our sons have been handed over into the hand of the kings of the nations—to the sword, captivity, plunder and shame of our face—as on this day."
+          },
+          {
+            "id": "v9-8",
+            "text": "9:8Now the Lord our God has shown us leniency, leaving some of us for deliverance and giving us a support in the place of His sanctuary, to enlighten our eyes and give us a little revival in our slavery."
+          },
+          {
+            "id": "v9-9",
+            "text": "9:9For we are slaves, and in our slavery the Lord our God has not abandoned us. He has inclined mercy toward us before the kings of the Persians, to give us revival, for them to raise up the house of our God and restore its desolate places, and to give us a fence in Judah and Jerusalem."
+          },
+          {
+            "id": "v9-10",
+            "text": "9:10What can we say, our God, after this? For we have abandoned Thy commandments,"
+          },
+          {
+            "id": "v9-11",
+            "text": "9:11which Thou gavest us through Thy servants the prophets, saying, ‘The land you are entering to inherit is a land being moved amid the movement of the peoples of the nations, in their repulsive practices, with which they have filled it from mouth to mouth in their uncleanness."
+          },
+          {
+            "id": "v9-12",
+            "text": "9:12Now do not give your daughters to their sons, and do not take some of their daughters for your sons. You shall never seek their peace or good, so that you may become strong, eat the good things of the land and bequeath it to your sons for ever.’"
+          },
+          {
+            "id": "v9-13",
+            "text": "9:13After everything that has come upon us through our evil deeds and our great offense—for there is none like our God, because Thou hast lightened our lawless deeds and given us deliverance—"
+          },
+          {
+            "id": "v9-14",
+            "text": "9:14for we have returned to scattering Thy commandments and intermarrying with the peoples of the lands. Do not be provoked against us to the point of destruction, so that no remnant or survivor remains."
+          },
+          {
+            "id": "v9-15",
+            "text": "9:15Lord, God of Israel, Thou art righteous, for we have been left as survivors, as on this day. Here we are before Thee in our offenses, for because of this there is no standing before Thee.”"
+          }
+        ]
+      },
+      {
+        "chapter": 10,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "Ezra 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "Ezra 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-9/"
+          },
+          {
+            "selected": true,
+            "text": "Ezra 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/chapter-10/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "Ezra 10",
+        "verses": [
+          {
+            "id": "v10-1",
+            "text": "10:1As Esdras prayed and confessed, weeping and praying before the house of God, a very great assembly gathered to him from Israel—men, women and young men—for the people wept and raised their weeping."
+          },
+          {
+            "id": "v10-2",
+            "text": "10:2Sechenias son of Iiel, of the sons of Elam, answered Esdras, “We have broken covenant with our God and have settled foreign wives from the peoples of the land among us. Now there is patient hope for Israel concerning this."
+          },
+          {
+            "id": "v10-3",
+            "text": "10:3Now let us make a covenant with our God to put away all the wives and those born from them, as you may wish. Arise and frighten them with the commandments of our God, and let it be done according to the law."
+          },
+          {
+            "id": "v10-4",
+            "text": "10:4Arise, for the matter rests upon you, and we are with you. Be strong and act.”"
+          },
+          {
+            "id": "v10-5",
+            "text": "10:5Esdras arose and made the leaders, the priests and Levites, and all Israel swear to act according to this word, and they swore."
+          },
+          {
+            "id": "v10-6",
+            "text": "10:6Esdras arose from before the house of God and went to the treasury chamber of Ioanan son of Elisoub. He went there, but ate no bread and drank no water, for he was mourning over the deported community’s covenant-breaking."
+          },
+          {
+            "id": "v10-7",
+            "text": "10:7They circulated a proclamation in Judah and Jerusalem to all the sons of the deported community, to assemble in Jerusalem:"
+          },
+          {
+            "id": "v10-8",
+            "text": "10:8Whoever does not arrive within three days, according to the counsel of the leaders and elders, shall have all his property put under the ban, and he himself shall be separated from the assembly of the deported community."
+          },
+          {
+            "id": "v10-9",
+            "text": "10:9All the men of Judah and Benjamin gathered at Jerusalem within the three days. This was the ninth month. On the twentieth of the month all the people sat in the open square of the house of God, because of their commotion over the matter and because of the winter weather."
+          },
+          {
+            "id": "v10-10",
+            "text": "10:10Esdras the priest arose and said to them, “You have broken covenant and have settled foreign wives among you, adding to Israel’s offense."
+          },
+          {
+            "id": "v10-11",
+            "text": "10:11Now give praise to the Lord, the God of your fathers, and do what is pleasing before Him. Separate yourselves from the peoples of the land and from the foreign wives.”"
+          },
+          {
+            "id": "v10-12",
+            "text": "10:12The whole assembly answered, “This word of yours is a great thing for us to carry out."
+          },
+          {
+            "id": "v10-13",
+            "text": "10:13But the people are many, the season is wintry, and there is no strength to stand outside. The work is not for one day or two, for we have multiplied our wrongdoing in this matter."
+          },
+          {
+            "id": "v10-14",
+            "text": "10:14Let our leaders stand for the whole assembly. Let all those in our cities who have settled foreign wives come at times set by appointment, with the elders of each city and judges, to turn the wrathful anger of our God away from us concerning this matter.”"
+          },
+          {
+            "id": "v10-15",
+            "text": "10:15Only Ionathan son of Asael and Iazia son of Thekoue were with me concerning this, and Mesoulam and Sabathai the Levite were helping them."
+          },
+          {
+            "id": "v10-16",
+            "text": "10:16The sons of the deported community did so. Esdras the priest and men who were leaders of ancestral families were set apart by household, all of them by name, because they returned on the first day of the tenth month to examine the matter."
+          },
+          {
+            "id": "v10-17",
+            "text": "10:17They finished with all the men who had settled foreign wives by the first day of the first month."
+          },
+          {
+            "id": "v10-18",
+            "text": "10:18Among the sons of the priests who had settled foreign wives were found, from the sons of Iesous son of Iosedek and his brothers: Maasea, Eliezer, Iarib and Gadalia."
+          },
+          {
+            "id": "v10-19",
+            "text": "10:19They gave their hand in pledge to send out their wives and, for offense, a ram from the sheep concerning their offense."
+          },
+          {
+            "id": "v10-20",
+            "text": "10:20From the sons of Emmer: Anani and Zabdia."
+          },
+          {
+            "id": "v10-21",
+            "text": "10:21From the sons of Eram: Masaia, Elia, Samaia, Iiel and Ozia."
+          },
+          {
+            "id": "v10-22",
+            "text": "10:22From the sons of Phasour: Elioenai, Maasaia, Ismael, Nathanael, Iozabad and Elasa."
+          },
+          {
+            "id": "v10-23",
+            "text": "10:23From the Levites: Iozabad, Samou, Kolia—he is Kolitas—Phathaia, Iodom and Eliezer."
+          },
+          {
+            "id": "v10-24",
+            "text": "10:24From the singers: Elisaph. From the gatekeepers: Sellem, Telem and Odoue."
+          },
+          {
+            "id": "v10-25",
+            "text": "10:25From Israel, from the sons of Phoros: Ramia, Iazia, Melchia, Meamin, Eleazar, Asabia and Banaia."
+          },
+          {
+            "id": "v10-26",
+            "text": "10:26From the sons of Elam: Mathania, Zacharia, Iaiel, Abdia, Iarimoth and Elia."
+          },
+          {
+            "id": "v10-27",
+            "text": "10:27From the sons of Zathoua: Elioenai, Elisoub, Mathania, Iarmoth, Zabad and Oziza."
+          },
+          {
+            "id": "v10-28",
+            "text": "10:28From the sons of Babi: Ioanan, Anania, Zabou and Othali."
+          },
+          {
+            "id": "v10-29",
+            "text": "10:29From the sons of Banoui: Mesoulam, Malouch, Adaias, Iasoub, Salouia and Remoth."
+          },
+          {
+            "id": "v10-30",
+            "text": "10:30From the sons of Phaathmoab: Edene, Chalel, Banaia, Masea, Mathania, Beselel, Banoui and Manasse."
+          },
+          {
+            "id": "v10-31",
+            "text": "10:31From the sons of Eram: Eliezer, Iessia, Melchia, Samaia, Semeon,"
+          },
+          {
+            "id": "v10-32",
+            "text": "10:32Benjamin, Malouch and Samaria."
+          },
+          {
+            "id": "v10-33",
+            "text": "10:33From the sons of Esam: Mathani, Mathatha, Zabed, Eliphaleth, Ierami, Manasse and Semei."
+          },
+          {
+            "id": "v10-34",
+            "text": "10:34From the sons of Bani: Moodi, Amram and Ouel;"
+          },
+          {
+            "id": "v10-35",
+            "text": "10:35Banaia, Badaia and Chelia;"
+          },
+          {
+            "id": "v10-36",
+            "text": "10:36Ouiechoa, Ieramoth and Eliasib;"
+          },
+          {
+            "id": "v10-37",
+            "text": "10:37Mathania, Mathanai; and acted"
+          },
+          {
+            "id": "v10-38",
+            "text": "10:38the sons of Banoui and the sons of Semei,"
+          },
+          {
+            "id": "v10-39",
+            "text": "10:39and Selemia, Nathan and Adaia,"
+          },
+          {
+            "id": "v10-40",
+            "text": "10:40Machnadabou, Sesi and Sarou,"
+          },
+          {
+            "id": "v10-41",
+            "text": "10:41Ezerel, Selemia and Samaria,"
+          },
+          {
+            "id": "v10-42",
+            "text": "10:42and Saloum, Amaria and Joseph."
+          },
+          {
+            "id": "v10-43",
+            "text": "10:43From the sons of Nabou: Iiel, Mathathia, Sedem, Zambina, Iadai, Ioel and Banaia."
+          },
+          {
+            "id": "v10-44",
+            "text": "10:44All these had taken foreign wives and had fathered sons from them."
+          }
+        ]
+      }
+    ],
+    "index": {
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/",
+      "edition": "Bespoke Saints English Translation · 10 chapters · Provisional editorial edition · 14 October 2026",
+      "editorialGuide": "Bespoke Saints English editorial guide",
+      "heading": "Ezra"
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "Whitespace and WordPress apostrophe typography only; visible verse numbers excluded."
+  },
+  "comparison_checks": [
+    {
+      "id": 3851,
+      "title": "Ezra — Hebrew, Aramaic and Greek compared",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/comparison-edition/",
+      "before_content_hash": "dc5b87207400fdd648a564d4e368fc291fd4bff5",
+      "after_content_hash": "dc5b87207400fdd648a564d4e368fc291fd4bff5",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 18876,
+      "title": "Ezra — Disparate Study",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/disparate-study/",
+      "before_content_hash": "9450502a63fbada5bf46e811446055f3043a65ab",
+      "after_content_hash": "9450502a63fbada5bf46e811446055f3043a65ab",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20704,
+      "title": "Ezra — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/vulgate-comparison/",
+      "before_content_hash": "2ca4f44a854b2c4648580ce13fe4dd9dbc67fd9d",
+      "after_content_hash": "2ca4f44a854b2c4648580ce13fe4dd9dbc67fd9d",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20705,
+      "title": "Ezra — King James Bible and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/kjv-comparison/",
+      "before_content_hash": "671df5ef6a93e2593a3338c9ad3c5361ad812c48",
+      "after_content_hash": "671df5ef6a93e2593a3338c9ad3c5361ad812c48",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 23467,
+      "title": "Ezra — Study Edition",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/ezra/study/",
+      "before_content_hash": "b56d4eeadeec728b6467f7e255f786b07be970cc",
+      "after_content_hash": "b56d4eeadeec728b6467f7e255f786b07be970cc",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 280,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 11 edited pages and 5 reference pages, plus 5 reference hash snapshots. All five reference pages were retrieved in full; their hashes were captured and remained unchanged. This is a book archive, not a full-site backup."
+}
