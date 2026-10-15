@@ -1,0 +1,709 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 53 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 3,
+    "reading_sections": 3,
+    "changed_verse_units": 22,
+    "source_scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "772c35d86ecacac5192d651ece5d4d0c3ce7f9a4d1255b04fd6ffb5e2223d4ff"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 18,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 15,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 20,
+      "changed": 10,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 3029,
+      "chapter": 1,
+      "modified": "2026-10-15T05:25:29",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "8577ad7cd6aadb5af61cdeb5bb4400ad95861258e22cc663d61961aca986d221"
+    },
+    {
+      "id": 3033,
+      "chapter": 2,
+      "modified": "2026-10-15T05:25:36",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "acb40057c3960648abd8577f55923030c91b7a5d8e5fa0f43779028f4e189dc4"
+    },
+    {
+      "id": 3036,
+      "chapter": 3,
+      "modified": "2026-10-15T05:25:42",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "526f52960eb94951defac0e701f326177a68d5d16b2dd3aa18d0c529651b234e"
+    },
+    {
+      "id": 3024,
+      "chapter": null,
+      "modified": "2026-10-15T05:25:47",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "030a92a731676943db48a4a7a6718fd0aa2c0788c0dce5f1185c2d9dc28660de"
+    }
+  ],
+  "browser_checks": {
+    "chapters": [
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/habakkuk/chapter-3/",
+            "label": "Previous chapter, Habakkuk 3",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-2/",
+            "label": "Next chapter, Zephaniah 2",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/habakkuk/chapter-3/",
+            "text": "← Habakkuk 3"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/",
+            "text": "Zephaniah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-2/",
+            "text": "Zephaniah 2 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/zephaniah/1/",
+            "text": "All 311 cross-references for Zephaniah 1, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v1-1",
+            "text": "1:1The word of the Lord that came to Zephaniah, son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in the days of Josiah son of Amon, king of Judah."
+          },
+          {
+            "id": "v1-2",
+            "text": "1:2Let everything utterly disappear from the face of the earth, says the Lord,"
+          },
+          {
+            "id": "v1-3",
+            "text": "1:3let humanity and livestock disappear, let birds of the sky and fish of the sea disappear, and I will remove people from the face of the earth, says the Lord."
+          },
+          {
+            "id": "v1-4",
+            "text": "1:4I will stretch My hand against Judah and all Jerusalem’s inhabitants, and remove from this place the names of Baal and the names of the priests,"
+          },
+          {
+            "id": "v1-5",
+            "text": "1:5those worshiping the army of heaven on rooftops, those swearing by the Lord and those swearing by their king,"
+          },
+          {
+            "id": "v1-6",
+            "text": "1:6those turning away from the Lord, those who did not seek the Lord and those who did not hold fast to the Lord."
+          },
+          {
+            "id": "v1-7",
+            "text": "1:7Revere the Lord God, for the Lord’s day is near. The Lord has prepared His sacrifice and consecrated His invited guests."
+          },
+          {
+            "id": "v1-8",
+            "text": "1:8On the day of the Lord’s sacrifice I will exact judgment upon the rulers, the king’s house and all wearing foreign clothes."
+          },
+          {
+            "id": "v1-9",
+            "text": "1:9On that day I will openly exact judgment upon everyone at the gateways, those filling the house of the Lord their God with impiety and deceit."
+          },
+          {
+            "id": "v1-10",
+            "text": "1:10On that day, says the Lord, there will be a cry from the gate of those who pierce, a wail from the second quarter and a great crashing from the hills."
+          },
+          {
+            "id": "v1-11",
+            "text": "1:11Lament, inhabitants of the battered place, for all the people of Canaan have been made alike; all exalted by silver have been destroyed."
+          },
+          {
+            "id": "v1-12",
+            "text": "1:12On that day I will search Jerusalem with a lamp and exact judgment upon men contemptuous about their safeguards, who say in their hearts, “The Lord will certainly do neither good nor harm.”"
+          },
+          {
+            "id": "v1-13",
+            "text": "1:13Their strength will become plunder and their houses destruction. They will build houses but certainly not inhabit them, plant vineyards but certainly not drink their wine."
+          },
+          {
+            "id": "v1-14",
+            "text": "1:14For the Lord’s great day is near, near and very swift. The sound of the Lord’s day is bitter and harsh; it is appointed mighty."
+          },
+          {
+            "id": "v1-15",
+            "text": "1:15That day is a day of wrath, a day of affliction and constraint, a day of untimely ruin and destruction, a day of darkness and gloom, a day of cloud and mist,"
+          },
+          {
+            "id": "v1-16",
+            "text": "1:16a day of trumpet and shouting against fortified cities and high corners."
+          },
+          {
+            "id": "v1-17",
+            "text": "1:17I will press people hard, and they will walk like the blind because they sinned against the Lord. He will pour out their blood like dust and their flesh like dung."
+          },
+          {
+            "id": "v1-18",
+            "text": "1:18Their silver and gold will certainly not rescue them on the day of the Lord’s wrath. In the fire of His jealousy all the earth will be consumed, for He will bring completion and haste upon all the earth’s inhabitants."
+          }
+        ],
+        "chapter": 1,
+        "section": 1,
+        "page_id": 3029,
+        "title": "Zephaniah 1",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-1/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 3,
+        "selected_chapter": "Zephaniah 1"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-1/",
+            "label": "Previous chapter, Zephaniah 1",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-3/",
+            "label": "Next chapter, Zephaniah 3",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-1/",
+            "text": "← Zephaniah 1"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/",
+            "text": "Zephaniah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-3/",
+            "text": "Zephaniah 3 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/zephaniah/2/",
+            "text": "All 249 cross-references for Zephaniah 2, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v2-1",
+            "text": "2:1Gather and bind yourselves together, O undisciplined nation,"
+          },
+          {
+            "id": "v2-2",
+            "text": "2:2before you become like a passing flower, before the Lord’s wrath comes upon you, before the day of the Lord’s fury comes upon you."
+          },
+          {
+            "id": "v2-3",
+            "text": "2:3Seek the Lord, all the humble of the earth; practice judgment, seek righteousness and answer these things, so that you may be sheltered on the day of the Lord’s wrath."
+          },
+          {
+            "id": "v2-4",
+            "text": "2:4For Gaza will be plundered and Ashkelon will disappear; Ashdod will be cast out at midday and Ekron uprooted."
+          },
+          {
+            "id": "v2-5",
+            "text": "2:5Woe to the seacoast’s inhabitants, sojourners of Cretans! The Lord’s word is against you, Canaan, land of foreigners: I will destroy you from your dwelling."
+          },
+          {
+            "id": "v2-6",
+            "text": "2:6Crete will become pasture for flocks and an enclosure for sheep,"
+          },
+          {
+            "id": "v2-7",
+            "text": "2:7and the seacoast will belong to the remnant of Judah’s house. They will graze upon them in Ashkelon’s houses; at evening they will lodge away from the sons of Judah, for the Lord their God has visited them and turned their captivity."
+          },
+          {
+            "id": "v2-8",
+            "text": "2:8I heard Moab’s reproaches and the Ammonites’ blows, with which they reproached My people and exalted themselves against My borders."
+          },
+          {
+            "id": "v2-9",
+            "text": "2:9Therefore, as I live, says the Lord of powers, the God of Israel, Moab will be like Sodom and the Ammonites like Gomorrah, and Damascus abandoned like a heap on a threshing floor and vanished forever. My people’s remnant will plunder them; My nation’s remnant will inherit them."
+          },
+          {
+            "id": "v2-10",
+            "text": "2:10This will be theirs for their arrogance, because they reproached and exalted themselves against the Lord Almighty."
+          },
+          {
+            "id": "v2-11",
+            "text": "2:11The Lord will appear against them and destroy all the gods of the nations of the earth. All the islands of the nations will worship Him, each from his place."
+          },
+          {
+            "id": "v2-12",
+            "text": "2:12You too, Ethiopians, are slain by My sword."
+          },
+          {
+            "id": "v2-13",
+            "text": "2:13He will stretch His hand against the north and destroy the Assyrian, making Nineveh a waterless wasteland like a wilderness."
+          },
+          {
+            "id": "v2-14",
+            "text": "2:14Flocks and all the wild animals of the earth will graze within her; chameleons and hedgehogs will lie in her recessed panels. Wild animals will cry in her openings, and ravens in her gateways, for cedar is her structure."
+          },
+          {
+            "id": "v2-15",
+            "text": "2:15This is the contemptuous city dwelling in confidence, saying in her heart, “I am, and there is no one after me.” How she became a wasteland, pasture for wild animals! Everyone passing through her will hiss and wave his hands."
+          }
+        ],
+        "chapter": 2,
+        "section": 2,
+        "page_id": 3033,
+        "title": "Zephaniah 2",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-2/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 3,
+        "selected_chapter": "Zephaniah 2"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-2/",
+            "label": "Previous chapter, Zephaniah 2",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-1/",
+            "label": "Next chapter, Haggai 1",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-2/",
+            "text": "← Zephaniah 2"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/",
+            "text": "Zephaniah: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/haggai/chapter-1/",
+            "text": "Haggai 1 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/zephaniah/3/",
+            "text": "All 459 cross-references for Zephaniah 3, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v3-1",
+            "text": "3:1O conspicuous and redeemed city, the dove-city!"
+          },
+          {
+            "id": "v3-2",
+            "text": "3:2She did not heed a voice or accept discipline; she did not trust the Lord or approach her God."
+          },
+          {
+            "id": "v3-3",
+            "text": "3:3Her rulers within her are like roaring lions; her judges are like Arabian wolves, leaving nothing for morning."
+          },
+          {
+            "id": "v3-4",
+            "text": "3:4Her prophets are bearers of a spirit, contemptuous men; her priests profane holy things and act impiously toward law."
+          },
+          {
+            "id": "v3-5",
+            "text": "3:5But the Lord is righteous within her and will certainly do no injustice. Morning by morning He will bring His judgment to light; He was not hidden and knew no injustice in exaction, nor injustice in strife."
+          },
+          {
+            "id": "v3-6",
+            "text": "3:6In destruction I tore down the proud; their corners vanished. I will make their roads utterly desolate, with no passing through; their cities failed because no one existed or dwelt there."
+          },
+          {
+            "id": "v3-7",
+            "text": "3:7I said, “Only fear Me and accept discipline, and you will certainly not be destroyed from her eyes,” with all I exacted upon her. Prepare, rise early! All their gleaning has been ruined."
+          },
+          {
+            "id": "v3-8",
+            "text": "3:8Therefore wait for Me, says the Lord, for the day of My rising for testimony. My judgment is for assemblies of nations, to receive kings and pour all My furious wrath upon them; for all the earth will be consumed in My jealous fire."
+          },
+          {
+            "id": "v3-9",
+            "text": "3:9For then I will change a tongue for peoples, for its generation, so that all call upon the Lord’s name and serve Him under one yoke."
+          },
+          {
+            "id": "v3-10",
+            "text": "3:10From the far reaches of Ethiopia’s rivers they will bring sacrifices to Me."
+          },
+          {
+            "id": "v3-11",
+            "text": "3:11On that day you will certainly not be ashamed of all the practices by which you acted impiously toward Me; then I will remove from you the contemptuous acts of your arrogance, and you will no longer boast upon My holy mountain."
+          },
+          {
+            "id": "v3-12",
+            "text": "3:12I will leave within you a meek and humble people, and they will revere the Lord’s name,"
+          },
+          {
+            "id": "v3-13",
+            "text": "3:13the remnant of Israel; they will do no injustice or speak vain things, and no deceitful tongue will be found in their mouth. For they will graze and lie down, and no one will frighten them."
+          },
+          {
+            "id": "v3-14",
+            "text": "3:14Rejoice greatly, daughter Zion! Proclaim, daughter Jerusalem! Be glad and delight with all your heart, daughter Jerusalem!"
+          },
+          {
+            "id": "v3-15",
+            "text": "3:15The Lord removed your wrongdoings and has redeemed you from your enemies’ hand. The Lord, King of Israel, is within you; you will see evils no more."
+          },
+          {
+            "id": "v3-16",
+            "text": "3:16At that time the Lord will say to Jerusalem, “Take courage, Zion; do not let your hands hang loose."
+          },
+          {
+            "id": "v3-17",
+            "text": "3:17The Lord your God is within you; mighty, He shall save you. He shall bring gladness upon you, and renew you in His love; and He shall rejoice over you with delight, as on a day of feasting.”"
+          },
+          {
+            "id": "v3-18",
+            "text": "3:18I will gather the crushed. Alas! Who took up reproach against her?"
+          },
+          {
+            "id": "v3-19",
+            "text": "3:19Look, I am acting within you for your sake at that time, says the Lord. I will save the oppressed and the rejected; I will receive them and make them a boast and renowned throughout the earth."
+          },
+          {
+            "id": "v3-20",
+            "text": "3:20They will be ashamed at that time, when I do good to you and when I receive you. I will make you renowned and a boast among all the earth’s peoples, when I turn your captivity before you, says the Lord."
+          }
+        ],
+        "chapter": 3,
+        "section": 3,
+        "page_id": 3036,
+        "title": "Zephaniah 3",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-3/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 3,
+        "selected_chapter": "Zephaniah 3"
+      }
+    ],
+    "index": {
+      "links": [
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-1/",
+          "text": "Chapter 1\nThe great Day of the Lord"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-2/",
+          "text": "Chapter 2\nJudgement on the nations"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-3/",
+          "text": "Chapter 3\nJerusalem judged and restored"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-1/#v1-14",
+          "text": "Zephaniah 1:14"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-2/#v2-3",
+          "text": "Zephaniah 2:3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-3/#v3-17",
+          "text": "Zephaniah 3:17"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/study/",
+          "text": "Open the Zephaniah study edition →"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/#saints-ref-1-1",
+          "text": "[1]"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/#",
+          "text": "Suggest a correction"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-1/",
+          "text": "Begin reading →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-1/",
+          "text": "1\nZephaniah 1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-2/",
+          "text": "2\nZephaniah 2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-3/",
+          "text": "3\nZephaniah 3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/comparison-edition/2/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/comparison-edition/2/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/comparison-edition/3/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/comparison-edition/4/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/comparison-edition/",
+          "text": "Jewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/vulgate-comparison/",
+          "text": "Catholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/kjv-comparison/",
+          "text": "Protestant King James Bible\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/kjv-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/kjv-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/kjv-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/comparison-edition/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/comparison-edition/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/comparison-edition/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/vulgate-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/vulgate-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/vulgate-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-1/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-2/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-3/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/editorial-guide/",
+          "text": "Read the editorial guide for Zephaniah →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/disparate-study/",
+          "text": "Zephaniah — Disparate Study"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-1/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-2/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-3/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-1/#v1-14",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-2/#v2-3",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-3/#v3-17",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/study/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/editorial-guide/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/disparate-study/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/#saints-ref-1-cite-1",
+          "text": "↑"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        }
+      ],
+      "text": "Zephaniah\n\nBespoke Saints English Translation · 3 chapters · Provisional editorial edition · 15 October 2026\n\nDraft for review. Only editors can see this introduction. Approve all introductions under Settings → Saints Study.\n\nINTRODUCTION\n\nIntroducing Zephaniah\n\nZephaniah announces the Day of the Lord as a day of judgement on Judah and the nations. It ends with the joyful promise that God will dwell among a humble, purified remnant.\n\nSETTING\nZephaniah addressed Jerusalem when idolatry was widespread, probably before or during Josiah’s reforms.\nAUTHOR\nAttributed to Zephaniah, a descendant of Hezekiah; scholars accept a core from him with some later editing.\nDATE\nDuring the reign of Josiah, c. 640–609 BC.\nOutline\nChapter 1\nThe great Day of the Lord\nChapter 2\nJudgement on the nations\nChapter 3\nJerusalem judged and restored\nKey passages\nZephaniah 1:14 — The great day is near\nZephaniah 2:3 — Seek humility\nZephaniah 3:17 — He will rejoice over you\nThemes\nThe Day of the Lord\nHumility\nA faithful remnant\nGod rejoicing over his people\nRead in the light of Christ\n\nThe medieval hymn ‘Dies irae’ took its opening from Zephaniah 1:15, and the call ‘Sing, daughter of Zion’ was read as fulfilled in the coming of Christ and in Mary.\n\nOpen the Zephaniah study edition →\n\nIntroduction by Saints.Bible · CC BY-SA 4.0[1] · Suggest a correction\n\nFind a chapter\n\n6 links. Choose a section to browse.\n\nREAD\nZephaniah · Reading\n3 chapters\nBegin reading →\n1\nZephaniah 1\n2\nZephaniah 2\n3\nZephaniah 3\nSTUDY\nZephaniah · Comparisons\n3 chapters and study sections\n\nCompare Zephaniah with the Saints Translation\n\nJewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison\nCatholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison\nProtestant King James Bible\nCompared with the Saints Translation\nOpen comparison\n\nGO STRAIGHT TO A CHAPTER\n\nKJV & Greek\n1\n2\n3\nHebrew & Greek\n1\n2\n3\nLatin Vulgate\n1\n2\n3\nSaints Translation: sources and study approach\n\nZephaniah contains three chapters in this Saints-priority English reading edition.\n\nEditorial guide\n\nRead the editorial guide for Zephaniah →\n\nCurrent Bespoke editorial guide\n\nAll 3 chapters, comprising 53 existing verse units, have received the Bespoke English editorial pass: 22 revised and 31 retained. Source-specific numbering, names, repetitions and verse anchors are preserved. The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.\n\nRahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending. All English verse units were individually reviewed, and the full displayed Greek running text was read chapter by chapter with focused comparison of the recorded features. This does not constitute exhaustive critical-text verification.\n\nThe newer Bespoke PDF governs this reading edition. Saints Translation literal-smooth and all comparison/study streams remain separate and unchanged. Notes are separated from Scripture. Earlier source and wording notes are historical records and may quote superseded wording or pronouns; the dated current Bespoke notes explain this revision. The earlier editorial guide remains linked as a historical reference and does not override the newer PDF.\n\nAll 53 verse units remain in their original order: 18, 15 and 20 per chapter. Images, repetitions, names, meaningful number and tense, verse anchors, historical notes and links remain intact. Damascus, the redeemed dove-city, the unusual exaction/strife clauses, one yoke, repeated daughter Jerusalem and renewal in His love retain their source-specific form. Historical comparison and study streams remain separate and unchanged; the newer Bespoke PDF governs where the older guide conflicts.\n\nZephaniah — Disparate Study\n\nRead both complete source readings before five commentary paragraphs for every Disparate entry in this book.\n\nExplore links from this page\nScripture\nFootnotes\n↑CC BY-SA 4.0 — creativecommons.org",
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "Whitespace and WordPress apostrophe typography only; visible verse numbers and preserved trailing footnote callouts excluded.",
+    "chapter_navigation": [
+      {
+        "text": "Zephaniah 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-1/"
+      },
+      {
+        "text": "Zephaniah 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-2/"
+      },
+      {
+        "text": "Zephaniah 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/chapter-3/"
+      }
+    ],
+    "visual_capture": "Every saved reading page received rendered DOM text and navigation checks. Screenshot capture was unavailable because the browser reported a zero-width viewport; no visual screenshot inspection is claimed for this book."
+  },
+  "comparison_checks": [
+    {
+      "id": 23787,
+      "title": "Zephaniah — Study Edition",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/study/",
+      "before_content_hash": "829063efd1412e5ed5e27d8540c8251d4a20473e",
+      "after_content_hash": "829063efd1412e5ed5e27d8540c8251d4a20473e",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20748,
+      "title": "Zephaniah — King James Bible and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/kjv-comparison/",
+      "before_content_hash": "0392922c6e5bf11f2c88f6cbc7de1cb835a494d8",
+      "after_content_hash": "0392922c6e5bf11f2c88f6cbc7de1cb835a494d8",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20747,
+      "title": "Zephaniah — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/vulgate-comparison/",
+      "before_content_hash": "f8f00862c40e4fdc87a32a79784c70366bdd36e1",
+      "after_content_hash": "f8f00862c40e4fdc87a32a79784c70366bdd36e1",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 18653,
+      "title": "Zephaniah — Disparate Study",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/disparate-study/",
+      "before_content_hash": "465da55881f76aedd7a1308ad77466e6b9481801",
+      "after_content_hash": "465da55881f76aedd7a1308ad77466e6b9481801",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3799,
+      "title": "Zephaniah — Hebrew and Greek compared",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/comparison-edition/",
+      "before_content_hash": "6d2db29d7ea99355aead618ee84f8be23aeb3459",
+      "after_content_hash": "6d2db29d7ea99355aead618ee84f8be23aeb3459",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3031,
+      "title": "Zephaniah — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zephaniah/editorial-guide/",
+      "before_content_hash": "3c8c523ea87bcd455f2bcaa5530dee162cef43bb",
+      "after_content_hash": "3c8c523ea87bcd455f2bcaa5530dee162cef43bb",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 53,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 4 edited pages and all 6 reference pages, plus 6 reference hash snapshots. This is a book archive, not a full-site backup."
+}

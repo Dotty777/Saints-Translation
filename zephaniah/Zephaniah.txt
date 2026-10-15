@@ -1,0 +1,67 @@
+ZEPHANIAH — BESPOKE SAINTS ENGLISH TRANSLATION
+15 October 2026
+Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.
+Plain text Scripture only. Separated editorial notes and unresolved readings are in editorial-notes.json, source-checks.json and the HTML reader.
+
+
+ZEPHANIAH 1
+
+1:1 The word of the Lord that came to Zephaniah, son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in the days of Josiah son of Amon, king of Judah.
+1:2 Let everything utterly disappear from the face of the earth, says the Lord,
+1:3 let humanity and livestock disappear, let birds of the sky and fish of the sea disappear, and I will remove people from the face of the earth, says the Lord.
+1:4 I will stretch My hand against Judah and all Jerusalem’s inhabitants, and remove from this place the names of Baal and the names of the priests,
+1:5 those worshiping the army of heaven on rooftops, those swearing by the Lord and those swearing by their king,
+1:6 those turning away from the Lord, those who did not seek the Lord and those who did not hold fast to the Lord.
+1:7 Revere the Lord God, for the Lord’s day is near. The Lord has prepared His sacrifice and consecrated His invited guests.
+1:8 On the day of the Lord’s sacrifice I will exact judgment upon the rulers, the king’s house and all wearing foreign clothes.
+1:9 On that day I will openly exact judgment upon everyone at the gateways, those filling the house of the Lord their God with impiety and deceit.
+1:10 On that day, says the Lord, there will be a cry from the gate of those who pierce, a wail from the second quarter and a great crashing from the hills.
+1:11 Lament, inhabitants of the battered place, for all the people of Canaan have been made alike; all exalted by silver have been destroyed.
+1:12 On that day I will search Jerusalem with a lamp and exact judgment upon men contemptuous about their safeguards, who say in their hearts, “The Lord will certainly do neither good nor harm.”
+1:13 Their strength will become plunder and their houses destruction. They will build houses but certainly not inhabit them, plant vineyards but certainly not drink their wine.
+1:14 For the Lord’s great day is near, near and very swift. The sound of the Lord’s day is bitter and harsh; it is appointed mighty.
+1:15 That day is a day of wrath, a day of affliction and constraint, a day of untimely ruin and destruction, a day of darkness and gloom, a day of cloud and mist,
+1:16 a day of trumpet and shouting against fortified cities and high corners.
+1:17 I will press people hard, and they will walk like the blind because they sinned against the Lord. He will pour out their blood like dust and their flesh like dung.
+1:18 Their silver and gold will certainly not rescue them on the day of the Lord’s wrath. In the fire of His jealousy all the earth will be consumed, for He will bring completion and haste upon all the earth’s inhabitants.
+
+ZEPHANIAH 2
+
+2:1 Gather and bind yourselves together, O undisciplined nation,
+2:2 before you become like a passing flower, before the Lord’s wrath comes upon you, before the day of the Lord’s fury comes upon you.
+2:3 Seek the Lord, all the humble of the earth; practice judgment, seek righteousness and answer these things, so that you may be sheltered on the day of the Lord’s wrath.
+2:4 For Gaza will be plundered and Ashkelon will disappear; Ashdod will be cast out at midday and Ekron uprooted.
+2:5 Woe to the seacoast’s inhabitants, sojourners of Cretans! The Lord’s word is against you, Canaan, land of foreigners: I will destroy you from your dwelling.
+2:6 Crete will become pasture for flocks and an enclosure for sheep,
+2:7 and the seacoast will belong to the remnant of Judah’s house. They will graze upon them in Ashkelon’s houses; at evening they will lodge away from the sons of Judah, for the Lord their God has visited them and turned their captivity.
+2:8 I heard Moab’s reproaches and the Ammonites’ blows, with which they reproached My people and exalted themselves against My borders.
+2:9 Therefore, as I live, says the Lord of powers, the God of Israel, Moab will be like Sodom and the Ammonites like Gomorrah, and Damascus abandoned like a heap on a threshing floor and vanished forever. My people’s remnant will plunder them; My nation’s remnant will inherit them.
+2:10 This will be theirs for their arrogance, because they reproached and exalted themselves against the Lord Almighty.
+2:11 The Lord will appear against them and destroy all the gods of the nations of the earth. All the islands of the nations will worship Him, each from his place.
+2:12 You too, Ethiopians, are slain by My sword.
+2:13 He will stretch His hand against the north and destroy the Assyrian, making Nineveh a waterless wasteland like a wilderness.
+2:14 Flocks and all the wild animals of the earth will graze within her; chameleons and hedgehogs will lie in her recessed panels. Wild animals will cry in her openings, and ravens in her gateways, for cedar is her structure.
+2:15 This is the contemptuous city dwelling in confidence, saying in her heart, “I am, and there is no one after me.” How she became a wasteland, pasture for wild animals! Everyone passing through her will hiss and wave his hands.
+
+ZEPHANIAH 3
+
+3:1 O conspicuous and redeemed city, the dove-city!
+3:2 She did not heed a voice or accept discipline; she did not trust the Lord or approach her God.
+3:3 Her rulers within her are like roaring lions; her judges are like Arabian wolves, leaving nothing for morning.
+3:4 Her prophets are bearers of a spirit, contemptuous men; her priests profane holy things and act impiously toward law.
+3:5 But the Lord is righteous within her and will certainly do no injustice. Morning by morning He will bring His judgment to light; He was not hidden and knew no injustice in exaction, nor injustice in strife.
+3:6 In destruction I tore down the proud; their corners vanished. I will make their roads utterly desolate, with no passing through; their cities failed because no one existed or dwelt there.
+3:7 I said, “Only fear Me and accept discipline, and you will certainly not be destroyed from her eyes,” with all I exacted upon her. Prepare, rise early! All their gleaning has been ruined.
+3:8 Therefore wait for Me, says the Lord, for the day of My rising for testimony. My judgment is for assemblies of nations, to receive kings and pour all My furious wrath upon them; for all the earth will be consumed in My jealous fire.
+3:9 For then I will change a tongue for peoples, for its generation, so that all call upon the Lord’s name and serve Him under one yoke.
+3:10 From the far reaches of Ethiopia’s rivers they will bring sacrifices to Me.
+3:11 On that day you will certainly not be ashamed of all the practices by which you acted impiously toward Me; then I will remove from you the contemptuous acts of your arrogance, and you will no longer boast upon My holy mountain.
+3:12 I will leave within you a meek and humble people, and they will revere the Lord’s name,
+3:13 the remnant of Israel; they will do no injustice or speak vain things, and no deceitful tongue will be found in their mouth. For they will graze and lie down, and no one will frighten them.
+3:14 Rejoice greatly, daughter Zion! Proclaim, daughter Jerusalem! Be glad and delight with all your heart, daughter Jerusalem!
+3:15 The Lord removed your wrongdoings and has redeemed you from your enemies’ hand. The Lord, King of Israel, is within you; you will see evils no more.
+3:16 At that time the Lord will say to Jerusalem, “Take courage, Zion; do not let your hands hang loose.
+3:17 The Lord your God is within you; mighty, He shall save you. He shall bring gladness upon you, and renew you in His love; and He shall rejoice over you with delight, as on a day of feasting.”
+3:18 I will gather the crushed. Alas! Who took up reproach against her?
+3:19 Look, I am acting within you for your sake at that time, says the Lord. I will save the oppressed and the rejected; I will receive them and make them a boast and renowned throughout the earth.
+3:20 They will be ashamed at that time, when I do good to you and when I receive you. I will make you renowned and a boast among all the earth’s peoples, when I turn your captivity before you, says the Lord.

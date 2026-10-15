@@ -1,0 +1,34 @@
+{
+  "book": "Zephaniah",
+  "date": "2026-10-15",
+  "edition": "Rahlfs–Hanhart 2006; German Bible Society online running text",
+  "authorization": "User authorized provisional continuation with Rahlfs–Hanhart; Göttingen not obtained.",
+  "scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+  "historical_records": "Existing index and reference records were consulted as historical reference, not proof of fresh complete Greek verification.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "url": "https://www.die-bibel.de/en/bible/LXX/ZEP.1",
+      "focus": "Ordinary third-person says and has replace obsolete forms; the perfect preparation and consecration remain. The repeated disappear, names, army of heaven, openly, the singular lamp, repeated near and day clauses, appointed mighty, third-person He pouring blood and flesh, and completion and haste are retained. No explanatory worship-versus-social-violence reading is inserted at 1:9.",
+      "decision": "Ordinary third-person says and has replace obsolete forms; the perfect preparation and consecration remain. The repeated disappear, names, army of heaven, openly, the singular lamp, repeated near and day clauses, appointed mighty, third-person He pouring blood and flesh, and completion and haste are retained. No explanatory worship-versus-social-violence reading is inserted at 1:9.",
+      "running_text_read": "The publisher’s full displayed Greek running text was read through web retrieval for this chapter, with focused comparison of the recorded features. No printed-apparatus or manuscript collation.",
+      "pending": "Review appointed mighty, safeguards, the battered place and the interpretation of the Lord’s house at 1:9. Independent Greek, Göttingen/apparatus and human read-aloud reviews remain pending."
+    },
+    {
+      "chapter": 2,
+      "url": "https://www.die-bibel.de/en/bible/LXX/ZEP.2",
+      "focus": "Ordinary address uses you and verbs use comes, says and has. Ashkelon will disappear makes the shared future explicit; waterless wasteland and a wasteland express the ruined place naturally at 2:13 and 2:15. The passing flower, seek repetitions, answer these things, possibility of shelter, Cretans/Crete, has visited, away from the sons of Judah, Damascus, distinct Lord of powers/Almighty, islands, Ethiopians, chameleons, hedgehogs and cedar are retained.",
+      "decision": "Ordinary address uses you and verbs use comes, says and has. Ashkelon will disappear makes the shared future explicit; waterless wasteland and a wasteland express the ruined place naturally at 2:13 and 2:15. The passing flower, seek repetitions, answer these things, possibility of shelter, Cretans/Crete, has visited, away from the sons of Judah, Damascus, distinct Lord of powers/Almighty, islands, Ethiopians, chameleons, hedgehogs and cedar are retained.",
+      "running_text_read": "The publisher’s full displayed Greek running text was read through web retrieval for this chapter, with focused comparison of the recorded features. No printed-apparatus or manuscript collation.",
+      "pending": "Review passing flower, the lodging clause, Damascus, animal identifications and ruin imagery. Independent Greek, Göttingen/apparatus and human read-aloud reviews remain pending."
+    },
+    {
+      "chapter": 3,
+      "url": "https://www.die-bibel.de/en/bible/LXX/ZEP.3",
+      "focus": "Ordinary address to the city uses you/your; third-person reporting uses says and has. Removed remains past while has redeemed makes the perfect explicit at 3:15. Conspicuous and redeemed dove-city, Arabian wolves, spirit bearers, the unusual exaction/strife clauses, number changes in 3:7, tongue for its generation and one yoke, repeated daughter Jerusalem, renew in His love and the feast in 3:17, the crushed and Alas, and the they/you distinction at 3:20 remain. The remnant clause at 3:13 still continues 3:12.",
+      "decision": "Ordinary address to the city uses you/your; third-person reporting uses says and has. Removed remains past while has redeemed makes the perfect explicit at 3:15. Conspicuous and redeemed dove-city, Arabian wolves, spirit bearers, the unusual exaction/strife clauses, number changes in 3:7, tongue for its generation and one yoke, repeated daughter Jerusalem, renew in His love and the feast in 3:17, the crushed and Alas, and the they/you distinction at 3:20 remain. The remnant clause at 3:13 still continues 3:12.",
+      "running_text_read": "The publisher’s full displayed Greek running text was read through web retrieval for this chapter, with focused comparison of the recorded features. No printed-apparatus or manuscript collation.",
+      "pending": "Review redeemed dove-city, spirit bearers, the exaction/strife clauses, number and pronoun shifts, tongue for its generation, renew and the crushed. Independent Greek, Göttingen/apparatus and human read-aloud reviews remain pending."
+    }
+  ]
+}
