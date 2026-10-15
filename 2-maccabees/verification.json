@@ -1,0 +1,3862 @@
+{
+  "editorial_review": {
+    "date": "2026-10-14",
+    "status": "All 555 existing English verse units individually read and editorially reviewed; approved as a provisional staging revision.",
+    "chapters": 15,
+    "changed_verse_units": 75,
+    "source_scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "d4fda3a7aff71ecca63b772ab193ee49589b09d8ec67b91c1496761ce47c81a5"
+  },
+  "preflight": [
+    {
+      "chapter": 1,
+      "verse_units": 36,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 2,
+      "verse_units": 32,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 3,
+      "verse_units": 40,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 4,
+      "verse_units": 50,
+      "changed": 2,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 5,
+      "verse_units": 27,
+      "changed": 0,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 6,
+      "verse_units": 31,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 7,
+      "verse_units": 42,
+      "changed": 23,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 8,
+      "verse_units": 36,
+      "changed": 0,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 9,
+      "verse_units": 29,
+      "changed": 1,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 10,
+      "verse_units": 38,
+      "changed": 0,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 11,
+      "verse_units": 38,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 12,
+      "verse_units": 45,
+      "changed": 2,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 13,
+      "verse_units": 26,
+      "changed": 0,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 14,
+      "verse_units": 46,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "chapter": 15,
+      "verse_units": 39,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 2428,
+      "chapter": 1,
+      "modified": "2026-10-14T18:14:07",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "2fcf3c9f4db70f0632bf443bf29ef243d11d89e8f3fd9e1084ed92f9896de10d"
+    },
+    {
+      "id": 2429,
+      "chapter": 2,
+      "modified": "2026-10-14T18:14:22",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "5bd1f2443f584bea5427785d892c7bd4b57b760c8e9e5317eb6565d6e22c0cf8"
+    },
+    {
+      "id": 2427,
+      "chapter": 3,
+      "modified": "2026-10-14T18:14:35",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "8030614d3f7e23302458a325375dc8e7241907bd7389e3c364d28d189cbf9dd9"
+    },
+    {
+      "id": 2430,
+      "chapter": 4,
+      "modified": "2026-10-14T18:14:50",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "9c5d0384d52e439f67de12c5e0255d6bdae76c590d3f0d9c35c4951202e301f4"
+    },
+    {
+      "id": 2431,
+      "chapter": 5,
+      "modified": "2026-10-14T18:15:19",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "4aad4ab9208edf60c08d2a5844431ee05578dd98c16ca103f19e63c2c8b573fd"
+    },
+    {
+      "id": 2432,
+      "chapter": 6,
+      "modified": "2026-10-14T18:15:33",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "d601aad219813ee7bc9b9abba363b64c3a152da54079d6558d85f6007cf483cf"
+    },
+    {
+      "id": 2433,
+      "chapter": 7,
+      "modified": "2026-10-14T18:15:47",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "3c2e50f81bd6d504631ca6ca5a17b86b2996a732398db908bd45e29b90be257a"
+    },
+    {
+      "id": 2434,
+      "chapter": 8,
+      "modified": "2026-10-14T18:16:01",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "35ea6a606810ecfe7410d6996ac9008023c4adcf8996c21cf9a0692c53382c6a"
+    },
+    {
+      "id": 2436,
+      "chapter": 9,
+      "modified": "2026-10-14T18:16:30",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "e87e34876980a5f71b1f3b28c10c8def469151e3a94d15081ec15aad3d4b2843"
+    },
+    {
+      "id": 2435,
+      "chapter": 10,
+      "modified": "2026-10-14T18:16:43",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "0096e7e5793c9494110b73b7077d31ddda2a80e079278ff35a608357988ec5ff"
+    },
+    {
+      "id": 2437,
+      "chapter": 11,
+      "modified": "2026-10-14T18:16:57",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "07730243543059813f181bb7a5385474715b97c48c071c8e1c4b04cad0d42e64"
+    },
+    {
+      "id": 2438,
+      "chapter": 12,
+      "modified": "2026-10-14T18:17:09",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "2b8741c31084f2a762a86859f91f993e9bdf66af1f8158491fc517d7bd9c2c9a"
+    },
+    {
+      "id": 2441,
+      "chapter": 13,
+      "modified": "2026-10-14T18:17:59",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "e210848fae164a7da8b61fda52861e2315887be214c75c4d3085c04b76e9fbc8"
+    },
+    {
+      "id": 2442,
+      "chapter": 14,
+      "modified": "2026-10-14T18:18:12",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "87e8498a42d570c61fe9d7ab4c9170fc20f28604aac315e095a07bbb0ebbaaa8"
+    },
+    {
+      "id": 2440,
+      "chapter": 15,
+      "modified": "2026-10-14T18:18:25",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "11ed45e4cee67284a8d1e8e18f034d43699b283796a9665aca1c43e9f8916587"
+    },
+    {
+      "id": 2424,
+      "chapter": 0,
+      "modified": "2026-10-14T18:18:37",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "975b6207a73976b4197714fd1a6d2860e8c1a3a0c606c9c9807e109bd3ed8839"
+    }
+  ],
+  "browser_checks": {
+    "book": "2 Maccabees",
+    "chapters": [
+      {
+        "chapter": 1,
+        "chapterOptions": [
+          {
+            "selected": true,
+            "text": "2 Maccabees 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-10/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 11",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-11/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 12",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-12/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 13",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-13/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 14",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-14/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 15",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-15/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "2 Maccabees 1",
+        "verses": [
+          {
+            "id": "v1-1",
+            "text": "1:1To the brothers, the Jews throughout Egypt: greetings from the brothers, the Jews in Jerusalem and in the land of Judea, and good peace."
+          },
+          {
+            "id": "v1-2",
+            "text": "1:2May God do good to you and remember His covenant with Abraham, Isaac and Jacob, His faithful servants."
+          },
+          {
+            "id": "v1-3",
+            "text": "1:3May He give you all a heart to revere Him and do His wishes with a generous heart and a willing soul."
+          },
+          {
+            "id": "v1-4",
+            "text": "1:4May He open your heart to His law and His ordinances, and make peace."
+          },
+          {
+            "id": "v1-5",
+            "text": "1:5May He hear your petitions, be reconciled to you, and not abandon you in an evil time."
+          },
+          {
+            "id": "v1-6",
+            "text": "1:6And now we are here praying for you."
+          },
+          {
+            "id": "v1-7",
+            "text": "1:7In the reign of Demetrius, in the one hundred sixty-ninth year, we Jews wrote to you in the affliction and the crisis that came upon us in those years, from the time Jason and those with him revolted from the holy land and the kingdom."
+          },
+          {
+            "id": "v1-8",
+            "text": "1:8They burned the gateway and poured out innocent blood. We petitioned the Lord and were heard; we offered sacrifice and fine flour, lit the lamps, and set out the loaves."
+          },
+          {
+            "id": "v1-9",
+            "text": "1:9And now, see that you observe the days of the Festival of Booths in the month of Chislev. In the one hundred eighty-eighth year."
+          },
+          {
+            "id": "v1-10",
+            "text": "1:10Those in Jerusalem and those in Judea, the council of elders and Judas, to Aristobulus, teacher of King Ptolemy and a member of the family of the anointed priests, and to the Jews in Egypt: greetings and good health."
+          },
+          {
+            "id": "v1-11",
+            "text": "1:11Saved by God from great dangers, we give Him great thanks, as those drawn up against a king;"
+          },
+          {
+            "id": "v1-12",
+            "text": "1:12for He Himself drove out those arrayed against us in the holy city."
+          },
+          {
+            "id": "v1-13",
+            "text": "1:13For when the ruler came to Persia with his force, which seemed irresistible, they were cut down in the temple of Nanea, the priests of Nanea having used a deception."
+          },
+          {
+            "id": "v1-14",
+            "text": "1:14Antiochus and the friends with him came to the place as though he were to marry her, in order to take the greater part of the money as a dowry."
+          },
+          {
+            "id": "v1-15",
+            "text": "1:15The priests of Nanea’s temple laid it out, and he entered the enclosure of the sacred precinct with a few men. Once Antiochus had gone inside, they shut the temple."
+          },
+          {
+            "id": "v1-16",
+            "text": "1:16Opening the concealed door in the coffered ceiling, they hurled stones and struck the ruler down. They cut them into pieces, removed their heads, and threw them to those outside."
+          },
+          {
+            "id": "v1-17",
+            "text": "1:17Blessed in every way is our God, who handed over those who acted impiously."
+          },
+          {
+            "id": "v1-18",
+            "text": "1:18As we are about to observe the purification of the temple on the twenty-fifth of Chislev, we thought it necessary to explain this to you, so that you yourselves may observe the festival of booths and of the fire, when Nehemiah, who rebuilt the temple and the altar, offered sacrifices."
+          },
+          {
+            "id": "v1-19",
+            "text": "1:19For when our fathers were being taken to Persia, the devout priests of that time secretly took some of the altar’s fire and hid it in the hollow of a well-like place without water. They secured it there so that the place was unknown to everyone."
+          },
+          {
+            "id": "v1-20",
+            "text": "1:20After many years had passed, when it pleased God, Nehemiah was sent by the king of Persia. He sent the descendants of the priests who had hidden it to fetch the fire. When they reported to us that they had found no fire but thick water, he ordered them to draw some and bring it."
+          },
+          {
+            "id": "v1-21",
+            "text": "1:21When the sacrificial materials had been brought up, Nehemiah ordered the priests to sprinkle the water on the wood and on what lay upon it."
+          },
+          {
+            "id": "v1-22",
+            "text": "1:22When this was done and some time had passed, the sun, previously hidden by clouds, shone out. A great fire was kindled, so that everyone marveled."
+          },
+          {
+            "id": "v1-23",
+            "text": "1:23While the sacrifice was being consumed, the priests offered prayer—the priests and everyone—with Jonathan beginning and the others responding, as Nehemiah did."
+          },
+          {
+            "id": "v1-24",
+            "text": "1:24The prayer was in this form: “Lord, Lord God, Creator of all, fearsome, strong, righteous and merciful, the only King and good,"
+          },
+          {
+            "id": "v1-25",
+            "text": "1:25the only Provider, the only righteous One, Almighty and eternal, who dost preserve Israel from every evil, who didst choose the fathers and sanctify them,"
+          },
+          {
+            "id": "v1-26",
+            "text": "1:26accept the sacrifice on behalf of all Thy people Israel. Protect Thy portion and make it holy."
+          },
+          {
+            "id": "v1-27",
+            "text": "1:27Gather our scattered people together. Free those enslaved among the nations. Look upon the despised and abhorred, and let the nations know that Thou art our God."
+          },
+          {
+            "id": "v1-28",
+            "text": "1:28Torment those who oppress us and outrage us in arrogance."
+          },
+          {
+            "id": "v1-29",
+            "text": "1:29Plant Thy people in Thy holy place, as Moses said.”"
+          },
+          {
+            "id": "v1-30",
+            "text": "1:30The priests sang the hymns in response."
+          },
+          {
+            "id": "v1-31",
+            "text": "1:31When the sacrificial materials had been consumed, Nehemiah ordered that the remaining water also be poured over larger stones."
+          },
+          {
+            "id": "v1-32",
+            "text": "1:32When this was done, a flame was kindled, but it was consumed by the light shining back from the altar."
+          },
+          {
+            "id": "v1-33",
+            "text": "1:33When the matter became known, the king of the Persians was informed that water had appeared in the place where the deported priests had hidden the fire, and that Nehemiah and his companions had purified the sacrificial materials with it."
+          },
+          {
+            "id": "v1-34",
+            "text": "1:34The king fenced off the place and made it sacred, after examining the matter."
+          },
+          {
+            "id": "v1-35",
+            "text": "1:35The king received many different revenues and shared them with those whom he favoured."
+          },
+          {
+            "id": "v1-36",
+            "text": "1:36Nehemiah and his companions called this “Nephthar,” which is interpreted “purification”; but most people call it “Nephthai.”"
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "2 Maccabees 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-1/"
+          },
+          {
+            "selected": true,
+            "text": "2 Maccabees 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-10/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 11",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-11/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 12",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-12/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 13",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-13/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 14",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-14/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 15",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-15/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "2 Maccabees 2",
+        "verses": [
+          {
+            "id": "v2-1",
+            "text": "2:1In the records it is found that Jeremiah the prophet ordered those who were being deported to take some of the fire, as has been indicated,"
+          },
+          {
+            "id": "v2-2",
+            "text": "2:2and that the prophet, after giving the law to those being deported, commanded them not to forget the Lord’s ordinances, nor to go astray in their thoughts when they saw gold and silver statues and the adornment surrounding them."
+          },
+          {
+            "id": "v2-3",
+            "text": "2:3Saying these and other such things, he urged them not to let the law depart from their heart."
+          },
+          {
+            "id": "v2-4",
+            "text": "2:4It was also in the writing that, after receiving an oracle, the prophet ordered the tent and the ark to accompany him, as he went out to the mountain where Moses had gone up and viewed God’s inheritance."
+          },
+          {
+            "id": "v2-5",
+            "text": "2:5Jeremiah arrived and found a cave-like chamber. He brought the tent, the ark and the altar of incense inside, and blocked the entrance."
+          },
+          {
+            "id": "v2-6",
+            "text": "2:6Some of his companions came to mark the way, but could not find it."
+          },
+          {
+            "id": "v2-7",
+            "text": "2:7When Jeremiah learned this, he rebuked them and said, “The place will remain unknown until God gathers His people together and becomes merciful."
+          },
+          {
+            "id": "v2-8",
+            "text": "2:8Then the Lord will reveal these things, and the Lord’s glory and the cloud will appear, as they were shown in the time of Moses, and as Solomon also prayed that the place might be greatly sanctified.”"
+          },
+          {
+            "id": "v2-9",
+            "text": "2:9It was also explained how, being wise, Solomon offered a sacrifice for the dedication and completion of the temple."
+          },
+          {
+            "id": "v2-10",
+            "text": "2:10Just as Moses prayed to the Lord, and fire came down from heaven and consumed the sacrificial materials, so Solomon also prayed, and the fire came down and consumed the whole burnt offerings."
+          },
+          {
+            "id": "v2-11",
+            "text": "2:11Moses said, “Because the sin offering was not eaten, it was consumed.”"
+          },
+          {
+            "id": "v2-12",
+            "text": "2:12In the same way Solomon also observed the eight days."
+          },
+          {
+            "id": "v2-13",
+            "text": "2:13These same things were related in the records and in the memoirs concerning Nehemiah, and also how, in establishing a library, he gathered together the books concerning the kings and prophets, the writings of David, and kings’ letters concerning dedicated gifts."
+          },
+          {
+            "id": "v2-14",
+            "text": "2:14In the same way Judas also gathered all the writings that had been scattered because of the war that befell us, and they are with us."
+          },
+          {
+            "id": "v2-15",
+            "text": "2:15Therefore, if you need any of them, send people to bring them to you."
+          },
+          {
+            "id": "v2-16",
+            "text": "2:16As we are about to observe the purification, we have written to you. You will do well, then, to observe the days."
+          },
+          {
+            "id": "v2-17",
+            "text": "2:17Now God, who saved all His people and restored to all the inheritance, the kingship, the priesthood and the sanctification,"
+          },
+          {
+            "id": "v2-18",
+            "text": "2:18as He promised through the law—for we hope in God that He will soon have mercy on us and gather us from under heaven into the holy place, for He rescued us from great evils and purified the place."
+          },
+          {
+            "id": "v2-19",
+            "text": "2:19The events concerning Judas Maccabeus and his brothers, the purification of the greatest temple and the dedication of the altar,"
+          },
+          {
+            "id": "v2-20",
+            "text": "2:20and also the wars against Antiochus Epiphanes and his son Eupator,"
+          },
+          {
+            "id": "v2-21",
+            "text": "2:21and the manifestations from heaven to those who zealously performed brave deeds for Judaism, so that, although few, they plundered the whole land and pursued the barbarian multitudes,"
+          },
+          {
+            "id": "v2-22",
+            "text": "2:22recovered the temple renowned throughout the inhabited world, freed the city, and restored the laws that were about to be abolished, the Lord having become merciful to them with all gentleness—"
+          },
+          {
+            "id": "v2-23",
+            "text": "2:23these things, set forth by Jason of Cyrene in five books, we shall attempt to abridge into one composition."
+          },
+          {
+            "id": "v2-24",
+            "text": "2:24For, seeing the abundance of figures and the difficulty caused by the mass of material for those who wish to enter into the narratives of the history,"
+          },
+          {
+            "id": "v2-25",
+            "text": "2:25we have taken thought for the pleasure of those who wish to read, for the ease of those eager to commit it to memory, and for the benefit of everyone who encounters it."
+          },
+          {
+            "id": "v2-26",
+            "text": "2:26For us who have undertaken the hard work of abridgement, the task is not easy; it involves sweat and sleeplessness."
+          },
+          {
+            "id": "v2-27",
+            "text": "2:27Just as it is not easy for someone preparing a banquet and seeking others’ benefit, nevertheless, for the gratitude of the many, we will gladly bear the hard work."
+          },
+          {
+            "id": "v2-28",
+            "text": "2:28We leave the precise treatment of each matter to the historian, while labouring to follow the outlines of the abridgement."
+          },
+          {
+            "id": "v2-29",
+            "text": "2:29For just as the architect of a new house must consider its whole foundation, while the person undertaking its encaustic work and painting must examine what is suitable for decoration, so, I think, it is with us."
+          },
+          {
+            "id": "v2-30",
+            "text": "2:30To enter deeply into matters, range widely in the discussion, and investigate the particulars belongs to the original historian."
+          },
+          {
+            "id": "v2-31",
+            "text": "2:31But the person making a recasting should be permitted to pursue concise expression and set aside an exhaustive treatment of the subject."
+          },
+          {
+            "id": "v2-32",
+            "text": "2:32Let us therefore begin the narrative here, adding only this much to what has already been said: it would be foolish to expand the preface to the history while abridging the history itself."
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "2 Maccabees 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-2/"
+          },
+          {
+            "selected": true,
+            "text": "2 Maccabees 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-10/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 11",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-11/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 12",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-12/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 13",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-13/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 14",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-14/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 15",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-15/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "2 Maccabees 3",
+        "verses": [
+          {
+            "id": "v3-1",
+            "text": "3:1While the holy city was inhabited in complete peace and the laws were being kept most carefully because of the high priest Onias’s piety and hatred of wickedness,"
+          },
+          {
+            "id": "v3-2",
+            "text": "3:2even the kings themselves honoured the place and glorified the temple with their finest gifts,"
+          },
+          {
+            "id": "v3-3",
+            "text": "3:3so that Seleucus, king of Asia, also supplied from his own revenues all the expenses required for the service of the sacrifices."
+          },
+          {
+            "id": "v3-4",
+            "text": "3:4But a certain Simon, of the tribe of Benjamin, who had been appointed overseer of the temple, disagreed with the high priest over the administration of the city’s market."
+          },
+          {
+            "id": "v3-5",
+            "text": "3:5Unable to overcome Onias, he went to Apollonius son of Thraseas, who at that time was governor of Coele-Syria and Phoenicia."
+          },
+          {
+            "id": "v3-6",
+            "text": "3:6He reported that the treasury in Jerusalem was full of indescribable riches, so that the amount of money was beyond counting, and that it did not belong to the account for the sacrifices; these funds, he said, could fall under the king’s authority."
+          },
+          {
+            "id": "v3-7",
+            "text": "3:7Apollonius met the king and informed him about the money reported to him. The king chose Heliodorus, his chief minister, and sent him with orders to remove that money."
+          },
+          {
+            "id": "v3-8",
+            "text": "3:8Heliodorus immediately began his journey, ostensibly to inspect the cities of Coele-Syria and Phoenicia, but actually to carry out the king’s intention."
+          },
+          {
+            "id": "v3-9",
+            "text": "3:9When he arrived in Jerusalem and was cordially received by the city’s high priest, he related the information that had been given and explained why he was there. He asked whether these things were really so."
+          },
+          {
+            "id": "v3-10",
+            "text": "3:10The high priest explained that they were deposits belonging to widows and orphans,"
+          },
+          {
+            "id": "v3-11",
+            "text": "3:11and that some also belonged to Hyrcanus son of Tobias, a man of very high standing. Thus the impious Simon had misrepresented matters. In all there were four hundred talents of silver and two hundred of gold."
+          },
+          {
+            "id": "v3-12",
+            "text": "3:12It was utterly impossible, he said, that those who had trusted in the holiness of the place and in the dignity and inviolability of the temple honoured throughout the whole world should suffer injustice."
+          },
+          {
+            "id": "v3-13",
+            "text": "3:13But Heliodorus, because of his royal instructions, insisted that the money must certainly be taken into the royal treasury."
+          },
+          {
+            "id": "v3-14",
+            "text": "3:14He appointed a day and went in to arrange the inspection of these things. There was no small anguish throughout the city."
+          },
+          {
+            "id": "v3-15",
+            "text": "3:15The priests threw themselves down before the altar in their priestly robes, calling to heaven upon the One who had legislated about deposits, that He would keep them safe for those who had entrusted them."
+          },
+          {
+            "id": "v3-16",
+            "text": "3:16Whoever saw the high priest’s appearance was wounded in mind, for his face and altered complexion revealed his soul’s anguish."
+          },
+          {
+            "id": "v3-17",
+            "text": "3:17Dread and bodily shuddering had come over the man, making the pain lodged in his heart plain to those who looked at him."
+          },
+          {
+            "id": "v3-18",
+            "text": "3:18People also rushed out of their houses in crowds for a public supplication, because the place was about to be treated with contempt."
+          },
+          {
+            "id": "v3-19",
+            "text": "3:19Women, girded with sackcloth beneath their breasts, thronged the streets. Of the secluded virgins, some ran together to the gateways, some to the walls, and others leaned out through the windows."
+          },
+          {
+            "id": "v3-20",
+            "text": "3:20All of them stretched their hands toward heaven and offered their entreaty."
+          },
+          {
+            "id": "v3-21",
+            "text": "3:21It was pitiful to see the mingled multitude falling prostrate, and the high priest waiting in great anguish."
+          },
+          {
+            "id": "v3-22",
+            "text": "3:22So they called on the all-powerful Lord to keep the entrusted property safe and fully secure for those who had entrusted it."
+          },
+          {
+            "id": "v3-23",
+            "text": "3:23Heliodorus, however, was carrying out his decision."
+          },
+          {
+            "id": "v3-24",
+            "text": "3:24When he was already there at the treasury with his bodyguards, the Sovereign of spirits and of all authority made a great manifestation. All who had dared accompany him were struck with awe at God’s power and were overcome by faintness and cowardice."
+          },
+          {
+            "id": "v3-25",
+            "text": "3:25For there appeared to them a horse with a fearsome rider, adorned with the finest harness. Rushing forcefully forward, it struck at Heliodorus with its forehooves; its rider appeared to wear a full suit of golden armour."
+          },
+          {
+            "id": "v3-26",
+            "text": "3:26Two other young men appeared to him, remarkable in strength, most beautiful in glory, and splendid in clothing. They stood on either side of him and flogged him without ceasing, raining many blows upon him."
+          },
+          {
+            "id": "v3-27",
+            "text": "3:27He suddenly fell to the ground, and deep darkness enveloped him. They picked him up and placed him on a litter."
+          },
+          {
+            "id": "v3-28",
+            "text": "3:28The man who had just entered that treasury with a large retinue and all his bodyguard was carried out, unable to help himself. They plainly recognized God’s sovereignty."
+          },
+          {
+            "id": "v3-29",
+            "text": "3:29Through the divine action he lay speechless, deprived of every hope and means of deliverance."
+          },
+          {
+            "id": "v3-30",
+            "text": "3:30But they blessed the Lord, who had wonderfully honoured His own place. The temple that a little earlier had been full of dread and turmoil was filled with joy and gladness when the Almighty Lord appeared."
+          },
+          {
+            "id": "v3-31",
+            "text": "3:31Some of Heliodorus’s companions quickly begged Onias to call upon the Most High to grant life to the man who lay at his last breath."
+          },
+          {
+            "id": "v3-32",
+            "text": "3:32The high priest, fearing that the king might form the opinion that the Jews had perpetrated some wrongdoing against Heliodorus, offered a sacrifice for the man’s deliverance."
+          },
+          {
+            "id": "v3-33",
+            "text": "3:33While the high priest was making propitiation, the same young men again appeared to Heliodorus, clothed in the same garments. They stood and said, “Give many thanks to Onias the high priest, for it is because of him that the Lord has granted you life."
+          },
+          {
+            "id": "v3-34",
+            "text": "3:34You, having been scourged from heaven, proclaim to everyone God’s majestic might.” Having said this, they became invisible."
+          },
+          {
+            "id": "v3-35",
+            "text": "3:35Heliodorus offered a sacrifice to the Lord and made very great vows to the One who had preserved his life. He warmly took leave of Onias and departed with his company to the king."
+          },
+          {
+            "id": "v3-36",
+            "text": "3:36He bore witness to everyone about the deeds of the greatest God that he had seen with his own eyes."
+          },
+          {
+            "id": "v3-37",
+            "text": "3:37When the king asked Heliodorus what sort of person would be suitable to send once more to Jerusalem, he said,"
+          },
+          {
+            "id": "v3-38",
+            "text": "3:38“If you have an enemy or someone plotting against your government, send him there. You shall receive him back scourged, if indeed he survives, because a certain power of God is truly present about that place."
+          },
+          {
+            "id": "v3-39",
+            "text": "3:39For He who has His dwelling in heaven is the Overseer and Helper of that place, and He strikes down and destroys those who come to harm it.”"
+          },
+          {
+            "id": "v3-40",
+            "text": "3:40This was how the events concerning Heliodorus and the preservation of the treasury unfolded."
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "2 Maccabees 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-3/"
+          },
+          {
+            "selected": true,
+            "text": "2 Maccabees 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-10/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 11",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-11/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 12",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-12/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 13",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-13/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 14",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-14/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 15",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-15/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "2 Maccabees 4",
+        "verses": [
+          {
+            "id": "v4-1",
+            "text": "4:1The same Simon, who had informed against the funds and his homeland, spoke evil of Onias, alleging that he himself had instigated the attack on Heliodorus and had become the author of the troubles."
+          },
+          {
+            "id": "v4-2",
+            "text": "4:2He dared to call the city’s benefactor, the guardian of his fellow countrymen and the zealous defender of the laws a conspirator against the government."
+          },
+          {
+            "id": "v4-3",
+            "text": "4:3The hostility advanced so far that murders were committed through one of Simon’s approved supporters."
+          },
+          {
+            "id": "v4-4",
+            "text": "4:4Onias saw the danger of the rivalry and that Apollonius son of Menestheus, governor of Coele-Syria and Phoenicia, was increasing Simon’s wickedness."
+          },
+          {
+            "id": "v4-5",
+            "text": "4:5He went to the king, not to accuse his fellow citizens but to seek the common and individual benefit of the entire people."
+          },
+          {
+            "id": "v4-6",
+            "text": "4:6For he saw that without royal intervention public affairs could no longer find peace and Simon would not cease his folly."
+          },
+          {
+            "id": "v4-7",
+            "text": "4:7When Seleucus departed this life and Antiochus, called Epiphanes, took over the kingdom, Jason, Onias’s brother, obtained the high priesthood by fraud."
+          },
+          {
+            "id": "v4-8",
+            "text": "4:8In an audience he promised the king three hundred sixty talents of silver, and eighty talents from another source of revenue."
+          },
+          {
+            "id": "v4-9",
+            "text": "4:9Beyond these he promised to pay a further one hundred fifty if he were permitted by royal authority to establish a gymnasium and a training institution for young men, and to enroll the people in Jerusalem as Antiochenes."
+          },
+          {
+            "id": "v4-10",
+            "text": "4:10When the king consented and Jason gained office, he immediately turned his fellow countrymen toward the Greek manner of life."
+          },
+          {
+            "id": "v4-11",
+            "text": "4:11He set aside the benevolent royal concessions established for the Jews through John, the father of Eupolemus, who had undertaken the embassy to the Romans for friendship and alliance. Abolishing the lawful forms of civic life, he introduced unlawful customs."
+          },
+          {
+            "id": "v4-12",
+            "text": "4:12For he eagerly established a gymnasium immediately beneath the citadel and brought the most distinguished young men under his direction to wear the broad-brimmed hat."
+          },
+          {
+            "id": "v4-13",
+            "text": "4:13There was such an upsurge of Hellenism and advance of foreign ways because of the surpassing impurity of the impious Jason, who was no high priest,"
+          },
+          {
+            "id": "v4-14",
+            "text": "4:14that the priests were no longer eager for the services of the altar. Despising the temple and neglecting the sacrifices, they hurried to take part in the unlawful provision of exercises in the wrestling ground after the signal for the discus."
+          },
+          {
+            "id": "v4-15",
+            "text": "4:15They regarded their ancestral honours as nothing and considered Greek distinctions the finest."
+          },
+          {
+            "id": "v4-16",
+            "text": "4:16For this reason a difficult crisis overtook them: those whose ways they admired and whom they wished to resemble in everything became their enemies and punishers."
+          },
+          {
+            "id": "v4-17",
+            "text": "4:17For acting impiously against the divine laws is no light matter; the ensuing time will show this."
+          },
+          {
+            "id": "v4-18",
+            "text": "4:18When the games held every fifth year were being celebrated in Tyre and the king was present,"
+          },
+          {
+            "id": "v4-19",
+            "text": "4:19the defiled Jason sent spectators from Jerusalem, as Antiochenes, carrying three hundred silver drachmas for the sacrifice to Heracles. The bearers themselves asked that these not be used for sacrifice, because it was unfitting, but assigned to another expense."
+          },
+          {
+            "id": "v4-20",
+            "text": "4:20Thus, although intended by the sender for the sacrifice to Heracles, the money was applied, through the bearers, to the construction of triremes."
+          },
+          {
+            "id": "v4-21",
+            "text": "4:21When Apollonius son of Menestheus was sent to Egypt for King Philometor’s accession celebration, Antiochus learned that Philometor had become hostile to his affairs and took thought for his own security. Therefore he came to Joppa and proceeded to Jerusalem."
+          },
+          {
+            "id": "v4-22",
+            "text": "4:22Received magnificently by Jason and the city, he was welcomed with torches and shouts. Afterward he departed with his army into Phoenicia."
+          },
+          {
+            "id": "v4-23",
+            "text": "4:23After a period of three years, Jason sent Menelaus, brother of the previously mentioned Simon, to convey the money to the king and present memoranda on necessary matters."
+          },
+          {
+            "id": "v4-24",
+            "text": "4:24When introduced to the king, Menelaus impressed him by the appearance of authority and secured the high priesthood for himself by outbidding Jason by three hundred talents of silver."
+          },
+          {
+            "id": "v4-25",
+            "text": "4:25Having received the royal orders, he returned, bringing nothing worthy of the high priesthood, but possessing the temper of a cruel tyrant and the rage of a savage beast."
+          },
+          {
+            "id": "v4-26",
+            "text": "4:26Jason, who had fraudulently displaced his own brother, was himself displaced by another and driven as a fugitive into the land of the Ammonites."
+          },
+          {
+            "id": "v4-27",
+            "text": "4:27Menelaus held the office, but made no regular payment of the funds promised to the king,"
+          },
+          {
+            "id": "v4-28",
+            "text": "4:28although Sostratus, commander of the citadel, demanded them, since collection of the funds belonged to him. For this reason the two men were summoned by the king."
+          },
+          {
+            "id": "v4-29",
+            "text": "4:29Menelaus left his own brother Lysimachus as his deputy in the high priesthood, while Sostratus left Crates, the commander of the Cypriots."
+          },
+          {
+            "id": "v4-30",
+            "text": "4:30While these things were taking place, the people of Tarsus and Mallus happened to revolt because they had been given as a gift to Antiochis, the king’s concubine."
+          },
+          {
+            "id": "v4-31",
+            "text": "4:31The king therefore went quickly to settle the matter, leaving Andronicus, one of the men of high rank, as his deputy."
+          },
+          {
+            "id": "v4-32",
+            "text": "4:32Menelaus, thinking he had found a favourable opportunity, stole some of the temple’s gold objects and gave them to Andronicus. He had also sold others in Tyre and the surrounding cities."
+          },
+          {
+            "id": "v4-33",
+            "text": "4:33Onias, who had learned these things clearly, denounced them, having withdrawn to a place of asylum at Daphne near Antioch."
+          },
+          {
+            "id": "v4-34",
+            "text": "4:34Therefore Menelaus took Andronicus aside and urged him to do away with Onias. Andronicus came to Onias, having been persuaded to act deceitfully, greeted him and gave his right hand with oaths. Although under suspicion, he persuaded Onias to leave the asylum and immediately killed him, showing no regard for justice."
+          },
+          {
+            "id": "v4-35",
+            "text": "4:35For this reason not only Jews but also many of the other nations were indignant and distressed at the man’s unjust murder."
+          },
+          {
+            "id": "v4-36",
+            "text": "4:36When the king returned from the regions of Cilicia, the Jews in the city petitioned him about the senseless killing of Onias; the Greeks shared their hatred of the wickedness."
+          },
+          {
+            "id": "v4-37",
+            "text": "4:37Antiochus was deeply grieved, moved to pity, and wept because of the deceased man’s self-restraint and admirable conduct."
+          },
+          {
+            "id": "v4-38",
+            "text": "4:38Burning with anger, he immediately stripped Andronicus of his purple robe, tore off his tunics, and led him around the whole city to the very place where he had committed the impious act against Onias. There he removed the murderer from life, the Lord rendering him his deserved punishment."
+          },
+          {
+            "id": "v4-39",
+            "text": "4:39Many sacrilegious thefts were committed in the city by Lysimachus with Menelaus’s consent, and the report spread abroad. The multitude gathered against Lysimachus, many gold objects having already been carried off."
+          },
+          {
+            "id": "v4-40",
+            "text": "4:40As the crowds rose up and were filled with anger, Lysimachus armed about three thousand men and began unjust acts of violence, led by a certain Auranus, advanced in age and no less advanced in folly."
+          },
+          {
+            "id": "v4-41",
+            "text": "4:41Seeing Lysimachus’s attack, some seized stones, others thick pieces of wood, and some handfuls of the ashes lying nearby, and hurled them in confusion at Lysimachus’s men."
+          },
+          {
+            "id": "v4-42",
+            "text": "4:42In this way they wounded many of them, struck down some, and drove them all into flight. They killed the temple-robber himself beside the treasury."
+          },
+          {
+            "id": "v4-43",
+            "text": "4:43A trial concerning these matters was brought against Menelaus."
+          },
+          {
+            "id": "v4-44",
+            "text": "4:44When the king arrived in Tyre, three men sent by the council of elders presented their case before him."
+          },
+          {
+            "id": "v4-45",
+            "text": "4:45Menelaus, already losing, promised a large sum of money to Ptolemy son of Dorymenes to persuade the king."
+          },
+          {
+            "id": "v4-46",
+            "text": "4:46Ptolemy therefore took the king aside into a colonnade, as though for refreshment, and changed his mind."
+          },
+          {
+            "id": "v4-47",
+            "text": "4:47The king acquitted Menelaus, the cause of the entire evil, of the charges, but condemned to death the unfortunate men who would have been released uncondemned even if they had pleaded before Scythians."
+          },
+          {
+            "id": "v4-48",
+            "text": "4:48Those who had spoken for the city, the communities and the sacred vessels quickly suffered the unjust penalty."
+          },
+          {
+            "id": "v4-49",
+            "text": "4:49For this reason even the Tyrians, hating the wickedness, generously provided for their burial."
+          },
+          {
+            "id": "v4-50",
+            "text": "4:50But through the greed of those in power, Menelaus remained in office, growing in wickedness and becoming a great conspirator against his fellow citizens."
+          }
+        ]
+      },
+      {
+        "chapter": 5,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "2 Maccabees 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-4/"
+          },
+          {
+            "selected": true,
+            "text": "2 Maccabees 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-10/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 11",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-11/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 12",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-12/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 13",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-13/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 14",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-14/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 15",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-15/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "2 Maccabees 5",
+        "verses": [
+          {
+            "id": "v5-1",
+            "text": "5:1About this time Antiochus organized his second expedition into Egypt."
+          },
+          {
+            "id": "v5-2",
+            "text": "5:2Throughout the whole city, for nearly forty days, horsemen were seen racing through the air, wearing robes interwoven with gold, armed with lances and arrayed in squadrons; there were drawn swords,"
+          },
+          {
+            "id": "v5-3",
+            "text": "5:3formations of cavalry, attacks and countercharges on either side, movements of shields, masses of spears, volleys of missiles, flashes of golden ornaments, and armour of every kind."
+          },
+          {
+            "id": "v5-4",
+            "text": "5:4Therefore everyone prayed that the manifestation had come for good."
+          },
+          {
+            "id": "v5-5",
+            "text": "5:5When a false rumor arose that Antiochus had departed this life, Jason took no fewer than a thousand men and suddenly attacked the city. Those on the wall were driven back, and when the city was finally being taken, Menelaus fled to the citadel."
+          },
+          {
+            "id": "v5-6",
+            "text": "5:6Jason slaughtered his own fellow citizens without mercy, not realizing that success against his kinsmen was the greatest misfortune. He imagined he was setting up trophies over enemies rather than his own countrymen."
+          },
+          {
+            "id": "v5-7",
+            "text": "5:7He did not gain control of the government; receiving shame as the outcome of his plot, he again went away as a fugitive into the Ammonite country."
+          },
+          {
+            "id": "v5-8",
+            "text": "5:8In the end he met a disastrous conclusion. Accused before Aretas, ruler of the Arabs, he fled from city to city, pursued by everyone, hated as a deserter of the laws and abhorred as the executioner of his homeland and fellow citizens, until he was driven into Egypt."
+          },
+          {
+            "id": "v5-9",
+            "text": "5:9He who had made many strangers to their homeland perished in a foreign land, having sailed to the Lacedaemonians in the hope of obtaining shelter because of their kinship."
+          },
+          {
+            "id": "v5-10",
+            "text": "5:10He who had thrown out multitudes unburied went unmourned and received neither any funeral care whatever nor a place in his ancestral tomb."
+          },
+          {
+            "id": "v5-11",
+            "text": "5:11When news of these events reached the king, he concluded that Judea was in revolt. He therefore broke camp in Egypt, savage in spirit, took the city by force of arms,"
+          },
+          {
+            "id": "v5-12",
+            "text": "5:12and ordered the soldiers to cut down without mercy those they met and slaughter those who went up into the houses."
+          },
+          {
+            "id": "v5-13",
+            "text": "5:13There was killing of young and old, destruction of boys, women and children, and slaughter of virgins and infants."
+          },
+          {
+            "id": "v5-14",
+            "text": "5:14In the space of three days eighty thousand were lost: forty thousand in the acts of violence, and no fewer than those slaughtered were sold."
+          },
+          {
+            "id": "v5-15",
+            "text": "5:15Not content with this, he dared to enter the holiest temple in all the earth, with Menelaus as guide—the man who had become a traitor to both the laws and his homeland."
+          },
+          {
+            "id": "v5-16",
+            "text": "5:16With defiled hands he took the sacred vessels, and with profane hands swept away the gifts other kings had dedicated for the enhancement, glory and honour of the place."
+          },
+          {
+            "id": "v5-17",
+            "text": "5:17Antiochus was exalted in his mind, not seeing that the Master had been briefly angered because of the sins of those inhabiting the city, and therefore had disregarded the place."
+          },
+          {
+            "id": "v5-18",
+            "text": "5:18Had they not happened to be involved in many sins, he too, like Heliodorus, whom King Seleucus sent to inspect the treasury, would have been scourged immediately upon advancing and thrown back from his rashness."
+          },
+          {
+            "id": "v5-19",
+            "text": "5:19But the Lord did not choose the nation for the sake of the place; He chose the place for the sake of the nation."
+          },
+          {
+            "id": "v5-20",
+            "text": "5:20Therefore the place itself, having shared in the nation’s misfortunes, afterward shared in its benefits. What had been abandoned in the Almighty’s anger was restored again in all glory when the great Master became reconciled."
+          },
+          {
+            "id": "v5-21",
+            "text": "5:21Antiochus, then, carried off eighteen hundred talents from the temple and quickly withdrew to Antioch. In his arrogance he imagined he could make the land navigable and the sea passable on foot, because of the haughtiness of his heart."
+          },
+          {
+            "id": "v5-22",
+            "text": "5:22He also left overseers to afflict the people: in Jerusalem, Philip, a Phrygian by birth, whose character was more barbarous than that of the man who appointed him;"
+          },
+          {
+            "id": "v5-23",
+            "text": "5:23and at Gerizim, Andronicus; besides these, Menelaus, who exalted himself over his fellow citizens more wickedly than the others. Having a hateful disposition toward the Jewish citizens,"
+          },
+          {
+            "id": "v5-24",
+            "text": "5:24he sent Apollonius, commander of the Mysians, with an army of twenty-two thousand, ordering him to slaughter all the men in their prime and sell the women and the younger people."
+          },
+          {
+            "id": "v5-25",
+            "text": "5:25On arriving in Jerusalem, Apollonius pretended to be peaceable and waited until the holy day of the Sabbath. Finding the Jews at rest, he ordered those under him to parade under arms."
+          },
+          {
+            "id": "v5-26",
+            "text": "5:26He stabbed all who came out to watch, and rushing armed into the city, struck down considerable multitudes."
+          },
+          {
+            "id": "v5-27",
+            "text": "5:27But Judas, also called Maccabeus, withdrew into the wilderness with about nine others. He and those with him lived in the mountains like wild animals, continually eating plants so as not to share in the defilement."
+          }
+        ]
+      },
+      {
+        "chapter": 6,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "2 Maccabees 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-5/"
+          },
+          {
+            "selected": true,
+            "text": "2 Maccabees 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-10/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 11",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-11/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 12",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-12/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 13",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-13/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 14",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-14/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 15",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-15/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "2 Maccabees 6",
+        "verses": [
+          {
+            "id": "v6-1",
+            "text": "6:1Not long afterward the king sent an elderly Athenian to compel the Jews to depart from their ancestral laws and cease conducting their lives according to God’s laws,"
+          },
+          {
+            "id": "v6-2",
+            "text": "6:2and also to defile the temple in Jerusalem and name it for Olympian Zeus, and the one at Gerizim for Zeus the Protector of Strangers, in keeping with those who inhabited the place."
+          },
+          {
+            "id": "v6-3",
+            "text": "6:3The intensification of the evil was harsh and wholly grievous."
+          },
+          {
+            "id": "v6-4",
+            "text": "6:4For the temple was filled by the nations with debauchery and revels. They dallied with prostitutes, had intercourse with women in the sacred enclosures, and also brought inside things that were unfit."
+          },
+          {
+            "id": "v6-5",
+            "text": "6:5The altar was filled with forbidden things excluded by the laws."
+          },
+          {
+            "id": "v6-6",
+            "text": "6:6It was impossible to keep the Sabbath, observe ancestral festivals, or even profess simply to be a Jew."
+          },
+          {
+            "id": "v6-7",
+            "text": "6:7With bitter compulsion they were led to partake of sacrificial entrails on the king’s monthly birthday celebration. When the festival of Dionysus came, they were compelled to carry ivy and march in procession for Dionysus."
+          },
+          {
+            "id": "v6-8",
+            "text": "6:8At Ptolemy’s suggestion a decree also went out to the neighboring Greek cities, to follow the same policy against the Jews and make them partake of sacrificial entrails,"
+          },
+          {
+            "id": "v6-9",
+            "text": "6:9and to slaughter those who would not choose to adopt Greek customs. Thus one could see the misery that had come upon them."
+          },
+          {
+            "id": "v6-10",
+            "text": "6:10Two women were brought forward for circumcising their children. They hung the infants from the women’s breasts, paraded the women publicly through the city, and hurled them down from the wall."
+          },
+          {
+            "id": "v6-11",
+            "text": "6:11Others, who had gathered in nearby caves to observe the seventh day secretly, were reported to Philip and burned together, because their reverence for the most holy day’s dignity restrained them from defending themselves."
+          },
+          {
+            "id": "v6-12",
+            "text": "6:12I therefore urge those who encounter this book not to shrink back because of the disasters, but to consider these punishments as intended for the discipline of our people, not their destruction."
+          },
+          {
+            "id": "v6-13",
+            "text": "6:13For it is a sign of great kindness that those who act impiously are not left alone for long, but immediately encounter penalties."
+          },
+          {
+            "id": "v6-14",
+            "text": "6:14For the Master has not determined to deal with us as with the other nations, patiently waiting to punish them until they have reached the full measure of sins,"
+          },
+          {
+            "id": "v6-15",
+            "text": "6:15so that He may not take vengeance on us afterward, when we have reached the end of our sins."
+          },
+          {
+            "id": "v6-16",
+            "text": "6:16Therefore He never withdraws His mercy from us. Though He disciplines through disaster, He does not abandon His own people."
+          },
+          {
+            "id": "v6-17",
+            "text": "6:17Let these words serve only as a reminder; we must now return briefly to the narrative."
+          },
+          {
+            "id": "v6-18",
+            "text": "6:18A certain Eleazar, one of the foremost scribes, a man already advanced in age and most handsome in appearance, was being forced to open his mouth and eat pork."
+          },
+          {
+            "id": "v6-19",
+            "text": "6:19Choosing a glorious death rather than a defiled life, he went of his own accord to the torture frame,"
+          },
+          {
+            "id": "v6-20",
+            "text": "6:20having spat it out, as those ought to approach who persevere in refusing things it is unlawful to taste, even for love of life."
+          },
+          {
+            "id": "v6-21",
+            "text": "6:21Those appointed to oversee the unlawful eating of sacrificial entrails, because of their long acquaintance with the man, took him aside and urged him to bring meat prepared by himself that he could lawfully use, but to pretend that he was eating the sacrificial meat ordered by the king."
+          },
+          {
+            "id": "v6-22",
+            "text": "6:22By doing this, they said, he would be released from death and receive humane treatment because of his old friendship with them."
+          },
+          {
+            "id": "v6-23",
+            "text": "6:23But he adopted a noble resolve, worthy of his age, the dignity of his old age, his acquired and distinguished gray hair, his excellent conduct from childhood, and still more the holy legislation established by God. Accordingly he declared at once that they should send him to Hades."
+          },
+          {
+            "id": "v6-24",
+            "text": "6:24“For it is unworthy of our age to pretend, lest many of the young suppose that Eleazar, at ninety years of age, has gone over to foreign ways,"
+          },
+          {
+            "id": "v6-25",
+            "text": "6:25and through my pretence, for the sake of a brief and momentary life, they themselves be led astray because of me, and I acquire defilement and a stain upon my old age."
+          },
+          {
+            "id": "v6-26",
+            "text": "6:26For even if I now escape the punishment inflicted by human beings, neither living nor dead shall I escape the hands of the Almighty."
+          },
+          {
+            "id": "v6-27",
+            "text": "6:27Therefore, by departing this life courageously now, I shall show myself worthy of my old age,"
+          },
+          {
+            "id": "v6-28",
+            "text": "6:28and leave the young a noble example of dying willingly and nobly for the revered and holy laws.” After saying this, he went immediately to the torture frame."
+          },
+          {
+            "id": "v6-29",
+            "text": "6:29Those who led him changed their goodwill of a little earlier into hostility, because they considered his preceding words madness."
+          },
+          {
+            "id": "v6-30",
+            "text": "6:30As he was about to die under the blows, he groaned and said, “It is clear to the Lord, who possesses holy knowledge, that although I could have been released from death, I endure harsh bodily pains under the scourging. Yet in my soul I gladly suffer these things because I fear Him.”"
+          },
+          {
+            "id": "v6-31",
+            "text": "6:31Thus he departed in this way, leaving his own death as an example of nobility and a memorial of virtue, not only to the young but also to the greater part of the nation."
+          }
+        ]
+      },
+      {
+        "chapter": 7,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "2 Maccabees 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-6/"
+          },
+          {
+            "selected": true,
+            "text": "2 Maccabees 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-10/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 11",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-11/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 12",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-12/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 13",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-13/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 14",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-14/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 15",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-15/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "2 Maccabees 7",
+        "verses": [
+          {
+            "id": "v7-1",
+            "text": "7:1It also happened that seven brothers were arrested with their mother and compelled by the king to partake of forbidden pork, while being tortured with whips and sinew lashes."
+          },
+          {
+            "id": "v7-2",
+            "text": "7:2One of them became their spokesman and said, “What do you intend to ask and learn of us? We are ready to die rather than transgress our ancestral laws.”"
+          },
+          {
+            "id": "v7-3",
+            "text": "7:3The king became furious and ordered pans and cauldrons to be heated."
+          },
+          {
+            "id": "v7-4",
+            "text": "7:4When they were immediately heated, he ordered the tongue of their spokesman cut out, and that he be scalped and his extremities cut off while the other brothers and their mother watched."
+          },
+          {
+            "id": "v7-5",
+            "text": "7:5When he had been rendered completely helpless, the king ordered him brought to the fire, still breathing, and fried in a pan. As the vapor from the pan spread far, they encouraged one another with their mother to die nobly, saying,"
+          },
+          {
+            "id": "v7-6",
+            "text": "7:6“The Lord God watches, and in truth He has compassion on us, as Moses explained in the song that bears witness against us to our face, saying, ‘And He will have compassion on His servants.’”"
+          },
+          {
+            "id": "v7-7",
+            "text": "7:7After the first had departed in this manner, they brought the second for their mockery. Tearing the skin from his head together with his hair, they asked, “Will you eat before your body is punished limb by limb?”"
+          },
+          {
+            "id": "v7-8",
+            "text": "7:8He answered in his ancestral language, “No.” Therefore he too received the ensuing torture, as the first had."
+          },
+          {
+            "id": "v7-9",
+            "text": "7:9And when he was at his last breath, he said, “You, accursed one, release us from this present life; but the King of the world shall raise us, who die for His laws, unto everlasting renewal of life.”"
+          },
+          {
+            "id": "v7-10",
+            "text": "7:10After him the third was mocked. When asked for his tongue, he quickly put it out and fearlessly stretched forth his hands."
+          },
+          {
+            "id": "v7-11",
+            "text": "7:11He nobly said, “I received these from heaven, and for His laws I disregard them; from Him I hope to receive them again.”"
+          },
+          {
+            "id": "v7-12",
+            "text": "7:12The king himself and those with him were astonished at the young man’s spirit, for he regarded his pains as nothing."
+          },
+          {
+            "id": "v7-13",
+            "text": "7:13When he too had departed, they tortured the fourth in the same manner, tormenting him."
+          },
+          {
+            "id": "v7-14",
+            "text": "7:14As he was about to die, he said, “It is preferable, when dying at human hands, to look for the hopes given by God, to be raised again by Him. But for you there shall be no resurrection to life.”"
+          },
+          {
+            "id": "v7-15",
+            "text": "7:15Next they brought forward the fifth and tormented him."
+          },
+          {
+            "id": "v7-16",
+            "text": "7:16Looking at the king, he said, “Although mortal, you have authority among human beings and do what you will. But do not suppose our people have been abandoned by God."
+          },
+          {
+            "id": "v7-17",
+            "text": "7:17Wait and behold His majestic might, how He will torment you and your offspring.”"
+          },
+          {
+            "id": "v7-18",
+            "text": "7:18After him they brought the sixth, and as he was about to die he said, “Do not deceive yourself vainly. We suffer these things because of ourselves, having sinned against our own God; astonishing things have happened."
+          },
+          {
+            "id": "v7-19",
+            "text": "7:19But do not imagine that you shall go unpunished after attempting to fight against God.”"
+          },
+          {
+            "id": "v7-20",
+            "text": "7:20Their mother was exceedingly admirable and worthy of a good remembrance. Although she saw seven sons perish within the span of a single day, she bore it courageously because of her hopes in the Lord."
+          },
+          {
+            "id": "v7-21",
+            "text": "7:21Filled with a noble resolve, she encouraged each of them in their ancestral language, rousing her womanly reasoning with a man’s courage, and said to them,"
+          },
+          {
+            "id": "v7-22",
+            "text": "7:22“I do not know how you appeared in my womb. It was not I who granted you spirit and life, nor did I arrange the composition of each of you."
+          },
+          {
+            "id": "v7-23",
+            "text": "7:23Therefore the Creator of the world, who fashioned humanity’s beginning and devised the beginning of all things, in mercy gives you again both spirit and life, since you now disregard yourselves for the sake of His laws.”"
+          },
+          {
+            "id": "v7-24",
+            "text": "7:24Antiochus thought himself despised and suspected her words were reproaches. As the youngest was still alive, he not only urged him with words but assured him with oaths that, if he turned away from his ancestral ways, he would make him rich and enviable, regard him as a friend, and entrust him with public responsibilities."
+          },
+          {
+            "id": "v7-25",
+            "text": "7:25When the young man paid no attention at all, the king summoned the mother and urged her to advise the boy to save himself."
+          },
+          {
+            "id": "v7-26",
+            "text": "7:26After he had urged her at length, she agreed to persuade her son."
+          },
+          {
+            "id": "v7-27",
+            "text": "7:27Bending toward him, she mocked the cruel tyrant by speaking in their ancestral language: “Son, have mercy on me, who carried you in my womb for nine months, nursed you for three years, nourished you, brought you to this age, and sustained you."
+          },
+          {
+            "id": "v7-28",
+            "text": "7:28I beseech you, child, look up at heaven and earth and see everything in them. Recognize that God made them not from things that were, and that the human race comes into being in the same way."
+          },
+          {
+            "id": "v7-29",
+            "text": "7:29Do not fear this executioner. Prove worthy of your brothers and accept death, so that in mercy I may receive you back with your brothers.”"
+          },
+          {
+            "id": "v7-30",
+            "text": "7:30While she was still finishing, the young man said, “What are you waiting for? I do not obey the king’s ordinance; I obey the ordinance of the law given to our fathers through Moses."
+          },
+          {
+            "id": "v7-31",
+            "text": "7:31But you, who have devised every evil against the Hebrews, shall certainly not escape God’s hands."
+          },
+          {
+            "id": "v7-32",
+            "text": "7:32For we are suffering because of our own sins."
+          },
+          {
+            "id": "v7-33",
+            "text": "7:33Although our living Lord has been angered briefly for rebuke and discipline, He will again be reconciled to His own servants."
+          },
+          {
+            "id": "v7-34",
+            "text": "7:34But you, unholy and most defiled of all human beings, do not be vainly exalted, raging with uncertain hopes as you raise your hand against Heaven’s children."
+          },
+          {
+            "id": "v7-35",
+            "text": "7:35For you have not yet escaped the judgment of the Almighty, the all-seeing God."
+          },
+          {
+            "id": "v7-36",
+            "text": "7:36Our brothers, after enduring a short pain, have now fallen under God’s covenant of everlasting life; but you, by God’s judgment, shall bear the just penalties of your arrogance."
+          },
+          {
+            "id": "v7-37",
+            "text": "7:37I, like my brothers, give up both body and soul for our ancestral laws, calling upon God to become merciful quickly to the nation, and that through trials and scourges you may confess that He alone is God."
+          },
+          {
+            "id": "v7-38",
+            "text": "7:38May the Almighty’s anger, justly brought upon our whole people, come to rest in me and my brothers.”"
+          },
+          {
+            "id": "v7-39",
+            "text": "7:39The king became furious and treated this one more cruelly than the others, bitterly resenting the mockery."
+          },
+          {
+            "id": "v7-40",
+            "text": "7:40Thus he too departed undefiled, trusting entirely in the Lord."
+          },
+          {
+            "id": "v7-41",
+            "text": "7:41Last of all, after her sons, the mother died."
+          },
+          {
+            "id": "v7-42",
+            "text": "7:42Let this account suffice concerning the sacrificial eating and the surpassing tortures."
+          }
+        ]
+      },
+      {
+        "chapter": 8,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "2 Maccabees 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-7/"
+          },
+          {
+            "selected": true,
+            "text": "2 Maccabees 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-10/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 11",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-11/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 12",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-12/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 13",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-13/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 14",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-14/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 15",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-15/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "2 Maccabees 8",
+        "verses": [
+          {
+            "id": "v8-1",
+            "text": "8:1Judas, also called Maccabeus, and those with him slipped secretly into the villages, called their kinsmen to join them, and gathered those who had remained in Judaism, assembling about six thousand."
+          },
+          {
+            "id": "v8-2",
+            "text": "8:2They called upon the Lord to look upon the people trampled by everyone, and to have pity on the temple profaned by impious men,"
+          },
+          {
+            "id": "v8-3",
+            "text": "8:3to have mercy also on the city being destroyed and about to be levelled, and to listen to the blood crying out to Him,"
+          },
+          {
+            "id": "v8-4",
+            "text": "8:4to remember the unlawful destruction of innocent infants and the blasphemies committed against His name, and to show His hatred of wickedness."
+          },
+          {
+            "id": "v8-5",
+            "text": "8:5Once Maccabeus had formed his company, he became irresistible to the nations, the Lord’s anger having turned to mercy."
+          },
+          {
+            "id": "v8-6",
+            "text": "8:6Coming unexpectedly upon cities and villages, he burned them; seizing strategic places, he put not a few enemies to flight."
+          },
+          {
+            "id": "v8-7",
+            "text": "8:7He especially used the nights as allies in such attacks. The report of his courage resounded everywhere."
+          },
+          {
+            "id": "v8-8",
+            "text": "8:8Philip saw that the man was gradually advancing and making increasingly frequent progress in his successes. He wrote to Ptolemy, governor of Coele-Syria and Phoenicia, to assist the king’s affairs."
+          },
+          {
+            "id": "v8-9",
+            "text": "8:9Ptolemy quickly selected Nicanor son of Patroclus, one of the foremost friends, and sent him, placing under him no fewer than twenty thousand men from nations of every kind, to eradicate the whole people of Judea. He also associated with him Gorgias, a general experienced in military affairs."
+          },
+          {
+            "id": "v8-10",
+            "text": "8:10Nicanor determined to discharge the king’s tribute to the Romans, amounting to two thousand talents, from the captivity of the Jews."
+          },
+          {
+            "id": "v8-11",
+            "text": "8:11He immediately sent to the coastal cities, inviting people to buy Jewish bodies and promising to give ninety bodies for a talent, not expecting the judgment that was about to follow upon him from the Almighty."
+          },
+          {
+            "id": "v8-12",
+            "text": "8:12News of Nicanor’s advance reached Judas. When he informed those with him of the army’s approach,"
+          },
+          {
+            "id": "v8-13",
+            "text": "8:13the cowardly and those who distrusted God’s judgment slipped away and left the place."
+          },
+          {
+            "id": "v8-14",
+            "text": "8:14The others sold everything they had left and together begged the Lord to rescue those whom the impious Nicanor had sold before even encountering them,"
+          },
+          {
+            "id": "v8-15",
+            "text": "8:15if not for their own sake, then because of the covenants with their fathers and because His revered and magnificent name had been invoked over them."
+          },
+          {
+            "id": "v8-16",
+            "text": "8:16Maccabeus gathered those with him, six thousand in number, and urged them not to be terrified of their enemies or fear the multitude of nations unjustly coming against them, but to fight nobly,"
+          },
+          {
+            "id": "v8-17",
+            "text": "8:17keeping before their eyes the unlawful outrage they had committed against the holy place, the maltreatment of the mocked city, and also the overthrow of their ancestral civic order."
+          },
+          {
+            "id": "v8-18",
+            "text": "8:18“For they trust in weapons and audacity,” he said, “but we trust in the Almighty God, who can strike down both those coming against us and the whole world with a single nod.”"
+          },
+          {
+            "id": "v8-19",
+            "text": "8:19He further recounted to them the assistance given to their ancestors, including what happened under Sennacherib, how one hundred eighty-five thousand perished,"
+          },
+          {
+            "id": "v8-20",
+            "text": "8:20and the battle fought in Babylonia against the Galatians: how eight thousand in all came to the engagement, with four thousand Macedonians; when the Macedonians were at a loss, the eight thousand destroyed one hundred twenty thousand through the help that came to them from heaven, and took much spoil."
+          },
+          {
+            "id": "v8-21",
+            "text": "8:21Having thus made them confident and ready to die for the laws and their homeland, he divided the army into four sections."
+          },
+          {
+            "id": "v8-22",
+            "text": "8:22He appointed his brothers Simon, Joseph and Jonathan to lead the respective divisions, placing fifteen hundred under each,"
+          },
+          {
+            "id": "v8-23",
+            "text": "8:23and also Eleazar. Having read aloud the sacred book and given “God’s help” as the watchword, he himself led the first company and engaged Nicanor."
+          },
+          {
+            "id": "v8-24",
+            "text": "8:24With the Almighty as their ally, they slaughtered more than nine thousand of the enemy, wounded and disabled the greater part of Nicanor’s army, and forced them all to flee."
+          },
+          {
+            "id": "v8-25",
+            "text": "8:25They took the money of those who had come to buy them. After pursuing them for a considerable distance, they returned, constrained by the hour,"
+          },
+          {
+            "id": "v8-26",
+            "text": "8:26for it was the day before the Sabbath. For this reason they did not prolong their pursuit."
+          },
+          {
+            "id": "v8-27",
+            "text": "8:27After collecting their enemies’ weapons and stripping off their spoils, they occupied themselves with the Sabbath, abundantly blessing and giving thanks to the Lord who had preserved them to that day and appointed for them a beginning of mercy."
+          },
+          {
+            "id": "v8-28",
+            "text": "8:28After the Sabbath they gave a share of the spoils to the maltreated, the widows and the orphans, and divided the rest among themselves and their children."
+          },
+          {
+            "id": "v8-29",
+            "text": "8:29Having done this, they made a common supplication and begged the merciful Lord to become fully reconciled to His own servants."
+          },
+          {
+            "id": "v8-30",
+            "text": "8:30They also fought the forces of Timothy and Bacchides, killed more than twenty thousand of them, and gained firm possession of very high fortresses. They distributed much plunder, giving equal shares to themselves, the maltreated, the orphans and widows, and also the elderly."
+          },
+          {
+            "id": "v8-31",
+            "text": "8:31They collected the weapons and carefully deposited them all in strategic places, but brought the remaining spoils to Jerusalem."
+          },
+          {
+            "id": "v8-32",
+            "text": "8:32They killed the tribal commander of Timothy’s forces, a most unholy man who had caused the Jews much suffering."
+          },
+          {
+            "id": "v8-33",
+            "text": "8:33As they celebrated victory in their homeland, they burned those who had set fire to the sacred gateways, and Callisthenes, who had fled into a little house; he received the reward worthy of his impiety."
+          },
+          {
+            "id": "v8-34",
+            "text": "8:34But the thrice-accursed Nicanor, who had brought the thousand merchants for the sale of the Jews,"
+          },
+          {
+            "id": "v8-35",
+            "text": "8:35was humbled, with the Lord’s help, by those whom he considered of the least account. He took off his splendid clothing and went alone through the interior like a runaway, reaching Antioch most fortunate despite his army’s destruction."
+          },
+          {
+            "id": "v8-36",
+            "text": "8:36He who had undertaken to provide the Romans’ tribute from the captivity of Jerusalem’s inhabitants now proclaimed that the Jews had a Defender, and that for this reason the Jews were invulnerable, because they followed the laws laid down by Him."
+          }
+        ]
+      },
+      {
+        "chapter": 9,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "2 Maccabees 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-8/"
+          },
+          {
+            "selected": true,
+            "text": "2 Maccabees 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-10/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 11",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-11/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 12",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-12/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 13",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-13/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 14",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-14/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 15",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-15/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "2 Maccabees 9",
+        "verses": [
+          {
+            "id": "v9-1",
+            "text": "9:1About that time Antiochus happened to have retreated in disorder from the regions of Persia."
+          },
+          {
+            "id": "v9-2",
+            "text": "9:2For he had entered the city called Persepolis and attempted to rob its temple and oppress the city. The multitudes therefore rushed to defend themselves with weapons, and his men were routed. Antiochus, put to flight by the inhabitants, had to make a disgraceful retreat."
+          },
+          {
+            "id": "v9-3",
+            "text": "9:3While he was at Ecbatana, news reached him of what had happened to Nicanor and Timothy’s forces."
+          },
+          {
+            "id": "v9-4",
+            "text": "9:4Exalted in anger, he thought he would make the Jews bear even the harm inflicted by those who had driven him away. He therefore ordered his charioteer to drive without stopping and finish the journey, though judgment from heaven was already accompanying him. For he arrogantly said, “When I arrive there, I will make Jerusalem a mass grave for Jews.”"
+          },
+          {
+            "id": "v9-5",
+            "text": "9:5But the all-seeing Lord, the God of Israel, struck him with an incurable and unseen plague. He had only just finished speaking when an unrelenting pain in his bowels and bitter internal torments seized him—"
+          },
+          {
+            "id": "v9-6",
+            "text": "9:6most justly, since he had tormented the bowels of others with many strange afflictions."
+          },
+          {
+            "id": "v9-7",
+            "text": "9:7Yet he did not cease his haughtiness at all, but was still filled with arrogance, breathing fire in his anger against the Jews and ordering the journey hastened. He happened to fall from the chariot as it rushed along, and in the severe fall all the members of his body were wrenched."
+          },
+          {
+            "id": "v9-8",
+            "text": "9:8He who just now, in arrogance beyond human measure, thought he could command the waves of the sea and imagined he could weigh the mountain heights in a balance, was brought down to the ground and carried on a litter, plainly showing God’s power to everyone."
+          },
+          {
+            "id": "v9-9",
+            "text": "9:9Worms swarmed up from the impious man’s body, and while he was still alive in pain and anguish, his flesh fell away. The whole army was burdened by the stench of his decay."
+          },
+          {
+            "id": "v9-10",
+            "text": "9:10No one could carry the man who a little earlier thought he could touch the stars of heaven, because of the unbearable weight of his smell."
+          },
+          {
+            "id": "v9-11",
+            "text": "9:11Then, broken, he began to cease much of his arrogance and come to understanding, his pains increasing every moment under the divine scourge."
+          },
+          {
+            "id": "v9-12",
+            "text": "9:12Unable even to endure his own smell, he said, “It is right to submit to God and, being mortal, not to think oneself equal to God.”"
+          },
+          {
+            "id": "v9-13",
+            "text": "9:13The defiled man made vows to the Master who would no longer have mercy on him, speaking in this way:"
+          },
+          {
+            "id": "v9-14",
+            "text": "9:14he would declare free the holy city which he was hurrying to level and build into a mass grave;"
+          },
+          {
+            "id": "v9-15",
+            "text": "9:15and the Jews, whom he had decided were unworthy even of burial, but whom he would cast out with their infants to be eaten by birds and wild animals, he would make all equal to Athenians;"
+          },
+          {
+            "id": "v9-16",
+            "text": "9:16he would adorn the holy temple he had previously plundered with the finest dedicated gifts, restore all the sacred vessels many times over, and supply from his own revenues the necessary contributions for the sacrifices."
+          },
+          {
+            "id": "v9-17",
+            "text": "9:17Besides these things, he would become a Jew and go through every inhabited place, proclaiming God’s might."
+          },
+          {
+            "id": "v9-18",
+            "text": "9:18But his pains did not cease at all, for God’s just judgment had come upon him. Despairing of his own situation, he wrote the following letter to the Jews, having the form of a supplication and containing these words:"
+          },
+          {
+            "id": "v9-19",
+            "text": "9:19“King and general Antiochus to the good Jewish citizens: many greetings, good health and prosperity."
+          },
+          {
+            "id": "v9-20",
+            "text": "9:20If you and your children are well and your affairs are as you wish, placing my hope in heaven,"
+          },
+          {
+            "id": "v9-21",
+            "text": "9:21I remembered your honour and goodwill affectionately. As I return from the regions of Persia, having fallen into a troublesome illness, I have considered it necessary to take thought for the common security of all."
+          },
+          {
+            "id": "v9-22",
+            "text": "9:22I am not despairing of my condition, but have great hope of escaping the illness."
+          },
+          {
+            "id": "v9-23",
+            "text": "9:23Yet I observe that my father also, on the occasions when he campaigned in the upper regions, designated his successor,"
+          },
+          {
+            "id": "v9-24",
+            "text": "9:24so that if something unexpected occurred or some troubling news was reported, those in the country might know to whom the government had been left and not be disturbed."
+          },
+          {
+            "id": "v9-25",
+            "text": "9:25Moreover, observing that the nearby rulers who border the kingdom watch for opportunities and await what will happen, I have appointed my son Antiochus as king. I often entrusted and commended him to most of you when travelling to the upper satrapies; I have also written to him what is set down here."
+          },
+          {
+            "id": "v9-26",
+            "text": "9:26I therefore urge and ask you, remembering the benefits shown to all and to each individually, to maintain your existing goodwill toward me and my son."
+          },
+          {
+            "id": "v9-27",
+            "text": "9:27For I am persuaded that he, following my policy with fairness and humanity, will accommodate himself to you.”"
+          },
+          {
+            "id": "v9-28",
+            "text": "9:28Thus the murderer and blasphemer, suffering the worst as he had treated others, ended his life by a most pitiful death in the mountains of a foreign land."
+          },
+          {
+            "id": "v9-29",
+            "text": "9:29Philip, who had been brought up with him, conveyed his body. Fearing Antiochus’s son, he went to Ptolemy Philometor in Egypt."
+          }
+        ]
+      },
+      {
+        "chapter": 10,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "2 Maccabees 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-9/"
+          },
+          {
+            "selected": true,
+            "text": "2 Maccabees 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-10/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 11",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-11/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 12",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-12/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 13",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-13/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 14",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-14/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 15",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-15/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "2 Maccabees 10",
+        "verses": [
+          {
+            "id": "v10-1",
+            "text": "10:1Maccabeus and those with him, the Lord leading them, recovered the temple and the city."
+          },
+          {
+            "id": "v10-2",
+            "text": "10:2They tore down the altars built by the foreigners in the marketplace, and also the sacred precincts."
+          },
+          {
+            "id": "v10-3",
+            "text": "10:3Having purified the temple, they made another altar. They heated stones, took fire from them, and offered sacrifices after a period of two years. They offered incense, lit lamps and set out the loaves."
+          },
+          {
+            "id": "v10-4",
+            "text": "10:4When they had done this, they fell on their faces and begged the Lord that they might no longer fall into such evils, but that, if they should ever sin, they might be disciplined by Him with gentleness and not handed over to blasphemous and barbarous nations."
+          },
+          {
+            "id": "v10-5",
+            "text": "10:5On the very day the temple had been profaned by foreigners, the temple’s purification took place: the twenty-fifth of the same month, which is Chislev."
+          },
+          {
+            "id": "v10-6",
+            "text": "10:6They celebrated joyfully for eight days in the manner of the Festival of Booths, remembering how a short time before, during the Festival of Booths, they had roamed the mountains and caves like wild animals."
+          },
+          {
+            "id": "v10-7",
+            "text": "10:7Therefore, carrying garlanded staffs, beautiful branches and palm fronds, they offered hymns to the One who had prospered the purification of His own place."
+          },
+          {
+            "id": "v10-8",
+            "text": "10:8By a common ordinance and decree they determined that the entire Jewish nation should observe these days every year."
+          },
+          {
+            "id": "v10-9",
+            "text": "10:9Thus ended the matters concerning the death of Antiochus, called Epiphanes."
+          },
+          {
+            "id": "v10-10",
+            "text": "10:10Now we shall explain the events under Antiochus Eupator, the son of the impious man, abridging the principal evils of the wars."
+          },
+          {
+            "id": "v10-11",
+            "text": "10:11For when he took over the kingdom, he appointed a certain Lysias as chief minister and chief governor of Coele-Syria and Phoenicia."
+          },
+          {
+            "id": "v10-12",
+            "text": "10:12Ptolemy, called Macron, had taken the lead in maintaining justice toward the Jews because of the wrong done to them, and attempted to conduct relations with them peacefully."
+          },
+          {
+            "id": "v10-13",
+            "text": "10:13Therefore the friends accused him before Eupator, and at every turn he was called a traitor because he had abandoned Cyprus, which Philometor had entrusted to him, and gone over to Antiochus Epiphanes. Having failed to make his office honourable, he poisoned himself and departed this life."
+          },
+          {
+            "id": "v10-14",
+            "text": "10:14Gorgias, having become governor of the regions, maintained foreign troops and at every turn fostered war against the Jews."
+          },
+          {
+            "id": "v10-15",
+            "text": "10:15Along with him, the Idumeans, who held strategic fortresses, harassed the Jews. Taking in those driven from Jerusalem, they attempted to maintain the war."
+          },
+          {
+            "id": "v10-16",
+            "text": "10:16Maccabeus and his men offered an entreaty and asked God to become their ally; then they rushed against the Idumean fortresses."
+          },
+          {
+            "id": "v10-17",
+            "text": "10:17Attacking them vigorously, they gained control of the places, drove off all who fought on the wall, and slaughtered those they encountered. They killed no fewer than twenty thousand."
+          },
+          {
+            "id": "v10-18",
+            "text": "10:18No fewer than nine thousand fled together into two very strong towers, which had everything necessary to withstand a siege."
+          },
+          {
+            "id": "v10-19",
+            "text": "10:19Maccabeus left Simon and Joseph, and also Zacchaeus with his men, a sufficient force to besiege them, and himself departed for places requiring urgent attention."
+          },
+          {
+            "id": "v10-20",
+            "text": "10:20But Simon’s men, in their love of money, were persuaded with silver by some of those in the towers. Receiving seventy thousand drachmas, they let some slip away."
+          },
+          {
+            "id": "v10-21",
+            "text": "10:21When Maccabeus was informed of what had happened, he gathered the people’s leaders and accused them of selling their brothers for money by releasing enemies against them."
+          },
+          {
+            "id": "v10-22",
+            "text": "10:22He therefore put these men to death as traitors and immediately captured the two towers."
+          },
+          {
+            "id": "v10-23",
+            "text": "10:23Succeeding in everything by the weapons in his hands, he destroyed more than twenty thousand in the two fortresses."
+          },
+          {
+            "id": "v10-24",
+            "text": "10:24Timothy, who had previously been defeated by the Jews, gathered very numerous foreign forces and assembled not a few horses from Asia. He arrived intending to take Judea by force of arms."
+          },
+          {
+            "id": "v10-25",
+            "text": "10:25As he approached, Maccabeus and his men sprinkled earth on their heads and girded their waists with sackcloth in supplication to God."
+          },
+          {
+            "id": "v10-26",
+            "text": "10:26Falling down on the platform opposite the altar, they asked Him to become merciful to them, to be an enemy to their enemies and oppose their opponents, as the law declares."
+          },
+          {
+            "id": "v10-27",
+            "text": "10:27Rising from their petition, they took up their weapons and advanced some distance from the city. When they had approached the enemy, they remained by themselves."
+          },
+          {
+            "id": "v10-28",
+            "text": "10:28Just as the sunrise spread, the two sides attacked: the one had, together with courage, their refuge in the Lord as a guarantee of success and victory, while the other appointed anger as the leader of their battles."
+          },
+          {
+            "id": "v10-29",
+            "text": "10:29As the battle became fierce, five splendid men appeared to the enemy from heaven on horses with golden bridles, leading the Jews."
+          },
+          {
+            "id": "v10-30",
+            "text": "10:30They took Maccabeus into their midst and sheltered him with their own armour, keeping him unwounded. They hurled arrows and thunderbolts at the enemy, who, confused by blindness and filled with turmoil, were cut down."
+          },
+          {
+            "id": "v10-31",
+            "text": "10:31Twenty thousand five hundred were slaughtered, and six hundred horsemen."
+          },
+          {
+            "id": "v10-32",
+            "text": "10:32Timothy himself fled into a stronghold called Gazara, a very strong fortress, where Chaereas was commander."
+          },
+          {
+            "id": "v10-33",
+            "text": "10:33Maccabeus and his men eagerly besieged the fortress for four days."
+          },
+          {
+            "id": "v10-34",
+            "text": "10:34Those inside, trusting in the strength of the place, blasphemed excessively and uttered unlawful words."
+          },
+          {
+            "id": "v10-35",
+            "text": "10:35As the fifth day dawned, twenty young men of Maccabeus’s company, burning with anger because of the blasphemies, attacked the wall courageously and cut down whoever they met with a beast-like fury."
+          },
+          {
+            "id": "v10-36",
+            "text": "10:36Others likewise climbed up while those inside were distracted, set the towers on fire, and kindled fires that burned the blasphemers alive. Others broke through the gates, admitted the rest of the division, and took possession of the city."
+          },
+          {
+            "id": "v10-37",
+            "text": "10:37They slaughtered Timothy, who was hiding in a cistern, and his brother Chaereas and Apollophanes."
+          },
+          {
+            "id": "v10-38",
+            "text": "10:38Having done these things, they blessed the Lord with hymns and thanksgiving, for He greatly benefited Israel and gave them victory."
+          }
+        ]
+      },
+      {
+        "chapter": 11,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "2 Maccabees 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-10/"
+          },
+          {
+            "selected": true,
+            "text": "2 Maccabees 11",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-11/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 12",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-12/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 13",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-13/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 14",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-14/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 15",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-15/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "2 Maccabees 11",
+        "verses": [
+          {
+            "id": "v11-1",
+            "text": "11:1After a very short interval, Lysias, the king’s guardian, kinsman and chief minister, was deeply distressed at what had happened."
+          },
+          {
+            "id": "v11-2",
+            "text": "11:2Gathering about eighty thousand men and all the cavalry, he came against the Jews, intending to make the city a dwelling for Greeks,"
+          },
+          {
+            "id": "v11-3",
+            "text": "11:3to make the temple subject to taxation like the other nations’ sacred precincts, and to put the high priesthood up for sale each year."
+          },
+          {
+            "id": "v11-4",
+            "text": "11:4He took no account at all of God’s might, but was elated by his tens of thousands of infantry, his thousands of horsemen, and his eighty elephants."
+          },
+          {
+            "id": "v11-5",
+            "text": "11:5Entering Judea, he approached Beth-zur, a fortified place about five stadia from Jerusalem, and pressed it hard."
+          },
+          {
+            "id": "v11-6",
+            "text": "11:6When Maccabeus and his men learned that he was besieging the strongholds, they, together with the crowds, implored the Lord with lamentations and tears to send a good angel for Israel’s deliverance."
+          },
+          {
+            "id": "v11-7",
+            "text": "11:7Maccabeus himself was the first to take up his weapons. He urged the others to share the danger with him and help their brothers. Together and eagerly they set out."
+          },
+          {
+            "id": "v11-8",
+            "text": "11:8While they were there near Jerusalem, a horseman in white clothing appeared leading them, brandishing golden armour."
+          },
+          {
+            "id": "v11-9",
+            "text": "11:9Together they all blessed the merciful God and grew strong in spirit, ready to pierce not only human beings but the fiercest wild animals and iron walls."
+          },
+          {
+            "id": "v11-10",
+            "text": "11:10They advanced in battle array with their Ally from heaven, the Lord having shown them mercy."
+          },
+          {
+            "id": "v11-11",
+            "text": "11:11Rushing like lions upon the enemy, they struck down eleven thousand of them and sixteen hundred horsemen; they forced all the rest to flee."
+          },
+          {
+            "id": "v11-12",
+            "text": "11:12Most of them escaped wounded and stripped; Lysias himself also escaped by fleeing disgracefully."
+          },
+          {
+            "id": "v11-13",
+            "text": "11:13Being no fool, he considered the defeat that had befallen him and realized that the Hebrews were invincible while the mighty God was their ally."
+          },
+          {
+            "id": "v11-14",
+            "text": "11:14He sent to persuade them to settle on every just condition, declaring that he would also persuade the king and compel him to become their friend."
+          },
+          {
+            "id": "v11-15",
+            "text": "11:15Maccabeus consented to everything Lysias proposed, taking thought for what was beneficial. For the king granted all the requests concerning the Jews that Maccabeus submitted to Lysias in writing."
+          },
+          {
+            "id": "v11-16",
+            "text": "11:16The letters written to the Jews contained these words. From Lysias: “Lysias to the multitude of the Jews, greetings."
+          },
+          {
+            "id": "v11-17",
+            "text": "11:17John and Absalom, your envoys, presented the document appended below and requested the matters indicated in it."
+          },
+          {
+            "id": "v11-18",
+            "text": "11:18Whatever also needed to be brought before the king, I explained; and he granted what was possible."
+          },
+          {
+            "id": "v11-19",
+            "text": "11:19If, then, you maintain your goodwill toward the government, I will also attempt in future to help bring about good things for you."
+          },
+          {
+            "id": "v11-20",
+            "text": "11:20Concerning these matters and their particulars, I have instructed both these men and my own representatives to speak with you."
+          },
+          {
+            "id": "v11-21",
+            "text": "11:21Farewell. In the one hundred forty-eighth year, on the twenty-fourth of Dios Corinthios.”"
+          },
+          {
+            "id": "v11-22",
+            "text": "11:22The king’s letter contained these words: “King Antiochus to his brother Lysias, greetings."
+          },
+          {
+            "id": "v11-23",
+            "text": "11:23Since our father has departed to the gods, we desire those in the kingdom to be free from disturbance and attend to their own affairs."
+          },
+          {
+            "id": "v11-24",
+            "text": "11:24We have heard that the Jews do not consent to our father’s change to Greek customs, but choose their own way of life and ask that their lawful practices be permitted."
+          },
+          {
+            "id": "v11-25",
+            "text": "11:25Wishing therefore that this nation also be free from disturbance, we decide that their temple be restored to them and that they conduct their lives according to their ancestors’ customs."
+          },
+          {
+            "id": "v11-26",
+            "text": "11:26You will therefore do well to send to them and give pledges, so that, knowing our policy, they may be of good heart and happily devote themselves to the management of their own affairs.”"
+          },
+          {
+            "id": "v11-27",
+            "text": "11:27The king’s letter to the nation was as follows: “King Antiochus to the council of elders of the Jews and the other Jews, greetings."
+          },
+          {
+            "id": "v11-28",
+            "text": "11:28If you are well, it is as we wish. We ourselves are also in good health."
+          },
+          {
+            "id": "v11-29",
+            "text": "11:29Menelaus has informed us that you wish to return and attend to your own affairs."
+          },
+          {
+            "id": "v11-30",
+            "text": "11:30Those who return by the thirtieth of Xanthicus will have a pledge of safe conduct,"
+          },
+          {
+            "id": "v11-31",
+            "text": "11:31permitting the Jews to use their own foods and laws as before. None of them shall be troubled in any way for offences committed in ignorance."
+          },
+          {
+            "id": "v11-32",
+            "text": "11:32I have also sent Menelaus to encourage you."
+          },
+          {
+            "id": "v11-33",
+            "text": "11:33Farewell. In the one hundred forty-eighth year, on the fifteenth of Xanthicus.”"
+          },
+          {
+            "id": "v11-34",
+            "text": "11:34The Romans also sent them a letter with these words: “Quintus Memmius and Titus Manius, ambassadors of the Romans, to the people of the Jews, greetings."
+          },
+          {
+            "id": "v11-35",
+            "text": "11:35Regarding what Lysias, the king’s kinsman, has granted you, we also give our approval."
+          },
+          {
+            "id": "v11-36",
+            "text": "11:36As for the matters he decided should be referred to the king, consider them and send someone immediately, so that we may set them forth as is appropriate for you, for we are proceeding to Antioch."
+          },
+          {
+            "id": "v11-37",
+            "text": "11:37Therefore hurry and send some men, so that we too may know what your judgment is."
+          },
+          {
+            "id": "v11-38",
+            "text": "11:38Be in good health. In the one hundred forty-eighth year, on the fifteenth of Xanthicus.”"
+          }
+        ]
+      },
+      {
+        "chapter": 12,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "2 Maccabees 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-10/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 11",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-11/"
+          },
+          {
+            "selected": true,
+            "text": "2 Maccabees 12",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-12/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 13",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-13/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 14",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-14/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 15",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-15/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "2 Maccabees 12",
+        "verses": [
+          {
+            "id": "v12-1",
+            "text": "12:1When these agreements had been made, Lysias went away to the king, and the Jews turned to farming."
+          },
+          {
+            "id": "v12-2",
+            "text": "12:2But among the local governors, Timothy and Apollonius son of Gennaeus, as well as Hieronymus and Demophon, and besides them Nicanor, commander of Cyprus, would not allow them to remain settled and live quietly."
+          },
+          {
+            "id": "v12-3",
+            "text": "12:3The people of Joppa committed this great impiety. They invited the Jews living among them to board boats that they had provided, with their wives and children, as though there were no hostility toward them,"
+          },
+          {
+            "id": "v12-4",
+            "text": "12:4in accordance with the city’s common decree. The Jews accepted, wishing to live peaceably and suspecting nothing; but the people took them out to sea and drowned no fewer than two hundred."
+          },
+          {
+            "id": "v12-5",
+            "text": "12:5When Judas learned of the cruelty committed against his fellow countrymen, he gave orders to the men with him."
+          },
+          {
+            "id": "v12-6",
+            "text": "12:6Calling upon God, the righteous Judge, he came against his brothers’ murderers. By night he burned the harbour and set the boats ablaze, and stabbed those who had fled there."
+          },
+          {
+            "id": "v12-7",
+            "text": "12:7Since the town was shut, he withdrew, intending to return and uproot the whole community of Joppa."
+          },
+          {
+            "id": "v12-8",
+            "text": "12:8Learning also that the people of Jamnia intended to act in the same way toward the Jews living among them,"
+          },
+          {
+            "id": "v12-9",
+            "text": "12:9he attacked the Jamnites by night and set fire to the harbour with its fleet. The radiance of the blaze was visible in Jerusalem, two hundred forty stadia away."
+          },
+          {
+            "id": "v12-10",
+            "text": "12:10After they had withdrawn nine stadia from there, on their way toward Timothy, Arabs attacked him, no fewer than five thousand, with five hundred horsemen."
+          },
+          {
+            "id": "v12-11",
+            "text": "12:11A fierce battle took place, and Judas’s men succeeded through God’s help. Defeated, the nomads asked Judas to give them pledges, promising to give livestock and assist them in other matters."
+          },
+          {
+            "id": "v12-12",
+            "text": "12:12Judas, thinking that they could indeed be useful in many ways, agreed to make peace with them. They received pledges and departed to their tents."
+          },
+          {
+            "id": "v12-13",
+            "text": "12:13He also attacked a city strong with earthworks and enclosed by walls, inhabited by a mixture of nations, and named Caspin."
+          },
+          {
+            "id": "v12-14",
+            "text": "12:14Those inside trusted in the strength of the walls and the stock of provisions. They treated Judas’s men rudely, insulting them, and moreover blaspheming and saying things that were unlawful."
+          },
+          {
+            "id": "v12-15",
+            "text": "12:15Judas’s men called upon the great Sovereign of the world, who in Joshua’s time threw down Jericho without battering rams or mechanical engines, and rushed like wild animals against the wall."
+          },
+          {
+            "id": "v12-16",
+            "text": "12:16Taking the city by God’s will, they carried out indescribable slaughter, so that the adjacent lake, two stadia wide, appeared filled with flowing blood."
+          },
+          {
+            "id": "v12-17",
+            "text": "12:17After withdrawing seven hundred fifty stadia from there, they reached Charax, among the Jews called Toubiani."
+          },
+          {
+            "id": "v12-18",
+            "text": "12:18They did not find Timothy in those regions, for he had then left without accomplishing his purpose, but had left a very strong garrison in one place."
+          },
+          {
+            "id": "v12-19",
+            "text": "12:19Dositheus and Sosipater, commanders under Maccabeus, marched out and destroyed those whom Timothy had left in the stronghold, more than ten thousand men."
+          },
+          {
+            "id": "v12-20",
+            "text": "12:20Maccabeus arranged his army in companies, placed those men over the companies, and rushed against Timothy, who had with him one hundred twenty thousand infantry and twenty-five hundred horsemen."
+          },
+          {
+            "id": "v12-21",
+            "text": "12:21When Timothy learned of Judas’s advance, he sent the women, children and remaining baggage ahead to the place called Carnion, for the place was difficult to besiege and difficult to approach because of the narrowness of all the approaches."
+          },
+          {
+            "id": "v12-22",
+            "text": "12:22When Judas’s first company appeared, dread came upon the enemy. Fear fell upon them through the manifestation of the One who watches all things, and they rushed into flight, scattering in different directions, so that they were often injured by their own men and pierced by the points of their swords."
+          },
+          {
+            "id": "v12-23",
+            "text": "12:23Judas pursued them with greater vigor, stabbing the accursed men and destroying about thirty thousand."
+          },
+          {
+            "id": "v12-24",
+            "text": "12:24Timothy himself fell into the hands of Dositheus’s and Sosipater’s men. With much deceitful persuasion he begged them to release him unharmed, because he held the parents of many and the brothers of some, and these would come to be disregarded."
+          },
+          {
+            "id": "v12-25",
+            "text": "12:25After he had guaranteed in many ways his undertaking to restore them unharmed, they released him for their brothers’ deliverance."
+          },
+          {
+            "id": "v12-26",
+            "text": "12:26Judas went out against Carnion and the sanctuary of Atargatis and slaughtered twenty-five thousand people."
+          },
+          {
+            "id": "v12-27",
+            "text": "12:27After their defeat and destruction, he also marched against Ephron, a fortified city where Lysias and mixed multitudes lived. Strong young men stood before the walls and defended themselves vigorously; there were also large stores of engines and missiles there."
+          },
+          {
+            "id": "v12-28",
+            "text": "12:28Calling upon the Sovereign who powerfully shatters the strength of enemies, they brought the city under their control and struck down about twenty-five thousand of those inside."
+          },
+          {
+            "id": "v12-29",
+            "text": "12:29Departing from there, they rushed toward Scythopolis, six hundred stadia from Jerusalem."
+          },
+          {
+            "id": "v12-30",
+            "text": "12:30The Jews living there testified to the goodwill the Scythopolitans had shown them and their humane treatment in times of misfortune."
+          },
+          {
+            "id": "v12-31",
+            "text": "12:31They thanked them and further urged them to remain favourable to their people in future, then came to Jerusalem as the Festival of Weeks drew near."
+          },
+          {
+            "id": "v12-32",
+            "text": "12:32After the festival called Pentecost, they rushed against Gorgias, governor of Idumea."
+          },
+          {
+            "id": "v12-33",
+            "text": "12:33He came out with three thousand infantry and four hundred horsemen."
+          },
+          {
+            "id": "v12-34",
+            "text": "12:34When they drew up for battle, a few of the Jews happened to fall."
+          },
+          {
+            "id": "v12-35",
+            "text": "12:35A certain Dositheus, one of Bacenor’s men, a strong cavalryman, caught hold of Gorgias. Grasping his cloak, he dragged him forcefully, wishing to capture the accursed man alive. But one of the Thracian horsemen rushed upon him and struck away his shoulder, and Gorgias escaped to Marisa."
+          },
+          {
+            "id": "v12-36",
+            "text": "12:36When Esdris’s men had been fighting for a long time and were exhausted, Judas called upon the Lord to appear as their ally and leader of the war."
+          },
+          {
+            "id": "v12-37",
+            "text": "12:37Beginning the cry with hymns in their ancestral language, he rushed unexpectedly upon Gorgias’s forces and put them to flight."
+          },
+          {
+            "id": "v12-38",
+            "text": "12:38Judas took his army and came to the city of Adullam. As the seventh day was approaching, they purified themselves according to custom and observed the Sabbath there."
+          },
+          {
+            "id": "v12-39",
+            "text": "12:39On the following day, when it had become necessary, Judas’s men came to recover the bodies of the fallen and place them with their kinsmen in the ancestral tombs."
+          },
+          {
+            "id": "v12-40",
+            "text": "12:40Under the tunics of each of the dead they found sacred objects of the idols from Jamnia, things from which the law excludes the Jews. It became clear to everyone that these men had fallen for this reason."
+          },
+          {
+            "id": "v12-41",
+            "text": "12:41They all therefore blessed the deeds of the Lord, the righteous Judge who makes hidden things manifest,"
+          },
+          {
+            "id": "v12-42",
+            "text": "12:42and turned to supplication, asking that the sin committed might be completely blotted out. The noble Judas urged the multitude to keep themselves free from sin, having seen with their own eyes what had happened because of the sin of those who had fallen."
+          },
+          {
+            "id": "v12-43",
+            "text": "12:43He took up a collection from each man, amounting to two thousand drachmas of silver, and sent it to Jerusalem to offer a sacrifice for sin. He acted very well and nobly, considering the resurrection."
+          },
+          {
+            "id": "v12-44",
+            "text": "12:44For if he did not expect those who had fallen to rise again, it would have been superfluous and foolish to pray for the dead."
+          },
+          {
+            "id": "v12-45",
+            "text": "12:45But if he was looking to the finest reward laid up for those who fall asleep in piety, the thought was holy and devout. Therefore he made atonement for the dead, so that they might be released from their sin."
+          }
+        ]
+      },
+      {
+        "chapter": 13,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "2 Maccabees 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-10/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 11",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-11/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 12",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-12/"
+          },
+          {
+            "selected": true,
+            "text": "2 Maccabees 13",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-13/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 14",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-14/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 15",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-15/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "2 Maccabees 13",
+        "verses": [
+          {
+            "id": "v13-1",
+            "text": "13:1In the one hundred forty-ninth year, word reached Judas and his men that Antiochus Eupator had come against Judea with multitudes,"
+          },
+          {
+            "id": "v13-2",
+            "text": "13:2and with him Lysias, his guardian and chief minister, each having a Greek force of one hundred ten thousand infantry, fifty-three hundred horsemen, twenty-two elephants, and three hundred scythe-bearing chariots."
+          },
+          {
+            "id": "v13-3",
+            "text": "13:3Menelaus also joined them and urged Antiochus on with much deceit, not for his homeland’s deliverance, but thinking that he would be restored to office."
+          },
+          {
+            "id": "v13-4",
+            "text": "13:4But the King of kings stirred Antiochus’s anger against the accursed man. When Lysias pointed out that he was the cause of all the evils, Antiochus ordered that he be taken to Beroea and destroyed according to the custom of that place."
+          },
+          {
+            "id": "v13-5",
+            "text": "13:5In that place there is a tower fifty cubits high, full of ashes. It had a revolving device with a sheer drop on every side into the ashes."
+          },
+          {
+            "id": "v13-6",
+            "text": "13:6There they all push to destruction anyone guilty of temple robbery or notorious for certain other evils."
+          },
+          {
+            "id": "v13-7",
+            "text": "13:7By such a fate the lawless Menelaus happened to die, receiving not even a place in the earth."
+          },
+          {
+            "id": "v13-8",
+            "text": "13:8And most justly: since he had committed many sins against the altar, whose fire and ashes were pure, he received his death in ashes."
+          },
+          {
+            "id": "v13-9",
+            "text": "13:9The king, made barbarous in his intentions, was coming to show the Jews evils worse than those that had occurred in his father’s time."
+          },
+          {
+            "id": "v13-10",
+            "text": "13:10When Judas learned these things, he ordered the multitude to call upon the Lord day and night, that if ever He had helped them before, He would help them now as they were about to be deprived of the law, homeland and holy temple,"
+          },
+          {
+            "id": "v13-11",
+            "text": "13:11and would not permit the people, who had only just gained a little respite, to fall under the power of blasphemous nations."
+          },
+          {
+            "id": "v13-12",
+            "text": "13:12All did the same together and entreated the merciful Lord with weeping, fasts and prostration for three days without ceasing. Judas encouraged them and ordered them to assemble."
+          },
+          {
+            "id": "v13-13",
+            "text": "13:13Meeting privately with the elders, he resolved that before the king’s army entered Judea and gained control of the city, they should go out and decide matters with God’s help."
+          },
+          {
+            "id": "v13-14",
+            "text": "13:14Entrusting the outcome to the Creator of the world, he urged those with him to fight nobly to the death for laws, temple, city, homeland and civic life. He made his encampment near Modein."
+          },
+          {
+            "id": "v13-15",
+            "text": "13:15Giving his men “God’s victory” as the watchword, he attacked the royal quarters in the camp by night with selected young men of the finest quality. He killed about two thousand men and stabbed the leading elephant together with the man in its tower."
+          },
+          {
+            "id": "v13-16",
+            "text": "13:16Finally they filled the camp with dread and confusion and departed successfully."
+          },
+          {
+            "id": "v13-17",
+            "text": "13:17This had taken place just as day was dawning, because of the Lord’s protection that helped him."
+          },
+          {
+            "id": "v13-18",
+            "text": "13:18The king, having tasted the Jews’ boldness, tried to take the places by stratagem."
+          },
+          {
+            "id": "v13-19",
+            "text": "13:19He advanced against Beth-zur, a strong fortress of the Jews; he was routed, repulsed and defeated."
+          },
+          {
+            "id": "v13-20",
+            "text": "13:20Judas sent necessary supplies to those inside."
+          },
+          {
+            "id": "v13-21",
+            "text": "13:21Rhodocus, one of the Jewish ranks, disclosed the secrets to the enemy. He was sought out, caught and imprisoned."
+          },
+          {
+            "id": "v13-22",
+            "text": "13:22The king negotiated a second time with those in Beth-zur, gave a pledge, received one, and went away. He attacked Judas’s men and was defeated."
+          },
+          {
+            "id": "v13-23",
+            "text": "13:23He learned that Philip, whom he had left in charge of affairs in Antioch, had lost his senses. Disturbed, he appealed to the Jews, submitted and swore to all just conditions. He made a settlement, offered sacrifice, honoured the temple, and treated the place kindly."
+          },
+          {
+            "id": "v13-24",
+            "text": "13:24He warmly received Maccabeus and left Hegemonides as governor from Ptolemais to the territory of the Gerrhenes."
+          },
+          {
+            "id": "v13-25",
+            "text": "13:25He came to Ptolemais. The people of Ptolemais were distressed about the agreements, for they were so indignant that they wished to annul the provisions."
+          },
+          {
+            "id": "v13-26",
+            "text": "13:26Lysias went up to the platform, offered such a defence as was possible, persuaded them, calmed them, won their goodwill, and departed for Antioch. Thus unfolded the events of the king’s expedition and withdrawal."
+          }
+        ]
+      },
+      {
+        "chapter": 14,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "2 Maccabees 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-10/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 11",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-11/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 12",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-12/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 13",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-13/"
+          },
+          {
+            "selected": true,
+            "text": "2 Maccabees 14",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-14/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 15",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-15/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "2 Maccabees 14",
+        "verses": [
+          {
+            "id": "v14-1",
+            "text": "14:1After a period of three years, word reached Judas and his men that Demetrius son of Seleucus had sailed into the harbour at Tripolis with a strong force and a fleet,"
+          },
+          {
+            "id": "v14-2",
+            "text": "14:2had gained control of the country, and had done away with Antiochus and his guardian Lysias."
+          },
+          {
+            "id": "v14-3",
+            "text": "14:3A certain Alcimus, who had formerly been high priest but had willingly defiled himself during the times of separation, realized that there was no way for him to obtain deliverance or regain access to the holy altar."
+          },
+          {
+            "id": "v14-4",
+            "text": "14:4About the one hundred fifty-first year he came to King Demetrius, bringing him a golden crown and a palm, and also some of the customary temple branches. That day he remained quiet."
+          },
+          {
+            "id": "v14-5",
+            "text": "14:5He found an opportunity to assist his own folly when Demetrius summoned him to a council and asked what disposition and policy the Jews had adopted. He answered,"
+          },
+          {
+            "id": "v14-6",
+            "text": "14:6“Those Jews called Hasideans, whose leader is Judas Maccabeus, foster war and rebellion, preventing the kingdom from obtaining stability."
+          },
+          {
+            "id": "v14-7",
+            "text": "14:7Therefore, having been deprived of my ancestral honour—I mean the high priesthood—I have now come here,"
+          },
+          {
+            "id": "v14-8",
+            "text": "14:8first because I am sincerely concerned for the king’s interests, and second because I seek the good of my own fellow citizens. For through the thoughtlessness of those men, our whole people suffer no small misfortune."
+          },
+          {
+            "id": "v14-9",
+            "text": "14:9Now that you know each of these things, O king, take thought for the country and our distressed people, in accordance with your readily bestowed humanity toward everyone."
+          },
+          {
+            "id": "v14-10",
+            "text": "14:10For as long as Judas survives, public affairs cannot find peace.”"
+          },
+          {
+            "id": "v14-11",
+            "text": "14:11When he had said such things, the other friends who were hostile to Judas quickly inflamed Demetrius further."
+          },
+          {
+            "id": "v14-12",
+            "text": "14:12He immediately selected Nicanor, the former commander of the elephants, appointed him governor of Judea, and sent him out,"
+          },
+          {
+            "id": "v14-13",
+            "text": "14:13with orders to kill Judas himself, scatter those with him, and appoint Alcimus high priest of the greatest temple."
+          },
+          {
+            "id": "v14-14",
+            "text": "14:14The nations in Judea who had driven Judas into exile joined Nicanor in crowds, thinking the Jews’ misfortunes and disasters would become their own successes."
+          },
+          {
+            "id": "v14-15",
+            "text": "14:15When Judas’s men heard of Nicanor’s advance and the attack of the nations, they sprinkled earth on themselves and entreated the One who established His own people for ever and always assists His own portion by a manifestation."
+          },
+          {
+            "id": "v14-16",
+            "text": "14:16When their leader gave the command, he immediately set out from there and met them at a village called Dessau."
+          },
+          {
+            "id": "v14-17",
+            "text": "14:17Simon, Judas’s brother, had engaged Nicanor, but had faltered for a time because of the opponents’ sudden silence."
+          },
+          {
+            "id": "v14-18",
+            "text": "14:18Nevertheless, Nicanor heard of the courage of Judas’s men and their spirit in struggles for their homeland, and was wary of deciding the matter through bloodshed."
+          },
+          {
+            "id": "v14-19",
+            "text": "14:19Therefore he sent Posidonius, Theodotus and Mattathias to give and receive pledges."
+          },
+          {
+            "id": "v14-20",
+            "text": "14:20After prolonged consideration of these matters, the leader consulted the multitudes. A unanimous opinion emerged, and they consented to the agreements."
+          },
+          {
+            "id": "v14-21",
+            "text": "14:21They appointed a day on which they would meet privately in the same place. A chariot came forward from each side, and they set out seats."
+          },
+          {
+            "id": "v14-22",
+            "text": "14:22Judas stationed armed men ready at strategic places, lest the enemy suddenly attempt some treachery. They held an appropriate conference."
+          },
+          {
+            "id": "v14-23",
+            "text": "14:23Nicanor remained in Jerusalem and did nothing out of place; he dismissed the crowds that had assembled in throngs."
+          },
+          {
+            "id": "v14-24",
+            "text": "14:24He kept Judas continually in his presence, having become deeply attached to the man."
+          },
+          {
+            "id": "v14-25",
+            "text": "14:25He urged him to marry and have children. Judas married, settled down and shared in ordinary life."
+          },
+          {
+            "id": "v14-26",
+            "text": "14:26Alcimus saw their goodwill toward one another and obtained the agreements they had made. He went to Demetrius and said that Nicanor’s intentions were disloyal to the government, for he had appointed Judas, the kingdom’s conspirator, as his successor."
+          },
+          {
+            "id": "v14-27",
+            "text": "14:27The king became furious and, provoked by the thoroughly wicked man’s slanders, wrote to Nicanor, declaring his distress over the agreements and ordering him to send Maccabeus in chains to Antioch immediately."
+          },
+          {
+            "id": "v14-28",
+            "text": "14:28When these instructions reached Nicanor, he was dismayed and distressed at the prospect of annulling the settlement when the man had done no wrong."
+          },
+          {
+            "id": "v14-29",
+            "text": "14:29But since he could not oppose the king, he watched for a suitable moment to accomplish this by stratagem."
+          },
+          {
+            "id": "v14-30",
+            "text": "14:30Maccabeus saw that Nicanor was dealing more harshly with him and that their customary meeting had become less courteous. Recognizing that the harshness had no good cause, he gathered not a few of his men and concealed himself from Nicanor."
+          },
+          {
+            "id": "v14-31",
+            "text": "14:31The other man realized that Judas had skillfully outmaneuvered him. He went to the greatest and holy temple while the priests were offering the required sacrifices and ordered them to hand over the man."
+          },
+          {
+            "id": "v14-32",
+            "text": "14:32When they declared with oaths that they did not know where the man being sought was,"
+          },
+          {
+            "id": "v14-33",
+            "text": "14:33he stretched his right hand toward the temple and swore, “Unless you hand Judas over to me in chains, I will make this enclosure of God a level plain, tear down the altar, and erect here a splendid temple for Dionysus.”"
+          },
+          {
+            "id": "v14-34",
+            "text": "14:34Having said this, he departed. The priests stretched their hands toward heaven and called upon the One who continually defends our nation, saying,"
+          },
+          {
+            "id": "v14-35",
+            "text": "14:35“Thou, Lord of all, hast need of nothing, yet Thou wast pleased that a temple for Thy dwelling should come into being among us."
+          },
+          {
+            "id": "v14-36",
+            "text": "14:36And now, holy Lord of all sanctification, preserve this recently purified house undefiled for ever.”"
+          },
+          {
+            "id": "v14-37",
+            "text": "14:37A certain Razis, one of Jerusalem’s elders, was reported to Nicanor: a man who loved his fellow citizens, was very well spoken of, and because of his goodwill was called a father of the Jews."
+          },
+          {
+            "id": "v14-38",
+            "text": "14:38For in the earlier times of separation he had incurred a judgment for Judaism, risking both body and soul for Judaism with complete earnestness."
+          },
+          {
+            "id": "v14-39",
+            "text": "14:39Nicanor, wishing to make his hostility toward the Jews evident, sent more than five hundred soldiers to arrest him,"
+          },
+          {
+            "id": "v14-40",
+            "text": "14:40for he thought that by arresting him he would inflict a disaster upon them."
+          },
+          {
+            "id": "v14-41",
+            "text": "14:41As the multitudes were about to take the tower, forcing the courtyard door and ordering fire to be brought to set the doors alight, Razis, surrounded, thrust his sword into himself,"
+          },
+          {
+            "id": "v14-42",
+            "text": "14:42wishing to die nobly rather than fall under the power of the accursed men and be outraged in a manner unworthy of his own nobility."
+          },
+          {
+            "id": "v14-43",
+            "text": "14:43But because of the haste of the struggle he did not strike accurately. As the crowds rushed inside the doorways, he ran bravely up onto the wall and hurled himself courageously down into the crowds."
+          },
+          {
+            "id": "v14-44",
+            "text": "14:44They quickly drew back, leaving a space, and he fell into the middle of the empty area."
+          },
+          {
+            "id": "v14-45",
+            "text": "14:45Still breathing and burning with anger, he rose. Although his blood streamed out and his wounds were grievous, he ran through the crowds and stood on a projecting rock."
+          },
+          {
+            "id": "v14-46",
+            "text": "14:46By now entirely drained of blood, he pulled out his entrails, took them in both hands and hurled them at the crowds. Calling upon the Master of life and spirit to give these back to him again, he departed in this manner."
+          }
+        ]
+      },
+      {
+        "chapter": 15,
+        "chapterOptions": [
+          {
+            "selected": false,
+            "text": "2 Maccabees 1",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-1/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 2",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-2/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 3",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-3/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 4",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-4/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 5",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-5/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 6",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-6/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 7",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-7/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 8",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-8/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 9",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-9/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 10",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-10/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 11",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-11/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 12",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-12/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 13",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-13/"
+          },
+          {
+            "selected": false,
+            "text": "2 Maccabees 14",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-14/"
+          },
+          {
+            "selected": true,
+            "text": "2 Maccabees 15",
+            "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/chapter-15/"
+          }
+        ],
+        "currentNotes": 1,
+        "heading": "2 Maccabees 15",
+        "verses": [
+          {
+            "id": "v15-1",
+            "text": "15:1Nicanor learned that Judas and his men were in the regions of Samaria and planned to attack them in complete security on the day of rest."
+          },
+          {
+            "id": "v15-2",
+            "text": "15:2The Jews who were compelled to accompany him said, “Do not destroy so savagely and barbarously, but assign honour to the day that the One who watches all things has especially honoured with holiness.”"
+          },
+          {
+            "id": "v15-3",
+            "text": "15:3The thrice-accursed man asked whether there was a Sovereign in heaven who had commanded the observance of the Sabbath day."
+          },
+          {
+            "id": "v15-4",
+            "text": "15:4They declared, “The living Lord Himself is the Sovereign in heaven, who commanded that the seventh day be observed.”"
+          },
+          {
+            "id": "v15-5",
+            "text": "15:5But he said, “And I am a sovereign on earth, who commands that weapons be taken up and the king’s business carried out.” Nevertheless he did not succeed in accomplishing his cruel intention."
+          },
+          {
+            "id": "v15-6",
+            "text": "15:6Nicanor, holding his neck high in all arrogance, had determined to erect a common trophy over Judas and his men."
+          },
+          {
+            "id": "v15-7",
+            "text": "15:7But Maccabeus remained continually confident, with every hope of receiving help from the Lord."
+          },
+          {
+            "id": "v15-8",
+            "text": "15:8He urged those with him not to fear the nations’ advance, but to remember the help they had previously received from heaven and now expect the victory that would come to them from the Almighty."
+          },
+          {
+            "id": "v15-9",
+            "text": "15:9Encouraging them from the law and the prophets, and reminding them also of the struggles they had completed, he made them more eager."
+          },
+          {
+            "id": "v15-10",
+            "text": "15:10Arousing their spirits, he gave orders while also pointing out the nations’ faithlessness and violation of their oaths."
+          },
+          {
+            "id": "v15-11",
+            "text": "15:11Arming each of them with the encouragement of good words more than with the security of shields and lances, he also related a trustworthy dream, a kind of waking vision, and gladdened them all."
+          },
+          {
+            "id": "v15-12",
+            "text": "15:12Its vision was as follows: Onias, the former high priest, a noble and good man, modest in his encounters, gentle in character, speaking fittingly, and practiced from childhood in everything belonging to virtue, stretched out his hands and prayed for the whole community of the Jews."
+          },
+          {
+            "id": "v15-13",
+            "text": "15:13Then another man appeared, distinguished by gray hair and glory, surrounded by a wondrous and most magnificent majesty."
+          },
+          {
+            "id": "v15-14",
+            "text": "15:14Onias spoke and said, “This is the lover of the brothers, who prays much for the people and the holy city: Jeremiah, God’s prophet.”"
+          },
+          {
+            "id": "v15-15",
+            "text": "15:15Jeremiah stretched out his right hand and handed Judas a golden sword. As he gave it, he addressed him in these words:"
+          },
+          {
+            "id": "v15-16",
+            "text": "15:16“Take this holy sword, a gift from God, with which you will shatter the adversaries.”"
+          },
+          {
+            "id": "v15-17",
+            "text": "15:17Encouraged by Judas’s very fine words, which could incite them to virtue and strengthen the young men’s souls, they decided not to campaign, but to charge nobly and, engaging with all courage, decide the matter, because the city, the holy things and the temple were in danger."
+          },
+          {
+            "id": "v15-18",
+            "text": "15:18For concern for wives and children, and also brothers and kinsmen, occupied a lesser place with them; greatest and foremost was their fear for the consecrated temple."
+          },
+          {
+            "id": "v15-19",
+            "text": "15:19Those confined within the city also had no minor anguish, troubled about the attack in the open country."
+          },
+          {
+            "id": "v15-20",
+            "text": "15:20Everyone was now awaiting the coming decision. The enemy had already approached, the army had been drawn up, the beasts positioned at a suitable point, and the cavalry stationed on the wing."
+          },
+          {
+            "id": "v15-21",
+            "text": "15:21Maccabeus saw the arrival of the multitudes, their varied equipment of weapons, and the beasts’ savagery. Stretching his hands toward heaven, he called upon the wonder-working Lord, knowing that victory does not come through weapons, but that He obtains it for the worthy as He judges."
+          },
+          {
+            "id": "v15-22",
+            "text": "15:22He called upon Him in this way: “Thou, Master, didst send Thine angel in the time of Hezekiah, king of Judea, and he killed about one hundred eighty-five thousand in Sennacherib’s camp."
+          },
+          {
+            "id": "v15-23",
+            "text": "15:23Now also, Sovereign of the heavens, send a good angel before us to bring dread and trembling."
+          },
+          {
+            "id": "v15-24",
+            "text": "15:24By the greatness of Thine arm, may those who come with blasphemy against Thy holy people be struck with terror.” With these words he ended."
+          },
+          {
+            "id": "v15-25",
+            "text": "15:25Nicanor’s men advanced with trumpets and battle hymns."
+          },
+          {
+            "id": "v15-26",
+            "text": "15:26But Judas’s men met the enemy with invocation and prayers."
+          },
+          {
+            "id": "v15-27",
+            "text": "15:27Fighting with their hands and praying to God with their hearts, they struck down no fewer than thirty-five thousand, greatly gladdened by God’s manifestation."
+          },
+          {
+            "id": "v15-28",
+            "text": "15:28When they had finished the engagement and were returning with joy, they recognized that Nicanor had fallen in his full armour."
+          },
+          {
+            "id": "v15-29",
+            "text": "15:29Amid shouting and commotion, they blessed the Sovereign in their ancestral language."
+          },
+          {
+            "id": "v15-30",
+            "text": "15:30The man who had fought foremost for his fellow citizens with his whole body and soul, preserving the goodwill of his youth toward his countrymen, ordered Nicanor’s head and his hand with the shoulder to be cut off and carried to Jerusalem."
+          },
+          {
+            "id": "v15-31",
+            "text": "15:31When he arrived there, he called his fellow countrymen together, stationed the priests before the altar, and sent for those in the citadel."
+          },
+          {
+            "id": "v15-32",
+            "text": "15:32He displayed the defiled Nicanor’s head and the blasphemer’s hand, which he had stretched out against the holy house of the Almighty while boasting."
+          },
+          {
+            "id": "v15-33",
+            "text": "15:33He cut out the impious Nicanor’s tongue and said that it should be given piece by piece to the birds, and that the rewards of his folly should be hung opposite the temple."
+          },
+          {
+            "id": "v15-34",
+            "text": "15:34They all blessed the manifested Lord toward heaven, saying, “Blessed is He who has preserved His own place undefiled.”"
+          },
+          {
+            "id": "v15-35",
+            "text": "15:35He hung Nicanor’s head from the citadel as an evident and visible sign to everyone of the Lord’s help."
+          },
+          {
+            "id": "v15-36",
+            "text": "15:36By a common vote they all decreed that this day must never be left unmarked, but that they should specially observe the thirteenth day of the twelfth month, called Adar in the Syrian language, one day before Mordecai’s day."
+          },
+          {
+            "id": "v15-37",
+            "text": "15:37Since the matters concerning Nicanor unfolded in this way, and from that time the city was held by the Hebrews, I too will end my account here."
+          },
+          {
+            "id": "v15-38",
+            "text": "15:38If it is well composed and to the point, that is what I myself desired; if it is slight and mediocre, that is what I could achieve."
+          },
+          {
+            "id": "v15-39",
+            "text": "15:39For drinking wine by itself, and likewise water by itself, is harmful; but just as wine mixed with water is sweet and produces a delightful pleasure, so the arrangement of the account delights the ears of those who encounter the composition. Here shall be the end."
+          }
+        ]
+      }
+    ],
+    "index": {
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/",
+      "edition": "Bespoke Saints English Translation · 15 chapters · Provisional editorial edition · 14 October 2026",
+      "editorialGuide": "Bespoke Saints English editorial guide",
+      "heading": "2 Maccabees"
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "Whitespace and WordPress apostrophe typography only; visible verse numbers excluded."
+  },
+  "comparison_checks": [
+    {
+      "id": 2439,
+      "title": "2 Maccabees — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/editorial-guide/",
+      "before_content_hash": "7b90badfc6c7519159388113438ac6598d92dfb5",
+      "after_content_hash": "7b90badfc6c7519159388113438ac6598d92dfb5",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3805,
+      "title": "2 Maccabees — Latin–Greek Comparison",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/comparison-edition/",
+      "before_content_hash": "c76eb47480fe7e0309a578d396590279db533759",
+      "after_content_hash": "c76eb47480fe7e0309a578d396590279db533759",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 18873,
+      "title": "2 Maccabees — Disparate Study: Scope and Reception",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/disparate-study/",
+      "before_content_hash": "492e8d2d9aad3b1a83e577b50d347b120d3ce178",
+      "after_content_hash": "492e8d2d9aad3b1a83e577b50d347b120d3ce178",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 21114,
+      "title": "2 Maccabees — King James Bible and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/kjv-comparison/",
+      "before_content_hash": "e0f353d95c2565f56f4cb0684087693fe21feb03",
+      "after_content_hash": "e0f353d95c2565f56f4cb0684087693fe21feb03",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 23456,
+      "title": "2 Maccabees — Study Edition",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/judgement/2-maccabees/study/",
+      "before_content_hash": "6e42eeeeaa7386e1439d3fa988636531890fa699",
+      "after_content_hash": "6e42eeeeaa7386e1439d3fa988636531890fa699",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 555,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 16 edited pages and 5 reference pages, plus 5 reference hash snapshots. All five reference pages were retrieved in full; their hashes were captured and remained unchanged. This is a book archive, not a full-site backup."
+}

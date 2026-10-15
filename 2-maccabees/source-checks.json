@@ -1,0 +1,145 @@
+{
+  "book": "2 Maccabees",
+  "date": "2026-10-14",
+  "edition": "Rahlfs–Hanhart 2006; German Bible Society online running text",
+  "authorization": "User authorized provisional continuation with Rahlfs–Hanhart; Göttingen not obtained.",
+  "scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+  "historical_records": "Existing index and reference records were consulted as historical reference, not proof of fresh complete Greek verification.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2MA.1",
+      "focus": "1:1,11–12,14,20,23–27,29,32,36",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address in the festival instructions. Preserved Thy/Thou in the prayer and made the accompanying direct-address verb forms consistent: dost preserve and didst choose/sanctify. Retained repeated Lord and priest expressions, the thick-water account, narrative first-person shift, divine titles, and Nephthar/Nephthai distinction.",
+      "pending": "Prayer-title syntax at 1:24–25, the battle clause at 1:11, the narrative voice at 1:20, Jonathan/Nehemiah syntax at 1:23, flame/light relation at 1:32, and complete critical collation."
+    },
+    {
+      "chapter": 2,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2MA.2",
+      "focus": "2:7,10–11,17–18,24,26,29,31",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized human address and third-person gathers/becomes/involves/belongs. Preserved the distinctive Moses/fire statement, the unfinished construction spanning 2:17–18, kingship/priesthood/sanctification, sweat and sleeplessness, numerical-material expression and architectural/painting comparison.",
+      "pending": "Syntax at 2:17–18, historical-scriptural relation of 2:10–11, figures at 2:24, encaustic vocabulary at 2:29, and full apparatus review. Historical notes remain separate."
+    },
+    {
+      "chapter": 3,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2MA.3",
+      "focus": "3:4,7,15,24–25,28,31,33–34,38–39",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized human address and third-person verbs; replaced aforesaid with clear that references. Clarified the collapse into faintness/cowardice and construed 3:31 as asking Onias to call on the Most High to grant life. Preserved the Lord as heavenly Overseer, Benjamin, monetary totals and the theophany’s horse, armour and repeated young men.",
+      "pending": "Market-administration terminology at 3:4, agency/infinitive relation in the intercession at 3:31, propitiation terminology and complete critical collation."
+    },
+    {
+      "chapter": 4,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2MA.4",
+      "focus": "4:1,3–4,14,18,20,34,37,40,47",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized the backward reference at 4:1 and rendered the awkward good order phrase as admirable conduct at 4:37. Kept all names, amounts, fifth-year festival wording, right-hand pledge and violent imagery.",
+      "pending": "4:14 athletic provision/discus terminology, 4:34 subject sequence, 4:37 ethical vocabulary and full apparatus require specialist review."
+    },
+    {
+      "chapter": 5,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2MA.5",
+      "focus": "5:2–3,9,14,16,19–21,24,27",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained the existing English throughout. Preserved visions, repeated profane hands, casualty and slave counts, nation/place contrast, reconciliation language, land/sea inversion and the company of approximately ten.",
+      "pending": "5:14 numerical construction, 5:24 Mysarch title and full textual collation remain pending."
+    },
+    {
+      "chapter": 6,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2MA.6",
+      "focus": "6:1–2,12,14,16–17,19–20,23–24,26,30",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized third-person verbs and ordinary possessives. Smoothed the narrator’s transition at 6:17 while retaining its limited reminder and return to narrative. Preserved discipline/destruction contrast, Hades, bodily torment and soul language.",
+      "pending": "6:1 Athenian identification, 6:19–20 syntax/torture terminology and full apparatus require specialist review."
+    },
+    {
+      "chapter": 7,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2MA.7",
+      "focus": "7:6,9,14,16,21–23,28,30,34,36–38,42",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary speech to the king and third-person verbs; smoothed the concluding narrative formula. Preserved resurrection distinctions, the creation phrase not from things that were, gendered imagery, covenant wording and anger coming to rest without doctrinal expansion.",
+      "pending": "7:6 consolation wording, 7:36 covenant syntax, 7:42 sacrificial-eating term and full apparatus require specialist review."
+    },
+    {
+      "chapter": 8,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2MA.8",
+      "focus": "8:3,7,11,18,20,22–23,29,33,36",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained the English text, including crying blood, nights as allies, repeated bodies for sale, God’s nod, military numbers, reconciliation and the Defender claim.",
+      "pending": "8:20 military totals, 8:22–23 Eleazar and reading syntax, 8:33 burning clause and complete collation need specialist review."
+    },
+    {
+      "chapter": 9,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2MA.9",
+      "focus": "9:4–5,8,12–13,17,20–21,27,29",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary plural address in the king’s letter. Kept divine judgment imagery, the indirect vows, body details and the awkward opening of the letter without supplying a missing clause.",
+      "pending": "9:20–21 letter syntax, illness narration and full apparatus review remain pending."
+    },
+    {
+      "chapter": 10,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2MA.10",
+      "focus": "10:3–4,7,13,20,26,28–31,35,37",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained the chapter wording. Kept heated stones, two-year interval, paired enemy/opponent language, five horsemen, lightning, casualty figures and the named people killed.",
+      "pending": "10:3 fire-making wording, 10:13 syntax, 10:29–30 appearance and subject sequence, and textual/historical problems require independent review."
+    },
+    {
+      "chapter": 11,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2MA.11",
+      "focus": "11:3,5,8,10,14,20–21,23,26,30–31,34,37–38",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary singular/plural letter address, third-person verbs and my own. Retained five stadia, ancient dates, royal apotheosis language, named Roman envoys and pledge terminology.",
+      "pending": "11:5 distance, 11:10 ally’s referent, letter dates/names and full apparatus remain pending; no chronological harmonization."
+    },
+    {
+      "chapter": 12,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2MA.12",
+      "focus": "12:9–12,15–17,22,24–26,28,35–36,40–45",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized third-person verbs. Preserved ancient units and names, difficult hostage wording, bodily violence, two thousand drachmas, prayer for the dead, resurrection reasoning and atonement wording without importing later theology.",
+      "pending": "12:24 hostage threat, 12:35 injury wording, 12:43–45 syntax, textual variants and doctrinal reception require specialist review."
+    },
+    {
+      "chapter": 13,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2MA.13",
+      "focus": "13:2,5–6,8,14–15,17,21–22,24,26",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Retained all English units. Preserved each force’s numbers, tower and ashes imagery, military watchword, pledge exchange, named officials and the rapid succession of actions.",
+      "pending": "13:2 each force wording, 13:5 tower mechanism, 13:15 elephant rider and 13:24 geographical range require apparatus and specialist review."
+    },
+    {
+      "chapter": 14,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2MA.14",
+      "focus": "14:3–4,7–10,15,17,26,33–36,38,42,46",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary address to the king, possessives, backward reference and third-person verbs. Retained Thou/Thy in direct prayer, sudden silence, separation language and the entire Razis account without softening or adding commentary.",
+      "pending": "14:3,38 separation wording, 14:17 sudden silence, 14:26 successor claim and full textual/reception review remain pending."
+    },
+    {
+      "chapter": 15,
+      "english_review": "Every existing reading unit individually read; English clarity, cadence and consistency reviewed.",
+      "url": "https://www.die-bibel.de/en/bible/LXX/2MA.15",
+      "focus": "15:2,5–6,11,14,16–17,21–24,27,32–34,36–39",
+      "running_text_read": "Selected verses only; not a complete Greek collation.",
+      "decision": "Modernized ordinary and third-person forms; used will for the promise to Judas. Preserved Thou/Thine/Thy in direct prayer, Onias and Jeremiah’s intercession, the golden sword, body imagery, casualty count, ancient festival date and wine-water closing image.",
+      "pending": "15:11 dream/waking vision, 15:17 campaign/charge contrast, 15:21 victory syntax and complete apparatus and reception review remain pending."
+    }
+  ]
+}
