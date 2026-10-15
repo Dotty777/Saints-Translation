@@ -1,0 +1,725 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 55 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 3,
+    "reading_sections": 3,
+    "changed_verse_units": 43,
+    "source_scope": "Rahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "3029e8e5fba089a9c7446f6385bf6b6d4de6b0af2ddeba667934ee164c2517b9"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 14,
+      "changed": 13,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 17,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 24,
+      "changed": 18,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 3067,
+      "chapter": 1,
+      "modified": "2026-10-15T05:41:49",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "763c83577bf71ab207398d491e7f3d30a375225962b7364cdc0c65103acaea52"
+    },
+    {
+      "id": 3070,
+      "chapter": 2,
+      "modified": "2026-10-15T05:41:56",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "1b30b104eb56f0a49afb5d28a78409aa5d3a6cbf38d1b6bfdaa49997fe1ad3a1"
+    },
+    {
+      "id": 3072,
+      "chapter": 3,
+      "modified": "2026-10-15T05:42:09",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "1420a893cc8eb1f7a7645c50386a1a8eea0040317464ad16a12242cffba1fdbe"
+    },
+    {
+      "id": 3065,
+      "chapter": null,
+      "modified": "2026-10-15T05:42:16",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "0f3d51e98bc0cbd757fbe4b70b253ac906dc4678062088a20e3401ed9051f59e"
+    }
+  ],
+  "browser_checks": {
+    "chapters": [
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-14/",
+            "label": "Previous chapter, Zechariah 14",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-2/",
+            "label": "Next chapter, Malachi 2",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/zechariah/chapter-14/",
+            "text": "← Zechariah 14"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/",
+            "text": "Malachi: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-2/",
+            "text": "Malachi 2 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/malachi/1/",
+            "text": "All 279 cross-references for Malachi 1, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v1-1",
+            "text": "1:1A pronouncement of the word of the Lord concerning Israel through His messenger. Take it to your hearts!"
+          },
+          {
+            "id": "v1-2",
+            "text": "1:2“I have loved you,” says the Lord. But you said, “How hast Thou loved us?” “Was not Esau Jacob’s brother?” says the Lord. “Yet I loved Jacob,"
+          },
+          {
+            "id": "v1-3",
+            "text": "1:3but Esau I hated. I appointed his territories for desolation and his inheritance as gifts of a wilderness.”"
+          },
+          {
+            "id": "v1-4",
+            "text": "1:4Because Idumea will say, “It has been overthrown; let us return and rebuild the deserted places,” thus says the Lord Almighty: “They will build, but I will overthrow. They will be called ‘Territories of Lawlessness’ and ‘A People Against Whom the Lord Has Drawn Up His Forces Forever.’”"
+          },
+          {
+            "id": "v1-5",
+            "text": "1:5Your eyes will see, and you yourselves will say, “The Lord has been magnified beyond Israel’s territories!”"
+          },
+          {
+            "id": "v1-6",
+            "text": "1:6“A son honors his father, and a slave his master. If I am a father, where is My honor? If I am a master, where is the fear of Me?” says the Lord Almighty. You priests who belittle My name! But you said, “How have we belittled Thy name?”"
+          },
+          {
+            "id": "v1-7",
+            "text": "1:7“By bringing polluted loaves to My altar.” But you said, “How have we polluted them?” “By your saying, ‘The Lord’s table is despised, and the foods placed upon it are despised.’”"
+          },
+          {
+            "id": "v1-8",
+            "text": "1:8“For if you bring a blind animal for sacrifice, is that not evil? If you bring one that is lame or sick, is that not evil? Bring it, then, to your ruler! Will he accept it? Will he show you favor?” says the Lord Almighty."
+          },
+          {
+            "id": "v1-9",
+            "text": "1:9“And now appease the face of your God and plead with Him. These things have happened in your hands. Will I show favor to any of you?” says the Lord Almighty."
+          },
+          {
+            "id": "v1-10",
+            "text": "1:10“For even among you doors will be shut, and you will not kindle My altar for nothing. I have no desire for you,” says the Lord Almighty, “and I will not accept a sacrifice from your hands.”"
+          },
+          {
+            "id": "v1-11",
+            "text": "1:11“For from the sun’s rising to its setting, My name has been glorified among the nations, and in every place incense is brought to My name, together with a pure sacrifice, because My name is great among the nations,” says the Lord Almighty."
+          },
+          {
+            "id": "v1-12",
+            "text": "1:12“But you profane it by your saying, ‘The Lord’s table is polluted, and the foods placed upon it are despised.’"
+          },
+          {
+            "id": "v1-13",
+            "text": "1:13“And you said, ‘These things are from hardship,’ and I blew them away,” says the Lord Almighty. “You were bringing things seized by force, the lame and the afflicted. If you bring the sacrifice, shall I accept these things from your hands?” says the Lord Almighty."
+          },
+          {
+            "id": "v1-14",
+            "text": "1:14“Cursed is one who was able, and had a male in his flock and a vow concerning it, yet sacrifices a damaged animal to the Lord. For I am a great King,” says the Lord Almighty, “and My name is manifest among the nations.”"
+          }
+        ],
+        "chapter": 1,
+        "section": 1,
+        "page_id": 3067,
+        "title": "Malachi 1",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-1/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 3,
+        "selected_chapter": "Malachi 1"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-1/",
+            "label": "Previous chapter, Malachi 1",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-3/",
+            "label": "Next chapter, Malachi 3",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-1/",
+            "text": "← Malachi 1"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/",
+            "text": "Malachi: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-3/",
+            "text": "Malachi 3 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/malachi/2/",
+            "text": "All 360 cross-references for Malachi 2, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v2-1",
+            "text": "2:1“And now this command is for you, priests."
+          },
+          {
+            "id": "v2-2",
+            "text": "2:2If you do not listen and do not take it into your hearts to give glory to My name,” says the Lord Almighty, “I will send out the curse upon you, and I will curse your blessing, and I will curse it. I will scatter your blessing, and it will not be among you, because you do not take it into your hearts."
+          },
+          {
+            "id": "v2-3",
+            "text": "2:3Look, I am setting apart the shoulder for you, and I will scatter the stomach on your faces, the stomach of your festivals, and I will take you to the same place."
+          },
+          {
+            "id": "v2-4",
+            "text": "2:4You will recognize that I have sent out this command to you, so that My covenant might be with the Levites,” says the Lord Almighty."
+          },
+          {
+            "id": "v2-5",
+            "text": "2:5“My covenant with him was of life and peace, and I gave it to him in fear, to fear Me and to shrink back before My name."
+          },
+          {
+            "id": "v2-6",
+            "text": "2:6A law of truth was in his mouth, and injustice was not found on his lips. Directing his way in peace, he walked with Me and turned many back from injustice."
+          },
+          {
+            "id": "v2-7",
+            "text": "2:7For a priest’s lips will guard knowledge, and people will seek law from his mouth, because he is the messenger of the Lord Almighty."
+          },
+          {
+            "id": "v2-8",
+            "text": "2:8But you have turned aside from the way and weakened many through the law; you have corrupted the covenant of Levi,” says the Lord Almighty."
+          },
+          {
+            "id": "v2-9",
+            "text": "2:9“And I have made you despised and neglected among all the nations, because you did not guard My ways but showed partiality in the law.”"
+          },
+          {
+            "id": "v2-10",
+            "text": "2:10Did not one God create you? Is there not one Father of you all? Why have you each abandoned your brother, so as to profane the covenant of your fathers?"
+          },
+          {
+            "id": "v2-11",
+            "text": "2:11Judah has been abandoned, and an abomination has occurred in Israel and Jerusalem, because Judah profaned the Lord’s holy things, in which he delighted, and devoted himself to foreign gods."
+          },
+          {
+            "id": "v2-12",
+            "text": "2:12The Lord will destroy the person who does these things, until he is also humbled away from Jacob’s dwellings and from those who bring a sacrifice to the Lord Almighty."
+          },
+          {
+            "id": "v2-13",
+            "text": "2:13And you were doing these things that I hated: you covered the Lord’s altar with tears, with weeping and groaning from hardships. Is it still fitting to look toward a sacrifice or accept it from your hands?"
+          },
+          {
+            "id": "v2-14",
+            "text": "2:14And you said, “For what reason?” Because the Lord bore witness between you and the wife of your youth, whom you abandoned, though she is your partner and the wife of your covenant."
+          },
+          {
+            "id": "v2-15",
+            "text": "2:15And no other did it, and there was a remnant of his spirit. And you said, “What else does God seek but offspring?” So guard your spirit, and do not abandon the wife of your youth."
+          },
+          {
+            "id": "v2-16",
+            "text": "2:16But if, after hating her, you send her away, says the Lord, the God of Israel, impiety will cover your thoughts, says the Lord Almighty. So guard your spirit, and you must not abandon."
+          },
+          {
+            "id": "v2-17",
+            "text": "2:17You who provoke God with your words! And you said, “How have we provoked Him?” By your saying, “Everyone who does evil is good before the Lord, and He has delighted in them,” and, “Where is the God of righteousness?”"
+          }
+        ],
+        "chapter": 2,
+        "section": 2,
+        "page_id": 3070,
+        "title": "Malachi 2",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-2/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 3,
+        "selected_chapter": "Malachi 2"
+      },
+      {
+        "currentNotes": 1,
+        "navigation": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-2/",
+            "label": "Previous chapter, Malachi 2",
+            "text": "← Previous"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-1/",
+            "label": "Next chapter, Matthew 1",
+            "text": "Next →"
+          }
+        ],
+        "readingLinks": [
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-2/",
+            "text": "← Malachi 2"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/",
+            "text": "Malachi: all chapters"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/salvation/matthew/chapter-1/",
+            "text": "Matthew 1 →"
+          },
+          {
+            "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/study-guides/cross-references/malachi/3/",
+            "text": "All 638 cross-references for Malachi 3, with the text of each passage →"
+          }
+        ],
+        "verses": [
+          {
+            "id": "v3-1",
+            "text": "3:1“Look, I am sending out My messenger, and he will look to a way before My face. Suddenly the Lord whom you seek will come to His own sanctuary, and the messenger of the covenant whom you desire. Look, he is coming,” says the Lord Almighty."
+          },
+          {
+            "id": "v3-2",
+            "text": "3:2And who will endure the day of his entrance? Or who will stand at his appearance? For he enters like a smelting fire and like launderers’ herb."
+          },
+          {
+            "id": "v3-3",
+            "text": "3:3He will sit, smelting and purifying as with silver and gold. He will cleanse the sons of Levi and melt them like gold and silver, and they will be those who bring a sacrifice to the Lord in righteousness."
+          },
+          {
+            "id": "v3-4",
+            "text": "3:4And the sacrifice of Judah and Jerusalem will please the Lord, as in the days of old and as in the former years."
+          },
+          {
+            "id": "v3-5",
+            "text": "3:5“I will draw near to you in judgment, and I will be a swift witness against sorceresses, adulteresses and those who swear falsely by My name, against those who withhold a hired worker’s wages, those who oppress a widow, those who strike orphans with their fists, those who turn aside the judgment of a sojourner, and those who do not fear Me,” says the Lord Almighty."
+          },
+          {
+            "id": "v3-6",
+            "text": "3:6“For I am the Lord your God, and I have not changed. But you, sons of Jacob, do not refrain"
+          },
+          {
+            "id": "v3-7",
+            "text": "3:7from the injustices of your fathers. You have turned aside from My ordinances and have not guarded them. Return to Me, and I will return to you,” says the Lord Almighty. And you said, “How shall we return?”"
+          },
+          {
+            "id": "v3-8",
+            "text": "3:8“Will a human defraud God? Yet you are defrauding Me.” And you will say, “How have we defrauded Thee?” “Because the tithes and the firstfruits are with you."
+          },
+          {
+            "id": "v3-9",
+            "text": "3:9And you keep looking away, yet you are defrauding Me. The nation has been brought to an end."
+          },
+          {
+            "id": "v3-10",
+            "text": "3:10And you brought all the produce dues into the storehouses, and his plunder will be in his house. Examine, then, by this,” says the Lord Almighty, “whether I will not open heaven’s floodgates for you and pour out My blessing for you until there is enough."
+          },
+          {
+            "id": "v3-11",
+            "text": "3:11And I will give you instructions for food, and I will certainly not destroy the fruit of your land, and your vine in the field will certainly not grow weak,” says the Lord Almighty."
+          },
+          {
+            "id": "v3-12",
+            "text": "3:12“All the nations will call you blessed, because you will be a desirable land,” says the Lord Almighty."
+          },
+          {
+            "id": "v3-13",
+            "text": "3:13“You have made your words heavy against Me,” says the Lord. And you said, “How have we spoken against Thee?”"
+          },
+          {
+            "id": "v3-14",
+            "text": "3:14You said, “The one who serves God is futile. What advantage is there because we guarded His observances and because we walked as supplicants before the Lord Almighty?"
+          },
+          {
+            "id": "v3-15",
+            "text": "3:15And now we call outsiders blessed. All who practice lawlessness are being built up; they opposed God and were saved.”"
+          },
+          {
+            "id": "v3-16",
+            "text": "3:16Those who feared the Lord spoke these things, each to his neighbor. The Lord paid attention and listened, and He wrote a book of remembrance before Him for those who feared the Lord and revered His name."
+          },
+          {
+            "id": "v3-17",
+            "text": "3:17“They will be Mine,” says the Lord Almighty, “for a day that I am making for an acquisition, and I will choose them as a man chooses his son who serves him."
+          },
+          {
+            "id": "v3-18",
+            "text": "3:18And you will return and see the distinction between the righteous and the lawless, and between one who serves God and one who does not serve."
+          },
+          {
+            "id": "v3-19",
+            "text": "3:19For look, the day of the Lord is coming, burning like an oven, and it will burn them. All the foreigners and all who practice lawlessness will be straw, and the coming day will ignite them,” says the Lord Almighty, “and neither root nor branch will remain from them."
+          },
+          {
+            "id": "v3-20",
+            "text": "3:20But for you who fear My name, a sun of righteousness will rise, and healing in its wings; you will go out and leap like little calves released from bonds."
+          },
+          {
+            "id": "v3-21",
+            "text": "3:21You will trample the lawless, because they will be ashes beneath your feet on the day that I am making,” says the Lord Almighty."
+          },
+          {
+            "id": "v3-22",
+            "text": "3:22“And look, I am sending you Elijah the Tishbite before the coming of the Lord’s great and manifest day,"
+          },
+          {
+            "id": "v3-23",
+            "text": "3:23who will restore a father’s heart toward a son and a person’s heart toward his neighbor, lest I come and strike the land utterly.”"
+          },
+          {
+            "id": "v3-24",
+            "text": "3:24“All of you, remember the law of Moses My servant, as I commanded him at Horeb for all Israel, ordinances and judgments.”"
+          }
+        ],
+        "chapter": 3,
+        "section": 3,
+        "page_id": 3072,
+        "title": "Malachi 3",
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-3/",
+        "chapter_navigation_matches": true,
+        "chapter_option_count": 3,
+        "selected_chapter": "Malachi 3"
+      }
+    ],
+    "index": {
+      "links": [
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-1/",
+          "text": "Chapter 1\nGod’s love and the pure offering"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-2/",
+          "text": "Chapter 2\nFaithless priests and marriages"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-3/",
+          "text": "Chapter 3\nThe messenger and the Day of the Lord"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-1/#v1-11",
+          "text": "Malachi 1:11"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-3/#v3-1",
+          "text": "Malachi 3:1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-3/#v3-23",
+          "text": "Malachi 3:23"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/study/",
+          "text": "Open the Malachi study edition →"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/#saints-ref-1-1",
+          "text": "[1]"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/#",
+          "text": "Suggest a correction"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-1/",
+          "text": "Begin reading →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-1/",
+          "text": "1\nMalachi 1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-2/",
+          "text": "2\nMalachi 2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-3/",
+          "text": "3\nMalachi 3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/comparison-edition/2/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/comparison-edition/2/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/comparison-edition/3/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/comparison-edition/4/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/comparison-edition/",
+          "text": "Jewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/vulgate-comparison/",
+          "text": "Catholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/kjv-comparison/",
+          "text": "Protestant King James Bible\nCompared with the Saints Translation\nOpen comparison"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/kjv-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/kjv-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/kjv-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/kjv-comparison/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/comparison-edition/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/comparison-edition/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/comparison-edition/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/vulgate-comparison/2/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/vulgate-comparison/3/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/vulgate-comparison/4/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/vulgate-comparison/5/",
+          "text": "4"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-1/",
+          "text": "1"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-2/",
+          "text": "2"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-3/",
+          "text": "3"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/editorial-guide/",
+          "text": "Read the editorial guide for Malachi →"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/disparate-study/",
+          "text": "Malachi — Disparate Study"
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-1/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-2/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-3/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-1/#v1-11",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-3/#v3-1",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-3/#v3-23",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/study/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/editorial-guide/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/disparate-study/",
+          "text": ""
+        },
+        {
+          "href": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/#saints-ref-1-cite-1",
+          "text": "↑"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "CC BY-SA 4.0"
+        }
+      ],
+      "text": "Malachi\n\nBespoke Saints English Translation · 3 chapters · Provisional editorial edition · 15 October 2026\n\nDraft for review. Only editors can see this introduction. Approve all introductions under Settings → Saints Study.\n\nINTRODUCTION\n\nIntroducing Malachi\n\nMalachi, the last of the Twelve Prophets, rebukes careless worship and broken faith among the returned exiles. It ends by promising the messenger who prepares the way and the return of Elijah.\n\nSETTING\nAddressed to the community in Jerusalem, where priests and people had grown weary and lax in worship and marriage.\nAUTHOR\nMalachi means ‘my messenger’; it may be a personal name or a title. Nothing else is known of the author.\nDATE\nProbably mid-5th century BC, after the second temple was rebuilt.\nOutline\nChapter 1\nGod’s love and the pure offering\nChapter 2\nFaithless priests and marriages\nChapter 3\nThe messenger and the Day of the Lord\nKey passages\nMalachi 1:11 — A pure offering among the nations\nMalachi 3:1 — I send my messenger\nMalachi 3:23 — Elijah before the great day\nThemes\nGod’s covenant love\nWorthy worship\nFaithfulness in marriage\nPreparing for the Lord’s coming\nRead in the light of Christ\n\nJesus identified John the Baptist as the promised messenger and Elijah, and Fathers such as Irenaeus saw the pure offering among the nations as the Eucharist.\n\nOpen the Malachi study edition →\n\nIntroduction by Saints.Bible · CC BY-SA 4.0[1] · Suggest a correction\n\nFind a chapter\n\n6 links. Choose a section to browse.\n\nREAD\nMalachi · Reading\n3 chapters\nBegin reading →\n1\nMalachi 1\n2\nMalachi 2\n3\nMalachi 3\nSTUDY\nMalachi · Comparisons\n3 chapters and study sections\n\nCompare Malachi with the Saints Translation\n\nJewish–Hebrew Masoretic Text\nCompared with the Saints Translation\nOpen comparison\nCatholic Latin Vulgate\nCompared with the Saints Translation\nOpen comparison\nProtestant King James Bible\nCompared with the Saints Translation\nOpen comparison\n\nGO STRAIGHT TO A CHAPTER\n\nKJV & Greek\n1\n2\n3\n4\nHebrew & Greek\n1\n2\n3\nLatin Vulgate\n1\n2\n3\n4\nSaints Translation: sources and study approach\nEditorial guide\n\nRead the editorial guide for Malachi →\n\nCurrent Bespoke editorial guide\n\nAll 3 chapters, comprising 55 existing verse units, have received the Bespoke English editorial pass: 43 revised and 12 retained. Source-specific numbering, names, repetitions and verse anchors are preserved. The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.\n\nRahlfs–Hanhart 2006 remains the user-authorized provisional base. Focused checks of the publisher’s Greek running text are recorded by chapter. This is an English editorial revision, not a complete critical-text or apparatus verification. Göttingen, full apparatus, independent Greek and human read-aloud reviews remain pending. All English verse units were individually reviewed, and the full displayed Greek running text was read chapter by chapter with focused comparison of the recorded features. This does not constitute exhaustive critical-text verification.\n\nThe newer Bespoke PDF governs this reading edition. Saints Translation literal-smooth and all comparison/study streams remain separate and unchanged. Notes are separated from Scripture. Earlier source and wording notes are historical records and may quote superseded wording or pronouns; the dated current Bespoke notes explain this revision. The earlier editorial guide remains linked as a historical reference and does not override the newer PDF.\n\nAll 55 verse units retain the Greek sequence: 14, 17 and 24 per chapter. The book ends with Moses at 3:24 after Elijah; it is not renumbered into a different four-chapter sequence. Direct address to God retains Thou/Thee/Thy, while ordinary address uses you/your. Verse anchors, links, emblems, historical records, images, repetitions and meaningful number/tense are preserved. The difficult clauses at 2:15–16 and 3:10–17 remain explicitly provisional. Historical comparison and study streams are separate and unchanged; the newer Bespoke PDF governs.\n\nMalachi — Disparate Study\n\nRead both complete source readings before five commentary paragraphs for every Disparate entry in this book.\n\nExplore links from this page\nScripture\nFootnotes\n↑CC BY-SA 4.0 — creativecommons.org",
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "Whitespace and WordPress apostrophe typography only; visible verse numbers and preserved trailing footnote callouts excluded.",
+    "chapter_navigation": [
+      {
+        "text": "Malachi 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-1/"
+      },
+      {
+        "text": "Malachi 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-2/"
+      },
+      {
+        "text": "Malachi 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/chapter-3/"
+      }
+    ],
+    "visual_capture": "Every saved reading page received rendered DOM text and navigation checks. Screenshot capture was unavailable because the browser reported a zero-width viewport; no visual screenshot inspection is claimed for this book."
+  },
+  "comparison_checks": [
+    {
+      "id": 23864,
+      "title": "Malachi — Study Edition",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/study/",
+      "before_content_hash": "c822cd7299e3046d90a004a55d92fd6d25292171",
+      "after_content_hash": "c822cd7299e3046d90a004a55d92fd6d25292171",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20754,
+      "title": "Malachi — King James Bible and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/kjv-comparison/",
+      "before_content_hash": "06b9f032883b00b4d3288ffeb97ceec17ffc21e5",
+      "after_content_hash": "06b9f032883b00b4d3288ffeb97ceec17ffc21e5",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20753,
+      "title": "Malachi — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/vulgate-comparison/",
+      "before_content_hash": "1b6bfe9487521966d85dd61d7e8e0cc966fb00be",
+      "after_content_hash": "1b6bfe9487521966d85dd61d7e8e0cc966fb00be",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 18643,
+      "title": "Malachi — Disparate Study",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/disparate-study/",
+      "before_content_hash": "b364118687ec023950c2ee7f9793338a03d3e021",
+      "after_content_hash": "b364118687ec023950c2ee7f9793338a03d3e021",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3811,
+      "title": "Malachi — Hebrew and Greek compared",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/comparison-edition/",
+      "before_content_hash": "557ea3679810f42b713599ceb67a08891dc3e1dc",
+      "after_content_hash": "557ea3679810f42b713599ceb67a08891dc3e1dc",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3073,
+      "title": "Malachi — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/providence/malachi/editorial-guide/",
+      "before_content_hash": "5397692e086b07f28e60dc8d031153487b629806",
+      "after_content_hash": "5397692e086b07f28e60dc8d031153487b629806",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 55,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 4 edited pages and all 6 reference pages, plus 6 reference hash snapshots. This is a book archive, not a full-site backup."
+}

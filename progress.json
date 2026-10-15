@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 42,
-  "pending_book_revisions": 28,
-  "next_book": "Malachi",
+  "completed_book_records": 43,
+  "pending_book_revisions": 27,
+  "next_book": "Matthew",
   "full_bible_complete": false,
   "books": [
     {
@@ -447,8 +447,12 @@
       "order": 43,
       "book": "Malachi",
       "staging_path": "/bible/providence/malachi/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "malachi/",
+      "chapters": 3,
+      "reading_sections": 3,
+      "verse_units": 55,
+      "wording_changes": 43
     },
     {
       "order": 44,
@@ -658,19 +662,21 @@
       "Habakkuk",
       "Zephaniah",
       "Haggai",
-      "Zechariah"
+      "Zechariah",
+      "Malachi"
     ],
-    "pending_books": 1,
-    "next_book": "Malachi",
+    "pending_books": 0,
+    "next_book": "Matthew",
     "status": "English editorial and staging complete for listed books; specialist review pending"
   },
   "completed_divisions": [
     "Law",
     "Judgement",
-    "Wisdom"
+    "Wisdom",
+    "Providence"
   ],
   "current_priority": "Finish the remaining Old Testament after Job: all Wisdom books and all Prophets, one book at a time, with staging verification and GitHub main uploads.",
-  "old_testament_completed_book_records": 42,
-  "old_testament_pending_book_revisions": 1,
-  "next_division": "Providence"
+  "old_testament_completed_book_records": 43,
+  "old_testament_pending_book_revisions": 0,
+  "next_division": "Salvation"
 }
