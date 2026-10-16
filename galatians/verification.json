@@ -1,0 +1,316 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 149 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 6,
+    "reading_sections": 6,
+    "changed_verse_units": 33,
+    "source_scope": "NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "3e93383659c4ce3a6f954f628975f36db54c43b579c675ec150bb93f9a02453b"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 24,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 21,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 29,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 31,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 5,
+      "chapter": 5,
+      "verse_units": 26,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 6,
+      "chapter": 6,
+      "verse_units": 18,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 1548,
+      "chapter": 1,
+      "modified": "2026-10-15T19:28:42",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "b2061868eaa29d7f813fedb00b42c217672af5f8d0c48296fa1ddafd58752100"
+    },
+    {
+      "id": 1555,
+      "chapter": 2,
+      "modified": "2026-10-15T19:28:57",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "039e6883bd445f39a1a54e3970f9b8b9e4a3bbe29665d29f9a63880b5631d40f"
+    },
+    {
+      "id": 1561,
+      "chapter": 3,
+      "modified": "2026-10-15T19:29:12",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "d76e569f3dffce0b9aead78067e6980c0573df1d5d5a2de0b4a6a9da0f3cd2f5"
+    },
+    {
+      "id": 1568,
+      "chapter": 4,
+      "modified": "2026-10-15T19:29:50",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "9f22a54692bf1d6ab1b0f19915565bf0df2bb278b29642daef3503ca7b9c6758"
+    },
+    {
+      "id": 1575,
+      "chapter": 5,
+      "modified": "2026-10-15T19:30:06",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "d20fdbbc4fd4aa34b5206a85edb875dd97b284bb00cc327da7bc00228a56c226"
+    },
+    {
+      "id": 1581,
+      "chapter": 6,
+      "modified": "2026-10-15T19:30:23",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "826dca8cd5210561f266cedd5605d5b66154d18033df97e05e36d5172e70832c"
+    },
+    {
+      "id": 1543,
+      "chapter": null,
+      "modified": "2026-10-15T19:30:37",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "b8c549b904c53c51b4858afce0a960a169241690046597f776ab06bc5fcc11a2"
+    }
+  ],
+  "browser_checks": {
+    "format": "sha256-dom-v1",
+    "date": "2026-10-15",
+    "chapter_navigation": [
+      {
+        "text": "Galatians 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/chapter-1/"
+      },
+      {
+        "text": "Galatians 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/chapter-2/"
+      },
+      {
+        "text": "Galatians 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/chapter-3/"
+      },
+      {
+        "text": "Galatians 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/chapter-4/"
+      },
+      {
+        "text": "Galatians 5",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/chapter-5/"
+      },
+      {
+        "text": "Galatians 6",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/chapter-6/"
+      }
+    ],
+    "chapters": [
+      {
+        "chapter": 1,
+        "page_id": 1548,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/chapter-1/",
+        "verse_count": 24,
+        "rendered_text_sha256": "db636bbc1378a610c4c8ef61e484c42c4c34f7aec25a64a3b0c06e56824228b2",
+        "currentNotes": 1,
+        "navigation_sha256": "9a67873ee168e6345d2cbd380a20601fe394b860670dadcb18942bb039957564",
+        "chapter_option_count": 6,
+        "selected_chapter": [
+          "Galatians 1"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 2,
+        "page_id": 1555,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/chapter-2/",
+        "verse_count": 21,
+        "rendered_text_sha256": "12e18482763dd4f0d6239dc6c79ddfdc802bbd4c967282900cfafc66b4070b4e",
+        "currentNotes": 1,
+        "navigation_sha256": "9a67873ee168e6345d2cbd380a20601fe394b860670dadcb18942bb039957564",
+        "chapter_option_count": 6,
+        "selected_chapter": [
+          "Galatians 2"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 3,
+        "page_id": 1561,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/chapter-3/",
+        "verse_count": 29,
+        "rendered_text_sha256": "d63e542ac8bcf4505dbb716ce6529676cc9a5f8e820fa8c2f2a5535c9354dd5e",
+        "currentNotes": 1,
+        "navigation_sha256": "9a67873ee168e6345d2cbd380a20601fe394b860670dadcb18942bb039957564",
+        "chapter_option_count": 6,
+        "selected_chapter": [
+          "Galatians 3"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 4,
+        "page_id": 1568,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/chapter-4/",
+        "verse_count": 31,
+        "rendered_text_sha256": "c9f4061ae3c020b86567263f04dbe29b55d72b749e07d38e434b8b02216ae4a5",
+        "currentNotes": 1,
+        "navigation_sha256": "9a67873ee168e6345d2cbd380a20601fe394b860670dadcb18942bb039957564",
+        "chapter_option_count": 6,
+        "selected_chapter": [
+          "Galatians 4"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 5,
+        "page_id": 1575,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/chapter-5/",
+        "verse_count": 26,
+        "rendered_text_sha256": "645c9afd739609f342477a51edd9e56432c1f085cc2b8d7e9d50f17ea650f10f",
+        "currentNotes": 1,
+        "navigation_sha256": "9a67873ee168e6345d2cbd380a20601fe394b860670dadcb18942bb039957564",
+        "chapter_option_count": 6,
+        "selected_chapter": [
+          "Galatians 5"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 6,
+        "page_id": 1581,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/chapter-6/",
+        "verse_count": 18,
+        "rendered_text_sha256": "45235f3c1e4556aac0d2ea5b4b57ab69ea7282cb850238c743c9f350ff031f08",
+        "currentNotes": 1,
+        "navigation_sha256": "9a67873ee168e6345d2cbd380a20601fe394b860670dadcb18942bb039957564",
+        "chapter_option_count": 6,
+        "selected_chapter": [
+          "Galatians 6"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      }
+    ],
+    "index": {
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/",
+      "currentNotes": 1,
+      "text": "All 6 chapters, comprising 149 existing verse units, have received the Bespoke English editorial pass: 33 revised and 116 retained.",
+      "reading_links": [
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/chapter-1/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/chapter-2/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/chapter-3/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/chapter-4/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/chapter-5/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/chapter-6/"
+      ],
+      "scope": "Observed contiguous ordered chapter group within the index links; introductory and repeat links also remain.",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "SHA-256 of the ordered JSON array of [verse ID, displayed text] pairs, encoded as UTF-8. The visible verse-number span and sup footnote callouts are excluded; only whitespace and WordPress curly-apostrophe typography are normalized. All other text and order must match.",
+    "visual_capture": "Rendered DOM text and navigation checked for all six chapters and the index. Chapter 6 and the index were visually inspected in screenshots: the reader, study pane, chapter selector and Bespoke index status were legible. Whole-book screenshot inspection is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 3808,
+      "title": "Galatians — Saints Translation and KJV",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/comparison-edition/",
+      "before_content_hash": "c065439c697a493710d11f2e918284e1d8fad113",
+      "after_content_hash": "c065439c697a493710d11f2e918284e1d8fad113",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20763,
+      "title": "Galatians — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/galatians/vulgate-comparison/",
+      "before_content_hash": "0c415f6a98ef8e6391200201987890d1ba1b2b56",
+      "after_content_hash": "0c415f6a98ef8e6391200201987890d1ba1b2b56",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 149,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 7 edited pages and all 2 reference pages, plus 2 reference hash snapshots. This is a book archive, not a full-site backup."
+}

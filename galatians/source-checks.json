@@ -1,0 +1,58 @@
+{
+  "book": "Galatians",
+  "date": "2026-10-15",
+  "edition": "Nestle-Aland 28 (NA28); German Bible Society online running text",
+  "authorization": "User explicitly authorized NA28 provisionally on 15 October 2026; UBS6/ECM review remains pending.",
+  "scope": "NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+  "historical_records": "Existing index and reference records were consulted as historical reference, not proof of fresh complete Greek verification.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "url": "https://www.die-bibel.de/en/bible/NA28/GAL.1",
+      "decision": "Preserved the repeated gospel, grace, human/divine contrast, ages, flesh and blood, womb and named itinerary. Corrected 1:3 from inherited God the Father and our Lord to God our Father and the Lord, following displayed NA28. Included bracketed God at 1:15; retained bracketed Christ at 1:6 and to you at 1:8. Smoothed persecution and recognition clauses; preserved three years and fifteen days.",
+      "focus": "Preserved the repeated gospel, grace, human/divine contrast, ages, flesh and blood, womb and named itinerary. Corrected 1:3 from inherited God the Father and our Lord to God our Father and the Lord, following displayed NA28. Included bracketed God at 1:15; retained bracketed Christ at 1:6 and to you at 1:8. Smoothed persecution and recognition clauses; preserved three years and fifteen days.",
+      "running_text_read": "Displayed NA28 running text read; focused comparison of the recorded features, not an exhaustive apparatus collation.",
+      "pending": "Review revelation of Jesus Christ and reveal His Son in me, the call chronology, the exception concerning James and the pronoun placement variant in 1:3. Full UBS6/ECM and apparatus comparison, independent Greek and human read-aloud review remain pending."
+    },
+    {
+      "chapter": 2,
+      "url": "https://www.die-bibel.de/en/bible/NA28/GAL.2",
+      "decision": "Preserved the running, slavery/freedom, pillars, face-to-face, rebuilding and crucifixion images, all works/law/faith repetitions and negations. Modernized does, smoothed the topic opening in 2:6 and rendered plural right hands in 2:9. Included bracketed also at 2:13. Kept the inherited provisional faith in Christ and faith in the Son of God readings; Christ’s faithfulness remains a live interpretive alternative. Retained the existing quotation boundaries and placement of crucified with Christ at 2:19.",
+      "focus": "Preserved the running, slavery/freedom, pillars, face-to-face, rebuilding and crucifixion images, all works/law/faith repetitions and negations. Modernized does, smoothed the topic opening in 2:6 and rendered plural right hands in 2:9. Included bracketed also at 2:13. Kept the inherited provisional faith in Christ and faith in the Son of God readings; Christ’s faithfulness remains a live interpretive alternative. Retained the existing quotation boundaries and placement of crucified with Christ at 2:19.",
+      "running_text_read": "Full displayed NA28 running text read in the publisher’s browser reader after web retrieval timed out; focused comparison of recorded features, not an exhaustive apparatus collation.",
+      "pending": "Review the broken construction in 2:4–6, faith/faithfulness genitives in 2:16 and 2:20, the extent of the reported speech to Cephas and the historical visit chronology. Full UBS6/ECM and apparatus comparison, independent Greek and human read-aloud review remain pending."
+    },
+    {
+      "chapter": 3,
+      "url": "https://www.die-bibel.de/en/bible/NA28/GAL.3",
+      "decision": "Preserved every law/faith/promise repetition, hearing with faith, curse/tree, the seed/seeds argument and four hundred and thirty years. Modernized does/has and rendered mighty deeds as acts of power. Smoothed the terse mediator phrase to not for one alone without adding a specific party. Retained guardian until Christ, of God at 3:21 (bracketed in NA28), the provisional faith in Jesus Christ at 3:22, and the distinctive no male and female at 3:28.",
+      "focus": "Preserved every law/faith/promise repetition, hearing with faith, curse/tree, the seed/seeds argument and four hundred and thirty years. Modernized does/has and rendered mighty deeds as acts of power. Smoothed the terse mediator phrase to not for one alone without adding a specific party. Retained guardian until Christ, of God at 3:21 (bracketed in NA28), the provisional faith in Jesus Christ at 3:22, and the distinctive no male and female at 3:28.",
+      "running_text_read": "Displayed NA28 running text read; focused comparison of the recorded features, not an exhaustive apparatus collation.",
+      "pending": "Review hearing with faith, suffering/experience in 3:4, covenant/testament, the mediator saying, faith/faithfulness in 3:22, guardian until/unto Christ and the quotation context of male and female. Full UBS6/ECM and apparatus comparison, independent Greek and human read-aloud review remain pending."
+    },
+    {
+      "chapter": 4,
+      "url": "https://www.die-bibel.de/en/bible/NA28/GAL.4",
+      "decision": "Preserved elements, fullness of time, born of a woman, adoption as sons, our hearts, Abba Father, slavery/freedom and the labor/birth images. Smoothed the trial clause at 4:14 and modernized third-person verbs in quotations. Retained the allegorical statement, Hagar/Sinai, Jerusalem above and you at 4:28.",
+      "focus": "Preserved elements, fullness of time, born of a woman, adoption as sons, our hearts, Abba Father, slavery/freedom and the labor/birth images. Smoothed the trial clause at 4:14 and modernized third-person verbs in quotations. Retained the allegorical statement, Hagar/Sinai, Jerusalem above and you at 4:28.",
+      "running_text_read": "Displayed NA28 running text read; focused comparison of the recorded features, not an exhaustive apparatus collation.",
+      "pending": "Review elements as principles/powers and related senses, the bodily weakness without diagnosing Paul, blessedness in 4:15, the passive zeal construction and the Hagar/Sinai text and interpretation. Full UBS6/ECM and apparatus comparison, independent Greek and human read-aloud review remain pending."
+    },
+    {
+      "chapter": 5,
+      "url": "https://www.die-bibel.de/en/bible/NA28/GAL.5",
+      "decision": "Preserved freedom/yoke, running, leaven, the cross, serving as slaves, biting/devouring, flesh/Spirit and the singular fruit list. Replaced ordinary ye and archaic third-person verbs; clarified dough in the leaven image and smoothed desire wording. Included bracketed Jesus at 5:24. Kept faithfulness at 5:22 provisionally, with faith as an alternative, and retained the force of the difficult 5:12 saying.",
+      "focus": "Preserved freedom/yoke, running, leaven, the cross, serving as slaves, biting/devouring, flesh/Spirit and the singular fruit list. Replaced ordinary ye and archaic third-person verbs; clarified dough in the leaven image and smoothed desire wording. Included bracketed Jesus at 5:24. Kept faithfulness at 5:22 provisionally, with faith as an alternative, and retained the force of the difficult 5:12 saying.",
+      "running_text_read": "Displayed NA28 running text read; focused comparison of the recorded features, not an exhaustive apparatus collation.",
+      "pending": "Review faith working through love, the future/conditional nuance of 5:11, the cutting/castration saying, base of operations, the vice-list senses and faith/faithfulness in 5:22. Full UBS6/ECM and apparatus comparison, independent Greek and human read-aloud review remain pending."
+    },
+    {
+      "chapter": 6,
+      "url": "https://www.die-bibel.de/en/bible/NA28/GAL.6",
+      "decision": "Preserved the shift from plural spiritual people to singular watching yourself at 6:1, mutual burdens and individual load, sowing/reaping, flesh/Spirit, household, large letters, crucifixion and marks. Replaced ordinary ye with you and kept the future you will fulfill at 6:2. Smoothed doing good and the elliptical new-creation contrast. Retained future will keep in step, the Israel of God wording and the final Amen.",
+      "focus": "Preserved the shift from plural spiritual people to singular watching yourself at 6:1, mutual burdens and individual load, sowing/reaping, flesh/Spirit, household, large letters, crucifixion and marks. Replaced ordinary ye with you and kept the future you will fulfill at 6:2. Smoothed doing good and the elliptical new-creation contrast. Retained future will keep in step, the Israel of God wording and the final Amen.",
+      "running_text_read": "Displayed NA28 running text read; focused comparison of the recorded features, not an exhaustive apparatus collation.",
+      "pending": "Review the nuances of burden/load, through which/whom in 6:14, the Israel of God, rule, the marks of Jesus and the large-letter saying without diagnosing its cause. Full UBS6/ECM and apparatus comparison, independent Greek and human read-aloud review remain pending."
+    }
+  ]
+}
