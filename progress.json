@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 50,
-  "pending_book_revisions": 20,
-  "next_book": "2 Corinthians",
+  "completed_book_records": 51,
+  "pending_book_revisions": 19,
+  "next_book": "Galatians",
   "full_bible_complete": false,
   "books": [
     {
@@ -535,8 +535,12 @@
       "order": 51,
       "book": "2 Corinthians",
       "staging_path": "/bible/discipleship/2-corinthians/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "2-corinthians/",
+      "chapters": 13,
+      "reading_sections": 13,
+      "verse_units": 256,
+      "wording_changes": 107
     },
     {
       "order": 52,
@@ -678,10 +682,11 @@
     "completed_books": [
       "Acts",
       "Romans",
-      "1 Corinthians"
+      "1 Corinthians",
+      "2 Corinthians"
     ],
-    "pending_books": 19,
-    "next_book": "2 Corinthians",
+    "pending_books": 18,
+    "next_book": "Galatians",
     "status": "English editorial and staging complete for listed books; specialist review pending"
   },
   "completed_divisions": [
@@ -740,9 +745,13 @@
       "1 Corinthians": {
         "staging_changes": 17,
         "status": "All 16 chapters and index saved and verified; 437 rendered verse units matched the reviewed draft; 141 wording changes."
+      },
+      "2 Corinthians": {
+        "staging_changes": 14,
+        "status": "All 13 chapters and index saved and verified; 256 rendered verse units matched the reviewed draft; 107 wording changes."
       }
     }
   },
-  "new_testament_completed_book_records": 7,
-  "new_testament_pending_book_revisions": 20
+  "new_testament_completed_book_records": 8,
+  "new_testament_pending_book_revisions": 19
 }

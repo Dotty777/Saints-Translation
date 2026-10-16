@@ -1,0 +1,606 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 256 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 13,
+    "reading_sections": 13,
+    "changed_verse_units": 107,
+    "source_scope": "NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "4c7edaade7b169a5359a1626507769d3e1c41a0e4364716d5f4a3a019acb9ea3"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 24,
+      "changed": 11,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 17,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 18,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 18,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 5,
+      "chapter": 5,
+      "verse_units": 21,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 6,
+      "chapter": 6,
+      "verse_units": 18,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 7,
+      "chapter": 7,
+      "verse_units": 16,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 8,
+      "chapter": 8,
+      "verse_units": 24,
+      "changed": 14,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 9,
+      "chapter": 9,
+      "verse_units": 15,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 10,
+      "chapter": 10,
+      "verse_units": 18,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 11,
+      "chapter": 11,
+      "verse_units": 33,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 12,
+      "chapter": 12,
+      "verse_units": 21,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 13,
+      "chapter": 13,
+      "verse_units": 13,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 1478,
+      "chapter": 1,
+      "modified": "2026-10-15T19:18:24",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "cd4e043fc8f3aef734a221a23936e1bcc0c3b3f413dea086130153e17e8daeac"
+    },
+    {
+      "id": 1481,
+      "chapter": 2,
+      "modified": "2026-10-15T19:18:39",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "40ef2349b284bcfe1df8463f9b05d19d2ab92cf95bcf94f76712d0f56e3c8de5"
+    },
+    {
+      "id": 1486,
+      "chapter": 3,
+      "modified": "2026-10-15T19:18:55",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "f75fe6a270de14ee7f9fc156c839f0705cc7cf2864a9abce2f3d91746eff3266"
+    },
+    {
+      "id": 1492,
+      "chapter": 4,
+      "modified": "2026-10-15T19:19:14",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "6453c5823d5babaa110471fa3eff9ac21b7df41dad42b896c5ebdec3f40a146e"
+    },
+    {
+      "id": 1497,
+      "chapter": 5,
+      "modified": "2026-10-15T19:19:39",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "e49bb52716bacdec22f212bd830fba37473afcee9b8bc9966932e919c45158f5"
+    },
+    {
+      "id": 1503,
+      "chapter": 6,
+      "modified": "2026-10-15T19:19:54",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "dcd03b20cee7cd6a19b2beee4762d2a925995c57a74ad5a156efff773b487daa"
+    },
+    {
+      "id": 1508,
+      "chapter": 7,
+      "modified": "2026-10-15T19:20:10",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "182bbfb55f8d8a355ff3cebe7b81623d47593f4fc1936592193f553135c3f35b"
+    },
+    {
+      "id": 1514,
+      "chapter": 8,
+      "modified": "2026-10-15T19:20:25",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "38ef3f32928a6b4ae725c1ab3db05f5f58a7f8cdeab8dae6162b6a80eda65e8b"
+    },
+    {
+      "id": 1519,
+      "chapter": 9,
+      "modified": "2026-10-15T19:21:10",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "0d2625086f5f8ec4e1a20f14e88f143b49c98f3dc4e9d1e849243d5d462656c6"
+    },
+    {
+      "id": 1525,
+      "chapter": 10,
+      "modified": "2026-10-15T19:21:25",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "4aeaa24c4a2aa9420d2e65faf05e7544699b211ff264a0eb097e26bc244b6dcf"
+    },
+    {
+      "id": 1530,
+      "chapter": 11,
+      "modified": "2026-10-15T19:21:39",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "30478e15f5d3e03ab9c2d941402eb83c5828985910271ac30c62fba94efc7c6b"
+    },
+    {
+      "id": 1536,
+      "chapter": 12,
+      "modified": "2026-10-15T19:21:56",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "47cdd7248447d1925c7bebd2de39e2467dd6e1fdb4ca77dfe0e2ebfcb92ad155"
+    },
+    {
+      "id": 1539,
+      "chapter": 13,
+      "modified": "2026-10-15T19:22:10",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "c555647112bd4ca319ddef4d6fe281363b2d0f0f0f8c3d1a18e668f5663d4f74"
+    },
+    {
+      "id": 1474,
+      "chapter": null,
+      "modified": "2026-10-15T19:22:32",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "9ecb2abe31addbf64129bd8dc8f837628802fd7b532df43ac68556904fb72b4b"
+    }
+  ],
+  "browser_checks": {
+    "format": "sha256-dom-v1",
+    "date": "2026-10-15",
+    "chapter_navigation": [
+      {
+        "text": "2 Corinthians 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-1/"
+      },
+      {
+        "text": "2 Corinthians 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-2/"
+      },
+      {
+        "text": "2 Corinthians 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-3/"
+      },
+      {
+        "text": "2 Corinthians 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-4/"
+      },
+      {
+        "text": "2 Corinthians 5",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-5/"
+      },
+      {
+        "text": "2 Corinthians 6",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-6/"
+      },
+      {
+        "text": "2 Corinthians 7",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-7/"
+      },
+      {
+        "text": "2 Corinthians 8",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-8/"
+      },
+      {
+        "text": "2 Corinthians 9",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-9/"
+      },
+      {
+        "text": "2 Corinthians 10",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-10/"
+      },
+      {
+        "text": "2 Corinthians 11",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-11/"
+      },
+      {
+        "text": "2 Corinthians 12",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-12/"
+      },
+      {
+        "text": "2 Corinthians 13",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-13/"
+      }
+    ],
+    "chapters": [
+      {
+        "chapter": 1,
+        "page_id": 1478,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-1/",
+        "verse_count": 24,
+        "rendered_text_sha256": "8893b2d4cec1bef5980066d15126757718bd076ba175b1f2ca7b1ae1dc9d5ba2",
+        "currentNotes": 1,
+        "navigation_sha256": "f7e56883d5013a865b61a93705c2ec3143eb55a0493fb7fcfb1313644882ddc8",
+        "chapter_option_count": 13,
+        "selected_chapter": [
+          "2 Corinthians 1"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 2,
+        "page_id": 1481,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-2/",
+        "verse_count": 17,
+        "rendered_text_sha256": "1901f22211e5f3944cd8670890a760da23d9912e9c1b3494a489fb54a3b9da8f",
+        "currentNotes": 1,
+        "navigation_sha256": "f7e56883d5013a865b61a93705c2ec3143eb55a0493fb7fcfb1313644882ddc8",
+        "chapter_option_count": 13,
+        "selected_chapter": [
+          "2 Corinthians 2"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 3,
+        "page_id": 1486,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-3/",
+        "verse_count": 18,
+        "rendered_text_sha256": "f450cfd0bb77309261d416af9767ceb9e5486e3602fcbb8d46ab117771e14fe5",
+        "currentNotes": 1,
+        "navigation_sha256": "f7e56883d5013a865b61a93705c2ec3143eb55a0493fb7fcfb1313644882ddc8",
+        "chapter_option_count": 13,
+        "selected_chapter": [
+          "2 Corinthians 3"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 4,
+        "page_id": 1492,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-4/",
+        "verse_count": 18,
+        "rendered_text_sha256": "aa14b6ad048b8451d14982699ad237d2d5946ad0fbd94c44dabc5c8f72d72c5c",
+        "currentNotes": 1,
+        "navigation_sha256": "f7e56883d5013a865b61a93705c2ec3143eb55a0493fb7fcfb1313644882ddc8",
+        "chapter_option_count": 13,
+        "selected_chapter": [
+          "2 Corinthians 4"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 5,
+        "page_id": 1497,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-5/",
+        "verse_count": 21,
+        "rendered_text_sha256": "a240dfac3f57e4183f93ab346caf100550f3d333d8ae5ad85fc1d25a02b73c80",
+        "currentNotes": 1,
+        "navigation_sha256": "f7e56883d5013a865b61a93705c2ec3143eb55a0493fb7fcfb1313644882ddc8",
+        "chapter_option_count": 13,
+        "selected_chapter": [
+          "2 Corinthians 5"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 6,
+        "page_id": 1503,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-6/",
+        "verse_count": 18,
+        "rendered_text_sha256": "95cb4a629b7f76d5d41e7ea9c9fa7e0eebcfe3d595a8e6a57e9cd677f3d0f5ca",
+        "currentNotes": 1,
+        "navigation_sha256": "f7e56883d5013a865b61a93705c2ec3143eb55a0493fb7fcfb1313644882ddc8",
+        "chapter_option_count": 13,
+        "selected_chapter": [
+          "2 Corinthians 6"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 7,
+        "page_id": 1508,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-7/",
+        "verse_count": 16,
+        "rendered_text_sha256": "38f4dabea362d304f77240f7a971eba9328b387a9f81ddfb91c6141e3786ef5c",
+        "currentNotes": 1,
+        "navigation_sha256": "f7e56883d5013a865b61a93705c2ec3143eb55a0493fb7fcfb1313644882ddc8",
+        "chapter_option_count": 13,
+        "selected_chapter": [
+          "2 Corinthians 7"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 8,
+        "page_id": 1514,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-8/",
+        "verse_count": 24,
+        "rendered_text_sha256": "71e1c250103cf3db438c8e70360e61de1936f868cf290d7572f22b7bbfec6974",
+        "currentNotes": 1,
+        "navigation_sha256": "f7e56883d5013a865b61a93705c2ec3143eb55a0493fb7fcfb1313644882ddc8",
+        "chapter_option_count": 13,
+        "selected_chapter": [
+          "2 Corinthians 8"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 9,
+        "page_id": 1519,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-9/",
+        "verse_count": 15,
+        "rendered_text_sha256": "08ce0f0855134da9f64e234cdc247226547c107cbaf82086338429dcdeb9ceb0",
+        "currentNotes": 1,
+        "navigation_sha256": "f7e56883d5013a865b61a93705c2ec3143eb55a0493fb7fcfb1313644882ddc8",
+        "chapter_option_count": 13,
+        "selected_chapter": [
+          "2 Corinthians 9"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 10,
+        "page_id": 1525,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-10/",
+        "verse_count": 18,
+        "rendered_text_sha256": "cb55395b1ef2b698949dc42ad3b1f4e10b4051d1fc08f279d8c6d9582dd184de",
+        "currentNotes": 1,
+        "navigation_sha256": "f7e56883d5013a865b61a93705c2ec3143eb55a0493fb7fcfb1313644882ddc8",
+        "chapter_option_count": 13,
+        "selected_chapter": [
+          "2 Corinthians 10"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 11,
+        "page_id": 1530,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-11/",
+        "verse_count": 33,
+        "rendered_text_sha256": "6dde81e02340f6d5909c53b334c5d403563d31c4b65ae2de7e0e34efcadc7d9f",
+        "currentNotes": 1,
+        "navigation_sha256": "f7e56883d5013a865b61a93705c2ec3143eb55a0493fb7fcfb1313644882ddc8",
+        "chapter_option_count": 13,
+        "selected_chapter": [
+          "2 Corinthians 11"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 12,
+        "page_id": 1536,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-12/",
+        "verse_count": 21,
+        "rendered_text_sha256": "03d10d31f9805b9363efae7937b50af4db256297e78398dc233fcc043c427933",
+        "currentNotes": 1,
+        "navigation_sha256": "f7e56883d5013a865b61a93705c2ec3143eb55a0493fb7fcfb1313644882ddc8",
+        "chapter_option_count": 13,
+        "selected_chapter": [
+          "2 Corinthians 12"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 13,
+        "page_id": 1539,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-13/",
+        "verse_count": 13,
+        "rendered_text_sha256": "bca1c0015dd5c4e948cc41f6d1c909432e27bf273d3d61a571aefda9346ba9bf",
+        "currentNotes": 1,
+        "navigation_sha256": "f7e56883d5013a865b61a93705c2ec3143eb55a0493fb7fcfb1313644882ddc8",
+        "chapter_option_count": 13,
+        "selected_chapter": [
+          "2 Corinthians 13"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      }
+    ],
+    "index": {
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/",
+      "currentNotes": 1,
+      "text": "All 13 chapters, comprising 256 existing verse units, have received the Bespoke English editorial pass: 107 revised and 149 retained.",
+      "reading_links": [
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-1/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-2/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-3/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-4/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-5/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-6/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-7/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-8/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-9/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-10/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-11/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-12/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/chapter-13/"
+      ],
+      "scope": "Observed contiguous ordered chapter group within the index links; introductory and repeat links also remain.",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "SHA-256 of the ordered JSON array of [verse ID, displayed text] pairs, encoded as UTF-8. The visible verse-number span and sup footnote callouts are excluded; only whitespace and WordPress curly-apostrophe typography are normalized. All other text and order must match.",
+    "visual_capture": "Rendered DOM text and navigation checked for all 13 chapters and the index. Chapter 13 and the index were visually inspected in screenshots: the reader, study pane, chapter selector and Bespoke index status were legible. Whole-book screenshot inspection is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 3949,
+      "title": "2 Corinthians — Verse-by-verse reception",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/verse-by-verse-reception/",
+      "before_content_hash": "b7189f086583a68b396414d1a7178f547d936c4c",
+      "after_content_hash": "b7189f086583a68b396414d1a7178f547d936c4c",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 4382,
+      "title": "2 Corinthians — Saints Translation and KJV",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/comparison-edition/",
+      "before_content_hash": "6815955b902a3db2b403907802d3becb6b6b36e3",
+      "after_content_hash": "6815955b902a3db2b403907802d3becb6b6b36e3",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20762,
+      "title": "2 Corinthians — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-corinthians/vulgate-comparison/",
+      "before_content_hash": "8e99fb44e2374be5221dab79cef5ecdfd39619de",
+      "after_content_hash": "8e99fb44e2374be5221dab79cef5ecdfd39619de",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 256,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 14 edited pages and all 3 reference pages, plus 3 reference hash snapshots. This is a book archive, not a full-site backup."
+}
