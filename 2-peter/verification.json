@@ -1,0 +1,206 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 61 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 3,
+    "reading_sections": 3,
+    "changed_verse_units": 18,
+    "source_scope": "NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "2d861487ffd192e0046f9d8e71930a768a33fe9b1ba5a400b1893cf735ac6b70"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 21,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 22,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 18,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 3157,
+      "chapter": 1,
+      "modified": "2026-10-15T21:13:58",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "654ed2c25c692f2c810a41ec2d64de54e8cd1e383bdec78cbbd9d8b67fc34eea"
+    },
+    {
+      "id": 3162,
+      "chapter": 2,
+      "modified": "2026-10-15T21:14:13",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "b146906aa704b56b6f0852e8666ff772c88d5e0e403e119906b964568eea9b05"
+    },
+    {
+      "id": 3160,
+      "chapter": 3,
+      "modified": "2026-10-15T21:14:41",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "bca8c513985808d25b5b22c471f21833104cc2466675fa2fdcb1fe7d90aa422d"
+    },
+    {
+      "id": 3151,
+      "chapter": null,
+      "modified": "2026-10-15T21:14:57",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "a48caf533380f526eca965e7758c72ee2af16d2cb14ddbcdae01b028fb518f36"
+    }
+  ],
+  "browser_checks": {
+    "format": "sha256-dom-v1",
+    "date": "2026-10-15",
+    "chapter_navigation": [
+      {
+        "text": "2 Peter 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-peter/chapter-1/"
+      },
+      {
+        "text": "2 Peter 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-peter/chapter-2/"
+      },
+      {
+        "text": "2 Peter 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-peter/chapter-3/"
+      }
+    ],
+    "chapters": [
+      {
+        "chapter": 1,
+        "page_id": 3157,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-peter/chapter-1/",
+        "verse_count": 21,
+        "rendered_text_sha256": "e60ebb135855167237ad9dff53a813e953b6e0b7ab3267480ae46a5398d6df5c",
+        "currentNotes": 1,
+        "navigation_sha256": "3e75ff9f375e75b92b6154f49d722827bed88c7af47aec3ebef0c626afd7eab3",
+        "chapter_option_count": 3,
+        "selected_chapter": [
+          "2 Peter 1"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 2,
+        "page_id": 3162,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-peter/chapter-2/",
+        "verse_count": 22,
+        "rendered_text_sha256": "02855d31112d9652a532367f1f4ae04fe9489e5e943ccb7ced729c03949cb73d",
+        "currentNotes": 1,
+        "navigation_sha256": "3e75ff9f375e75b92b6154f49d722827bed88c7af47aec3ebef0c626afd7eab3",
+        "chapter_option_count": 3,
+        "selected_chapter": [
+          "2 Peter 2"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 3,
+        "page_id": 3160,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-peter/chapter-3/",
+        "verse_count": 18,
+        "rendered_text_sha256": "cdf395b761eebbf3377be13824942bcb8e2bda4e7800829df75a0888467c1506",
+        "currentNotes": 1,
+        "navigation_sha256": "3e75ff9f375e75b92b6154f49d722827bed88c7af47aec3ebef0c626afd7eab3",
+        "chapter_option_count": 3,
+        "selected_chapter": [
+          "2 Peter 3"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      }
+    ],
+    "index": {
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-peter/",
+      "currentNotes": 1,
+      "text": "All 3 chapters, comprising 61 existing verse units, have received the Bespoke English editorial pass: 18 revised and 43 retained.",
+      "reading_links": [
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-peter/chapter-1/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-peter/chapter-2/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-peter/chapter-3/"
+      ],
+      "scope": "Observed contiguous ordered chapter-link group and current editorial status excerpt.",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "SHA-256 of the ordered JSON array of [verse ID, displayed text] pairs, encoded as UTF-8. The visible verse-number span and sup footnote callouts are excluded; only whitespace and WordPress curly-apostrophe typography are normalized. All other text and order must match.",
+    "visual_capture": "Rendered DOM text and navigation checked for all 3 chapters and the index. Chapter 3 and the index were visually inspected in screenshots: the reader, study pane, chapter selector and Bespoke index status were legible. Whole-book screenshot inspection is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 3875,
+      "title": "2 Peter — Saints Translation and KJV",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-peter/comparison-edition/",
+      "before_content_hash": "082fa9a0f03f7f1a4a188c5752cb974efe60996a",
+      "after_content_hash": "082fa9a0f03f7f1a4a188c5752cb974efe60996a",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20776,
+      "title": "2 Peter — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-peter/vulgate-comparison/",
+      "before_content_hash": "30a4102f69c56ef7cfe5288d36fae4b8970cba14",
+      "after_content_hash": "30a4102f69c56ef7cfe5288d36fae4b8970cba14",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3166,
+      "title": "2 Peter — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-peter/editorial-guide/",
+      "before_content_hash": "8ff39242a7f6cc18e935f86f5a1fa87ff4e69449",
+      "after_content_hash": "8ff39242a7f6cc18e935f86f5a1fa87ff4e69449",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 61,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 4 edited pages and all 3 reference pages, plus 3 reference hash snapshots. This is a book archive, not a full-site backup."
+}
