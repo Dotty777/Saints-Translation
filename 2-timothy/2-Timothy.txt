@@ -1,0 +1,100 @@
+2 TIMOTHY — BESPOKE SAINTS ENGLISH TRANSLATION
+15 October 2026
+NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.
+Plain text Scripture only. Separated editorial notes and unresolved readings are in editorial-notes.json, source-checks.json and the HTML reader.
+
+
+2 TIMOTHY 1
+
+1:1 Paul, an apostle of Christ Jesus through the will of God, according to the promise of life in Christ Jesus,
+1:2 to Timothy, a beloved child: grace, mercy, peace from God the Father and Christ Jesus our Lord.
+1:3 I thank God, whom I serve, as my forebears did, with a pure conscience, as I remember you unceasingly in my petitions night and day,
+1:4 longing to see you, remembering your tears, so that I may be filled with joy,
+1:5 having been reminded of the sincere faith in you, which dwelt first in your grandmother Lois and your mother Eunice, and I am convinced that it dwells also in you.
+1:6 For this reason I remind you to rekindle God’s gift, which is in you through the laying on of my hands.
+1:7 For God did not give us a spirit of cowardice, but of power and love and self-discipline.
+1:8 Therefore do not be ashamed of the testimony of our Lord or of me, His prisoner, but share suffering for the gospel according to the power of God,
+1:9 who saved us and called us with a holy calling, not according to our works but according to His own purpose and grace, which was given to us in Christ Jesus before the times of the ages,
+1:10 but has now been revealed through the appearing of our Savior Christ Jesus, who abolished death and brought life and incorruptibility to light through the gospel.
+1:11 For this I was appointed a herald and an apostle and a teacher.
+1:12 For this reason I also suffer these things, but I am not ashamed, for I know whom I have believed, and I am persuaded that He is able to guard my deposit for that day.
+1:13 Keep the pattern of sound words that you heard from me, in faith and love in Christ Jesus.
+1:14 Guard the good deposit through the Holy Spirit who dwells in us.
+1:15 You know this, that all those in Asia turned away from me, among whom are Phygelus and Hermogenes.
+1:16 May the Lord give mercy to the household of Onesiphorus, because he often refreshed me and was not ashamed of my chain,
+1:17 but when he came to Rome, he earnestly searched for me and found me.
+1:18 May the Lord grant him to find mercy from the Lord on that day. And you know very well how much service he gave in Ephesus.
+
+2 TIMOTHY 2
+
+2:1 You, then, my child, be strengthened in the grace that is in Christ Jesus,
+2:2 and the things you heard from me through many witnesses, entrust these to faithful people who will be able to teach others also.
+2:3 Share suffering as a good soldier of Christ Jesus.
+2:4 No one serving as a soldier entangles himself in the affairs of ordinary life, so that he may please the one who enlisted him.
+2:5 And if someone competes as an athlete, he is not crowned unless he competes according to the rules.
+2:6 The farmer who labors must be first to share in the fruits.
+2:7 Consider what I say, for the Lord will give you understanding in all things.
+2:8 Remember Jesus Christ, raised from the dead, from David’s seed, according to my gospel,
+2:9 for which I suffer hardship even to chains as a criminal. But the word of God has not been chained.
+2:10 For this reason I endure all things for the chosen ones, so that they too may obtain the salvation in Christ Jesus with eternal glory.
+2:11 The saying is trustworthy: for if we died with Him, we will also live with Him;
+2:12 if we endure, we will also reign with Him; if we deny Him, He also will deny us;
+2:13 if we are unfaithful, He remains faithful, for He cannot deny Himself.
+2:14 Remind them of these things, charging them before God not to quarrel over words, which does no good and leads to the ruin of those who hear.
+2:15 Be diligent to present yourself approved to God, a worker with no cause for shame, cutting a straight course for the word of truth.
+2:16 But avoid profane empty talk, for they will advance into further ungodliness,
+2:17 and their word will spread like gangrene. Among them are Hymenaeus and Philetus,
+2:18 who missed the mark concerning truth, saying that the resurrection has already happened, and overturn the faith of some.
+2:19 Nevertheless, the firm foundation of God stands, having this seal: “The Lord knew those who are His,” and, “Let everyone who names the name of the Lord depart from unrighteousness.”
+2:20 Now in a great house there are vessels not only of gold and silver but also of wood and clay, some for honor and some for dishonor.
+2:21 Therefore if someone cleanses himself from these things, he will be a vessel for honor, sanctified, useful to the Master, prepared for every good work.
+2:22 But flee youthful desires, and pursue righteousness, faith, love, peace with those who call upon the Lord from a pure heart.
+2:23 And reject foolish and ignorant disputes, knowing that they give birth to fights.
+2:24 But a slave of the Lord must not fight, but must be gentle toward all, able to teach, patient with wrong,
+2:25 instructing opponents with gentleness, in case God may give them repentance toward the knowledge of truth,
+2:26 and they may regain their sobriety and escape the devil’s snare, having been captured by him to do his will.
+
+2 TIMOTHY 3
+
+3:1 But know this: in the last days difficult times will come.
+3:2 For people will be lovers of themselves, lovers of money, boastful, arrogant, blasphemous, disobedient to parents, ungrateful, unholy,
+3:3 without natural affection, irreconcilable, slanderers, without self-control, savage, not loving the good,
+3:4 traitors, reckless, conceited, lovers of pleasure rather than lovers of God,
+3:5 having a form of godliness but denying its power. Turn away from these also.
+3:6 For among these are those who slip into houses and take captive weak women, laden with sins, led by various desires,
+3:7 always learning and never able to come to the knowledge of truth.
+3:8 And just as Jannes and Jambres opposed Moses, so these too oppose the truth, people corrupted in mind, disqualified concerning the faith.
+3:9 But they will make no further progress, for their folly will be clear to all, as the folly of those men also became.
+3:10 But you followed my teaching, conduct, purpose, faith, patience, love, endurance,
+3:11 persecutions, sufferings, such as happened to me in Antioch, in Iconium, in Lystra, what persecutions I endured; and out of all of them the Lord rescued me.
+3:12 And all who want to live godly lives in Christ Jesus will be persecuted.
+3:13 But evil people and impostors will go from bad to worse, deceiving and being deceived.
+3:14 But you, remain in the things you learned and became convinced of, knowing those from whom you learned,
+3:15 and that from infancy you have known the sacred writings, which are able to make you wise for salvation through faith in Christ Jesus.
+3:16 All Scripture is God-breathed and profitable for teaching, for reproof, for correction, for training in righteousness,
+3:17 so that the person of God may be capable, fully equipped for every good work.
+
+2 TIMOTHY 4
+
+4:1 I charge you before God and Christ Jesus, who is to judge the living and the dead, and by His appearing and His kingdom:
+4:2 proclaim the word; be ready in season and out of season; reprove, rebuke, exhort, with all patience and teaching.
+4:3 For a time will come when they will not endure sound teaching, but with itching ears they will heap up teachers for themselves according to their own desires,
+4:4 and they will turn their hearing away from the truth and turn aside to myths.
+4:5 But you, be sober in all things, endure hardship, do the work of an evangelist, fulfill your service.
+4:6 For I am already being poured out, and the time of my departure has arrived.
+4:7 I have fought the good fight; I have finished the course; I have kept the faith.
+4:8 From now on the crown of righteousness is laid up for me, which the Lord, the righteous Judge, will award me on that day, and not to me alone but also to all who have loved His appearing.
+4:9 Make every effort to come to me soon,
+4:10 for Demas deserted me, having loved the present age, and went to Thessalonica; Crescens to Galatia; Titus to Dalmatia.
+4:11 Luke alone is with me. Take Mark and bring him with you, for he is useful to me for service.
+4:12 But I sent Tychicus to Ephesus.
+4:13 When you come, bring the cloak which I left in Troas with Carpus, and the books, especially the parchments.
+4:14 Alexander the coppersmith did me much harm; the Lord will repay him according to his works.
+4:15 You too must guard yourself against him, for he strongly opposed our words.
+4:16 At my first defense no one came to my side, but all deserted me. May it not be counted against them.
+4:17 But the Lord stood beside me and strengthened me, so that through me the proclamation might be fulfilled and all the nations might hear, and I was rescued from a lion’s mouth.
+4:18 The Lord will rescue me from every evil work and save me into His heavenly kingdom. To Him be glory for the ages of ages. Amen.
+4:19 Greet Prisca and Aquila and the household of Onesiphorus.
+4:20 Erastus remained in Corinth, but I left Trophimus sick in Miletus.
+4:21 Make every effort to come before winter. Eubulus greets you, and Pudens and Linus and Claudia and all the brothers.
+4:22 The Lord be with your spirit. Grace be with you all.

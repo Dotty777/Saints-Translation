@@ -1,0 +1,246 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 83 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 4,
+    "reading_sections": 4,
+    "changed_verse_units": 33,
+    "source_scope": "NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "b210531c8168875ffdf9a89c9c09ecaf435dc1f55b9a2b74ab29ada4c9c8f669"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 18,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 26,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 17,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 22,
+      "changed": 10,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 3136,
+      "chapter": 1,
+      "modified": "2026-10-15T20:25:14",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "9428de3848cdfd166d234273c079dc972146356f2e056af133b04c32443322e0"
+    },
+    {
+      "id": 3138,
+      "chapter": 2,
+      "modified": "2026-10-15T20:25:30",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "1195f92660666afbfdc41b02bc727222dd5bf3fd157c288b841bd03594db092c"
+    },
+    {
+      "id": 3140,
+      "chapter": 3,
+      "modified": "2026-10-15T20:25:47",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "bc4f6eeee5c44bca57f286b561698ea057b9b12bdfafc8d30ad9bc9ff7d061bb"
+    },
+    {
+      "id": 3141,
+      "chapter": 4,
+      "modified": "2026-10-15T20:26:15",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "5455cdf15be32b449ba05bf2146c00b48cd97603bac3ad888a590936e05db5cc"
+    },
+    {
+      "id": 3134,
+      "chapter": null,
+      "modified": "2026-10-15T20:26:30",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "9cb8c003618397564bb34b8630c81a6a5446b7df5e2b9efd0af1827a9b48779a"
+    }
+  ],
+  "browser_checks": {
+    "format": "sha256-dom-v1",
+    "date": "2026-10-15",
+    "chapter_navigation": [
+      {
+        "text": "2 Timothy 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-timothy/chapter-1/"
+      },
+      {
+        "text": "2 Timothy 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-timothy/chapter-2/"
+      },
+      {
+        "text": "2 Timothy 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-timothy/chapter-3/"
+      },
+      {
+        "text": "2 Timothy 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-timothy/chapter-4/"
+      }
+    ],
+    "chapters": [
+      {
+        "chapter": 1,
+        "page_id": 3136,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-timothy/chapter-1/",
+        "verse_count": 18,
+        "rendered_text_sha256": "b61455f727c436289fe9510f31342b9bff61ea402f08b92974b8dc65d7ca0736",
+        "currentNotes": 1,
+        "navigation_sha256": "ec3e1bc422caaccd34e17fe3106f92e62e84cc9c5080a9c66ae3f222ffa1c488",
+        "chapter_option_count": 4,
+        "selected_chapter": [
+          "2 Timothy 1"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 2,
+        "page_id": 3138,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-timothy/chapter-2/",
+        "verse_count": 26,
+        "rendered_text_sha256": "75933b14810ac4d65bec9acf2904630da440bf97c546048a3c4efcbe57bf51d9",
+        "currentNotes": 1,
+        "navigation_sha256": "ec3e1bc422caaccd34e17fe3106f92e62e84cc9c5080a9c66ae3f222ffa1c488",
+        "chapter_option_count": 4,
+        "selected_chapter": [
+          "2 Timothy 2"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 3,
+        "page_id": 3140,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-timothy/chapter-3/",
+        "verse_count": 17,
+        "rendered_text_sha256": "7aa43854b4f139b5ab79c4c67bde4af3ac27a7ac9b4daac4e3b23f2ced345708",
+        "currentNotes": 1,
+        "navigation_sha256": "ec3e1bc422caaccd34e17fe3106f92e62e84cc9c5080a9c66ae3f222ffa1c488",
+        "chapter_option_count": 4,
+        "selected_chapter": [
+          "2 Timothy 3"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 4,
+        "page_id": 3141,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-timothy/chapter-4/",
+        "verse_count": 22,
+        "rendered_text_sha256": "abbe1dab738699bc5b88b2f76708eb914e7ed5d78e3cd24e5864dcee42f6db2b",
+        "currentNotes": 1,
+        "navigation_sha256": "ec3e1bc422caaccd34e17fe3106f92e62e84cc9c5080a9c66ae3f222ffa1c488",
+        "chapter_option_count": 4,
+        "selected_chapter": [
+          "2 Timothy 4"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      }
+    ],
+    "index": {
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-timothy/",
+      "currentNotes": 1,
+      "text": "All 4 chapters, comprising 83 existing verse units, have received the Bespoke English editorial pass: 33 revised and 50 retained.",
+      "reading_links": [
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-timothy/chapter-1/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-timothy/chapter-2/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-timothy/chapter-3/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-timothy/chapter-4/"
+      ],
+      "scope": "Observed contiguous ordered chapter-link group and current editorial status excerpt.",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "SHA-256 of the ordered JSON array of [verse ID, displayed text] pairs, encoded as UTF-8. The visible verse-number span and sup footnote callouts are excluded; only whitespace and WordPress curly-apostrophe typography are normalized. All other text and order must match.",
+    "visual_capture": "Rendered DOM text and navigation checked for all 4 chapters and the index. Chapter 4 and the index were visually inspected in screenshots: the reader, study pane, chapter selector and Bespoke index status were legible. Whole-book screenshot inspection is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 3143,
+      "title": "2 Timothy — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-timothy/editorial-guide/",
+      "before_content_hash": "c9c67d9a55ecdf84ce918b385fac087261ce5866",
+      "after_content_hash": "c9c67d9a55ecdf84ce918b385fac087261ce5866",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3807,
+      "title": "2 Timothy — Saints Translation and KJV",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-timothy/comparison-edition/",
+      "before_content_hash": "f775bfda7ebc1d2a05bc32a6b4da0f33b13ea94b",
+      "after_content_hash": "f775bfda7ebc1d2a05bc32a6b4da0f33b13ea94b",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20770,
+      "title": "2 Timothy — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-timothy/vulgate-comparison/",
+      "before_content_hash": "d64914204492eb5c0207b02fea069320768de4d3",
+      "after_content_hash": "d64914204492eb5c0207b02fea069320768de4d3",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 83,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 5 edited pages and all 3 reference pages, plus 3 reference hash snapshots. This is a book archive, not a full-site backup."
+}
