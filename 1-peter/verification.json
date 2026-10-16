@@ -1,0 +1,286 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 105 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 5,
+    "reading_sections": 5,
+    "changed_verse_units": 24,
+    "source_scope": "NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "254d0baa5b3c9eb4aacb0ae4712098abe3f7ed6091ec7efbe0f6179cff48453f"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 25,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 25,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 22,
+      "changed": 3,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 19,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 5,
+      "chapter": 5,
+      "verse_units": 14,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 1587,
+      "chapter": 1,
+      "modified": "2026-10-15T21:08:03",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "ceb47698c0759a3792e575e418f4b92dc9cd5c797147a8ac9963b16da0fe4276"
+    },
+    {
+      "id": 3246,
+      "chapter": 2,
+      "modified": "2026-10-15T21:08:19",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "0e1ae05edf46498073912f4180417f267665094a772af0d2bcaceb2257aa6590"
+    },
+    {
+      "id": 3248,
+      "chapter": 3,
+      "modified": "2026-10-15T21:08:37",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "fbd6287f762582719fdf5f34cbbdc2b2ef0877ac760e5c8a693cbf0d517f7efb"
+    },
+    {
+      "id": 3249,
+      "chapter": 4,
+      "modified": "2026-10-15T21:09:09",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "e372bccbd9d9b5df48d8ccf74c91c7cfe8d1d4f5f73aab4f1edb5b10d3db9a8b"
+    },
+    {
+      "id": 3250,
+      "chapter": 5,
+      "modified": "2026-10-15T21:09:23",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "1c1bb257d4559ea242a2d461191d077264817db3890996b8af2edb8a20d1710a"
+    },
+    {
+      "id": 1582,
+      "chapter": null,
+      "modified": "2026-10-15T21:09:37",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "eaa221722c5725b9a39551beb3fd7fda148b580dc210f8d826bc151c721db191"
+    }
+  ],
+  "browser_checks": {
+    "format": "sha256-dom-v1",
+    "date": "2026-10-15",
+    "chapter_navigation": [
+      {
+        "text": "1 Peter 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-peter/chapter-1/"
+      },
+      {
+        "text": "1 Peter 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-peter/chapter-2/"
+      },
+      {
+        "text": "1 Peter 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-peter/chapter-3/"
+      },
+      {
+        "text": "1 Peter 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-peter/chapter-4/"
+      },
+      {
+        "text": "1 Peter 5",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-peter/chapter-5/"
+      }
+    ],
+    "chapters": [
+      {
+        "chapter": 1,
+        "page_id": 1587,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-peter/chapter-1/",
+        "verse_count": 25,
+        "rendered_text_sha256": "58e4524a34e62921863dcc84d32b31bda7ed5010720d2cc21d656f0f7ac3704d",
+        "currentNotes": 1,
+        "navigation_sha256": "f41199e5200a43662c191f2b57867b772e87d417ce4e1d65c2d8fcba18f7376c",
+        "chapter_option_count": 5,
+        "selected_chapter": [
+          "1 Peter 1"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 2,
+        "page_id": 3246,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-peter/chapter-2/",
+        "verse_count": 25,
+        "rendered_text_sha256": "7541ce248d21b865d8b5bd2bd9bb88cf9e16efb3bc6cfa270465df6112b6c446",
+        "currentNotes": 1,
+        "navigation_sha256": "f41199e5200a43662c191f2b57867b772e87d417ce4e1d65c2d8fcba18f7376c",
+        "chapter_option_count": 5,
+        "selected_chapter": [
+          "1 Peter 2"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 3,
+        "page_id": 3248,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-peter/chapter-3/",
+        "verse_count": 22,
+        "rendered_text_sha256": "a8437a41869772dbcb51cf634bf4874238f4de71289d26dd9bb85f9330190486",
+        "currentNotes": 1,
+        "navigation_sha256": "f41199e5200a43662c191f2b57867b772e87d417ce4e1d65c2d8fcba18f7376c",
+        "chapter_option_count": 5,
+        "selected_chapter": [
+          "1 Peter 3"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 4,
+        "page_id": 3249,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-peter/chapter-4/",
+        "verse_count": 19,
+        "rendered_text_sha256": "6baf4b2ae284188c3a3a1380288b0048bdcd227e6a226adde298754d1ec01510",
+        "currentNotes": 1,
+        "navigation_sha256": "f41199e5200a43662c191f2b57867b772e87d417ce4e1d65c2d8fcba18f7376c",
+        "chapter_option_count": 5,
+        "selected_chapter": [
+          "1 Peter 4"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 5,
+        "page_id": 3250,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-peter/chapter-5/",
+        "verse_count": 14,
+        "rendered_text_sha256": "e0297040530dde894ce9c01d28d0ab3965f88aba2050d01343fb422be998498b",
+        "currentNotes": 1,
+        "navigation_sha256": "f41199e5200a43662c191f2b57867b772e87d417ce4e1d65c2d8fcba18f7376c",
+        "chapter_option_count": 5,
+        "selected_chapter": [
+          "1 Peter 5"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      }
+    ],
+    "index": {
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-peter/",
+      "currentNotes": 1,
+      "text": "All 5 chapters, comprising 105 existing verse units, have received the Bespoke English editorial pass: 24 revised and 81 retained.",
+      "reading_links": [
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-peter/chapter-1/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-peter/chapter-2/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-peter/chapter-3/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-peter/chapter-4/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-peter/chapter-5/"
+      ],
+      "scope": "Observed contiguous ordered chapter-link group and current editorial status excerpt.",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "SHA-256 of the ordered JSON array of [verse ID, displayed text] pairs, encoded as UTF-8. The visible verse-number span and sup footnote callouts are excluded; only whitespace and WordPress curly-apostrophe typography are normalized. All other text and order must match.",
+    "visual_capture": "Rendered DOM text and navigation checked for all 5 chapters and the index. Chapter 5 and the index were visually inspected in screenshots: the reader, study pane, chapter selector and Bespoke index status were legible. Whole-book screenshot inspection is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 3816,
+      "title": "1 Peter — Saints Translation and KJV",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-peter/comparison-edition/",
+      "before_content_hash": "dd90bee8a1da67fcf6696a8e123a83a9ae5516c8",
+      "after_content_hash": "dd90bee8a1da67fcf6696a8e123a83a9ae5516c8",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20775,
+      "title": "1 Peter — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-peter/vulgate-comparison/",
+      "before_content_hash": "b537521a7848c82af150595f0bfe1d7108ae07fb",
+      "after_content_hash": "b537521a7848c82af150595f0bfe1d7108ae07fb",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3251,
+      "title": "1 Peter — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-peter/editorial-guide/",
+      "before_content_hash": "9f53d21b9f62aceebac7b6c60cec3fe81c89171d",
+      "after_content_hash": "9f53d21b9f62aceebac7b6c60cec3fe81c89171d",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 105,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 6 edited pages and all 3 reference pages, plus 3 reference hash snapshots. This is a book archive, not a full-site backup."
+}
