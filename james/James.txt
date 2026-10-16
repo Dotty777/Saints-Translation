@@ -1,0 +1,128 @@
+JAMES — BESPOKE SAINTS ENGLISH TRANSLATION
+15 October 2026
+NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.
+Plain text Scripture only. Separated editorial notes and unresolved readings are in editorial-notes.json, source-checks.json and the HTML reader.
+
+
+JAMES 1
+
+1:1 James, a servant of God and of the Lord Jesus Christ, to the twelve tribes in the dispersion: greetings.
+1:2 Count it all joy, my brothers, whenever you encounter trials of various kinds,
+1:3 knowing that the testing of your faith produces endurance.
+1:4 And let endurance have its complete work, so that you may be complete and whole, lacking in nothing.
+1:5 But if any of you lacks wisdom, let him ask God, who gives to all generously and without reproach, and it will be given to him.
+1:6 But let him ask in faith, doubting nothing, for the one who doubts is like a wave of the sea, driven and tossed by the wind.
+1:7 For that person must not suppose that he will receive anything from the Lord,
+1:8 a man of divided mind, unstable in all his ways.
+1:9 Let the lowly brother boast in his exaltation,
+1:10 and the rich person in his humiliation, because he will pass away like a flower of grass.
+1:11 For the sun rose with its scorching heat and dried the grass, and its flower fell, and the beauty of its appearance perished. So also the rich person will wither in his pursuits.
+1:12 Blessed is the man who endures a trial, because, having been approved, he will receive the crown of life that He promised to those who love Him.
+1:13 Let no one who is tempted say, “I am being tempted by God.” For God cannot be tempted by evil, and He Himself tempts no one.
+1:14 But each person is tempted when drawn away and enticed by his own desire.
+1:15 Then desire, after conceiving, gives birth to sin; and sin, when fully grown, gives birth to death.
+1:16 Do not be led astray, my beloved brothers.
+1:17 Every good act of giving and every complete gift is from above, coming down from the Father of lights, with whom there is no variation or shadow from turning.
+1:18 By His will He gave us birth through the word of truth, so that we might be a kind of firstfruits of His creatures.
+1:19 Know this, my beloved brothers: let every person be quick to hear, slow to speak, slow to anger,
+1:20 for a man’s anger does not accomplish the righteousness of God.
+1:21 Therefore, putting away every impurity and the abundance of evil, receive with gentleness the implanted word, which is able to save your souls.
+1:22 But become doers of the word, and not hearers only, deceiving yourselves.
+1:23 For if anyone is a hearer of the word and not a doer, he is like a man looking at his natural face in a mirror,
+1:24 for he looked at himself and went away and immediately forgot what he was like.
+1:25 But the one who looks closely into the complete law, the law of freedom, and continues in it—not a forgetful hearer but a doer of the work—will be blessed in what he does.
+1:26 If anyone thinks he is religious while not bridling his tongue but deceiving his heart, that person’s religion is futile.
+1:27 Religion that is pure and undefiled before God the Father is this: to care for orphans and widows in their affliction, and to keep oneself unstained by the world.
+
+JAMES 2
+
+2:1 My brothers, do not hold the faith of our Lord Jesus Christ, the Lord of glory, with acts of favoritism.
+2:2 For if a man with gold rings and splendid clothing enters your gathering, and a poor person in filthy clothing also enters,
+2:3 and you pay attention to the one wearing splendid clothing and say, “You sit here in a good place,” but say to the poor person, “You stand, or sit there beneath my footstool,”
+2:4 have you not made distinctions among yourselves and become judges with evil thoughts?
+2:5 Listen, my beloved brothers: has not God chosen those poor in the world to be rich in faith and heirs of the kingdom He promised to those who love Him?
+2:6 But you have dishonored the poor person. Is it not the rich who oppress you and drag you into courts?
+2:7 Do they not blaspheme the good name called over you?
+2:8 If, however, you fulfill the royal law according to the Scripture, “You shall love your neighbor as yourself,” you do well.
+2:9 But if you show favoritism, you commit sin and are convicted by the law as transgressors.
+2:10 For whoever keeps the whole law but stumbles in one point has become accountable for all of it.
+2:11 For He who said, “Do not commit adultery,” also said, “Do not murder.” Now if you do not commit adultery but do murder, you have become a transgressor of the law.
+2:12 So speak and so act as those who are going to be judged through a law of freedom.
+2:13 For judgment is without mercy to the one who has shown no mercy; mercy triumphs over judgment.
+2:14 What good is it, my brothers, if someone says he has faith but does not have works? Can that faith save him?
+2:15 If a brother or sister is without clothing and lacks daily food,
+2:16 and one of you says to them, “Go in peace; be warmed and filled,” but you do not give them what the body needs, what good is it?
+2:17 So also faith, if it does not have works, is dead by itself.
+2:18 But someone will say, “You have faith, and I have works.” Show me your faith apart from works, and I will show you faith by my works.
+2:19 You believe that God is one. You do well. Even the demons believe—and shudder.
+2:20 But do you want to know, empty man, that faith apart from works is idle?
+2:21 Was not Abraham our father justified by works when he offered Isaac his son upon the altar?
+2:22 You see that faith was working together with his works, and by the works faith was brought to completion,
+2:23 and the Scripture was fulfilled that says, “Abraham believed God, and it was reckoned to him as righteousness,” and he was called a friend of God.
+2:24 You see that a person is justified by works and not by faith alone.
+2:25 And likewise was not Rahab the prostitute also justified by works, when she welcomed the messengers and sent them out by another way?
+2:26 For just as the body without spirit is dead, so also faith without works is dead.
+
+JAMES 3
+
+3:1 Not many of you should become teachers, my brothers, knowing that we will receive a greater judgment.
+3:2 For we all stumble in many things. If anyone does not stumble in speech, that person is a complete man, able to bridle his whole body also.
+3:3 Now if we put bits into horses’ mouths so that they obey us, we guide their whole body also.
+3:4 Look also at ships: although so large and driven by harsh winds, they are guided by a very small rudder wherever the pilot intends.
+3:5 So also the tongue is a small member and boasts great things. Look how small a fire sets so great a forest ablaze!
+3:6 And the tongue is a fire. The tongue is established among our members as a world of unrighteousness, staining the whole body, setting the wheel of life ablaze, and itself set ablaze by Gehenna.
+3:7 For every kind of wild animal and bird, of creeping creature and sea creature, is tamed and has been tamed by humankind;
+3:8 but no human being can tame the tongue. It is a restless evil, full of deadly poison.
+3:9 With it we bless the Lord and Father, and with it we curse human beings who have been made in God’s likeness.
+3:10 From the same mouth come blessing and cursing. My brothers, these things ought not to happen this way.
+3:11 Does a spring pour out sweet and bitter water from the same opening?
+3:12 My brothers, can a fig tree produce olives, or a vine figs? Neither can salt water produce sweet water.
+3:13 Who is wise and understanding among you? Let him show his works by good conduct in the gentleness of wisdom.
+3:14 But if you have bitter jealousy and selfish ambition in your heart, do not boast against the truth and lie against it.
+3:15 This is not the wisdom coming down from above; it is earthly, merely natural, demonic.
+3:16 For where there are jealousy and selfish ambition, there are disorder and every foul practice.
+3:17 But the wisdom from above is first pure, then peaceable, considerate, open to persuasion, full of mercy and good fruits, impartial, without hypocrisy.
+3:18 And a fruit of righteousness is sown in peace for those who make peace.
+
+JAMES 4
+
+4:1 Where do wars come from, and where do fights among you come from? Is it not from here—from your pleasures that wage war in your members?
+4:2 You desire and do not have; you murder and envy and cannot obtain. You fight and wage war. You do not have because you do not ask.
+4:3 You ask and do not receive, because you ask badly, so that you may spend it on your pleasures.
+4:4 Adulteresses! Do you not know that friendship with the world is hostility toward God? Whoever therefore wishes to be a friend of the world makes himself an enemy of God.
+4:5 Or do you think Scripture says in vain, “He yearns jealously for the spirit that He made to dwell in us”?
+4:6 But He gives greater grace. Therefore it says, “God opposes the proud, but gives grace to the humble.”
+4:7 Submit yourselves therefore to God; but resist the devil, and he will flee from you.
+4:8 Draw near to God, and He will draw near to you. Cleanse your hands, sinners, and purify your hearts, you of divided mind.
+4:9 Be wretched and mourn and weep. Let your laughter be turned into mourning and your joy into dejection.
+4:10 Humble yourselves before the Lord, and He will exalt you.
+4:11 Do not speak against one another, brothers. The one who speaks against a brother or judges his brother speaks against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge.
+4:12 There is one Lawgiver and Judge, the One able to save and destroy. But who are you to judge your neighbor?
+4:13 Come now, you who say, “Today or tomorrow we will go to this city, spend a year there, trade, and make a profit”—
+4:14 you who do not know what tomorrow brings. What is your life? For you are a vapor, appearing for a little while and then disappearing.
+4:15 Instead, you ought to say, “If the Lord wills, we shall both live and do this or that.”
+4:16 But now you boast in your pretensions. All such boasting is evil.
+4:17 Therefore, if someone knows the good he ought to do and does not do it, it is sin for him.
+
+JAMES 5
+
+5:1 Come now, you rich people: weep and howl over the miseries coming upon you.
+5:2 Your riches have rotted, and your garments have become moth-eaten.
+5:3 Your gold and silver have corroded, and their corrosion will be a testimony against you and will devour your flesh like fire. You have stored up treasure in the last days.
+5:4 Look, the wages of the laborers who reaped your fields, withheld by you, cry out; and the cries of the harvesters have entered the ears of the Lord Sabaoth.
+5:5 You lived luxuriously on the earth and indulged yourselves; you fattened your hearts on a day of slaughter.
+5:6 You condemned; you murdered the righteous one. He does not oppose you.
+5:7 Be patient, therefore, brothers, until the coming of the Lord. Look, the farmer waits for the precious fruit of the earth, being patient over it until he receives the early and late rain.
+5:8 You too be patient; strengthen your hearts, because the coming of the Lord has drawn near.
+5:9 Do not groan against one another, brothers, so that you may not be judged. Look, the Judge stands before the doors.
+5:10 Brothers, take as an example of suffering and patience the prophets who spoke in the Lord’s name.
+5:11 Look, we call those who endured blessed. You heard of Job’s endurance and saw the outcome from the Lord, because the Lord is full of compassion and merciful.
+5:12 But above all, my brothers, do not swear, either by heaven or by earth or by any other oath. Let your yes be yes, and your no be no, so that you may not fall under judgment.
+5:13 Is anyone among you suffering? Let him pray. Is anyone cheerful? Let him sing praise.
+5:14 Is anyone among you sick? Let him summon the elders of the Church, and let them pray over him, anointing him with oil in the Lord’s name.
+5:15 And the prayer of faith will save the weary sick person, and the Lord will raise him up; and if he has committed sins, he will be forgiven.
+5:16 Therefore confess your sins to one another and pray for one another, so that you may be healed. A righteous person’s petition has great strength when it is at work.
+5:17 Elijah was a human being with experiences like ours, and he prayed earnestly that it might not rain; and it did not rain upon the earth for three years and six months.
+5:18 And he prayed again, and heaven gave rain, and the earth brought forth its fruit.
+5:19 My brothers, if anyone among you is led astray from the truth and someone turns him back,
+5:20 let him know that the one who turns a sinner back from the error of his way will save his soul from death and cover a multitude of sins.

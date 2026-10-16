@@ -1,0 +1,276 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 108 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 5,
+    "reading_sections": 5,
+    "changed_verse_units": 25,
+    "source_scope": "NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "fc19e7a60f6eab2073fa793bec7dae77476531ce4858c1140ffa5b0d13e820e3"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 27,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 26,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 18,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 17,
+      "changed": 2,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 5,
+      "chapter": 5,
+      "verse_units": 20,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 1558,
+      "chapter": 1,
+      "modified": "2026-10-15T21:00:23",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "18096c0ff5b78206db09970e11c06fc707b93e92f0fe5791b6ccf30da0a781b3"
+    },
+    {
+      "id": 1563,
+      "chapter": 2,
+      "modified": "2026-10-15T21:00:40",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "6d0bca052815fb8ab45ec0cf25fb96552ee5623545fe61ac3d42607e25ca18d3"
+    },
+    {
+      "id": 1569,
+      "chapter": 3,
+      "modified": "2026-10-15T21:00:58",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "9e5ac1b9efff1cc7ebd4e27d39358b355f9a2148d4d176c28769c921e0deafb7"
+    },
+    {
+      "id": 1573,
+      "chapter": 4,
+      "modified": "2026-10-15T21:01:26",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "d63feb58ae7b28572d6c602f704761c6220c5607d68e02948a5f5857f2badfa5"
+    },
+    {
+      "id": 1579,
+      "chapter": 5,
+      "modified": "2026-10-15T21:01:40",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "c36ac2bfac8beeaa95e4d8724fd26bb47084614cb6a6d5458f729986527a54b1"
+    },
+    {
+      "id": 1552,
+      "chapter": null,
+      "modified": "2026-10-15T21:01:55",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "07f1683719c2f84327bbca633af3509021b87257612babd13a66b91442d508ad"
+    }
+  ],
+  "browser_checks": {
+    "format": "sha256-dom-v1",
+    "date": "2026-10-15",
+    "chapter_navigation": [
+      {
+        "text": "James 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/james/chapter-1/"
+      },
+      {
+        "text": "James 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/james/chapter-2/"
+      },
+      {
+        "text": "James 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/james/chapter-3/"
+      },
+      {
+        "text": "James 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/james/chapter-4/"
+      },
+      {
+        "text": "James 5",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/james/chapter-5/"
+      }
+    ],
+    "chapters": [
+      {
+        "chapter": 1,
+        "page_id": 1558,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/james/chapter-1/",
+        "verse_count": 27,
+        "rendered_text_sha256": "306aab24fa16bfe380df26a630b88f4d17d7e9793a69f787739417b1923f5ed4",
+        "currentNotes": 1,
+        "navigation_sha256": "4c61c5c303e440f5aa768d34d4cffd4478528488231106c18c3567e2a0b3a0f6",
+        "chapter_option_count": 5,
+        "selected_chapter": [
+          "James 1"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 2,
+        "page_id": 1563,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/james/chapter-2/",
+        "verse_count": 26,
+        "rendered_text_sha256": "6a453f7be46f7206f09fb283bade1730b67f6426736491246da76477483fa954",
+        "currentNotes": 1,
+        "navigation_sha256": "4c61c5c303e440f5aa768d34d4cffd4478528488231106c18c3567e2a0b3a0f6",
+        "chapter_option_count": 5,
+        "selected_chapter": [
+          "James 2"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 3,
+        "page_id": 1569,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/james/chapter-3/",
+        "verse_count": 18,
+        "rendered_text_sha256": "75621034ccd0f4af69b597cad7e4ff611f46cef6d66bc41283683fd574813229",
+        "currentNotes": 1,
+        "navigation_sha256": "4c61c5c303e440f5aa768d34d4cffd4478528488231106c18c3567e2a0b3a0f6",
+        "chapter_option_count": 5,
+        "selected_chapter": [
+          "James 3"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 4,
+        "page_id": 1573,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/james/chapter-4/",
+        "verse_count": 17,
+        "rendered_text_sha256": "6f6ddcbac229906dec1119d17165ea1ab9d1418b0a3ba23f09a814e377d688be",
+        "currentNotes": 1,
+        "navigation_sha256": "4c61c5c303e440f5aa768d34d4cffd4478528488231106c18c3567e2a0b3a0f6",
+        "chapter_option_count": 5,
+        "selected_chapter": [
+          "James 4"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 5,
+        "page_id": 1579,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/james/chapter-5/",
+        "verse_count": 20,
+        "rendered_text_sha256": "218123c7f6a18d97064e82c7c259a92778be10fb4b073334633f8c783107de5b",
+        "currentNotes": 1,
+        "navigation_sha256": "4c61c5c303e440f5aa768d34d4cffd4478528488231106c18c3567e2a0b3a0f6",
+        "chapter_option_count": 5,
+        "selected_chapter": [
+          "James 5"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      }
+    ],
+    "index": {
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/james/",
+      "currentNotes": 1,
+      "text": "All 5 chapters, comprising 108 existing verse units, have received the Bespoke English editorial pass: 25 revised and 83 retained.",
+      "reading_links": [
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/james/chapter-1/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/james/chapter-2/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/james/chapter-3/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/james/chapter-4/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/james/chapter-5/"
+      ],
+      "scope": "Observed contiguous ordered chapter-link group and current editorial status excerpt.",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "SHA-256 of the ordered JSON array of [verse ID, displayed text] pairs, encoded as UTF-8. The visible verse-number span and sup footnote callouts are excluded; only whitespace and WordPress curly-apostrophe typography are normalized. All other text and order must match.",
+    "visual_capture": "Rendered DOM text and navigation checked for all 5 chapters and the index. Chapter 5 and the index were visually inspected in screenshots: the reader, study pane, chapter selector and Bespoke index status were legible. Whole-book screenshot inspection is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 3826,
+      "title": "James — Saints Translation and KJV",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/james/comparison-edition/",
+      "before_content_hash": "c3e8aaae2fb58f48d2d2a3b92c4ccd5f843e7795",
+      "after_content_hash": "c3e8aaae2fb58f48d2d2a3b92c4ccd5f843e7795",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20774,
+      "title": "James — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/james/vulgate-comparison/",
+      "before_content_hash": "f1ac33b050173299e04062308afbf22c46672c24",
+      "after_content_hash": "f1ac33b050173299e04062308afbf22c46672c24",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 108,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 6 edited pages and all 2 reference pages, plus 2 reference hash snapshots. This is a book archive, not a full-site backup."
+}
