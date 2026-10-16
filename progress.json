@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 55,
-  "pending_book_revisions": 15,
-  "next_book": "1 Thessalonians",
+  "completed_book_records": 56,
+  "pending_book_revisions": 14,
+  "next_book": "2 Thessalonians",
   "full_bible_complete": false,
   "books": [
     {
@@ -590,8 +590,12 @@
       "order": 56,
       "book": "1 Thessalonians",
       "staging_path": "/bible/discipleship/1-thessalonians/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "1-thessalonians/",
+      "chapters": 5,
+      "reading_sections": 5,
+      "verse_units": 89,
+      "wording_changes": 27
     },
     {
       "order": 57,
@@ -703,10 +707,11 @@
       "Galatians",
       "Ephesians",
       "Philippians",
-      "Colossians"
+      "Colossians",
+      "1 Thessalonians"
     ],
-    "pending_books": 14,
-    "next_book": "1 Thessalonians",
+    "pending_books": 13,
+    "next_book": "2 Thessalonians",
     "status": "English editorial and staging complete for listed books; specialist review pending"
   },
   "completed_divisions": [
@@ -785,9 +790,13 @@
       "Colossians": {
         "staging_changes": 5,
         "status": "All 4 chapters and index saved and verified; 95 rendered verse units matched the reviewed draft; 32 wording changes."
+      },
+      "1 Thessalonians": {
+        "staging_changes": 6,
+        "status": "All 5 chapters and index saved and verified; 89 rendered verse units matched the reviewed draft; 27 wording changes."
       }
     }
   },
-  "new_testament_completed_book_records": 12,
-  "new_testament_pending_book_revisions": 15
+  "new_testament_completed_book_records": 13,
+  "new_testament_pending_book_revisions": 14
 }

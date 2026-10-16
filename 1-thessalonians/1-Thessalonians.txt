@@ -1,0 +1,109 @@
+1 THESSALONIANS — BESPOKE SAINTS ENGLISH TRANSLATION
+15 October 2026
+NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.
+Plain text Scripture only. Separated editorial notes and unresolved readings are in editorial-notes.json, source-checks.json and the HTML reader.
+
+
+1 THESSALONIANS 1
+
+1:1 Paul and Silvanus and Timothy, to the Church of the Thessalonians in God the Father and the Lord Jesus Christ: grace to you and peace.
+1:2 We always give thanks to God for all of you, mentioning you in our prayers, unceasingly
+1:3 remembering your work of faith and labor of love and endurance of hope in our Lord Jesus Christ before our God and Father,
+1:4 knowing, brothers beloved by God, your election,
+1:5 because our gospel did not come to you in word alone, but also in power and in the Holy Spirit and in great assurance, just as you know what kind of people we became among you for your sake.
+1:6 And you became imitators of us and of the Lord, receiving the word in great affliction with joy from the Holy Spirit,
+1:7 so that you became an example to all who believe in Macedonia and in Achaia.
+1:8 For from you the word of the Lord has sounded out, not only in Macedonia and Achaia, but your faith toward God has gone out in every place, so that we have no need to say anything.
+1:9 For they themselves report about us what our coming to you was like, and how you turned to God from idols, to serve the living and true God
+1:10 and to await His Son from the heavens, whom He raised from the dead—Jesus, who rescues us from the coming wrath.
+
+1 THESSALONIANS 2
+
+2:1 For you yourselves know, brothers, that our coming to you has not been in vain.
+2:2 But after we had already suffered and been shamefully treated in Philippi, as you know, we were bold in our God to speak to you the gospel of God amid much struggle.
+2:3 For our appeal does not come from error or impurity, nor is it made in deceit.
+2:4 But just as we have been approved by God to be entrusted with the gospel, so we speak, pleasing not people but God, who tests our hearts.
+2:5 For we never came with a word of flattery, as you know, nor with a pretext for greed—God is witness—
+2:6 nor seeking glory from people, either from you or from others,
+2:7 though we could have carried weight as apostles of Christ. But we became little children among you. As a nursing mother would cherish her own children,
+2:8 so, longing for you, we were pleased to share with you not only the gospel of God but also our own lives, because you had become beloved to us.
+2:9 For you remember, brothers, our labor and toil: working night and day so as not to burden any of you, we proclaimed to you the gospel of God.
+2:10 You are witnesses, and God also, how devoutly and justly and blamelessly we conducted ourselves toward you who believe,
+2:11 just as you know how we dealt with each one of you, as a father with his own children,
+2:12 encouraging you and comforting you and solemnly urging you to walk worthily of God, who calls you into His own kingdom and glory.
+2:13 And for this reason we also thank God unceasingly: when you received the word of God that you heard from us, you accepted it as no human word, but as it truly is, the word of God, which also works in you who believe.
+2:14 For you, brothers, became imitators of the Churches of God in Christ Jesus that are in Judea, because you also suffered the same things from your own countrymen as they did from the Jews
+2:15 who both killed the Lord Jesus and the prophets and drove us out, and do not please God and are opposed to all people,
+2:16 hindering us from speaking to the nations so that they might be saved, thus always filling up their sins. But wrath has overtaken them to the end.
+2:17 But we, brothers, having been bereaved of you for a short time—in face, not in heart—were all the more eager, with great longing, to see your face.
+2:18 For we wanted to come to you—I, Paul, both once and twice—and Satan hindered us.
+2:19 For what is our hope or joy or crown of boasting before our Lord Jesus at His coming? Is it not also you?
+2:20 For you are our glory and joy.
+
+1 THESSALONIANS 3
+
+3:1 Therefore, when we could bear it no longer, we were willing to be left alone in Athens,
+3:2 and sent Timothy, our brother and God’s fellow worker in the gospel of Christ, to strengthen you and encourage you concerning your faith,
+3:3 so that no one would be shaken by these afflictions. For you yourselves know that we are appointed to this.
+3:4 For even when we were with you, we told you beforehand that we were going to suffer affliction, just as it also happened, as you know.
+3:5 For this reason, when I too could bear it no longer, I sent to learn of your faith, for fear that the tempter had tempted you and our labor might be in vain.
+3:6 But now Timothy has come to us from you and brought us good news of your faith and love, and that you always remember us kindly, longing to see us just as we also long to see you.
+3:7 For this reason, brothers, in all our distress and affliction we have been comforted about you through your faith,
+3:8 because now we live, if you stand firm in the Lord.
+3:9 For what thanksgiving can we return to God for you, for all the joy with which we rejoice because of you before our God,
+3:10 as night and day we pray most earnestly to see your face and supply what is lacking in your faith?
+3:11 Now may our God and Father Himself, and our Lord Jesus, direct our way to you.
+3:12 And may the Lord make you increase and overflow in love for one another and for all, just as we also do for you,
+3:13 so as to establish your hearts blameless in holiness before our God and Father at the coming of our Lord Jesus with all His saints. Amen.
+
+1 THESSALONIANS 4
+
+4:1 Finally then, brothers, we ask and urge you in the Lord Jesus that, as you received from us how you ought to walk and please God—just as you are indeed walking—you may abound still more.
+4:2 For you know what instructions we gave you through the Lord Jesus.
+4:3 For this is the will of God, your sanctification: that you abstain from sexual immorality,
+4:4 that each of you know how to acquire his own vessel in sanctification and honor,
+4:5 not in the passion of desire, as do the nations that do not know God;
+4:6 that no one overstep and take advantage of his brother in the matter, because the Lord is an avenger concerning all these things, just as we told you beforehand and solemnly warned you.
+4:7 For God did not call us for impurity, but in sanctification.
+4:8 Therefore, the one who rejects this rejects no human being, but God, who also gives His Holy Spirit to you.
+4:9 Now concerning brotherly love, you have no need for someone to write to you, for you yourselves are taught by God to love one another.
+4:10 For you indeed do this toward all the brothers throughout Macedonia. But we urge you, brothers, to abound still more,
+4:11 and to make it your ambition to be quiet, to attend to your own affairs, and to work with your own hands, just as we instructed you,
+4:12 so that you may walk properly toward those outside and have need of no one.
+4:13 But we do not want you to be unaware, brothers, concerning those who are sleeping, so that you may not grieve as the rest do, who have no hope.
+4:14 For if we believe that Jesus died and rose, so also God, through Jesus, will bring with Him those who have fallen asleep.
+4:15 For this we say to you by a word of the Lord: we who are alive, who remain until the Lord’s coming, will certainly not precede those who have fallen asleep.
+4:16 For the Lord Himself will descend from heaven with a commanding cry, with an archangel’s voice and with God’s trumpet, and the dead in Christ will rise first.
+4:17 Then we who are alive, who remain, will be caught up together with them in clouds to meet the Lord in the air; and so we will always be with the Lord.
+4:18 Therefore encourage one another with these words.
+
+1 THESSALONIANS 5
+
+5:1 Now concerning the times and the seasons, brothers, you have no need for anything to be written to you.
+5:2 For you yourselves know exactly that the day of the Lord comes in this way, like a thief in the night.
+5:3 When they say, “Peace and security,” then sudden destruction comes upon them, as labor pain upon a pregnant woman, and they will certainly not escape.
+5:4 But you, brothers, are not in darkness, so that the day should overtake you like a thief.
+5:5 For you are all sons of light and sons of day. We are not of night or darkness.
+5:6 So then, let us not sleep as the rest do, but let us keep watch and be sober.
+5:7 For those who sleep sleep at night, and those who get drunk are drunk at night.
+5:8 But since we are of the day, let us be sober, putting on the breastplate of faith and love, and as a helmet, the hope of salvation.
+5:9 For God did not appoint us for wrath, but for obtaining salvation through our Lord Jesus Christ,
+5:10 who died for us, so that whether we keep watch or sleep, we may live together with Him.
+5:11 Therefore encourage one another and build each other up, just as you are indeed doing.
+5:12 Now we ask you, brothers, to recognize those who labor among you and lead you in the Lord and admonish you,
+5:13 and to hold them in exceedingly high regard in love because of their work. Be at peace among yourselves.
+5:14 And we urge you, brothers: admonish the disorderly, comfort the fainthearted, hold fast to the weak, be patient toward all.
+5:15 See that no one repays anyone evil for evil, but always pursue what is good for one another and for all.
+5:16 Rejoice always.
+5:17 Pray unceasingly.
+5:18 Give thanks in everything, for this is God’s will for you in Christ Jesus.
+5:19 Do not quench the Spirit.
+5:20 Do not despise prophecies.
+5:21 But test all things; hold fast to what is good.
+5:22 Abstain from every form of evil.
+5:23 Now may the God of peace Himself sanctify you completely, and may your spirit and soul and body be kept whole, blameless at the coming of our Lord Jesus Christ.
+5:24 He who calls you is faithful; He will also do it.
+5:25 Brothers, pray also for us.
+5:26 Greet all the brothers with a holy kiss.
+5:27 I put you under oath by the Lord to have this letter read to all the brothers.
+5:28 The grace of our Lord Jesus Christ be with you.
