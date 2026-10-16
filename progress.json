@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 61,
-  "pending_book_revisions": 9,
-  "next_book": "Hebrews",
+  "completed_book_records": 62,
+  "pending_book_revisions": 8,
+  "next_book": "James",
   "full_bible_complete": false,
   "books": [
     {
@@ -656,8 +656,12 @@
       "order": 62,
       "book": "Hebrews",
       "staging_path": "/bible/discipleship/hebrews/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "hebrews/",
+      "chapters": 13,
+      "reading_sections": 13,
+      "verse_units": 303,
+      "wording_changes": 107
     },
     {
       "order": 63,
@@ -733,10 +737,11 @@
       "1 Timothy",
       "2 Timothy",
       "Titus",
-      "Philemon"
+      "Philemon",
+      "Hebrews"
     ],
-    "pending_books": 8,
-    "next_book": "Hebrews",
+    "pending_books": 7,
+    "next_book": "James",
     "status": "English editorial and staging complete for listed books; specialist review pending"
   },
   "completed_divisions": [
@@ -839,9 +844,13 @@
       "Philemon": {
         "staging_changes": 2,
         "status": "All 1 chapters and index saved and verified; 25 rendered verse units matched the reviewed draft; 7 wording changes."
+      },
+      "Hebrews": {
+        "staging_changes": 14,
+        "status": "All 13 chapters and index saved and verified; 303 rendered verse units matched the reviewed draft; 107 wording changes."
       }
     }
   },
-  "new_testament_completed_book_records": 18,
-  "new_testament_pending_book_revisions": 9
+  "new_testament_completed_book_records": 19,
+  "new_testament_pending_book_revisions": 8
 }
