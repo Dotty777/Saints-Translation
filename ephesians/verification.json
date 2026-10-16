@@ -1,0 +1,326 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 155 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 6,
+    "reading_sections": 6,
+    "changed_verse_units": 37,
+    "source_scope": "NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "464de95324162bb814266c2bd4cb0d280d8b39aef028b5761df88c2ce1eb672a"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 23,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 22,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 21,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 32,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 5,
+      "chapter": 5,
+      "verse_units": 33,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 6,
+      "chapter": 6,
+      "verse_units": 24,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 1588,
+      "chapter": 1,
+      "modified": "2026-10-15T19:41:50",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "b59ae1d970c9f7620acfa2b7280f829df79c355d895de8bf1bd87c0ebeacf626"
+    },
+    {
+      "id": 3189,
+      "chapter": 2,
+      "modified": "2026-10-15T19:42:05",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "42f607aa05554b1e0a9185a1a8a67ce296e6e9ff501c873ac2e07cf8a3dc5460"
+    },
+    {
+      "id": 3191,
+      "chapter": 3,
+      "modified": "2026-10-15T19:42:20",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "c0acd137bdd1111030ed352b79e4d19755b934642f7d2d2463ec0c3d8607176f"
+    },
+    {
+      "id": 3193,
+      "chapter": 4,
+      "modified": "2026-10-15T19:42:40",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "6f1cace7ec4dec6b7192feeb0426aed4d25942da533eea552d32dccc50557c23"
+    },
+    {
+      "id": 3194,
+      "chapter": 5,
+      "modified": "2026-10-15T19:42:57",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "707ef71422955e6e5320dd596ac03a5bc55d2e9d4996e7faa7cb73d715b2362a"
+    },
+    {
+      "id": 3196,
+      "chapter": 6,
+      "modified": "2026-10-15T19:43:14",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "f92e32d58f013e627ac15064bfd688d49f2901e16af3e24ce7b1605acdb52f88"
+    },
+    {
+      "id": 1583,
+      "chapter": null,
+      "modified": "2026-10-15T19:43:28",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "5c9402f22eed6209bc892a0b041c7286c44c317b5bed6d8eb732a406721afd41"
+    }
+  ],
+  "browser_checks": {
+    "format": "sha256-dom-v1",
+    "date": "2026-10-15",
+    "chapter_navigation": [
+      {
+        "text": "Ephesians 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/chapter-1/"
+      },
+      {
+        "text": "Ephesians 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/chapter-2/"
+      },
+      {
+        "text": "Ephesians 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/chapter-3/"
+      },
+      {
+        "text": "Ephesians 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/chapter-4/"
+      },
+      {
+        "text": "Ephesians 5",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/chapter-5/"
+      },
+      {
+        "text": "Ephesians 6",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/chapter-6/"
+      }
+    ],
+    "chapters": [
+      {
+        "chapter": 1,
+        "page_id": 1588,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/chapter-1/",
+        "verse_count": 23,
+        "rendered_text_sha256": "d23db5c5a479ca65ae563b71fc71ff6a6945ce4514dabdf9df3c08ed11228092",
+        "currentNotes": 1,
+        "navigation_sha256": "efaa0a2754764278e6cc5b9db620adf8bbba72170d761f66e22db7fc12ae835a",
+        "chapter_option_count": 6,
+        "selected_chapter": [
+          "Ephesians 1"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 2,
+        "page_id": 3189,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/chapter-2/",
+        "verse_count": 22,
+        "rendered_text_sha256": "caa1fbb5246ff49c63dc598b72a296ce24ff15993c0cbaf32da643b999779b30",
+        "currentNotes": 1,
+        "navigation_sha256": "efaa0a2754764278e6cc5b9db620adf8bbba72170d761f66e22db7fc12ae835a",
+        "chapter_option_count": 6,
+        "selected_chapter": [
+          "Ephesians 2"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 3,
+        "page_id": 3191,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/chapter-3/",
+        "verse_count": 21,
+        "rendered_text_sha256": "46b1f9fc60cf6a9a0188a44f80e00ba0525522b76b908f34f1a2a5ec589d13d1",
+        "currentNotes": 1,
+        "navigation_sha256": "efaa0a2754764278e6cc5b9db620adf8bbba72170d761f66e22db7fc12ae835a",
+        "chapter_option_count": 6,
+        "selected_chapter": [
+          "Ephesians 3"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 4,
+        "page_id": 3193,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/chapter-4/",
+        "verse_count": 32,
+        "rendered_text_sha256": "c164086e4503d4fe58d7491dca3e75838670b860cf26946501f594c733bd5c07",
+        "currentNotes": 1,
+        "navigation_sha256": "efaa0a2754764278e6cc5b9db620adf8bbba72170d761f66e22db7fc12ae835a",
+        "chapter_option_count": 6,
+        "selected_chapter": [
+          "Ephesians 4"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 5,
+        "page_id": 3194,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/chapter-5/",
+        "verse_count": 33,
+        "rendered_text_sha256": "d7e757207209d5aa2dbeb011f5736ab35d089e3d80311c963a16928b2afbb1be",
+        "currentNotes": 1,
+        "navigation_sha256": "efaa0a2754764278e6cc5b9db620adf8bbba72170d761f66e22db7fc12ae835a",
+        "chapter_option_count": 6,
+        "selected_chapter": [
+          "Ephesians 5"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 6,
+        "page_id": 3196,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/chapter-6/",
+        "verse_count": 24,
+        "rendered_text_sha256": "c543e4178971e7f488a5febd33ee14f2c0f5c6798df80958ff8fd7c0137a9ad3",
+        "currentNotes": 1,
+        "navigation_sha256": "efaa0a2754764278e6cc5b9db620adf8bbba72170d761f66e22db7fc12ae835a",
+        "chapter_option_count": 6,
+        "selected_chapter": [
+          "Ephesians 6"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      }
+    ],
+    "index": {
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/",
+      "currentNotes": 1,
+      "text": "All 6 chapters, comprising 155 existing verse units, have received the Bespoke English editorial pass: 37 revised and 118 retained.",
+      "reading_links": [
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/chapter-1/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/chapter-2/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/chapter-3/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/chapter-4/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/chapter-5/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/chapter-6/"
+      ],
+      "scope": "Observed contiguous ordered chapter-link group and current editorial status excerpt.",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "SHA-256 of the ordered JSON array of [verse ID, displayed text] pairs, encoded as UTF-8. The visible verse-number span and sup footnote callouts are excluded; only whitespace and WordPress curly-apostrophe typography are normalized. All other text and order must match.",
+    "visual_capture": "Rendered DOM text and navigation checked for all six chapters and the index. Chapter 6 and the index were visually inspected in screenshots: the reader, study pane, chapter selector and Bespoke index status were legible. Whole-book screenshot inspection is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 3198,
+      "title": "Ephesians — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/editorial-guide/",
+      "before_content_hash": "2950911e4480bc63f8b3e3120d16c2b227423f8f",
+      "after_content_hash": "2950911e4480bc63f8b3e3120d16c2b227423f8f",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3814,
+      "title": "Ephesians — Saints Translation and KJV",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/comparison-edition/",
+      "before_content_hash": "66c5b88dc9eff9574b4b4b84cd0670bc6d62ba1d",
+      "after_content_hash": "66c5b88dc9eff9574b4b4b84cd0670bc6d62ba1d",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20764,
+      "title": "Ephesians — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/ephesians/vulgate-comparison/",
+      "before_content_hash": "e4f6499aaf9c35bc7afb25e9f7130ed6ccfbed82",
+      "after_content_hash": "e4f6499aaf9c35bc7afb25e9f7130ed6ccfbed82",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 155,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 7 edited pages and all 3 reference pages, plus 3 reference hash snapshots. This is a book archive, not a full-site backup."
+}
