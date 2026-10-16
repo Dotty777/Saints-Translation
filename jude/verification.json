@@ -1,0 +1,126 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 25 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 1,
+    "reading_sections": 1,
+    "changed_verse_units": 9,
+    "source_scope": "NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "89b9080a807654b03f802e6a5f8afbd25d20451c2f52fcd34655a0761797efa2"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 25,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 3171,
+      "chapter": 1,
+      "modified": "2026-10-15T21:33:45",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "c09af21f93592bf387b2b73bf952a1564879f7579d6e1b774af46afcda3dfbab"
+    },
+    {
+      "id": 3169,
+      "chapter": null,
+      "modified": "2026-10-15T21:34:02",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "96d7a8b031f67c4431388d557aa6d52437b43666c8a4e9d75bdbcc1797658610"
+    }
+  ],
+  "browser_checks": {
+    "format": "sha256-dom-v1",
+    "date": "2026-10-15",
+    "chapter_navigation": [
+      {
+        "text": "Jude 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/jude/chapter-1/"
+      }
+    ],
+    "chapters": [
+      {
+        "chapter": 1,
+        "page_id": 3171,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/jude/chapter-1/",
+        "verse_count": 25,
+        "rendered_text_sha256": "d841c386be2569a1e46286d2111e294406983fd48367abc0a1ea22ae8c81605c",
+        "currentNotes": 1,
+        "navigation_sha256": "4d029f52d9b3e22da8904456e6407857236f3794b03b11d629d29af571e11bbc",
+        "chapter_option_count": 1,
+        "selected_chapter": [
+          "Jude 1"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      }
+    ],
+    "index": {
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/jude/",
+      "currentNotes": 1,
+      "text": "The chapter, comprising 25 existing verse units, has received the Bespoke English editorial pass: 9 revised and 16 retained.",
+      "reading_links": [
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/jude/chapter-1/"
+      ],
+      "scope": "Observed contiguous ordered chapter-link group and current editorial status excerpt.",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "SHA-256 of the ordered JSON array of [verse ID, displayed text] pairs, encoded as UTF-8. The visible verse-number span and sup footnote callouts are excluded; only whitespace and WordPress curly-apostrophe typography are normalized. All other text and order must match.",
+    "visual_capture": "Rendered DOM text and navigation checked for all 1 chapters and the index. Chapter 1 and the index were visually inspected in screenshots: the reader, study pane, chapter selector and Bespoke index status were legible. Whole-book screenshot inspection is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 3821,
+      "title": "Jude — Saints Translation and KJV",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/jude/comparison-edition/",
+      "before_content_hash": "41fe47d75f0de61a050744d988e5bbef97f42897",
+      "after_content_hash": "41fe47d75f0de61a050744d988e5bbef97f42897",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20780,
+      "title": "Jude — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/jude/vulgate-comparison/",
+      "before_content_hash": "902803fd48df6c8f99e03ca3d85aa94e04d0b2e6",
+      "after_content_hash": "902803fd48df6c8f99e03ca3d85aa94e04d0b2e6",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3172,
+      "title": "Jude — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/jude/editorial-guide/",
+      "before_content_hash": "a980d27e8117509f9a11198d9fda55ccee9b3015",
+      "after_content_hash": "a980d27e8117509f9a11198d9fda55ccee9b3015",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 25,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 2 edited pages and all 3 reference pages, plus 3 reference hash snapshots. This is a book archive, not a full-site backup."
+}

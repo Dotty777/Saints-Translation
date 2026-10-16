@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 68,
-  "pending_book_revisions": 2,
-  "next_book": "Jude",
+  "completed_book_records": 69,
+  "pending_book_revisions": 1,
+  "next_book": "Revelation",
   "full_bible_complete": false,
   "books": [
     {
@@ -733,8 +733,12 @@
       "order": 69,
       "book": "Jude",
       "staging_path": "/bible/discipleship/jude/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "jude/",
+      "chapters": 1,
+      "reading_sections": 1,
+      "verse_units": 25,
+      "wording_changes": 9
     },
     {
       "order": 70,
@@ -768,10 +772,11 @@
       "2 Peter",
       "1 John",
       "2 John",
-      "3 John"
+      "3 John",
+      "Jude"
     ],
-    "pending_books": 1,
-    "next_book": "Jude",
+    "pending_books": 0,
+    "next_book": "Revelation",
     "status": "English editorial and staging complete for listed books; specialist review pending"
   },
   "completed_divisions": [
@@ -779,12 +784,13 @@
     "Judgement",
     "Wisdom",
     "Providence",
-    "Salvation"
+    "Salvation",
+    "Discipleship"
   ],
   "current_priority": "Continue the remaining New Testament books one at a time, using the authorized provisional NA28 base, preserving records, verifying staging and uploading to GitHub main.",
   "old_testament_completed_book_records": 43,
   "old_testament_pending_book_revisions": 0,
-  "next_division": "Discipleship",
+  "next_division": "Glory",
   "current_instruction": "After completing the Old Testament, continue all 27 New Testament books one at a time, with staging verification and uploads to GitHub main.",
   "new_testament_source_status": {
     "preferred_edition": "UBS6, with ECM consultation, as recommended by the newer Bespoke PDF",
@@ -902,9 +908,13 @@
       "3 John": {
         "staging_changes": 2,
         "status": "All 1 chapters and index saved and verified; 15 rendered verse units matched the reviewed draft; 6 wording changes."
+      },
+      "Jude": {
+        "staging_changes": 2,
+        "status": "All 1 chapters and index saved and verified; 25 rendered verse units matched the reviewed draft; 9 wording changes."
       }
     }
   },
-  "new_testament_completed_book_records": 25,
-  "new_testament_pending_book_revisions": 2
+  "new_testament_completed_book_records": 26,
+  "new_testament_pending_book_revisions": 1
 }
