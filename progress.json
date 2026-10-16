@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 47,
-  "pending_book_revisions": 23,
-  "next_book": "Acts",
+  "completed_book_records": 48,
+  "pending_book_revisions": 22,
+  "next_book": "Romans",
   "full_bible_complete": false,
   "books": [
     {
@@ -502,8 +502,12 @@
       "order": 48,
       "book": "Acts",
       "staging_path": "/bible/discipleship/acts/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "acts/",
+      "chapters": 28,
+      "reading_sections": 28,
+      "verse_units": 1003,
+      "wording_changes": 144
     },
     {
       "order": 49,
@@ -660,17 +664,14 @@
       "records": null
     }
   ],
-  "current_division": "Salvation",
+  "current_division": "Discipleship",
   "division_progress": {
-    "division": "Salvation",
+    "division": "Discipleship",
     "completed_books": [
-      "Matthew",
-      "Mark",
-      "Luke",
-      "John"
+      "Acts"
     ],
-    "pending_books": 0,
-    "next_book": "Acts",
+    "pending_books": 21,
+    "next_book": "Romans",
     "status": "English editorial and staging complete for listed books; specialist review pending"
   },
   "completed_divisions": [
@@ -717,9 +718,13 @@
       "John": {
         "staging_changes": 22,
         "status": "All 21 chapters and index saved and verified; 878 rendered verse units matched the reviewed draft; 280 wording changes."
+      },
+      "Acts": {
+        "staging_changes": 29,
+        "status": "All 28 chapters and index saved and verified; 1,003 rendered verse units matched the reviewed draft; 144 wording changes."
       }
     }
   },
-  "new_testament_completed_book_records": 4,
-  "new_testament_pending_book_revisions": 23
+  "new_testament_completed_book_records": 5,
+  "new_testament_pending_book_revisions": 22
 }
