@@ -1,0 +1,206 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 46 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 3,
+    "reading_sections": 3,
+    "changed_verse_units": 13,
+    "source_scope": "NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "eb2162117444afcb30677f0273a2ae45f28209274f42cbcf76ff430f63d99e04"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 16,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 15,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 15,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 3145,
+      "chapter": 1,
+      "modified": "2026-10-15T20:30:04",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "ee7b4c337ec65c5c09836f4931ba89abcdb96ad59197403a1118d06e79733f1a"
+    },
+    {
+      "id": 3147,
+      "chapter": 2,
+      "modified": "2026-10-15T20:30:19",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "145608ef898f61dda0041e5c36ac4e4e3a2b2ca089571157dfb4cd3214ade2e1"
+    },
+    {
+      "id": 3149,
+      "chapter": 3,
+      "modified": "2026-10-15T20:30:34",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "5b0efed8fe78eb576322640fae87c534d5c19c6cf1b97149b89d0bfb40cef6fe"
+    },
+    {
+      "id": 3144,
+      "chapter": null,
+      "modified": "2026-10-15T20:31:00",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "cc5fd4fd4ea9c45be473b0a4a0b30c9d009de1262f8b2a5e1fb912dd22777b7d"
+    }
+  ],
+  "browser_checks": {
+    "format": "sha256-dom-v1",
+    "date": "2026-10-15",
+    "chapter_navigation": [
+      {
+        "text": "Titus 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/titus/chapter-1/"
+      },
+      {
+        "text": "Titus 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/titus/chapter-2/"
+      },
+      {
+        "text": "Titus 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/titus/chapter-3/"
+      }
+    ],
+    "chapters": [
+      {
+        "chapter": 1,
+        "page_id": 3145,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/titus/chapter-1/",
+        "verse_count": 16,
+        "rendered_text_sha256": "87ba1a2b558646b77aba2985f19e37f5940ca166c5ceb8ce2abbda3e24bf8a94",
+        "currentNotes": 1,
+        "navigation_sha256": "ff3f4917de8b4e903f40cb5864c5c4b3a131e6e491ad55ad396f8dbc9c21afc4",
+        "chapter_option_count": 3,
+        "selected_chapter": [
+          "Titus 1"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 2,
+        "page_id": 3147,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/titus/chapter-2/",
+        "verse_count": 15,
+        "rendered_text_sha256": "01fb9e202acfb5bf760dfdedfa4f7e20feedd205e0c7c5e5311a883d4028558b",
+        "currentNotes": 1,
+        "navigation_sha256": "ff3f4917de8b4e903f40cb5864c5c4b3a131e6e491ad55ad396f8dbc9c21afc4",
+        "chapter_option_count": 3,
+        "selected_chapter": [
+          "Titus 2"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 3,
+        "page_id": 3149,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/titus/chapter-3/",
+        "verse_count": 15,
+        "rendered_text_sha256": "33e539f07d5dd948e3b42f98becf7dd91db59ea80db0c11dfddd31c442fb3855",
+        "currentNotes": 1,
+        "navigation_sha256": "ff3f4917de8b4e903f40cb5864c5c4b3a131e6e491ad55ad396f8dbc9c21afc4",
+        "chapter_option_count": 3,
+        "selected_chapter": [
+          "Titus 3"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      }
+    ],
+    "index": {
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/titus/",
+      "currentNotes": 1,
+      "text": "All 3 chapters, comprising 46 existing verse units, have received the Bespoke English editorial pass: 13 revised and 33 retained.",
+      "reading_links": [
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/titus/chapter-1/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/titus/chapter-2/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/titus/chapter-3/"
+      ],
+      "scope": "Observed contiguous ordered chapter-link group and current editorial status excerpt.",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "SHA-256 of the ordered JSON array of [verse ID, displayed text] pairs, encoded as UTF-8. The visible verse-number span and sup footnote callouts are excluded; only whitespace and WordPress curly-apostrophe typography are normalized. All other text and order must match.",
+    "visual_capture": "Rendered DOM text and navigation checked for all 3 chapters and the index. Chapter 3 and the index were visually inspected in screenshots: the reader, study pane, chapter selector and Bespoke index status were legible. Whole-book screenshot inspection is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 3152,
+      "title": "Titus — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/titus/editorial-guide/",
+      "before_content_hash": "77d2492c56e3bfdd95d71ef69fec1cc6f45f5f5b",
+      "after_content_hash": "77d2492c56e3bfdd95d71ef69fec1cc6f45f5f5b",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3854,
+      "title": "Titus — Saints Translation and KJV",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/titus/comparison-edition/",
+      "before_content_hash": "f25bcbf61bd255e09ac0680a8d8be7dd2ce563a9",
+      "after_content_hash": "f25bcbf61bd255e09ac0680a8d8be7dd2ce563a9",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20771,
+      "title": "Titus — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/titus/vulgate-comparison/",
+      "before_content_hash": "85cfdbe541656bc22f53a15bb64b63af502e6ced",
+      "after_content_hash": "85cfdbe541656bc22f53a15bb64b63af502e6ced",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 46,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 4 edited pages and all 3 reference pages, plus 3 reference hash snapshots. This is a book archive, not a full-site backup."
+}

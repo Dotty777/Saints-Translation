@@ -1,0 +1,34 @@
+{
+  "book": "Titus",
+  "date": "2026-10-15",
+  "edition": "Nestle-Aland 28 (NA28); German Bible Society online running text",
+  "authorization": "User explicitly authorized NA28 provisionally on 15 October 2026; UBS6/ECM review remains pending.",
+  "scope": "NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+  "historical_records": "Existing index and reference records were consulted as historical reference, not proof of fresh complete Greek verification.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "url": "https://www.die-bibel.de/en/bible/NA28/TIT.1",
+      "decision": "Preserved the slave/apostle terms, faith/knowledge/godliness, hope and divine truthfulness, plural appointed times, elder/overseer/steward distinctions and every qualification. Modernized address to Titus and does not lie, and clarified paying attention. The pure/defiled repetition and both mind and conscience remain; instead restores the contrast. Also at 1:10 reflects bracketed NA28 wording; the shorter grace and peace greeting remains.",
+      "focus": "Preserved the slave/apostle terms, faith/knowledge/godliness, hope and divine truthfulness, plural appointed times, elder/overseer/steward distinctions and every qualification. Modernized address to Titus and does not lie, and clarified paying attention. The pure/defiled repetition and both mind and conscience remain; instead restores the contrast. Also at 1:10 reflects bracketed NA28 wording; the shorter grace and peace greeting remains.",
+      "running_text_read": "Displayed NA28 running text read; focused comparison of the recorded features, not an exhaustive apparatus collation.",
+      "pending": "Review the force of according to/for in 1:1, the temporal phrase at 1:2, faithful/believing children at 1:6, one wife, the wine qualification and the historical Cretan quotation in 1:12–13. The quotation is preserved in its letter context, not applied to contemporary people. Full UBS6/ECM and apparatus comparison, independent Greek and human read-aloud reviews remain pending."
+    },
+    {
+      "chapter": 2,
+      "url": "https://www.die-bibel.de/en/bible/NA28/TIT.2",
+      "decision": "Preserved each age group, repeated self-control, training, enslaved to wine, household instructions, good-faith conduct, adornment, grace appearing and training, hope/glory/appearing, ransom and a people for His own possession. At 2:6–7 the punctuation now joins in everything to self-controlled, following the displayed NA28 punctuation, with both verse anchors retained. Has and Savior replace the older forms.",
+      "focus": "Preserved each age group, repeated self-control, training, enslaved to wine, household instructions, good-faith conduct, adornment, grace appearing and training, hope/glory/appearing, ransom and a people for His own possession. At 2:6–7 the punctuation now joins in everything to self-controlled, following the displayed NA28 punctuation, with both verse anchors retained. Has and Savior replace the older forms.",
+      "running_text_read": "Displayed NA28 running text read; focused comparison of the recorded features, not an exhaustive apparatus collation.",
+      "pending": "Review the attachment of in everything at 2:6–7, integrity at 2:7, working at home at 2:5, the historical slavery setting, saving/appeared and all people at 2:11, and the joined God/Savior title syntax at 2:13. No conclusion about universal final outcomes is inserted. Full UBS6/ECM and apparatus comparison, independent Greek and human read-aloud reviews remain pending."
+    },
+    {
+      "chapter": 3,
+      "url": "https://www.die-bibel.de/en/bible/NA28/TIT.3",
+      "decision": "Preserved rulers/authorities, gentleness toward all, the contrast between former conduct and divine kindness, mercy versus our works, washing/regeneration/renewal, Spirit poured out, justified/heirs/hope, repeated good works, two warnings, names and winter travel. Smoothed the kindness/love clause and controversies, ordinary address and has, and essential needs. Singular greetings to Titus and plural final all of you remain; no final Amen is added.",
+      "focus": "Preserved rulers/authorities, gentleness toward all, the contrast between former conduct and divine kindness, mercy versus our works, washing/regeneration/renewal, Spirit poured out, justified/heirs/hope, repeated good works, two warnings, names and winter travel. Smoothed the kindness/love clause and controversies, ordinary address and has, and essential needs. Singular greetings to Titus and plural final all of you remain; no final Amen is added.",
+      "running_text_read": "Displayed NA28 running text read; focused comparison of the recorded features, not an exhaustive apparatus collation.",
+      "pending": "Review the linked washing/regeneration/renewal syntax and sacramental readings at 3:5, the antecedent of His at 3:7, devote themselves/take the lead in 3:8 and 3:14, divisive/factious at 3:10, and Zenas’s legal expertise at 3:13. Such interpretations remain in notes rather than added to Scripture. Full UBS6/ECM and apparatus comparison, independent Greek and human read-aloud reviews remain pending."
+    }
+  ]
+}
