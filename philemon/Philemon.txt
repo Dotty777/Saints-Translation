@@ -1,0 +1,33 @@
+PHILEMON — BESPOKE SAINTS ENGLISH TRANSLATION
+15 October 2026
+NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.
+Plain text Scripture only. Separated editorial notes and unresolved readings are in editorial-notes.json, source-checks.json and the HTML reader.
+
+
+PHILEMON 1
+
+1:1 Paul, a prisoner of Christ Jesus, and Timothy the brother, to Philemon, our beloved fellow worker,
+1:2 and to Apphia the sister, and Archippus our fellow soldier, and the Church in your house:
+1:3 Grace to you all and peace from God our Father and the Lord Jesus Christ.
+1:4 I thank my God always, remembering you in my prayers,
+1:5 hearing of your love and the faith that you have toward the Lord Jesus and toward all the saints,
+1:6 that the fellowship of your faith may become effective through recognition of every good thing among us for Christ.
+1:7 For I had great joy and encouragement because of your love, because the hearts of the saints have been refreshed through you, brother.
+1:8 Therefore, although I have great boldness in Christ to command you to do what is fitting,
+1:9 I appeal instead because of love, being as I am, Paul, an old man and now also a prisoner of Christ Jesus—
+1:10 I appeal to you for my child Onesimus, whose father I became while in chains,
+1:11 who was once useless to you, but is now useful both to you and to me.
+1:12 I have sent him back to you—him, that is, my very heart.
+1:13 I wanted to keep him with me, so that in your place he might serve me in my chains for the gospel.
+1:14 But without your consent I did not want to do anything, so that your good deed might be voluntary, rather than as though compelled.
+1:15 For perhaps he was separated from you for a little while for this reason: that you might have him back forever,
+1:16 no longer as a slave, but more than a slave, a beloved brother, especially to me, but how much more to you, both in the flesh and in the Lord.
+1:17 So if you regard me as a partner, welcome him as you would me.
+1:18 And if he has wronged you in anything, or owes you anything, charge that to my account.
+1:19 I, Paul, write this with my own hand: I will repay it—not to mention that you owe me even your own self.
+1:20 Yes, brother, let me have this benefit from you in the Lord; refresh my heart in Christ.
+1:21 Confident of your obedience, I write to you, knowing that you will do even more than I say.
+1:22 At the same time, prepare lodging for me also, for I hope that through your prayers I will be graciously given to you.
+1:23 Epaphras, my fellow prisoner in Christ Jesus, greets you,
+1:24 as do Mark, Aristarchus, Demas, and Luke, my fellow workers.
+1:25 The grace of the Lord Jesus Christ be with your spirit.
