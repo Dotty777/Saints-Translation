@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 53,
-  "pending_book_revisions": 17,
-  "next_book": "Philippians",
+  "completed_book_records": 54,
+  "pending_book_revisions": 16,
+  "next_book": "Colossians",
   "full_bible_complete": false,
   "books": [
     {
@@ -568,8 +568,12 @@
       "order": 54,
       "book": "Philippians",
       "staging_path": "/bible/discipleship/philippians/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "philippians/",
+      "chapters": 4,
+      "reading_sections": 4,
+      "verse_units": 104,
+      "wording_changes": 28
     },
     {
       "order": 55,
@@ -693,10 +697,11 @@
       "1 Corinthians",
       "2 Corinthians",
       "Galatians",
-      "Ephesians"
+      "Ephesians",
+      "Philippians"
     ],
-    "pending_books": 16,
-    "next_book": "Philippians",
+    "pending_books": 15,
+    "next_book": "Colossians",
     "status": "English editorial and staging complete for listed books; specialist review pending"
   },
   "completed_divisions": [
@@ -767,9 +772,13 @@
       "Ephesians": {
         "staging_changes": 7,
         "status": "All 6 chapters and index saved and verified; 155 rendered verse units matched the reviewed draft; 37 wording changes."
+      },
+      "Philippians": {
+        "staging_changes": 5,
+        "status": "All 4 chapters and index saved and verified; 104 rendered verse units matched the reviewed draft; 28 wording changes."
       }
     }
   },
-  "new_testament_completed_book_records": 10,
-  "new_testament_pending_book_revisions": 17
+  "new_testament_completed_book_records": 11,
+  "new_testament_pending_book_revisions": 16
 }

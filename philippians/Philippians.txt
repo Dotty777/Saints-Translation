@@ -1,0 +1,121 @@
+PHILIPPIANS — BESPOKE SAINTS ENGLISH TRANSLATION
+15 October 2026
+NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.
+Plain text Scripture only. Separated editorial notes and unresolved readings are in editorial-notes.json, source-checks.json and the HTML reader.
+
+
+PHILIPPIANS 1
+
+1:1 Paul and Timothy, slaves of Christ Jesus, to all the saints in Christ Jesus who are in Philippi, together with overseers and deacons:
+1:2 grace to you and peace from God our Father and the Lord Jesus Christ.
+1:3 I thank my God every time I remember you,
+1:4 always in every petition of mine for all of you, making my petition with joy,
+1:5 because of your fellowship in the gospel from the first day until now,
+1:6 being confident of this very thing, that the One who began a good work in you will carry it on to completion until the day of Christ Jesus.
+1:7 It is right for me to think this about all of you, because I hold you in my heart, since both in my chains and in the defense and confirmation of the gospel you all share grace with me.
+1:8 For God is my witness how I long for all of you with the tender affection of Christ Jesus.
+1:9 And this I pray: that your love may abound still more and more in knowledge and every kind of discernment,
+1:10 so that you may approve the things that matter, so that you may be pure and without offense for the day of Christ,
+1:11 filled with the fruit of righteousness that comes through Jesus Christ, to the glory and praise of God.
+1:12 Now I want you to know, brothers, that my circumstances have instead served to advance the gospel,
+1:13 so that my chains have become known as being in Christ throughout the whole praetorium and to all the rest,
+1:14 and most of the brothers, having gained confidence in the Lord because of my chains, dare much more to speak the word without fear.
+1:15 Some indeed proclaim Christ because of envy and strife, but some also because of goodwill.
+1:16 The latter do so from love, knowing that I am appointed for the defense of the gospel;
+1:17 but the former announce Christ from selfish ambition, not purely, supposing that they will stir up affliction in my chains.
+1:18 What then? Only that in every way, whether in pretense or in truth, Christ is announced, and in this I rejoice. Yes, and I will rejoice,
+1:19 for I know that this will turn out for my salvation through your petition and the supply of the Spirit of Jesus Christ,
+1:20 according to my eager expectation and hope that I will not be put to shame in anything, but with all boldness, as always, so also now, Christ will be magnified in my body, whether through life or through death.
+1:21 For to me, to live is Christ and to die is gain.
+1:22 But if I am to live on in the flesh, this means fruitful work for me—and what I shall choose I do not know.
+1:23 But I am pressed between the two, having the desire to depart and be with Christ, for that is far better,
+1:24 yet to remain in the flesh is more necessary for your sake.
+1:25 And being confident of this, I know that I will remain and continue with all of you for your progress and joy in the faith,
+1:26 so that your boasting in Christ Jesus may abound because of me through my presence with you again.
+1:27 Only conduct your common life worthily of the gospel of Christ, so that whether I come and see you or remain absent, I may hear about you that you stand firm in one spirit, with one soul striving together for the faith of the gospel,
+1:28 and are not frightened in anything by your opponents. This is for them an indication of destruction, but of your salvation, and this is from God,
+1:29 because it has been graciously granted to you on behalf of Christ not only to believe in Him but also to suffer for Him,
+1:30 having the same struggle which you saw in me and now hear that I have.
+
+PHILIPPIANS 2
+
+2:1 So if there is any encouragement in Christ, if any consolation of love, if any fellowship of the Spirit, if any tender affection and compassion,
+2:2 complete my joy by thinking the same thing, having the same love, united in soul, thinking the one thing,
+2:3 doing nothing from selfish ambition or conceit, but in humility considering one another above yourselves,
+2:4 each of you looking not to your own interests, but each also to the interests of others.
+2:5 Have this mind among yourselves which was also in Christ Jesus,
+2:6 who, existing in the form of God, did not regard being equal with God as something to exploit,
+2:7 but emptied Himself, taking the form of a slave, coming to be in the likeness of human beings; and being found in appearance as a human being,
+2:8 He humbled Himself, becoming obedient to the point of death, even death on a cross.
+2:9 Therefore God also highly exalted Him and graciously gave Him the name above every name,
+2:10 so that at the name of Jesus every knee should bend, of those in heaven and on earth and under the earth,
+2:11 and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.
+2:12 So then, my beloved, as you have always obeyed—not only in my presence, but now much more in my absence—work out your own salvation with fear and trembling,
+2:13 for God is the One working in you both to will and to work for His good pleasure.
+2:14 Do all things without grumbling and disputing,
+2:15 so that you may become blameless and innocent, children of God without blemish in the midst of a crooked and perverted generation, among whom you shine as lights in the world,
+2:16 holding fast the word of life, so that I may boast in the day of Christ that I did not run in vain or labor in vain.
+2:17 But even if I am being poured out upon the sacrifice and service of your faith, I rejoice and rejoice together with all of you.
+2:18 And in the same way you too rejoice and rejoice together with me.
+2:19 Now I hope in the Lord Jesus to send Timothy to you soon, so that I too may be encouraged when I know about your circumstances.
+2:20 For I have no one of like mind who will sincerely care about your circumstances,
+2:21 for all seek their own interests, not those of Jesus Christ.
+2:22 But you know his proven character, that as a child with a father he served with me for the gospel.
+2:23 So I hope to send him immediately, as soon as I see how things stand with me.
+2:24 And I am confident in the Lord that I myself also will come soon.
+2:25 But I considered it necessary to send to you Epaphroditus, my brother and fellow worker and fellow soldier, and your messenger and minister to my need,
+2:26 since he was longing for you all and was distressed because you had heard that he was sick.
+2:27 Indeed, he was sick, near death; but God had mercy on him, and not on him alone but also on me, so that I might not have sorrow upon sorrow.
+2:28 Therefore I sent him all the more eagerly, so that seeing him again you might rejoice and I might be less sorrowful.
+2:29 So welcome him in the Lord with all joy, and hold such people in honor,
+2:30 because he came near to death for the work of Christ, risking his life to make up what was lacking in your service to me.
+
+PHILIPPIANS 3
+
+3:1 Finally, my brothers, rejoice in the Lord. To write the same things to you is no trouble to me, and is a safeguard for you.
+3:2 Watch out for the dogs; watch out for the evil workers; watch out for the mutilation.
+3:3 For we are the circumcision, who worship by the Spirit of God and boast in Christ Jesus and put no confidence in the flesh,
+3:4 though I myself have grounds for confidence even in the flesh. If anyone else thinks he can be confident in the flesh, I have more:
+3:5 circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin, a Hebrew from Hebrews; with respect to law, a Pharisee;
+3:6 with respect to zeal, persecuting the Church; with respect to righteousness in law, having become blameless.
+3:7 But whatever things were gains to me, these I have considered loss because of Christ.
+3:8 Indeed, I even consider all things to be loss because of the surpassing worth of knowing Christ Jesus my Lord, for whose sake I suffered the loss of all things, and consider them refuse, so that I may gain Christ
+3:9 and be found in Him, not having my own righteousness from law but that through faith in Christ, the righteousness from God on the basis of faith,
+3:10 to know Him and the power of His resurrection and fellowship in His sufferings, being conformed to His death,
+3:11 if somehow I may attain to the resurrection from the dead.
+3:12 Not that I have already obtained it or have already been perfected, but I press on to see if I may take hold, because I too was taken hold of by Christ Jesus.
+3:13 Brothers, I do not consider myself to have taken hold. But one thing: forgetting the things behind and stretching forward to the things ahead,
+3:14 I press on toward the goal for the prize of the upward calling of God in Christ Jesus.
+3:15 So let all of us who are mature think this way; and if you think differently about anything, God will reveal this also to you.
+3:16 Only, as far as we have attained, let us keep in step with the same course.
+3:17 Join together in imitating me, brothers, and observe those who walk in this way, just as you have us as a pattern.
+3:18 For many walk as enemies of the cross of Christ; I have often told you about them, and now tell you even with tears.
+3:19 Their end is destruction, their god is the belly, and their glory is in their shame; they set their minds on earthly things.
+3:20 For our citizenship is in the heavens, from which we also eagerly await a Savior, the Lord Jesus Christ,
+3:21 who will transform the body of our humiliation to be conformed to the body of His glory, according to the working by which He is able even to subject all things to Himself.
+
+PHILIPPIANS 4
+
+4:1 So then, my beloved and longed-for brothers, my joy and crown, stand firm in the Lord in this way, beloved.
+4:2 I urge Euodia and I urge Syntyche to think the same thing in the Lord.
+4:3 Yes, I ask you also, true yoke-fellow, help these women, who strove with me in the gospel together with Clement and the rest of my fellow workers, whose names are in the book of life.
+4:4 Rejoice in the Lord always. Again I will say: rejoice.
+4:5 Let your gentleness be known to all people. The Lord is near.
+4:6 Be anxious about nothing, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God.
+4:7 And the peace of God, which surpasses all understanding, will guard your hearts and your thoughts in Christ Jesus.
+4:8 Finally, brothers, whatever things are true, whatever are honorable, whatever are just, whatever are pure, whatever are lovely, whatever are well spoken of, if there is any excellence and if there is any praise, consider these things.
+4:9 Practice the things you learned and received and heard and saw in me; and the God of peace will be with you.
+4:10 Now I rejoiced greatly in the Lord that at last your concern for me blossomed again. You were indeed concerned, but lacked opportunity.
+4:11 Not that I speak because of need, for I have learned to be content whatever my circumstances.
+4:12 I know how to be brought low, and I know how to abound. In everything and in all things I have learned the secret, both to be filled and to hunger, both to abound and to be in need.
+4:13 I have strength for all things in the One who empowers me.
+4:14 Nevertheless, you did well to share in my affliction.
+4:15 And you Philippians also know that at the beginning of the gospel, when I departed from Macedonia, no Church shared with me in the matter of giving and receiving except you alone,
+4:16 because even in Thessalonica you sent once and twice for my need.
+4:17 Not that I seek the gift, but I seek the fruit that increases to your account.
+4:18 But I have received everything and have an abundance; I have been filled, having received from Epaphroditus the things from you, a fragrant aroma, an acceptable sacrifice, well pleasing to God.
+4:19 And my God will fill every need of yours according to His riches in glory in Christ Jesus.
+4:20 Now to our God and Father be glory for the ages of ages. Amen.
+4:21 Greet every saint in Christ Jesus. The brothers with me greet you.
+4:22 All the saints greet you, especially those of Caesar’s household.
+4:23 The grace of the Lord Jesus Christ be with your spirit.
