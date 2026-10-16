@@ -1,0 +1,34 @@
+{
+  "book": "2 Thessalonians",
+  "date": "2026-10-15",
+  "edition": "Nestle-Aland 28 (NA28); German Bible Society online running text",
+  "authorization": "User explicitly authorized NA28 provisionally on 15 October 2026; UBS6/ECM review remains pending.",
+  "scope": "NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+  "historical_records": "Existing index and reference records were consulted as historical reference, not proof of fresh complete Greek verification.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "url": "https://www.die-bibel.de/en/bible/NA28/2TH.1",
+      "decision": "Preserved the distinct growth of faith and mutual love, affliction/afflict/afflicted, relief, angels of power, flame, vengeance, eternal destruction, presence/glory/strength, and glory/faith repetitions. Included our in 1:2 from bracketed NA28 wording and smoothed bringing vengeance on. Retained the shorter Lord Jesus title at 1:8.",
+      "focus": "Preserved the distinct growth of faith and mutual love, affliction/afflict/afflicted, relief, angels of power, flame, vengeance, eternal destruction, presence/glory/strength, and glory/faith repetitions. Included our in 1:2 from bracketed NA28 wording and smoothed bringing vengeance on. Retained the shorter Lord Jesus title at 1:8.",
+      "running_text_read": "Displayed NA28 running text read; focused comparison of the recorded features, not an exhaustive apparatus collation.",
+      "pending": "Review eternal destruction and from the presence in 1:9, including source/separation interpretations, the relationship of suffering and worthiness in 1:5, and the syntax of our God and Lord Jesus Christ in 1:12. Full UBS6/ECM and apparatus comparison, independent Greek and human read-aloud reviews remain pending."
+    },
+    {
+      "chapter": 2,
+      "url": "https://www.die-bibel.de/en/bible/NA28/2TH.2",
+      "decision": "Preserved gathering, shaking, the three communication channels, lawlessness, son of destruction, sanctuary, neuter what restrains versus masculine the one who restrains, breath/mouth, signs/wonders, firstfruits and oral/written traditions. Modernized ordinary you and verbs. Included also at 2:14 from bracketed NA28 wording; retained bracketed Jesus at 2:8. The restrainer remains unidentified.",
+      "focus": "Preserved gathering, shaking, the three communication channels, lawlessness, son of destruction, sanctuary, neuter what restrains versus masculine the one who restrains, breath/mouth, signs/wonders, firstfruits and oral/written traditions. Modernized ordinary you and verbs. Included also at 2:14 from bracketed NA28 wording; retained bracketed Jesus at 2:8. The restrainer remains unidentified.",
+      "running_text_read": "Displayed NA28 running text read; focused comparison of the recorded features, not an exhaustive apparatus collation.",
+      "pending": "Review the supplied English completion that day will not come at 2:3, the elliptical restrainer clause in 2:7, breath/spirit at 2:8, firstfruits versus from the beginning at 2:13, and the genitive relations in sanctification by the Spirit and faith in the truth. Full UBS6/ECM and apparatus comparison, independent Greek and human read-aloud reviews remain pending."
+    },
+    {
+      "chapter": 3,
+      "url": "https://www.die-bibel.de/en/bible/NA28/2TH.3",
+      "decision": "Preserved the running word, faith/faithful, love/endurance, walking, bread, labor/toil/night/day, willingness to work, working/other people’s business contrast, brother rather than enemy, peace/all and the handwritten greeting. Smoothed disorderly constructions and the right/example sentence; modernized forms and ordinary address. Retained bracketed our at 3:6 and the plural they received. No final Amen was added.",
+      "focus": "Preserved the running word, faith/faithful, love/endurance, walking, bread, labor/toil/night/day, willingness to work, working/other people’s business contrast, brother rather than enemy, peace/all and the handwritten greeting. Smoothed disorderly constructions and the right/example sentence; modernized forms and ordinary address. Retained bracketed our at 3:6 and the plural they received. No final Amen was added.",
+      "running_text_read": "Displayed NA28 running text read; focused comparison of the recorded features, not an exhaustive apparatus collation.",
+      "pending": "Review evil/evil one in 3:3, love of God/endurance of Christ in 3:5, disorderly/idle in its work context and the relation of the discipline commands to the brotherly instruction in 3:15. Full UBS6/ECM and apparatus comparison, independent Greek and human read-aloud reviews remain pending."
+    }
+  ]
+}

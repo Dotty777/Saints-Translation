@@ -1,0 +1,61 @@
+2 THESSALONIANS — BESPOKE SAINTS ENGLISH TRANSLATION
+15 October 2026
+NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.
+Plain text Scripture only. Separated editorial notes and unresolved readings are in editorial-notes.json, source-checks.json and the HTML reader.
+
+
+2 THESSALONIANS 1
+
+1:1 Paul and Silvanus and Timothy, to the Church of the Thessalonians in God our Father and the Lord Jesus Christ:
+1:2 grace to you and peace from God our Father and the Lord Jesus Christ.
+1:3 We ought always to give thanks to God for you, brothers, as is fitting, because your faith is growing abundantly and the love of each and every one of you for one another is increasing,
+1:4 so that we ourselves boast of you among the Churches of God for your endurance and faith in all your persecutions and the afflictions that you bear.
+1:5 This is evidence of God’s righteous judgment, that you may be counted worthy of the kingdom of God, for which you also suffer,
+1:6 since it is indeed just with God to repay affliction to those who afflict you,
+1:7 and to you who are afflicted, relief with us, at the revelation of the Lord Jesus from heaven with the angels of His power,
+1:8 in a flame of fire, bringing vengeance on those who do not know God and on those who do not obey the gospel of our Lord Jesus.
+1:9 They will pay the penalty of eternal destruction from the presence of the Lord and from the glory of His strength,
+1:10 when He comes to be glorified in His saints and marveled at among all who have believed—because our testimony to you was believed—on that day.
+1:11 To this end we also always pray for you, that our God may count you worthy of the calling and fulfill every good resolve and work of faith with power,
+1:12 so that the name of our Lord Jesus may be glorified in you, and you in Him, according to the grace of our God and Lord Jesus Christ.
+
+2 THESSALONIANS 2
+
+2:1 Now we ask you, brothers, concerning the coming of our Lord Jesus Christ and our gathering together to Him,
+2:2 not to be quickly shaken from your understanding or alarmed, either by a spirit or by a word or by a letter as though from us, as if the day of the Lord is already present.
+2:3 Let no one deceive you in any way. For that day will not come unless the rebellion comes first and the man of lawlessness is revealed, the son of destruction,
+2:4 who opposes and exalts himself above everything called god or an object of worship, so that he takes his seat in God’s sanctuary, displaying himself as being God.
+2:5 Do you not remember that when I was still with you I used to tell you these things?
+2:6 And now you know what restrains, so that he may be revealed in his own time.
+2:7 For the mystery of lawlessness is already at work. Only, the one who now restrains does so until he is out of the way.
+2:8 And then the lawless one will be revealed, whom the Lord Jesus will kill with the breath of His mouth and bring to nothing by the manifestation of His coming.
+2:9 His coming is according to the working of Satan, with all power and signs and wonders of falsehood,
+2:10 and with every deception of unrighteousness for those who are perishing, because they did not receive the love of the truth so that they might be saved.
+2:11 And for this reason God sends them a working of delusion, so that they believe the falsehood,
+2:12 in order that all who did not believe the truth but took pleasure in unrighteousness may be judged.
+2:13 But we ought always to thank God for you, brothers beloved by the Lord, because God chose you as firstfruits for salvation in sanctification by the Spirit and faith in the truth.
+2:14 To this He also called you through our gospel, for obtaining the glory of our Lord Jesus Christ.
+2:15 So then, brothers, stand firm and hold fast to the traditions you were taught, whether by word or by a letter from us.
+2:16 Now may our Lord Jesus Christ Himself, and God our Father, who loved us and gave us eternal encouragement and good hope in grace,
+2:17 encourage your hearts and establish them in every good work and word.
+
+2 THESSALONIANS 3
+
+3:1 Finally, brothers, pray for us, that the word of the Lord may run and be glorified, just as it also is among you,
+3:2 and that we may be rescued from perverse and evil people, for not all have faith.
+3:3 But the Lord is faithful; He will establish you and guard you from the evil one.
+3:4 And we are confident in the Lord about you, that you both do and will do what we command.
+3:5 And may the Lord direct your hearts into the love of God and into the endurance of Christ.
+3:6 Now we command you, brothers, in the name of [our] Lord Jesus Christ, to keep away from every brother who walks in a disorderly way and not according to the tradition which they received from us.
+3:7 For you yourselves know how you ought to imitate us, because we did not behave in a disorderly way among you,
+3:8 nor did we eat anyone’s bread without payment, but with labor and toil we worked night and day so as not to burden any of you.
+3:9 This was not because we lack the right, but so that we might give ourselves to you as an example for you to imitate.
+3:10 For even when we were with you, we gave you this command: if anyone is not willing to work, let him not eat either.
+3:11 For we hear that some among you are walking in a disorderly way, not working at all but working at everyone else’s business.
+3:12 Now such people we command and urge in the Lord Jesus Christ to work quietly and eat their own bread.
+3:13 But you, brothers, do not lose heart in doing good.
+3:14 And if anyone does not obey our word through this letter, take note of that person, and do not associate with him, so that he may be ashamed.
+3:15 Yet do not regard him as an enemy, but admonish him as a brother.
+3:16 Now may the Lord of peace Himself give you peace always in every way. The Lord be with all of you.
+3:17 The greeting is in my own hand—Paul’s—which is a sign in every letter. This is how I write.
+3:18 The grace of our Lord Jesus Christ be with all of you.

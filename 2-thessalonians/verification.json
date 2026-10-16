@@ -1,0 +1,206 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 47 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 3,
+    "reading_sections": 3,
+    "changed_verse_units": 13,
+    "source_scope": "NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "4ed5582b5e8a0b4116c6a23e575bf9a1ec4c196a07d7c98812ea190750b17885"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 12,
+      "changed": 2,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 17,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 18,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 3124,
+      "chapter": 1,
+      "modified": "2026-10-15T20:07:48",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "32b8188bee94ddd0534b1be7e3571ef012ba07c42720ad8807df6a3255138271"
+    },
+    {
+      "id": 3125,
+      "chapter": 2,
+      "modified": "2026-10-15T20:08:02",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "bd0f94606dd1aa1f64715248cf31b75f2d6071e1c53ac0b29d34e5654060158d"
+    },
+    {
+      "id": 3126,
+      "chapter": 3,
+      "modified": "2026-10-15T20:08:19",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "b623147129d5c43b5c90e62c74f5eb80f8800218d44ee7d881af647afb2a882b"
+    },
+    {
+      "id": 3123,
+      "chapter": null,
+      "modified": "2026-10-15T20:08:34",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "23e78bbf7b731063b1987ea9576c61e98c26003b34c0165c7ef1547b7b113a4d"
+    }
+  ],
+  "browser_checks": {
+    "format": "sha256-dom-v1",
+    "date": "2026-10-15",
+    "chapter_navigation": [
+      {
+        "text": "2 Thessalonians 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-thessalonians/chapter-1/"
+      },
+      {
+        "text": "2 Thessalonians 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-thessalonians/chapter-2/"
+      },
+      {
+        "text": "2 Thessalonians 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-thessalonians/chapter-3/"
+      }
+    ],
+    "chapters": [
+      {
+        "chapter": 1,
+        "page_id": 3124,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-thessalonians/chapter-1/",
+        "verse_count": 12,
+        "rendered_text_sha256": "23200ffe41d47ba3191ef507305a1c9bd4a7fa2c67e1f79458f7eb2ab54b5c87",
+        "currentNotes": 1,
+        "navigation_sha256": "638fd92f49f2cd79b840184d281c595975807d759180d9b9a166069a4cddfde0",
+        "chapter_option_count": 3,
+        "selected_chapter": [
+          "2 Thessalonians 1"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 2,
+        "page_id": 3125,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-thessalonians/chapter-2/",
+        "verse_count": 17,
+        "rendered_text_sha256": "c80fc23a3c172d2d1cde3a2a08827a7777d81fa250f10299044967285d0cdd92",
+        "currentNotes": 1,
+        "navigation_sha256": "638fd92f49f2cd79b840184d281c595975807d759180d9b9a166069a4cddfde0",
+        "chapter_option_count": 3,
+        "selected_chapter": [
+          "2 Thessalonians 2"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 3,
+        "page_id": 3126,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-thessalonians/chapter-3/",
+        "verse_count": 18,
+        "rendered_text_sha256": "ec936a6a4c3a8bf49fb06f18ac2bb3faa7790ee63b4246fb86f85685e0bea964",
+        "currentNotes": 1,
+        "navigation_sha256": "638fd92f49f2cd79b840184d281c595975807d759180d9b9a166069a4cddfde0",
+        "chapter_option_count": 3,
+        "selected_chapter": [
+          "2 Thessalonians 3"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      }
+    ],
+    "index": {
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-thessalonians/",
+      "currentNotes": 1,
+      "text": "All 3 chapters, comprising 47 existing verse units, have received the Bespoke English editorial pass: 13 revised and 34 retained.",
+      "reading_links": [
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-thessalonians/chapter-1/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-thessalonians/chapter-2/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-thessalonians/chapter-3/"
+      ],
+      "scope": "Observed contiguous ordered chapter-link group and current editorial status excerpt.",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "SHA-256 of the ordered JSON array of [verse ID, displayed text] pairs, encoded as UTF-8. The visible verse-number span and sup footnote callouts are excluded; only whitespace and WordPress curly-apostrophe typography are normalized. All other text and order must match.",
+    "visual_capture": "Rendered DOM text and navigation checked for all 3 chapters and the index. Chapter 3 and the index were visually inspected in screenshots: the reader, study pane, chapter selector and Bespoke index status were legible. Whole-book screenshot inspection is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 3127,
+      "title": "2 Thessalonians — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-thessalonians/editorial-guide/",
+      "before_content_hash": "e2fa77b26e3c6de77c20821088fca1f93d5e501f",
+      "after_content_hash": "e2fa77b26e3c6de77c20821088fca1f93d5e501f",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3855,
+      "title": "2 Thessalonians — Saints Translation and KJV",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-thessalonians/comparison-edition/",
+      "before_content_hash": "fca537ab8674ce458f48c925906cd7ebddfe9b54",
+      "after_content_hash": "fca537ab8674ce458f48c925906cd7ebddfe9b54",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20768,
+      "title": "2 Thessalonians — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-thessalonians/vulgate-comparison/",
+      "before_content_hash": "ff288630a139717a4ad210ec5f3b77254deaf98d",
+      "after_content_hash": "ff288630a139717a4ad210ec5f3b77254deaf98d",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 47,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 4 edited pages and all 3 reference pages, plus 3 reference hash snapshots. This is a book archive, not a full-site backup."
+}
