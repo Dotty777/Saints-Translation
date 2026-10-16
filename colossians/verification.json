@@ -1,0 +1,246 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 95 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 4,
+    "reading_sections": 4,
+    "changed_verse_units": 32,
+    "source_scope": "NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "75ba1f523c54d084b7748c6019de0ea5e596c0f4811ed3a7dd8aa64fd2215632"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 29,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 23,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 25,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 18,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 3079,
+      "chapter": 1,
+      "modified": "2026-10-15T19:56:08",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "ac118ee1c509c881e8891b193133f8a1c2b6bdcbe73e32c36e925877aa80d331"
+    },
+    {
+      "id": 3080,
+      "chapter": 2,
+      "modified": "2026-10-15T19:56:22",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "a8f8cc809b1140a9cafcaa6b71531f0b1d13e820d0a865e7694af16bd32c39bd"
+    },
+    {
+      "id": 3083,
+      "chapter": 3,
+      "modified": "2026-10-15T19:56:40",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "befabe3c81d4b444b0a10646d0c603351add7a58100418addad048a297817468"
+    },
+    {
+      "id": 3085,
+      "chapter": 4,
+      "modified": "2026-10-15T19:57:07",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "76fbb60e718612061af374d4e563fc196288415e3588b5420e5e6828a5786d30"
+    },
+    {
+      "id": 3077,
+      "chapter": null,
+      "modified": "2026-10-15T19:57:22",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "dfa0e583a78f8eb1f43f0cc85616e07125d306fd5be6033400792d955b805306"
+    }
+  ],
+  "browser_checks": {
+    "format": "sha256-dom-v1",
+    "date": "2026-10-15",
+    "chapter_navigation": [
+      {
+        "text": "Colossians 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/colossians/chapter-1/"
+      },
+      {
+        "text": "Colossians 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/colossians/chapter-2/"
+      },
+      {
+        "text": "Colossians 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/colossians/chapter-3/"
+      },
+      {
+        "text": "Colossians 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/colossians/chapter-4/"
+      }
+    ],
+    "chapters": [
+      {
+        "chapter": 1,
+        "page_id": 3079,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/colossians/chapter-1/",
+        "verse_count": 29,
+        "rendered_text_sha256": "118d1a358bcd66d99f0a86643760caa1cc2551047c025d278be42ed7c6723459",
+        "currentNotes": 1,
+        "navigation_sha256": "1d2f1f598463623f335ff003ce8dc2cdc043ea1548296a9621c6da700e62566c",
+        "chapter_option_count": 4,
+        "selected_chapter": [
+          "Colossians 1"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 2,
+        "page_id": 3080,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/colossians/chapter-2/",
+        "verse_count": 23,
+        "rendered_text_sha256": "d9ce1b02bc93f3d5718ff9eab25d259194502440b6a58247b01df97cbb5e2278",
+        "currentNotes": 1,
+        "navigation_sha256": "1d2f1f598463623f335ff003ce8dc2cdc043ea1548296a9621c6da700e62566c",
+        "chapter_option_count": 4,
+        "selected_chapter": [
+          "Colossians 2"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 3,
+        "page_id": 3083,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/colossians/chapter-3/",
+        "verse_count": 25,
+        "rendered_text_sha256": "ba74b0da728b6b32bf06d6ac0f03ad3ecef03d66c7367d388678fd2eedf23910",
+        "currentNotes": 1,
+        "navigation_sha256": "1d2f1f598463623f335ff003ce8dc2cdc043ea1548296a9621c6da700e62566c",
+        "chapter_option_count": 4,
+        "selected_chapter": [
+          "Colossians 3"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 4,
+        "page_id": 3085,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/colossians/chapter-4/",
+        "verse_count": 18,
+        "rendered_text_sha256": "e68976353c0716eaea998128562e15c10485e4a60db66f7e0a98c16e1dd5b848",
+        "currentNotes": 1,
+        "navigation_sha256": "1d2f1f598463623f335ff003ce8dc2cdc043ea1548296a9621c6da700e62566c",
+        "chapter_option_count": 4,
+        "selected_chapter": [
+          "Colossians 4"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      }
+    ],
+    "index": {
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/colossians/",
+      "currentNotes": 1,
+      "text": "All 4 chapters, comprising 95 existing verse units, have received the Bespoke English editorial pass: 32 revised and 63 retained.",
+      "reading_links": [
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/colossians/chapter-1/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/colossians/chapter-2/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/colossians/chapter-3/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/colossians/chapter-4/"
+      ],
+      "scope": "Observed contiguous ordered chapter-link group and current editorial status excerpt.",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "SHA-256 of the ordered JSON array of [verse ID, displayed text] pairs, encoded as UTF-8. The visible verse-number span and sup footnote callouts are excluded; only whitespace and WordPress curly-apostrophe typography are normalized. All other text and order must match.",
+    "visual_capture": "Rendered DOM text and navigation checked for all 4 chapters and the index. Chapter 4 and the index were visually inspected in screenshots: the reader, study pane, chapter selector and Bespoke index status were legible. Whole-book screenshot inspection is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 3089,
+      "title": "Colossians — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/colossians/editorial-guide/",
+      "before_content_hash": "fb9bf8b44bf09d37dd416c512d00b7791dfa29cf",
+      "after_content_hash": "fb9bf8b44bf09d37dd416c512d00b7791dfa29cf",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3873,
+      "title": "Colossians — Saints Translation and KJV",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/colossians/comparison-edition/",
+      "before_content_hash": "ae94c5afbcd2f6237991d51e74224b03c9b4665e",
+      "after_content_hash": "ae94c5afbcd2f6237991d51e74224b03c9b4665e",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20766,
+      "title": "Colossians — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/colossians/vulgate-comparison/",
+      "before_content_hash": "14ff4a90fb2d6c648bb79ec0d9270d6a0a1b7947",
+      "after_content_hash": "14ff4a90fb2d6c648bb79ec0d9270d6a0a1b7947",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 95,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 5 edited pages and all 3 reference pages, plus 3 reference hash snapshots. This is a book archive, not a full-site backup."
+}
