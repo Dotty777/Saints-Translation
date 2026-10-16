@@ -1,0 +1,136 @@
+1 TIMOTHY — BESPOKE SAINTS ENGLISH TRANSLATION
+15 October 2026
+NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.
+Plain text Scripture only. Separated editorial notes and unresolved readings are in editorial-notes.json, source-checks.json and the HTML reader.
+
+
+1 TIMOTHY 1
+
+1:1 Paul, an apostle of Christ Jesus according to the command of God our Savior and Christ Jesus our hope,
+1:2 to Timothy, a true child in faith: grace, mercy, peace from God the Father and Christ Jesus our Lord.
+1:3 Just as I urged you to remain in Ephesus when I was going to Macedonia, so that you might command certain people not to teach differently,
+1:4 nor to pay attention to myths and endless genealogies, which produce speculations rather than God’s stewardship in faith—
+1:5 But the goal of the charge is love from a pure heart and a good conscience and sincere faith.
+1:6 Some, having missed these things, turned aside to empty talk,
+1:7 wanting to be teachers of law, understanding neither what they say nor the things about which they speak confidently.
+1:8 Now we know that the law is good if someone uses it lawfully,
+1:9 knowing this, that law is not laid down for a righteous person but for the lawless and insubordinate, the ungodly and sinners, the unholy and profane, those who strike fathers and those who strike mothers, murderers,
+1:10 sexually immoral people, men who bed males, enslavers, liars, perjurers, and whatever else opposes sound teaching,
+1:11 according to the gospel of the glory of the blessed God, with which I was entrusted.
+1:12 I am thankful to Christ Jesus our Lord, who empowered me, because He considered me faithful, appointing me to service,
+1:13 though formerly I was a blasphemer and persecutor and violent abuser. But I was shown mercy because I acted in ignorance in unbelief,
+1:14 and the grace of our Lord overflowed exceedingly, with faith and love in Christ Jesus.
+1:15 The saying is trustworthy and deserves full acceptance: Christ Jesus came into the world to save sinners, of whom I am foremost.
+1:16 But for this reason I was shown mercy, so that in me, the foremost, Christ Jesus might display all His patience as a pattern for those who would believe in Him for eternal life.
+1:17 Now to the King of the ages, incorruptible, invisible, the only God, be honor and glory for the ages of ages. Amen.
+1:18 This command I entrust to you, Timothy, my child, according to the prophecies previously spoken concerning you, so that by them you may wage the good campaign,
+1:19 holding faith and a good conscience, which some have thrust aside and suffered shipwreck concerning the faith.
+1:20 Among these are Hymenaeus and Alexander, whom I handed over to Satan so that they might be disciplined not to blaspheme.
+
+1 TIMOTHY 2
+
+2:1 Therefore I urge first of all that petitions, prayers, intercessions and thanksgivings be made for all people,
+2:2 for kings and all who are in high positions, so that we may lead a tranquil and quiet life in all godliness and dignity.
+2:3 This is good and acceptable before God our Savior,
+2:4 who wills all people to be saved and to come to the knowledge of truth.
+2:5 For there is one God, and one mediator between God and human beings, the human being Christ Jesus,
+2:6 who gave Himself as a ransom in exchange for all, the testimony at the proper times.
+2:7 For this I was appointed a herald and an apostle—I speak truth, I do not lie—a teacher of nations in faith and truth.
+2:8 Therefore I want the men to pray in every place, lifting holy hands without anger and disputing.
+2:9 Likewise also women are to adorn themselves in orderly dress, with modesty and self-restraint, not with braids and gold or pearls or costly clothing,
+2:10 but through good works, as is fitting for women who profess reverence for God.
+2:11 Let a woman learn in quietness, in all submission.
+2:12 But I do not permit a woman to teach or to exercise authority over a man, but to be in quietness.
+2:13 For Adam was formed first, then Eve,
+2:14 and Adam was not deceived, but the woman, being deceived, came to be in transgression.
+2:15 But she will be saved through childbearing, if they continue in faith and love and sanctification with self-restraint.
+
+1 TIMOTHY 3
+
+3:1 The saying is trustworthy. If anyone aspires to oversight, he desires a good work.
+3:2 Therefore the overseer must be above reproach, a husband of one wife, sober, self-controlled, orderly, hospitable, able to teach,
+3:3 not given to wine, not a striker, but gentle, peaceable, not a lover of money,
+3:4 leading his own household well, having children in submission with all dignity.
+3:5 But if someone does not know how to lead his own household, how will he care for the Church of God?
+3:6 He must not be newly planted, lest, becoming conceited, he fall into the judgment of the devil.
+3:7 And he must also have a good testimony from those outside, lest he fall into reproach and the snare of the devil.
+3:8 Deacons likewise must be dignified, not double-tongued, not given to much wine, not seeking shameful gain,
+3:9 holding the mystery of the faith in a pure conscience.
+3:10 And let these also be tested first; then let them serve as deacons if they are beyond accusation.
+3:11 Women likewise must be dignified, not slanderers, sober, faithful in all things.
+3:12 Let deacons be husbands of one wife, leading their children and their own households well.
+3:13 For those who have served well as deacons acquire for themselves a good standing and great boldness in faith in Christ Jesus.
+3:14 I write these things to you, hoping to come to you soon,
+3:15 but if I delay, so that you may know how one ought to conduct oneself in the household of God, which is the Church of the living God, a pillar and foundation of the truth.
+3:16 And, by common confession, the mystery of godliness is great: He who was revealed in flesh, was vindicated in spirit, was seen by angels, was proclaimed among nations, was believed in the world, was taken up in glory.
+
+1 TIMOTHY 4
+
+4:1 But the Spirit says clearly that in later times some will depart from the faith, paying attention to deceiving spirits and teachings of demons,
+4:2 through the hypocrisy of liars, seared in their own conscience,
+4:3 who forbid marriage and require abstinence from foods which God created to be received with thanksgiving by those who believe and know the truth.
+4:4 For everything created by God is good, and nothing is to be rejected when received with thanksgiving,
+4:5 for it is sanctified through the word of God and intercession.
+4:6 By laying these things before the brothers, you will be a good servant of Christ Jesus, nourished in the words of the faith and of the good teaching which you have followed.
+4:7 But reject profane and old women’s myths, and train yourself for godliness.
+4:8 For bodily training is of some benefit, but godliness is beneficial for all things, having a promise of life both now and to come.
+4:9 The saying is trustworthy and deserves full acceptance.
+4:10 For to this end we labor and struggle, because we have set our hope on the living God, who is Savior of all people, especially of believers.
+4:11 Command and teach these things.
+4:12 Let no one despise your youth, but become a pattern for believers in word, in conduct, in love, in faith, in purity.
+4:13 Until I come, devote yourself to the reading, the exhortation and the teaching.
+4:14 Do not neglect the gift in you, which was given to you through prophecy with the laying on of the hands of the council of elders.
+4:15 Practice these things; be absorbed in them, so that your progress may be clear to all.
+4:16 Pay attention to yourself and to the teaching; continue in them, for by doing this you will save both yourself and those who hear you.
+
+1 TIMOTHY 5
+
+5:1 Do not rebuke an older man harshly, but appeal to him as a father, younger men as brothers,
+5:2 older women as mothers, younger women as sisters, in all purity.
+5:3 Honor widows who are truly widows.
+5:4 But if any widow has children or grandchildren, let them first learn to practice godliness toward their own household and to repay their forebears, for this is acceptable before God.
+5:5 Now the woman who is truly a widow and left alone has set her hope on God and continues in petitions and prayers night and day.
+5:6 But the woman who lives in indulgence is dead while living.
+5:7 And command these things, so that they may be above reproach.
+5:8 But if someone does not provide for his own, and especially his household, he has denied the faith and is worse than an unbeliever.
+5:9 Let a widow be enrolled who is not less than sixty years old, a wife of one husband,
+5:10 attested for good works: if she brought up children, if she received strangers, if she washed saints’ feet, if she assisted the afflicted, if she followed every good work.
+5:11 But refuse younger widows, for when their desires turn them against Christ, they want to marry,
+5:12 incurring judgment because they set aside their first faith.
+5:13 And at the same time they learn to be idle, going around the houses, and not only idle but also gossips and busybodies, saying things they ought not to say.
+5:14 Therefore I want younger women to marry, bear children, manage a household, and give the opponent no opportunity for abuse.
+5:15 For some have already turned aside after Satan.
+5:16 If any believing woman has widows, let her assist them, and let the Church not be burdened, so that it may assist those who are truly widows.
+5:17 Let the elders who lead well be considered worthy of double honor, especially those who labor in word and teaching.
+5:18 For Scripture says, “You shall not muzzle an ox that threshes,” and, “The worker is worthy of his wage.”
+5:19 Do not receive an accusation against an elder except on the testimony of two or three witnesses.
+5:20 Reprove those who sin before all, so that the rest also may have fear.
+5:21 I charge you before God and Christ Jesus and the chosen angels that you keep these things without prejudgment, doing nothing from partiality.
+5:22 Do not lay hands on anyone hastily, nor share in the sins of others. Keep yourself pure.
+5:23 No longer drink only water, but use a little wine because of your stomach and your frequent illnesses.
+5:24 The sins of some people are evident beforehand, going ahead to judgment, but those of others follow after.
+5:25 Likewise good works also are evident, and those that are otherwise cannot remain hidden.
+
+1 TIMOTHY 6
+
+6:1 Let all who are slaves under a yoke consider their own masters worthy of all honor, so that the name of God and the teaching may not be blasphemed.
+6:2 And those who have believing masters must not despise them because they are brothers, but rather serve them more, because those receiving the benefit are believers and beloved. Teach and urge these things.
+6:3 If anyone teaches differently and does not adhere to sound words, those of our Lord Jesus Christ, and the teaching according to godliness,
+6:4 he has become conceited, knowing nothing, but is sick with disputes and battles over words, from which come envy, strife, slanders, evil suspicions,
+6:5 constant friction among people corrupted in mind and deprived of the truth, supposing godliness to be a means of gain.
+6:6 But godliness with contentment is great gain.
+6:7 For we brought nothing into the world, because neither can we carry anything out.
+6:8 But having food and coverings, with these we will be content.
+6:9 But those who want to become rich fall into temptation and a snare and many foolish and harmful desires, which plunge people into ruin and destruction.
+6:10 For the love of money is a root of all evils, and some, reaching for it, wandered from the faith and pierced themselves with many pains.
+6:11 But you, O man of God, flee these things. Pursue righteousness, godliness, faith, love, endurance, gentleness.
+6:12 Fight the good fight of the faith; take hold of eternal life, to which you were called. And you confessed the good confession before many witnesses.
+6:13 I command you before God, who preserves all things alive, and Christ Jesus, who testified the good confession before Pontius Pilate,
+6:14 that you keep the commandment spotless, above reproach, until the appearing of our Lord Jesus Christ,
+6:15 which the blessed and only Sovereign will display at the proper times, the King of those who reign and Lord of those who rule,
+6:16 who alone has immortality, dwelling in unapproachable light, whom no human being has seen or can see; to Him be honor and eternal might. Amen.
+6:17 Command those who are rich in the present age not to be arrogant nor to set their hope on the uncertainty of wealth, but on God, who richly provides us all things for enjoyment,
+6:18 to do good, to be rich in good works, to be generous, ready to share,
+6:19 storing up for themselves a good foundation for the future, so that they may take hold of the life that is truly life.
+6:20 O Timothy, guard what has been entrusted, turning away from profane empty talk and the opposing claims of falsely named knowledge.
+6:21 Some, professing it, have missed the mark concerning the faith. Grace be with you.

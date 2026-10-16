@@ -1,0 +1,326 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 113 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 6,
+    "reading_sections": 6,
+    "changed_verse_units": 36,
+    "source_scope": "NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "d6868a3adbc8cfa4dc9c64b54bd098b6db14409109f88914f18e7d8d8ead76e5"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 20,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 15,
+      "changed": 2,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 16,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 16,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 5,
+      "chapter": 5,
+      "verse_units": 25,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 6,
+      "chapter": 6,
+      "verse_units": 21,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 3137,
+      "chapter": 1,
+      "modified": "2026-10-15T20:15:33",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "5e6cc3b1238a89a1b3e1f75a8e658b4a71a38e6e00b64221b98f85cd6aead1a3"
+    },
+    {
+      "id": 3131,
+      "chapter": 2,
+      "modified": "2026-10-15T20:15:48",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "a3f872c1b17f42be268569a5e689971ad96bc9980051404aadb61193387adc1f"
+    },
+    {
+      "id": 3133,
+      "chapter": 3,
+      "modified": "2026-10-15T20:16:03",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "d2decb64b9bc0272634c5084f174a4230587bfa5978a9b662a8d9275b74c57ac"
+    },
+    {
+      "id": 3130,
+      "chapter": 4,
+      "modified": "2026-10-15T20:16:37",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "49cbca41948ecd08bcbbaf535904f3233633b22d26e04f06c84aa87a8371d28a"
+    },
+    {
+      "id": 3135,
+      "chapter": 5,
+      "modified": "2026-10-15T20:16:52",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "422afc25f1abe5b117b62194bd2be40a6f30c1c237cfd4162e56c3c1f43e2f20"
+    },
+    {
+      "id": 3132,
+      "chapter": 6,
+      "modified": "2026-10-15T20:17:08",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "c892fad7a06eab484e73023489bb855c934452241f9516fec52be47389f84584"
+    },
+    {
+      "id": 3129,
+      "chapter": null,
+      "modified": "2026-10-15T20:17:25",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "b12f1b4eb67e6c1b749a893948a31c4c95df0170497b82cb34b8cc9ca9cb2357"
+    }
+  ],
+  "browser_checks": {
+    "format": "sha256-dom-v1",
+    "date": "2026-10-15",
+    "chapter_navigation": [
+      {
+        "text": "1 Timothy 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/chapter-1/"
+      },
+      {
+        "text": "1 Timothy 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/chapter-2/"
+      },
+      {
+        "text": "1 Timothy 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/chapter-3/"
+      },
+      {
+        "text": "1 Timothy 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/chapter-4/"
+      },
+      {
+        "text": "1 Timothy 5",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/chapter-5/"
+      },
+      {
+        "text": "1 Timothy 6",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/chapter-6/"
+      }
+    ],
+    "chapters": [
+      {
+        "chapter": 1,
+        "page_id": 3137,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/chapter-1/",
+        "verse_count": 20,
+        "rendered_text_sha256": "72fe6f6dc2ea791b580b146cf5a66b1b3a2c8cee94e27b4fe9929a7ea8452f57",
+        "currentNotes": 1,
+        "navigation_sha256": "4de295034744dcaae605fcf67f5165b8092ce022a1851f6ee580d800878997ad",
+        "chapter_option_count": 6,
+        "selected_chapter": [
+          "1 Timothy 1"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 2,
+        "page_id": 3131,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/chapter-2/",
+        "verse_count": 15,
+        "rendered_text_sha256": "fd75bf2ab240a21faa81f8a851038cad486fa6209cc7d26fc29857e34bbefb4e",
+        "currentNotes": 1,
+        "navigation_sha256": "4de295034744dcaae605fcf67f5165b8092ce022a1851f6ee580d800878997ad",
+        "chapter_option_count": 6,
+        "selected_chapter": [
+          "1 Timothy 2"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 3,
+        "page_id": 3133,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/chapter-3/",
+        "verse_count": 16,
+        "rendered_text_sha256": "4297e91e65f181d7689befd14fd240bb2cdcb91dae1bb6b38595f75bb01fbfa8",
+        "currentNotes": 1,
+        "navigation_sha256": "4de295034744dcaae605fcf67f5165b8092ce022a1851f6ee580d800878997ad",
+        "chapter_option_count": 6,
+        "selected_chapter": [
+          "1 Timothy 3"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 4,
+        "page_id": 3130,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/chapter-4/",
+        "verse_count": 16,
+        "rendered_text_sha256": "84b9c48e5cc7727ebe1d0df267ab28e14c0c88aec4ac0b507a5efdfb8538f953",
+        "currentNotes": 1,
+        "navigation_sha256": "4de295034744dcaae605fcf67f5165b8092ce022a1851f6ee580d800878997ad",
+        "chapter_option_count": 6,
+        "selected_chapter": [
+          "1 Timothy 4"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 5,
+        "page_id": 3135,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/chapter-5/",
+        "verse_count": 25,
+        "rendered_text_sha256": "42ced5a97a824ed5f6c4891f102c6e46942b6dc6bd39308e615a190eb572368f",
+        "currentNotes": 1,
+        "navigation_sha256": "4de295034744dcaae605fcf67f5165b8092ce022a1851f6ee580d800878997ad",
+        "chapter_option_count": 6,
+        "selected_chapter": [
+          "1 Timothy 5"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 6,
+        "page_id": 3132,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/chapter-6/",
+        "verse_count": 21,
+        "rendered_text_sha256": "d7551c15ef637309534e11a6d0b728ee5e66d7966fe581711ac0305dcf99fef3",
+        "currentNotes": 1,
+        "navigation_sha256": "4de295034744dcaae605fcf67f5165b8092ce022a1851f6ee580d800878997ad",
+        "chapter_option_count": 6,
+        "selected_chapter": [
+          "1 Timothy 6"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      }
+    ],
+    "index": {
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/",
+      "currentNotes": 1,
+      "text": "All 6 chapters, comprising 113 existing verse units, have received the Bespoke English editorial pass: 36 revised and 77 retained.",
+      "reading_links": [
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/chapter-1/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/chapter-2/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/chapter-3/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/chapter-4/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/chapter-5/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/chapter-6/"
+      ],
+      "scope": "Observed contiguous ordered chapter-link group and current editorial status excerpt.",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "SHA-256 of the ordered JSON array of [verse ID, displayed text] pairs, encoded as UTF-8. The visible verse-number span and sup footnote callouts are excluded; only whitespace and WordPress curly-apostrophe typography are normalized. All other text and order must match.",
+    "visual_capture": "Rendered DOM text and navigation checked for all 6 chapters and the index. Chapter 6 and the index were visually inspected in screenshots: the reader, study pane, chapter selector and Bespoke index status were legible. Whole-book screenshot inspection is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 3139,
+      "title": "1 Timothy — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/editorial-guide/",
+      "before_content_hash": "42e7955aeebff8f57ca9b8a8c7c73512b63f868b",
+      "after_content_hash": "42e7955aeebff8f57ca9b8a8c7c73512b63f868b",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3773,
+      "title": "1 Timothy — Saints Translation and KJV",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/comparison-edition/",
+      "before_content_hash": "957015789ed3b7de32782605bcca773ce257b9e6",
+      "after_content_hash": "957015789ed3b7de32782605bcca773ce257b9e6",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20769,
+      "title": "1 Timothy — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/1-timothy/vulgate-comparison/",
+      "before_content_hash": "ac81137ffc67aee8a77ca924d7103466bd75114c",
+      "after_content_hash": "ac81137ffc67aee8a77ca924d7103466bd75114c",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 113,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 7 edited pages and all 3 reference pages, plus 3 reference hash snapshots. This is a book archive, not a full-site backup."
+}
