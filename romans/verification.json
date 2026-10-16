@@ -1,0 +1,730 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 433 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 16,
+    "reading_sections": 16,
+    "changed_verse_units": 146,
+    "source_scope": "NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "7ef40b7758afe5b0cd89f04d5393025c92fad76b56960de738eda319934cafa3"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 32,
+      "changed": 10,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 2,
+      "chapter": 2,
+      "verse_units": 29,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 3,
+      "chapter": 3,
+      "verse_units": 31,
+      "changed": 5,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 4,
+      "chapter": 4,
+      "verse_units": 25,
+      "changed": 11,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 5,
+      "chapter": 5,
+      "verse_units": 21,
+      "changed": 4,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 6,
+      "chapter": 6,
+      "verse_units": 23,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 7,
+      "chapter": 7,
+      "verse_units": 25,
+      "changed": 17,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 8,
+      "chapter": 8,
+      "verse_units": 39,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 9,
+      "chapter": 9,
+      "verse_units": 33,
+      "changed": 11,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 10,
+      "chapter": 10,
+      "verse_units": 21,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 11,
+      "chapter": 11,
+      "verse_units": 36,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 12,
+      "chapter": 12,
+      "verse_units": 21,
+      "changed": 8,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 13,
+      "chapter": 13,
+      "verse_units": 14,
+      "changed": 9,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 14,
+      "chapter": 14,
+      "verse_units": 23,
+      "changed": 12,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 15,
+      "chapter": 15,
+      "verse_units": 33,
+      "changed": 10,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    },
+    {
+      "section": 16,
+      "chapter": 16,
+      "verse_units": 27,
+      "changed": 7,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 3086,
+      "chapter": 1,
+      "modified": "2026-10-15T18:38:45",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "a2bf13e9ca878ba0c2fc6fc83f86e7017bea17bf093459159763ada6be8da035"
+    },
+    {
+      "id": 3082,
+      "chapter": 2,
+      "modified": "2026-10-15T18:39:00",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "6d917f3261e759dfe7105a664bd8194e20082fb44929c0dd5eb719efcd91c53b"
+    },
+    {
+      "id": 3088,
+      "chapter": 3,
+      "modified": "2026-10-15T18:39:15",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "b4d9cd2036b3164e7f4b69957ea1f2b356e5de7f0b72082d3fe8eee40c6c13f0"
+    },
+    {
+      "id": 3091,
+      "chapter": 4,
+      "modified": "2026-10-15T18:39:34",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "6c90b252e9603308f18426bf935c5a42260b328a9970710a11127ac521b61836"
+    },
+    {
+      "id": 3095,
+      "chapter": 5,
+      "modified": "2026-10-15T18:39:55",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "3b121b072b428364883d3d11ee707bcadd5d1274d0722c3632c5fbb080fae457"
+    },
+    {
+      "id": 3093,
+      "chapter": 6,
+      "modified": "2026-10-15T18:40:10",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "54b992eaf6a3ffda1ab654be1dffc1f417cb230f56ee86d1bb9d56b4cc43918d"
+    },
+    {
+      "id": 3097,
+      "chapter": 7,
+      "modified": "2026-10-15T18:40:25",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "b1e11d368ae0f1d1b6ed97328ac28519344177628786cba47ef2042a8b9e539c"
+    },
+    {
+      "id": 3100,
+      "chapter": 8,
+      "modified": "2026-10-15T18:40:40",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "8cda7e4dc3b82f91a795eb259165c257c33550e1226ce55c2c901da7a41d66be"
+    },
+    {
+      "id": 3102,
+      "chapter": 9,
+      "modified": "2026-10-15T18:41:19",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "985073b47cc9a0642b4c1e94a59cfbad3ba3f85224abccc15dc97bd8869f8dcd"
+    },
+    {
+      "id": 3104,
+      "chapter": 10,
+      "modified": "2026-10-15T18:41:35",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "599f1f50cb05466717a52b6e729ff766f31c83995df87be92d7561a91fc886ad"
+    },
+    {
+      "id": 3105,
+      "chapter": 11,
+      "modified": "2026-10-15T18:41:48",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "28246c0314296d024cbaac13759ef4812196a66c38f64b93a929d5d29c457502"
+    },
+    {
+      "id": 3108,
+      "chapter": 12,
+      "modified": "2026-10-15T18:42:05",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "84b4c64dc6b337a05667480beaf64cf6a1c197e2a1b2429318ebf59e0478acc5"
+    },
+    {
+      "id": 3110,
+      "chapter": 13,
+      "modified": "2026-10-15T18:42:30",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "1d0a1d1b19ac204f4de8498a0e8bca102a7816f3c90c4f43e49d9954b31e22c4"
+    },
+    {
+      "id": 3111,
+      "chapter": 14,
+      "modified": "2026-10-15T18:42:45",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "e32c88fd485ea58c16e7235fd86424e3b35a78122554f083b2aa0f2e328cdcc4"
+    },
+    {
+      "id": 3113,
+      "chapter": 15,
+      "modified": "2026-10-15T18:42:59",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "7d852cc6195d8756cb960618089c53e871928fcf15475066ba0386f97ec4dc13"
+    },
+    {
+      "id": 3114,
+      "chapter": 16,
+      "modified": "2026-10-15T18:43:15",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "c5ba52c44c18f666e0f92670b67c47395abe877e09199e367417084a3dbbb440"
+    },
+    {
+      "id": 3075,
+      "chapter": null,
+      "modified": "2026-10-15T18:43:31",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "a9505a6bd033c82936413296b9f4c5ff450b312d13e6772bb28f790b5e4d3456"
+    }
+  ],
+  "browser_checks": {
+    "format": "sha256-dom-v1",
+    "date": "2026-10-15",
+    "chapter_navigation": [
+      {
+        "text": "Romans 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-1/"
+      },
+      {
+        "text": "Romans 2",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-2/"
+      },
+      {
+        "text": "Romans 3",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-3/"
+      },
+      {
+        "text": "Romans 4",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-4/"
+      },
+      {
+        "text": "Romans 5",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-5/"
+      },
+      {
+        "text": "Romans 6",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-6/"
+      },
+      {
+        "text": "Romans 7",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-7/"
+      },
+      {
+        "text": "Romans 8",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-8/"
+      },
+      {
+        "text": "Romans 9",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-9/"
+      },
+      {
+        "text": "Romans 10",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-10/"
+      },
+      {
+        "text": "Romans 11",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-11/"
+      },
+      {
+        "text": "Romans 12",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-12/"
+      },
+      {
+        "text": "Romans 13",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-13/"
+      },
+      {
+        "text": "Romans 14",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-14/"
+      },
+      {
+        "text": "Romans 15",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-15/"
+      },
+      {
+        "text": "Romans 16",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-16/"
+      }
+    ],
+    "chapters": [
+      {
+        "chapter": 1,
+        "page_id": 3086,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-1/",
+        "verse_count": 32,
+        "rendered_text_sha256": "afb291435f785a758d175d4cd469d5de3763a93c38fbedeab7507430aeb21a59",
+        "currentNotes": 1,
+        "navigation_sha256": "215c3d73192848c0920664c13621a2b4cb61726a8febc755376b22dbd9975db0",
+        "chapter_option_count": 16,
+        "selected_chapter": [
+          "Romans 1"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 2,
+        "page_id": 3082,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-2/",
+        "verse_count": 29,
+        "rendered_text_sha256": "18ba67fe79f1dc68f6d9390ae60fe66b9a9339e31c2a64ca7d21ec9d8e81c749",
+        "currentNotes": 1,
+        "navigation_sha256": "215c3d73192848c0920664c13621a2b4cb61726a8febc755376b22dbd9975db0",
+        "chapter_option_count": 16,
+        "selected_chapter": [
+          "Romans 2"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 3,
+        "page_id": 3088,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-3/",
+        "verse_count": 31,
+        "rendered_text_sha256": "8c33bd057a2bc43ecd37b92f84d8765d1c2ef3577515b898575dcbc12fdfaa8c",
+        "currentNotes": 1,
+        "navigation_sha256": "215c3d73192848c0920664c13621a2b4cb61726a8febc755376b22dbd9975db0",
+        "chapter_option_count": 16,
+        "selected_chapter": [
+          "Romans 3"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 4,
+        "page_id": 3091,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-4/",
+        "verse_count": 25,
+        "rendered_text_sha256": "4303b63d27d583a0f1546e33dff813bb256bf0c2a35ff918c605d22e9f83f35b",
+        "currentNotes": 1,
+        "navigation_sha256": "215c3d73192848c0920664c13621a2b4cb61726a8febc755376b22dbd9975db0",
+        "chapter_option_count": 16,
+        "selected_chapter": [
+          "Romans 4"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 5,
+        "page_id": 3095,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-5/",
+        "verse_count": 21,
+        "rendered_text_sha256": "3229a1195ea3a8f65357547da1932705b925b515d94032ad436c59a2add3cd09",
+        "currentNotes": 1,
+        "navigation_sha256": "215c3d73192848c0920664c13621a2b4cb61726a8febc755376b22dbd9975db0",
+        "chapter_option_count": 16,
+        "selected_chapter": [
+          "Romans 5"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 6,
+        "page_id": 3093,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-6/",
+        "verse_count": 23,
+        "rendered_text_sha256": "2fdba7cdb5e02877c0787c1f09b63aeb887c9a9d5540a1f0450f56c38befb56a",
+        "currentNotes": 1,
+        "navigation_sha256": "215c3d73192848c0920664c13621a2b4cb61726a8febc755376b22dbd9975db0",
+        "chapter_option_count": 16,
+        "selected_chapter": [
+          "Romans 6"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 7,
+        "page_id": 3097,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-7/",
+        "verse_count": 25,
+        "rendered_text_sha256": "3b141798f841c41f06e104d884423c37cd3235786d7500d06b205a379c76505b",
+        "currentNotes": 1,
+        "navigation_sha256": "215c3d73192848c0920664c13621a2b4cb61726a8febc755376b22dbd9975db0",
+        "chapter_option_count": 16,
+        "selected_chapter": [
+          "Romans 7"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 8,
+        "page_id": 3100,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-8/",
+        "verse_count": 39,
+        "rendered_text_sha256": "592e88a56f6a409bbfdf6e2fcf881e637bb0d0dca53d1fe6d54325c3c301cf6e",
+        "currentNotes": 1,
+        "navigation_sha256": "215c3d73192848c0920664c13621a2b4cb61726a8febc755376b22dbd9975db0",
+        "chapter_option_count": 16,
+        "selected_chapter": [
+          "Romans 8"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 9,
+        "page_id": 3102,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-9/",
+        "verse_count": 33,
+        "rendered_text_sha256": "13d425e1249e4165543c0779cbbab6c5cefa2e27a4e204502a94e434ed3ed524",
+        "currentNotes": 1,
+        "navigation_sha256": "215c3d73192848c0920664c13621a2b4cb61726a8febc755376b22dbd9975db0",
+        "chapter_option_count": 16,
+        "selected_chapter": [
+          "Romans 9"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 10,
+        "page_id": 3104,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-10/",
+        "verse_count": 21,
+        "rendered_text_sha256": "2848cba63ef5883f07fa9af6641a1d81957f1d77df806f93e85567b337b48ed8",
+        "currentNotes": 1,
+        "navigation_sha256": "215c3d73192848c0920664c13621a2b4cb61726a8febc755376b22dbd9975db0",
+        "chapter_option_count": 16,
+        "selected_chapter": [
+          "Romans 10"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 11,
+        "page_id": 3105,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-11/",
+        "verse_count": 36,
+        "rendered_text_sha256": "59bf363f84e5726c603fd01c2b34087c5de11d93d1d3ca652bec145bd9e118db",
+        "currentNotes": 1,
+        "navigation_sha256": "215c3d73192848c0920664c13621a2b4cb61726a8febc755376b22dbd9975db0",
+        "chapter_option_count": 16,
+        "selected_chapter": [
+          "Romans 11"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 12,
+        "page_id": 3108,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-12/",
+        "verse_count": 21,
+        "rendered_text_sha256": "34bd5aaa2c2af426732ed25f1069160dd0d54d3c050a3d7865b6df9d298e7211",
+        "currentNotes": 1,
+        "navigation_sha256": "215c3d73192848c0920664c13621a2b4cb61726a8febc755376b22dbd9975db0",
+        "chapter_option_count": 16,
+        "selected_chapter": [
+          "Romans 12"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 13,
+        "page_id": 3110,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-13/",
+        "verse_count": 14,
+        "rendered_text_sha256": "8d88710b76fd7ef08e1bef7ca2c53aeca3c54d83cddd8fe7a889d0134e22ae78",
+        "currentNotes": 1,
+        "navigation_sha256": "215c3d73192848c0920664c13621a2b4cb61726a8febc755376b22dbd9975db0",
+        "chapter_option_count": 16,
+        "selected_chapter": [
+          "Romans 13"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 14,
+        "page_id": 3111,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-14/",
+        "verse_count": 23,
+        "rendered_text_sha256": "939d3c53cf46e4cc3a865236fb070add21059eb5541f30303a23fe8ff8ef349d",
+        "currentNotes": 1,
+        "navigation_sha256": "215c3d73192848c0920664c13621a2b4cb61726a8febc755376b22dbd9975db0",
+        "chapter_option_count": 16,
+        "selected_chapter": [
+          "Romans 14"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 15,
+        "page_id": 3113,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-15/",
+        "verse_count": 33,
+        "rendered_text_sha256": "0dc9f8fe874c07c2aab4fcc85b689cb80f0547f7d4954b2547d3f2855f34a269",
+        "currentNotes": 1,
+        "navigation_sha256": "215c3d73192848c0920664c13621a2b4cb61726a8febc755376b22dbd9975db0",
+        "chapter_option_count": 16,
+        "selected_chapter": [
+          "Romans 15"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      },
+      {
+        "chapter": 16,
+        "page_id": 3114,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-16/",
+        "verse_count": 27,
+        "rendered_text_sha256": "f0b56c748ecace8aff1a2bc2837739eda2f64f8db9106867e63a202f5f82ab94",
+        "currentNotes": 1,
+        "navigation_sha256": "215c3d73192848c0920664c13621a2b4cb61726a8febc755376b22dbd9975db0",
+        "chapter_option_count": 16,
+        "selected_chapter": [
+          "Romans 16"
+        ],
+        "editorial_reading_notes": [
+          "Supplemental doxology · Romans 16:25–27"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      }
+    ],
+    "index": {
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/",
+      "currentNotes": 1,
+      "reading_links": [
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-1/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-2/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-3/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-4/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-5/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-6/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-7/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-8/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-9/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-10/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-11/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-12/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-13/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-14/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-15/",
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/chapter-16/"
+      ],
+      "reading_links_scope": "The complete contiguous chapter 1–16 group observed after the introduction's links, in DOM order",
+      "text": "All 16 chapters, comprising 433 existing verse units, have received the Bespoke English editorial pass: 146 revised and 287 retained. Source-specific numbering, names, repetitions and verse anchors are preserved. The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+      "text_scope": "First paragraph of the current Bespoke editorial guide",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "SHA-256 of the ordered JSON array of [verse ID, displayed text] pairs, encoded as UTF-8. The visible verse-number span and sup footnote callouts are excluded; only whitespace and WordPress curly-apostrophe typography are normalized. All other text and order must match.",
+    "visual_capture": "Rendered DOM text and navigation checked for all 16 chapters and the index. Romans 8 and the index were visually inspected in screenshots: the reader, study pane, chapter selector and updated Bespoke index status were legible. Whole-book screenshot inspection is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 3115,
+      "title": "Romans — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/editorial-guide/",
+      "before_content_hash": "74147ecde2b4f4d0bf91a62fa22527c7fffa63be",
+      "after_content_hash": "74147ecde2b4f4d0bf91a62fa22527c7fffa63be",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3789,
+      "title": "Romans — Saints Translation and KJV",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/comparison-edition/",
+      "before_content_hash": "4f800c22f757a0c024ddd6e25e5d18357d4c212a",
+      "after_content_hash": "4f800c22f757a0c024ddd6e25e5d18357d4c212a",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20760,
+      "title": "Romans — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/romans/vulgate-comparison/",
+      "before_content_hash": "377fbca18b4cd411a7847e08e05e1f70a7ee3d27",
+      "after_content_hash": "377fbca18b4cd411a7847e08e05e1f70a7ee3d27",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 433,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 17 edited pages and all 3 reference pages, plus 3 reference hash snapshots. This is a book archive, not a full-site backup."
+}
