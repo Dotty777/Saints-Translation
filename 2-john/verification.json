@@ -1,0 +1,126 @@
+{
+  "editorial_review": {
+    "date": "2026-10-15",
+    "status": "All 13 existing English verse units individually read and editorially reviewed; prepared as a provisional staging revision.",
+    "chapters": 1,
+    "reading_sections": 1,
+    "changed_verse_units": 6,
+    "source_scope": "NA28 is the user-authorized provisional New Testament base. Focused checks of the German Bible Society’s Greek running text are recorded by chapter. This is an English editorial revision, not complete critical-text or apparatus verification. The newer Bespoke PDF’s preferred UBS6 text has not been obtained; UBS6/ECM comparison, full apparatus, independent Greek and human read-aloud reviews remain pending.",
+    "human_read_aloud": "Pending; not claimed.",
+    "policy": "The newer Bespoke Saints English (1).pdf governs, with accepted Genesis 1–11 as the English benchmark. It supersedes the older Founding Style Guide where their pronoun rules conflict: Thou/Thee/Thy/Thine address God directly; ordinary address uses you/your.",
+    "approved_text_sha256": "9a56678d1e0d3be36db1044154c4949a9f1c448c7495bc66ac3f06257ec28c6f"
+  },
+  "preflight": [
+    {
+      "section": 1,
+      "chapter": 1,
+      "verse_units": 13,
+      "changed": 6,
+      "all_original_ids_and_links_preserved": true,
+      "all_original_notes_identical": true,
+      "verse_poetry_line_break_counts_preserved": true,
+      "scripts_styles_images_selectors_identical": true,
+      "subsequent_blocks_identical": true,
+      "every_verse_matches_reviewed_text": true
+    }
+  ],
+  "saved_page_readbacks": [
+    {
+      "id": 3175,
+      "chapter": 1,
+      "modified": "2026-10-15T21:25:58",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "eef0d0be5a5f1a67653a348db22c7b406c2b8420970a6b4aec47d8ba1029ff96"
+    },
+    {
+      "id": 3173,
+      "chapter": null,
+      "modified": "2026-10-15T21:26:14",
+      "exact_planned_content_match": true,
+      "metadata_preserved": true,
+      "saved_content_sha256": "5d53af75e265f0d4cf652b6ec7b800811ed9a4068e9e9ba6248b2aa113aa4845"
+    }
+  ],
+  "browser_checks": {
+    "format": "sha256-dom-v1",
+    "date": "2026-10-15",
+    "chapter_navigation": [
+      {
+        "text": "2 John 1",
+        "value": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-john/chapter-1/"
+      }
+    ],
+    "chapters": [
+      {
+        "chapter": 1,
+        "page_id": 3175,
+        "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-john/chapter-1/",
+        "verse_count": 13,
+        "rendered_text_sha256": "bd59283000a24bd3ddf5aebcef14deae8092fd08ce276a05f410fd680b867a85",
+        "currentNotes": 1,
+        "navigation_sha256": "9080140c09fa734c8c1a185dcb1686da1029c9d38fc496938ebe59d202362216",
+        "chapter_option_count": 1,
+        "selected_chapter": [
+          "2 John 1"
+        ],
+        "all_rendered_verse_texts_match": true,
+        "chapter_navigation_matches": true
+      }
+    ],
+    "index": {
+      "url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-john/",
+      "currentNotes": 1,
+      "text": "The chapter, comprising 13 existing verse units, has received the Bespoke English editorial pass: 6 revised and 7 retained.",
+      "reading_links": [
+        "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-john/chapter-1/"
+      ],
+      "scope": "Observed contiguous ordered chapter-link group and current editorial status excerpt.",
+      "all_reading_links_present_in_order": true,
+      "bespoke_status_visible": true
+    },
+    "all_rendered_verse_texts_match": true,
+    "normalization": "SHA-256 of the ordered JSON array of [verse ID, displayed text] pairs, encoded as UTF-8. The visible verse-number span and sup footnote callouts are excluded; only whitespace and WordPress curly-apostrophe typography are normalized. All other text and order must match.",
+    "visual_capture": "Rendered DOM text and navigation checked for all 1 chapters and the index. Chapter 1 and the index were visually inspected in screenshots: the reader, study pane, chapter selector and Bespoke index status were legible. Whole-book screenshot inspection is not claimed."
+  },
+  "comparison_checks": [
+    {
+      "id": 3866,
+      "title": "2 John — Saints Translation and KJV",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-john/comparison-edition/",
+      "before_content_hash": "987fd5fc91b0e4ba25a97fba61e67b6a43551532",
+      "after_content_hash": "987fd5fc91b0e4ba25a97fba61e67b6a43551532",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 20778,
+      "title": "2 John — Clementine Vulgate and Saints Translation",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-john/vulgate-comparison/",
+      "before_content_hash": "aa2349775454a36f76a60f3e1db30cb30372303f",
+      "after_content_hash": "aa2349775454a36f76a60f3e1db30cb30372303f",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    },
+    {
+      "id": 3176,
+      "title": "2 John — Editorial Guide",
+      "link": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/bible/discipleship/2-john/editorial-guide/",
+      "before_content_hash": "33a0380ead4b0b42361006ccd8579564e8ac0f38",
+      "after_content_hash": "33a0380ead4b0b42361006ccd8579564e8ac0f38",
+      "content_unchanged": true,
+      "modified_unchanged": true,
+      "full_backup_available": true
+    }
+  ],
+  "combined_reader": {
+    "verse_count": 13,
+    "all_verse_texts_match": true,
+    "all_ids_unique": true,
+    "all_local_links_resolve": true,
+    "poetry_line_breaks_preserved": true
+  },
+  "backup_scope": "Complete original content for all 2 edited pages and all 3 reference pages, plus 3 reference hash snapshots. This is a book archive, not a full-site backup."
+}
