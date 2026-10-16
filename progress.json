@@ -3,9 +3,9 @@
   "scope": "Saints.Bible selected seventy-book working edition; 43 Old Testament and 27 New Testament books",
   "current_task": "Update all remaining books in the Genesis–Exodus Bespoke manner; report updates in the current chat",
   "completion_definition": "Book English editorial pass, staging save/readback and GitHub record. This does not mean independent specialist publication approval.",
-  "completed_book_records": 67,
-  "pending_book_revisions": 3,
-  "next_book": "3 John",
+  "completed_book_records": 68,
+  "pending_book_revisions": 2,
+  "next_book": "Jude",
   "full_bible_complete": false,
   "books": [
     {
@@ -722,8 +722,12 @@
       "order": 68,
       "book": "3 John",
       "staging_path": "/bible/discipleship/3-john/",
-      "status": "pending Bespoke revision",
-      "records": null
+      "status": "English pass and staging verification complete; specialist review pending",
+      "records": "3-john/",
+      "chapters": 1,
+      "reading_sections": 1,
+      "verse_units": 15,
+      "wording_changes": 6
     },
     {
       "order": 69,
@@ -763,10 +767,11 @@
       "1 Peter",
       "2 Peter",
       "1 John",
-      "2 John"
+      "2 John",
+      "3 John"
     ],
-    "pending_books": 2,
-    "next_book": "3 John",
+    "pending_books": 1,
+    "next_book": "Jude",
     "status": "English editorial and staging complete for listed books; specialist review pending"
   },
   "completed_divisions": [
@@ -893,9 +898,13 @@
       "2 John": {
         "staging_changes": 2,
         "status": "All 1 chapters and index saved and verified; 13 rendered verse units matched the reviewed draft; 6 wording changes."
+      },
+      "3 John": {
+        "staging_changes": 2,
+        "status": "All 1 chapters and index saved and verified; 15 rendered verse units matched the reviewed draft; 6 wording changes."
       }
     }
   },
-  "new_testament_completed_book_records": 24,
-  "new_testament_pending_book_revisions": 3
+  "new_testament_completed_book_records": 25,
+  "new_testament_pending_book_revisions": 2
 }
